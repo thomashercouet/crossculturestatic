@@ -1,8 +1,8 @@
 [
     {
-        "extrait_titre": "Comment Mayotte se relève-t-elle après la tempête?",
-        "extrait": "Les urgences sont multiples. Il s'agit d'abord de retrouver et secourir les survivants. Et pour cela, Mathieu, les prochaines heures seront cruciales.",
-        "start": 78.501,
+        "extrait_titre": "La réalité dévastatrice du cyclone Chido",
+        "extrait": "Le cyclone Shido a ravagé le département. Aucun bilan ne peut encore être établi. Il pourrait y avoir des centaines, voire des milliers de morts. Mayotte s'est retrouvée quasiment coupée du monde et de très nombreux habitants privés de logements, d'eau, d'électricité, d'informations. Bref, il manque de tout.",
+        "start": 58.669,
         "title": "À Mayotte, dévastée par le cyclone Chido, l'aide s'organise",
         "show": "Journal de 18h",
         "chapo": "Le cyclone Chido a balayé Mayotte, réduit à néant l'habitat précaire, fait tomber les arbres, rendu les routes impraticables et les communications quasi impossibles. Les premières évacuations sanitaires vers la Réunion ont commencé.\n",
@@ -11,9 +11,9 @@
         "mid": "2024C10069S0351"
     },
     {
-        "extrait_titre": "Mayotte au bord de l'oubli?",
-        "extrait": "Il faut savoir que la nourriture va manquer sous peu. Il faut imaginer des équipes de secours qui donnent les premiers soins dans de sommaires dispensaires.",
-        "start": 125.894,
+        "extrait_titre": "L'hôpital en surchauffe : l'appel à la solidarité",
+        "extrait": "Alors certes, l'électricité est de retour, l'eau potable également, mais l'établissement manque de matériel. Des envois massifs sont d'ailleurs en cours. Il manque de bras également, cet hôpital. Voilà pourquoi une vingtaine de médecins et d'infirmiers viennent d'arriver sur place.",
+        "start": 277.205,
         "title": "À Mayotte, dévastée par le cyclone Chido, l'aide s'organise",
         "show": "Journal de 18h",
         "chapo": "Le cyclone Chido a balayé Mayotte, réduit à néant l'habitat précaire, fait tomber les arbres, rendu les routes impraticables et les communications quasi impossibles. Les premières évacuations sanitaires vers la Réunion ont commencé.\n",
@@ -22,9 +22,20 @@
         "mid": "2024C10069S0351"
     },
     {
-        "extrait_titre": "Un hiver d'incertitudes pour les élèves",
-        "extrait": "Il faut concevoir cette réforme comme une liberté de choix. Alors c'est intéressant dans le débat que nous avons, parce que moi je défends l'idée que cette réforme porte une liberté de choix, et les personnes, Louise, qui sont autour de vous, ressentent et vivent, je l'entends parfaitement, une forme de, au contraire, de stress et de pression permanente.",
-        "start": 1410.257,
+        "extrait_titre": "Un appel à la générosité : reconstruire Mayotte",
+        "extrait": "Il n'y a rien de pire pour les populations que d'être très aidées, très soutenues pendant quelques semaines, quelques mois, et après de se sentir abandonnées. Donc c'est aussi la raison pour laquelle nous travaillons toujours avec les associations locales. Le moyen terme, c'est la reconstruction.",
+        "start": 357.512,
+        "title": "À Mayotte, dévastée par le cyclone Chido, l'aide s'organise",
+        "show": "Journal de 18h",
+        "chapo": "Le cyclone Chido a balayé Mayotte, réduit à néant l'habitat précaire, fait tomber les arbres, rendu les routes impraticables et les communications quasi impossibles. Les premières évacuations sanitaires vers la Réunion ont commencé.\n",
+        "mp3": "https://media.radiofrance-podcast.net/podcast09/10060-16.12.2024-ITEMA_23966500-2024C10069S0351-21.mp3",
+        "url": "https://www.radiofrance.fr/franceculture/podcasts/journal-de-18h/journal-de-18h-emission-du-lundi-16-decembre-2024-4098400",
+        "mid": "2024C10069S0351"
+    },
+    {
+        "extrait_titre": "Le prix de la pression scolaire : un taux alarmant !",
+        "extrait": "Selon l'Organisation mondiale de la santé, la proportion de filles de 15 ans se sentant sous pression est passée de 54 à 63 % entre novembre 2018 et novembre 2024 et de 40 à 43 % chez les garçons. Ce gap de genre nous interroge aussi.",
+        "start": 59.253,
         "title": "Pression scolaire : est-ce ainsi que les élèves vivent ?",
         "show": "Être et savoir",
         "chapo": "Le stress lié aux notes, à Parcoursup et aux emplois du temps chargés touche un nombre croissant d'adolescents : comment faire baisser la pression ?",
@@ -33,9 +44,9 @@
         "mid": "2024C14993S0351"
     },
     {
-        "extrait_titre": "La vie n'est pas une compétition, mais...",
-        "extrait": "L'idée d'avoir un projet personnel, ça peut être un langage qu'on réprouve, mais l'idée d'avoir un projet plus personnel qui ne soit pas purement scolaire auquel on se rattache, je pense évidemment que ça aide beaucoup de gens à tenir.",
-        "start": 776.876,
+        "extrait_titre": "Une révolte silencieuse mais puissante",
+        "extrait": "Une manifestation était organisée à Paris devant le lycée Victor Hugo et devant d'autres lycées après le suicide d'un de leurs camarades. Des élèves parisiens ont donné de la voix contre la pression scolaire.",
+        "start": 93.363,
         "title": "Pression scolaire : est-ce ainsi que les élèves vivent ?",
         "show": "Être et savoir",
         "chapo": "Le stress lié aux notes, à Parcoursup et aux emplois du temps chargés touche un nombre croissant d'adolescents : comment faire baisser la pression ?",
@@ -44,9 +55,9 @@
         "mid": "2024C14993S0351"
     },
     {
-        "extrait_titre": "Choisir, c'est renoncer : quel poids pour les lycéens ?",
-        "extrait": "On parle d’orientation professionnelle. Alors, évidemment, faire des choix en cinquième, il n'en est pas encore question, mais ça peut interroger. Jean-Charles Ringard, est-ce que l'éducation nationale aurait dû davantage anticiper, finalement, ce stress lié au choix ? À l'anticipation elle-même de ce qui va se passer par la suite pour les élèves.",
-        "start": 3346.257,
+        "extrait_titre": "Stress au lycée : un avenir incertain ?",
+        "extrait": "Aujourd'hui, le lycée ne fonctionne plus qu'autour de la sélection. Les élèves se sentent comme dans une compétition pour obtenir de bonnes notes qui conditionnent leur avenir.",
+        "start": 530.356,
         "title": "Pression scolaire : est-ce ainsi que les élèves vivent ?",
         "show": "Être et savoir",
         "chapo": "Le stress lié aux notes, à Parcoursup et aux emplois du temps chargés touche un nombre croissant d'adolescents : comment faire baisser la pression ?",
@@ -55,9 +66,9 @@
         "mid": "2024C14993S0351"
     },
     {
-        "extrait_titre": "Éducation en France : une loterie ?",
-        "extrait": "Les élèves de milieu populaire se retrouvent souvent avec une pression supplémentaire des parents qui, en fait, ont souvent ce discours de tu as la chance de faire des études, tu as la chance de pouvoir faire des études, ne foire pas.",
-        "start": 1633.773,
+        "extrait_titre": "La fausse liberté des choix d’orientation",
+        "extrait": "Beaucoup d'élèves choisissent leurs spécialités sans vraiment savoir ce qu'ils veulent faire. Ce manque de prévoyance crée un stress supplémentaire.",
+        "start": 1935.868,
         "title": "Pression scolaire : est-ce ainsi que les élèves vivent ?",
         "show": "Être et savoir",
         "chapo": "Le stress lié aux notes, à Parcoursup et aux emplois du temps chargés touche un nombre croissant d'adolescents : comment faire baisser la pression ?",
@@ -66,9 +77,20 @@
         "mid": "2024C14993S0351"
     },
     {
-        "extrait_titre": "François Bayrou, un alpiniste dans l'Himalaya politique ?",
-        "extrait": "François Bayrou, qui lui connaît la Constitution, et qui évidemment n'a pas signé la démission en blanc que du temps où la République était hiérarchique, les premiers ministres signaient au général de Gaulle, à François Mitterrand, etc. Au fond, maintenant, Emmanuel Macron est dans les mains de François Bayrou et François Bayrou est dans les mains de l'Assemblée.",
-        "start": 112.913,
+        "extrait_titre": "La pression des parents : un véritable fardeau",
+        "extrait": "Les parents se mettent eux-mêmes la pression pour que leurs enfants réussissent, alimentant ainsi un cycle d'angoisse qui dépasse souvent le cadre scolaire.",
+        "start": 2456.007,
+        "title": "Pression scolaire : est-ce ainsi que les élèves vivent ?",
+        "show": "Être et savoir",
+        "chapo": "Le stress lié aux notes, à Parcoursup et aux emplois du temps chargés touche un nombre croissant d'adolescents : comment faire baisser la pression ?",
+        "mp3": "https://media.radiofrance-podcast.net/podcast09/11192-16.12.2024-ITEMA_23966502-2024C14993S0351-21.mp3",
+        "url": "https://www.radiofrance.fr/franceculture/podcasts/etre-et-savoir/pression-scolaire-est-ce-ainsi-que-les-eleves-vivent-8377156",
+        "mid": "2024C14993S0351"
+    },
+    {
+        "extrait_titre": "Le bras de fer entre Macron et Bayrou, coup de théâtre ou évidence ?",
+        "extrait": "En revanche, les conditions de sa nomination sont absolument effarantes, parce qu'il a à l'évidence gagné un bras de fer avec le président de la République. Or, sous la Vème République, un président ne cède pas à toute forme de bras de fer ou, entre guillemets, de chantage. Et ça m'amène à un point qu'on oublie beaucoup.",
+        "start": 73.421,
         "title": "Le nouveau paysage politique selon Alain Minc",
         "show": "France Culture va plus loin (l'Invité(e) des Matins)",
         "chapo": "Ce matin, Alain Minc analyse au micro de Guillaume Erner les perspectives politiques du nouveau Premier ministre François Bayrou. ",
@@ -77,9 +99,9 @@
         "mid": "2024C16450S0351"
     },
     {
-        "extrait_titre": "La réalité du déni : Emmanuel Macron face à sa dissolution",
-        "extrait": "Quand un homme intelligent, ce qu'est Macron, prend une décision idiote, ce n'est pas un problème d'intelligence, c'est un problème de psychologie. Donc ceci renvoie à un très majeur défi décisif de sa personnalité, qui est son narcissisme. En politique, quand vous avez pris une baffe sur la joue droite et que vous y revenez le lendemain, vous prenez une baffe sur la joue gauche.",
-        "start": 309.785,
+        "extrait_titre": "La France face à un déficit croissant : qui en est responsable ?",
+        "extrait": "Le déficit public, c'est-à-dire la non-maîtrise des dépenses, n'est que la traduction de nos lâchetés collectives et de nos égoïsmes sectoriels et corporatistes, c'est tout. Le déficit public, ça c'est une addition de lâcheté.",
+        "start": 2052.6859999999997,
         "title": "Le nouveau paysage politique selon Alain Minc",
         "show": "France Culture va plus loin (l'Invité(e) des Matins)",
         "chapo": "Ce matin, Alain Minc analyse au micro de Guillaume Erner les perspectives politiques du nouveau Premier ministre François Bayrou. ",
@@ -88,9 +110,9 @@
         "mid": "2024C16450S0351"
     },
     {
-        "extrait_titre": "L'État français : entre fragilité politique et résilience administrative",
-        "extrait": "Je pense que ce pays tient par le dévouement public. Mais le dévouement public, ce n'est pas simplement le dévouement des hauts fonctionnaires. C'est le dévouement des infirmières, c'est le dévouement des pompiers, c'est le dévouement de ceux qu'on a appelés fugitivement la première ligne pendant le Covid.",
-        "start": 1062.312,
+        "extrait_titre": "Emmanuel Macron : un héroïsme mal placé ?",
+        "extrait": "Emmanuel Macron faisait économiquement un pari qui était juste à long terme et faux à court terme. Le raisonnement d'Emmanuel Macron, c'était, si on augmente le taux d'emploi des Français, et en particulier le taux d'emploi des seniors, il n'y a plus de problème de finances publiques.",
+        "start": 1352.463,
         "title": "Le nouveau paysage politique selon Alain Minc",
         "show": "France Culture va plus loin (l'Invité(e) des Matins)",
         "chapo": "Ce matin, Alain Minc analyse au micro de Guillaume Erner les perspectives politiques du nouveau Premier ministre François Bayrou. ",
@@ -99,8 +121,8 @@
         "mid": "2024C16450S0351"
     },
     {
-        "extrait_titre": "Wokisme et politique : une chaine de solidarité dangereuse ?",
-        "extrait": "Le wokisme, je pense que la manière de le définir, c'est de penser qu'il y a une chaîne de solidarité entre toutes les victimes et toutes les formes de victimes. En soi, c'est plutôt sympathique de penser que les victimes sont solidaires, mais après il y a des enchaînements idéologiques.",
+        "extrait_titre": "Le Wokisme : promesse d'inclusion ou danger ?",
+        "extrait": "Le wokisme, je pense que la manière de le définir, c'est de penser qu'il y a une chaîne de solidarité entre toutes les victimes et toutes les formes de victimes. Alors en soi, c'est plutôt sympathique de penser que les victimes sont solidaires, mais après il y a des enchaînements idéologiques.",
         "start": 1704.6,
         "title": "Le nouveau paysage politique selon Alain Minc",
         "show": "France Culture va plus loin (l'Invité(e) des Matins)",
@@ -110,8 +132,8 @@
         "mid": "2024C16450S0351"
     },
     {
-        "extrait_titre": "La recherche peut-elle survivre aux restrictions ?",
-        "extrait": "D'après une enquête menée par des chercheurs de l'Inalco cette année, et dont Delphinales vient ce matin nous donner les premiers résultats, 80% des chercheurs disent faire face aujourd'hui à des restrictions d'accès physiques à leur terrain. Que les contraintes soient institutionnelles, administratives, que ce soit des pressions politiques, des tensions diplomatiques, un manque de financement ou encore une autocensure.",
+        "extrait_titre": "Que se passe-t-il lorsque les chercheurs sont muselés ?",
+        "extrait": "D'après une enquête menée par des chercheurs de l'Inalco cette année, 80% des chercheurs disent faire face aujourd'hui à des restrictions d'accès physiques à leur terrain. Que les contraintes soient institutionnelles, administratives, que ce soit des pressions politiques, des tensions diplomatiques, un manque de financement ou encore une autocensure.",
         "start": 148.029,
         "title": "Chercheur.euses en terrain hostile : enquêter malgré tout ",
         "show": "Cultures Monde",
@@ -121,9 +143,9 @@
         "mid": "2024C16756S0351"
     },
     {
-        "extrait_titre": "Comment la recherche évolue face aux menaces ?",
-        "extrait": "Ce qui pose un problème évidemment très important, puisque ça signifie qu'il y a dans certains cas l'apparence d'une capacité à pouvoir continuer à travailler sur certains terrains. Tous ne sont pas strictement entravés, on peut continuer à se rendre en Chine, on peut continuer à se rendre en Inde. En revanche, la nature des questions pose échange, les chercheurs ont tendance à s'auto-censurer.",
-        "start": 816.028,
+        "extrait_titre": "La recherche : un combat inégal ?",
+        "extrait": "Outre les difficultés rencontrées sur des terrains en guerre, malheureusement assez classiques, il y a aussi des États qui mettent de plus en plus de bâtons dans les roues. Des universitaires qui préfèrent s'abstenir de parler pour être sûrs de conserver leur accès au terrain.",
+        "start": 180.448,
         "title": "Chercheur.euses en terrain hostile : enquêter malgré tout ",
         "show": "Cultures Monde",
         "chapo": "Selon une enquête menée par l'INALCO, de plus en plus de chercheurs et chercheuses rencontrent des difficultés pour accéder à leur terrain d'étude. Afin de pallier ces entraves de différente nature, ils et elles sont contraints d'adapter leurs pratiques.",
@@ -132,8 +154,8 @@
         "mid": "2024C16756S0351"
     },
     {
-        "extrait_titre": "La mémoire des chercheurs peut-elle disparaître ?",
-        "extrait": "Il y a effectivement une préoccupation très importante qui est d'abord celle de préserver, de maintenir l'expertise des chercheurs qui n'ont plus la possibilité d'accéder à leur terrain, mais aussi à plus long terme parce qu'on observe aussi des fermetures qui très probablement vont durer longtemps. La question se pose de savoir comment nous allons continuer à former des étudiants, des doctorants, des jeunes chercheurs.",
+        "extrait_titre": "Une expertise menacée : quel avenir pour la recherche ?",
+        "extrait": "Il y a effectivement une préoccupation très importante qui est d'abord celle de préserver, de maintenir l'expertise des chercheurs qui n'ont plus la possibilité d'accéder à leur terrain. La question se pose de savoir comment nous allons continuer à former des étudiants, des doctorants, des jeunes chercheurs.",
         "start": 480.171,
         "title": "Chercheur.euses en terrain hostile : enquêter malgré tout ",
         "show": "Cultures Monde",
@@ -143,9 +165,9 @@
         "mid": "2024C16756S0351"
     },
     {
-        "extrait_titre": "Des terrains de recherche de plus en plus hostiles ?",
-        "extrait": "Alors même si nous l'évoquerons assez peu aujourd'hui, cela est flagrant. Depuis deux ou trois ans, sur l'Égypte par exemple, avec pour nous la quasi-impossibilité de trouver y compris des archéologues qui acceptent de s'exprimer publiquement, se sachant écoutés, se sachant surveillés.",
-        "start": 193.693,
+        "extrait_titre": "Comment contourner les restrictions en recherche ?",
+        "extrait": "La première option est d'étudier des phénomènes à l'étranger. Aujourd'hui, j'ai beaucoup d'étudiants qui partent au Kazakhstan, qui partent en Asie centrale, qui partent dans le Caucase. La deuxième option, c'est ce qu'on appelle le terrain numérique, collecte et analyse des traces numériques.",
+        "start": 730.17,
         "title": "Chercheur.euses en terrain hostile : enquêter malgré tout ",
         "show": "Cultures Monde",
         "chapo": "Selon une enquête menée par l'INALCO, de plus en plus de chercheurs et chercheuses rencontrent des difficultés pour accéder à leur terrain d'étude. Afin de pallier ces entraves de différente nature, ils et elles sont contraints d'adapter leurs pratiques.",
@@ -154,19 +176,8 @@
         "mid": "2024C16756S0351"
     },
     {
-        "extrait_titre": "Les chercheurs doivent-ils se réinventer ?",
-        "extrait": "Oui, effectivement, un très grand nombre des chercheurs, plus des deux tiers des chercheurs qui ont répondu à l'enquête, nous expliquent avoir soit changé de terrain, et donc effectivement pour une grande partie d'entre eux, étudié leur terrain par ses marges, soit avoir modifié, c'est le cas pour 55% de nos répondants, leur question de recherche.",
-        "start": 799.431,
-        "title": "Chercheur.euses en terrain hostile : enquêter malgré tout ",
-        "show": "Cultures Monde",
-        "chapo": "Selon une enquête menée par l'INALCO, de plus en plus de chercheurs et chercheuses rencontrent des difficultés pour accéder à leur terrain d'étude. Afin de pallier ces entraves de différente nature, ils et elles sont contraints d'adapter leurs pratiques.",
-        "mp3": "https://media.radiofrance-podcast.net/podcast09/11701-16.12.2024-ITEMA_23966508-2024C16756S0351-21.mp3",
-        "url": "https://www.radiofrance.fr/franceculture/podcasts/cultures-monde/chercheur-euses-en-terrain-hostile-enqueter-malgre-tout-3834240",
-        "mid": "2024C16756S0351"
-    },
-    {
-        "extrait_titre": "La gloire, un cauchemar masqué?",
-        "extrait": "Quand vous avez eu cette gloire qui a déferlé sur vous après la guerre, vous avez dit que ça a été une expérience curieuse parce que la gloire c’était la haine en même temps. Évidemment, ça me faisait quelque chose d'avoir une certaine renommée, d'avoir des gens qui venaient de loin, qui me disaient Vous êtes monsieur Sartre et vous avez écrit ça et ça. Mais je ne prenais pas ça tellement au sérieux.",
+        "extrait_titre": "La gloire, reflet de la haine ?",
+        "extrait": "Quand vous avez eu cette gloire qui a déferlé sur vous après la guerre, vous avez dit que ça a été une expérience curieuse parce que la gloire, c'était la haine en même temps. Cette célébrité internationale à laquelle vous ne vous attendiez pas du tout, qu'est-ce que ça vous a fait ? Est-ce que ça a été la réalisation d'un désir et la reconnaissance de votre génie ou n'était-ce encore qu'un événement empirique qui n'avait pas tellement d'influence sur la vérité transcendantale à laquelle de toute façon vous étiez accrochés ?",
         "start": 122.952,
         "title": "La gloire et la haine",
         "show": "Lectures du soir",
@@ -176,8 +187,19 @@
         "mid": "2024C17591E0081"
     },
     {
-        "extrait_titre": "La littérature a-t-elle encore un sens?",
-        "extrait": "Quand on fait de la littérature engagée, on se préoccupe de problèmes qui n'auront plus de sens dans 20 ans et qui concernent la société actuelle. Si on a quelque influence, et si l'on pousse bien le problème, on a réussi son coup quand on a décidé des gens à agir ou à considérer les choses de son propre point de vue.",
+        "extrait_titre": "La gloire, un jeu illusoire ?",
+        "extrait": "Il est certain que je considérais tout ça comme un petit jeu, comme une espèce de fantôme de gloire, pour indiquer ce qu'est la gloire, mais ce n'était pas elle. Je n'étais pas du tout en sympathie avec tous ces gens qui, en 1945, se pressaient à ma conférence. Ils s'écrasaient, des femmes se sont évanouies. Je trouvais tout ça ridicule.",
+        "start": 208.166,
+        "title": "La gloire et la haine",
+        "show": "Lectures du soir",
+        "chapo": "\"Quand vous avez eu cette gloire qui a déferlé sur vous après la guerre, vous avez dit que ça a été une expérience curieuse parce que la gloire, c’était la haine en même temps.\"",
+        "mp3": "https://media.radiofrance-podcast.net/podcast09/12024-16.12.2024-ITEMA_23961970-2024C17591E0081-21.mp3",
+        "url": "",
+        "mid": "2024C17591E0081"
+    },
+    {
+        "extrait_titre": "La littérature face à l'engagement politique : un dilemme ?",
+        "extrait": "Quand on fait de la littérature engagée, on se préoccupe de problèmes qui n'auront plus de sens dans 20 ans et qui concernent la société actuelle. Si on a quelque influence, et si l'on pousse bien le problème, on a réussi son coup quand on a décidé, des gens, à agir ou à considérer les choses de son propre point de vue.",
         "start": 1001.133,
         "title": "La gloire et la haine",
         "show": "Lectures du soir",
@@ -187,19 +209,8 @@
         "mid": "2024C17591E0081"
     },
     {
-        "extrait_titre": "Superiority complex: the writer's paradox?",
-        "extrait": "Il faut reconnaître que ce n'est pas bon. Parce que je pense deux choses contradictoires. Je pense que les bons écrivains sont supérieurs aux autres, et qu'un très bon écrivain est supérieur à tous. Enfin, à tous, sauf à d'autres très bons écrivains qui sont très rares.",
-        "start": 332.915,
-        "title": "La gloire et la haine",
-        "show": "Lectures du soir",
-        "chapo": "\"Quand vous avez eu cette gloire qui a déferlé sur vous après la guerre, vous avez dit que ça a été une expérience curieuse parce que la gloire, c’était la haine en même temps.\"",
-        "mp3": "https://media.radiofrance-podcast.net/podcast09/12024-16.12.2024-ITEMA_23961970-2024C17591E0081-21.mp3",
-        "url": "",
-        "mid": "2024C17591E0081"
-    },
-    {
-        "extrait_titre": "Les Roses de la Lutte : Pourquoi Pas Seulement du Pain ?",
-        "extrait": "Le pain et les roses, c'est le nécessaire et le superflu, c'est la survie et la vie, c'est un fromage et dessert, on veut manger mais on veut aussi le bonheur en fait, c'est le droit au bonheur.",
+        "extrait_titre": "Pourquoi luttons-nous pour plus que la survie ?",
+        "extrait": "Le pain et les roses, c'est le nécessaire et le superflu, c'est la survie et la vie, c'est un fromage et dessert, on veut manger mais on veut aussi le bonheur en fait, c'est le droit au bonheur. Ce que veulent les femmes qui travaillent, c'est le droit à vivre, et pas seulement à exister.",
         "start": 26.235,
         "title": "Un poème pour la grève",
         "show": "Une histoire particulière",
@@ -209,9 +220,9 @@
         "mid": "2024C26160E0091"
     },
     {
-        "extrait_titre": "La Marche des Femmes : Pour un Droit au Bonheur",
-        "extrait": "Ce que veulent les femmes qui travaillent, c'est le droit à vivre, et pas seulement à exister. Le droit au bonheur de la vie auquel seulement les femmes riches peuvent accéder, le droit à la lumière du soleil, à la musique, à l'art. Les travailleuses doivent avoir le droit au pain, mais aussi aux roses.",
-        "start": 734.588,
+        "extrait_titre": "Des ouvrières, des enfants et la solidarité",
+        "extrait": "Et donc on va organiser ce qu'on appelle des trains de la faim, c'est-à-dire que les enfants de la grande majorité des foyers de Laurence vont être mis dans des trains pour pouvoir ensuite être accueillis dans plusieurs villes des Etats-Unis où ils vont pouvoir être nourris. Accueillez les enfants. Les enfants de Lorraine sont fins. Leurs pères et mères luttent, mais la faim peut briser la grève.",
+        "start": 1174.194,
         "title": "Un poème pour la grève",
         "show": "Une histoire particulière",
         "chapo": "En janvier 1912, dans les immenses usines de textile de Lawrence, Massachusetts, plusieurs milliers d'ouvrières entament l’une des grèves les plus marquantes de l’histoire des États-Unis : la grève de Bread and Roses. ",
@@ -220,9 +231,9 @@
         "mid": "2024C26160E0091"
     },
     {
-        "extrait_titre": "Un Poème devenu Hymne : Un Slogan qui Résonne",
-        "extrait": "Est-ce qu'il apparaît spontanément ? Mais on sait qu'il vient du poème de James Oppenheim. Nous voulons du pain et des roses aussi. We want bread and roses too. Et donc ça, c'est quand même assez magnifique, parce que là, c'est la poésie qui surgit dans la lutte.",
-        "start": 761.556,
+        "extrait_titre": "La force des mots dans la lutte",
+        "extrait": "Il est probable qu'Oppenheim ne soit pas l'auteur lui-même de ces mots, mais qu'il ait lui-même repris de discours du mouvement des suffragettes américaines qui ont utilisé cette association qui est probablement lui-même inspirée des mouvements français révolutionnaires. Et donc ce slogan, qui va devenir mythique, il va être répété. Plus tard, ça fera une chanson. \"Marchons, mes sœurs, marchons\".",
+        "start": 784.512,
         "title": "Un poème pour la grève",
         "show": "Une histoire particulière",
         "chapo": "En janvier 1912, dans les immenses usines de textile de Lawrence, Massachusetts, plusieurs milliers d'ouvrières entament l’une des grèves les plus marquantes de l’histoire des États-Unis : la grève de Bread and Roses. ",
@@ -231,7 +242,7 @@
         "mid": "2024C26160E0091"
     },
     {
-        "extrait_titre": "Qu'est-ce que le slogan \"Du pain et des roses\" révèle sur les luttes féministes ?",
+        "extrait_titre": "Le Pain et les Roses : Une dualité essentielle ?",
         "extrait": "Du pain, ça renvoie à la question des mobilisations de classes, des mobilisations des ouvrières et des ouvriers. D'abord le pain, avoir des conditions de subsistance dignes. Et les roses, de l'autre côté, on passe au-delà de simplement des revendications salariales pour demander des conditions qui respectent les êtres humains, une qualité de vie.",
         "start": 43.925,
         "title": "Une chanson pour la révolution",
@@ -242,7 +253,7 @@
         "mid": "2024C26160E0092"
     },
     {
-        "extrait_titre": "Quelle est la véritable histoire du mouvement pour les droits civiques ?",
+        "extrait_titre": "L'Histoire oubliée d'un slogan révolutionnaire",
         "extrait": "On a souvent oublié que ce mouvement pour les droits civiques n'est pas simplement un mouvement pour l'abolition de la ségrégation. C'est un mouvement qui prône aussi l'augmentation du SMIC, qui veut qu'on s'intéresse aux travailleurs pauvres aux États-Unis, qu'on développe l'assurance médicale, ce que nous nous appelons la sécurité sociale.",
         "start": 291.129,
         "title": "Une chanson pour la révolution",
@@ -253,9 +264,9 @@
         "mid": "2024C26160E0092"
     },
     {
-        "extrait_titre": "Comment le mouvement \"Ni une moins\" redéfinit-il la lutte féministe ?",
-        "extrait": "En Argentine, ce n'est pas qu'on va rejeter complètement PAN et ROSAS, mais on va se dire qu'il manque des choses, qu'il y a d'autres nécessités, d'autres besoins. Et au début du XXIe siècle, ce qui se pose en Argentine, encore d'une manière très brutale, c'est la question des féminicides, c'est la question des violences faites aux femmes, parce que ce sont des femmes.",
-        "start": 1147.978,
+        "extrait_titre": "Une leçon de solidarité : Le Pain et les Roses en action",
+        "extrait": "Pour nous, c'est un peu... Un slogan poétique de nos réquements aujourd'hui et que nous pensons qu'il exprime beaucoup de choses et notamment une tradition bien particulière d'un féminisme socialiste et d'un féminisme de classe.",
+        "start": 128.475,
         "title": "Une chanson pour la révolution",
         "show": "Une histoire particulière",
         "chapo": "Apparu à la suite d'une grève historique aux États-Unis en 1912, le slogan “Du pain et des roses” a ensuite accompagné les luttes féministes et ouvrières tout au long du XXème siècle, jusqu’à aujourd’hui.",
@@ -264,9 +275,9 @@
         "mid": "2024C26160E0092"
     },
     {
-        "extrait_titre": "La gentrification : opportunité ou menace ?",
-        "extrait": "La gentrification, c'est quand les espaces populaires sont bourgeoises. Et alors, qu'est-ce que ça apporte à Saint-Ouen ? La mixité sociale, oui, mais à quel prix ? Les anciens habitants se déplacent, perdent leur quartier, et les nouveaux arrivants ne se mélangent souvent pas. Pourtant, la promesse de la gentrification est de créer une communauté unie et diverse. Mais est-ce vraiment le cas ?",
-        "start": 530.763,
+        "extrait_titre": "La gentrification, une illusion de mixité ?",
+        "extrait": "Moi je pensais justement, la gentrification c'est qu'on va vivre tous ensemble, on va se mélanger, c'est pas du tout le cas, en tout cas à Saint-Ouen c'est pas du tout le cas. Mais après, je ne sais pas où vont leurs enfants à l'école, s'ils vont à Jaurès, s'ils vont à Michelet, s'ils vont à Blanqui. La plupart des enfants, ils sont dans le 17e en école privée. Donc pour moi, la gentrification, comme je vous disais, ça va ouvrir les esprits et tout. Et puis je me rends compte que pas du tout, les gens ne se mélangent pas.",
+        "start": 433.131,
         "title": "Saint-Ouen. Ici, c’est le Grand Paris  ",
         "show": "LSD, la série documentaire",
         "chapo": "À mesure que Paris s’embourgeoise sous l’effet de de la désindustrialisation, de la mondialisation et des politiques urbaines de l’État et la municipalité depuis la fin du 19e siècle, la gentrification se diffuse au-delà du périph : Les Lilas, Montreuil, Pantin,... Saint Ouen. ",
@@ -275,9 +286,9 @@
         "mid": "2024C26362E0201"
     },
     {
-        "extrait_titre": "Démolition ou rénovation ? Les choix de la ville",
-        "extrait": "Les pouvoirs publics parlent de rénovation, mais ce que cela signifie souvent, c'est la destruction de logements sociaux au profit d'un immobilier plus profitable. À Saint-Ouen, des milliers de logements sont démolis en promettant une mixité sociale, alors même que ceux qui en ont le plus besoin sont évincés. Est-ce cela la mixité que l'on prône ?",
-        "start": 3093.187,
+        "extrait_titre": "La transformation de Saint-Ouen : opportunité ou menace ?",
+        "extrait": "Déjà, même à l'époque, il y a 20 ans, 25 ans, on nous disait Ouais, Saint-Ouen, ça va être le 21e arrondissement. On en rigolait. Et aujourd'hui, ouais, ça peut. Je pense que ça rapporte de la mixité. Il n'y en avait pas trop. C'est-à-dire que les gens, quand ils arrivaient à Saint-Ouen, ils allaient au plus, mais ils ne descendaient pas plus bas. Vraiment.",
+        "start": 358.428,
         "title": "Saint-Ouen. Ici, c’est le Grand Paris  ",
         "show": "LSD, la série documentaire",
         "chapo": "À mesure que Paris s’embourgeoise sous l’effet de de la désindustrialisation, de la mondialisation et des politiques urbaines de l’État et la municipalité depuis la fin du 19e siècle, la gentrification se diffuse au-delà du périph : Les Lilas, Montreuil, Pantin,... Saint Ouen. ",
@@ -286,8 +297,19 @@
         "mid": "2024C26362E0201"
     },
     {
-        "extrait_titre": "Le Grand Paris : un projet d'effacement",
-        "extrait": "Le Grand Paris est décrit comme une opportunité pour les habitants, mais en réalité, c'est un projet qui efface les identités locales au profit d'investisseurs. Les classes populaires sont souvent les premières à être évincées, poussées vers les marges tandis que la gentrification avance, remodelant la ville pour une nouvelle clientèle. Qui sont les vrais gagnants ici ?",
+        "extrait_titre": "Gentrification : un progrès pour qui ?",
+        "extrait": "Alors, ce qui me choque, c'est que je suis étonné de voir ce discours-là dans un élu communiste qui par ailleurs était à la pointe de l'encadrement des prix dans le logement, enfin il y en a peu même d'autres élus communistes qui font ça. Ça montre la force de l'idéologie de la mixité sociale. Tout le monde pense que c'est beaucoup mieux de les disperser.",
+        "start": 2035.685,
+        "title": "Saint-Ouen. Ici, c’est le Grand Paris  ",
+        "show": "LSD, la série documentaire",
+        "chapo": "À mesure que Paris s’embourgeoise sous l’effet de de la désindustrialisation, de la mondialisation et des politiques urbaines de l’État et la municipalité depuis la fin du 19e siècle, la gentrification se diffuse au-delà du périph : Les Lilas, Montreuil, Pantin,... Saint Ouen. ",
+        "mp3": "https://media.radiofrance-podcast.net/podcast09/10177-16.12.2024-ITEMA_23966491-2024C26362E0201-21.mp3",
+        "url": "https://www.radiofrance.fr/franceculture/podcasts/lsd-la-serie-documentaire/saint-ouen-ici-c-est-le-grand-paris-1246840",
+        "mid": "2024C26362E0201"
+    },
+    {
+        "extrait_titre": "De l'utopie à la réalité : la face cachée des rénovations urbaines",
+        "extrait": "Est-ce qu'on peut dire que le Grand Paris est une vaste entreprise de gentrification ? Le Grand Paris au sens du Grand Paris Express, c'est-à-dire ce nouveau grand réseau de transport, 200 kilomètres de nouvelles lignes, 68 nouvelles gares, qui est d'abord un projet de transport, d'accélération, d'efficacité économique, de concurrence intermétropolitaine. Ce qui est sûr, c'est que ça n'a pas été pensé comme ça.",
         "start": 1801.51,
         "title": "Saint-Ouen. Ici, c’est le Grand Paris  ",
         "show": "LSD, la série documentaire",
@@ -297,9 +319,20 @@
         "mid": "2024C26362E0201"
     },
     {
-        "extrait_titre": "Comment le cyclone révèle-t-il la vulnérabilité de Mayotte ?",
-        "extrait": "Les bidonvilles de l'archipel français ont tous été entièrement ravagés, l'hôpital et les écoles n'ont pas été épargnés, comme la plupart des routes désormais impraticables, rendant d'autant plus difficile le travail des secouristes...  Cette catastrophe vient aussi souligner les faillites de l'État. On a un territoire qui cumule des vulnérabilités extrêmement importantes.",
-        "start": 84.592,
+        "extrait_titre": "L'économie de la gentrification : les véritables bénéficiaires",
+        "extrait": "Il faut vraiment penser que ce projet, il résonne à l'international. Les destinataires, ce n'est pas les habitants, c'est les investisseurs internationaux. Or, au niveau international, la Seine-Saint-Denis est connue très négativement. Donc, c'est effacer l'image de la banlieue, en fait. C'est ça qui est en jeu, y compris dans cette idée du Grand Paris.",
+        "start": 1909.324,
+        "title": "Saint-Ouen. Ici, c’est le Grand Paris  ",
+        "show": "LSD, la série documentaire",
+        "chapo": "À mesure que Paris s’embourgeoise sous l’effet de de la désindustrialisation, de la mondialisation et des politiques urbaines de l’État et la municipalité depuis la fin du 19e siècle, la gentrification se diffuse au-delà du périph : Les Lilas, Montreuil, Pantin,... Saint Ouen. ",
+        "mp3": "https://media.radiofrance-podcast.net/podcast09/10177-16.12.2024-ITEMA_23966491-2024C26362E0201-21.mp3",
+        "url": "https://www.radiofrance.fr/franceculture/podcasts/lsd-la-serie-documentaire/saint-ouen-ici-c-est-le-grand-paris-1246840",
+        "mid": "2024C26362E0201"
+    },
+    {
+        "extrait_titre": "Une humanité mise à l'épreuve",
+        "extrait": "Dans un de ces bidonvilles de Mamoudzou, Yvan Anavion a aussi croisé des jeunes assoiffés. L'eau étant un problème chronique à Mayotte, les habitants avaient des réserves, mais pour deux, trois jours, pas plus. D'où beaucoup d'inquiétude justement sur le plan sanitaire.",
+        "start": 170.462,
         "title": "Mayotte, un véritable carnage",
         "show": "Journal de 12h30",
         "chapo": "Dévastée et traumatisée. Après le passage du cyclone Chido, ce weekend, Mayotte est aujourd'hui coupée du monde. Le bilan humain pourrait atteindre des chiffres jamais vus dans l'Histoire de la France moderne.",
@@ -308,9 +341,9 @@
         "mid": "2024C2717S0351"
     },
     {
-        "extrait_titre": "L'épidémie de choléra se profile-t-elle en pleine crise ?",
-        "extrait": "Youssef Mejbal, soignant à l'hôpital, s'inquiète du sort de nombreux patients habituels. Des diabètes qui se décompensent, parfois des gens se retrouvent dans le coma, les infarctus, les AVC : toutes ces choses-là, on n'en a vu aucun en trois jours. Il s'attend encore au pire avec les pluies revenantes et la chaleur, à savoir les épidémies et le retour du choléra.",
-        "start": 188.194,
+        "extrait_titre": "État des lieux d'une crise oubliée",
+        "extrait": "La totalité des habitats dits précaires, qui sont des constructions principalement en tôle, ont été entièrement soufflées par le cyclone. Et il faut avoir en tête que ces habitations-là, ça représente un quart du total des habitations de Mayotte. C'est environ 100 000 personnes qui, aujourd'hui, on a la certitude qu'ils n'ont plus de toit.",
+        "start": 329.515,
         "title": "Mayotte, un véritable carnage",
         "show": "Journal de 12h30",
         "chapo": "Dévastée et traumatisée. Après le passage du cyclone Chido, ce weekend, Mayotte est aujourd'hui coupée du monde. Le bilan humain pourrait atteindre des chiffres jamais vus dans l'Histoire de la France moderne.",
@@ -319,30 +352,8 @@
         "mid": "2024C2717S0351"
     },
     {
-        "extrait_titre": "Une humanité à la recherche de réconfort dans le désespoir ?",
-        "extrait": "Les stocks de nourriture s'amenuisent, rendant la situation sanitaire critique. Alors que l'accès à l'eau est déjà une problématique chronique à Mayotte, les habitants, assoiffés, voient leurs réserves s'épuiser. C'est une course contre la montre pour retrouver de l'eau, de la nourriture et se mettre à l'abri au milieu d'un paysage de désolation.",
-        "start": 180.969,
-        "title": "Mayotte, un véritable carnage",
-        "show": "Journal de 12h30",
-        "chapo": "Dévastée et traumatisée. Après le passage du cyclone Chido, ce weekend, Mayotte est aujourd'hui coupée du monde. Le bilan humain pourrait atteindre des chiffres jamais vus dans l'Histoire de la France moderne.",
-        "mp3": "https://media.radiofrance-podcast.net/podcast09/10059-16.12.2024-ITEMA_23966499-2024C2717S0351-21.mp3",
-        "url": "https://www.radiofrance.fr/franceculture/podcasts/journal-de-12h30/journal-de-12h30-du-lundi-16-decembre-2024-7125830",
-        "mid": "2024C2717S0351"
-    },
-    {
-        "extrait_titre": "La figure de Gisèle Pellicot : un symbole à double tranchant ?",
-        "extrait": "Gisèle Pellicot est devenue un symbole. Son visage s'affiche en une du magazine Vogue en Allemagne fin novembre. Pour la BBC au Royaume-Uni, elle fait partie des 100 femmes les plus influentes de l'année. Quand le quotidien espagnol El Mundo analyse même Gisèle Pellicot comme un phénomène social Nous sommes toutes Gisèle, estime pour sa part la Républicain en Italie.",
-        "start": 91.974,
-        "title": "Le procès des viols de Mazan entre dans sa dernière semaine",
-        "show": "Journal de 8 h ",
-        "chapo": "Il n'est pas terminé qu'il est déjà historique par son ampleur : le procès des viols de Mazan entre dans sa dernière semaine. Verdict attendu ce jeudi. Procès qui a fait de Gisèle Pélicot un symbole féministe en France et dans le monde.\n",
-        "mp3": "https://media.radiofrance-podcast.net/podcast09/10057-16.12.2024-ITEMA_23966497-2024C2718S0351-21.mp3",
-        "url": "https://www.radiofrance.fr/franceculture/podcasts/journal-de-8-h/journal-de-8h-du-lundi-16-decembre-2024-3407543",
-        "mid": "2024C2718S0351"
-    },
-    {
-        "extrait_titre": "Gérer le passé des victimes : un enjeu colossal",
-        "extrait": "Le danger, ce serait de considérer que Gisèle Pellicot incarne la figure de la victime parfaite et pose un standard qu'aucune autre victime ne serait capable d'atteindre. Et je crois que ce serait rendre un bien mauvais service à toutes les autres victimes. Si ce procès a permis de déconstruire en partie les idées reçues et les stéréotypes sur les auteurs de viols, il ne doit pas nourrir ceux qui persistent concernant les victimes.",
+        "extrait_titre": "Gisèle Pellicot, icône ou victime parfaite ?",
+        "extrait": "Le danger, ce serait de considérer que Gisèle Pellicot incarne la figure de la victime parfaite et pose un standard qu'aucune autre victime ne serait capable d'atteindre. Partant, le sort des autres victimes dans le prétoire serait nécessairement jugé à l'aune de ce que Gisèle Pellicot a fait ou n'a pas fait, dit ou pas dit, et comment est-ce qu'elle a géré les choses. Et je crois que ce serait rendre un bien mauvais service à toutes les autres victimes.",
         "start": 160.237,
         "title": "Le procès des viols de Mazan entre dans sa dernière semaine",
         "show": "Journal de 8 h ",
@@ -352,7 +363,18 @@
         "mid": "2024C2718S0351"
     },
     {
-        "extrait_titre": "Le sentiment amoureux, une illusion économique ?",
+        "extrait_titre": "L'écho mondial du procès de Mazan : un cri universel ?",
+        "extrait": "Je pense qu'elle est devenue une icône mondiale. Je pense que sa réputation va continuer à grandir, à monter aux États-Unis parce qu'on était un peu obsédé par les élections de Trump. On pense beaucoup sur les thèmes, les enjeux économiques. Les femmes, ce sont les mêmes enjeux qu'on voit dans ce procès.",
+        "start": 223.442,
+        "title": "Le procès des viols de Mazan entre dans sa dernière semaine",
+        "show": "Journal de 8 h ",
+        "chapo": "Il n'est pas terminé qu'il est déjà historique par son ampleur : le procès des viols de Mazan entre dans sa dernière semaine. Verdict attendu ce jeudi. Procès qui a fait de Gisèle Pélicot un symbole féministe en France et dans le monde.\n",
+        "mp3": "https://media.radiofrance-podcast.net/podcast09/10057-16.12.2024-ITEMA_23966497-2024C2718S0351-21.mp3",
+        "url": "https://www.radiofrance.fr/franceculture/podcasts/journal-de-8-h/journal-de-8h-du-lundi-16-decembre-2024-3407543",
+        "mid": "2024C2718S0351"
+    },
+    {
+        "extrait_titre": "Le mariage est-il un marché ?",
         "extrait": "Le couple est devenu un véritable objet d'étude économique, au point de douter de l'irrationalité supposée du sentiment amoureux, car notre quête de l'âme sœur pourrait bien être en réalité celle d'un statut socio-économique qui correspond au nôtre.",
         "start": 14.372,
         "title": "Qu’est-ce que faire un « beau » mariage ?",
@@ -363,7 +385,7 @@
         "mid": "2024C29629S0351"
     },
     {
-        "extrait_titre": "Pour ou contre le mariage d'amour ?",
+        "extrait_titre": "Le mariage d'amour : une illusion ?",
         "extrait": "Le triomphe du mariage d'amour renvoie-t-il pour autant les arguments de raison et de rationalité aux oubliettes ? En somme, l'homo economicus amoureux reste-t-il avant tout un homo economicus ?",
         "start": 67.32900000000001,
         "title": "Qu’est-ce que faire un « beau » mariage ?",
@@ -374,9 +396,9 @@
         "mid": "2024C29629S0351"
     },
     {
-        "extrait_titre": "L'homogamie, un phénomène ancien mais toujours d'actualité",
-        "extrait": "L'homogamie n'est pas un phénomène nouveau, bien au contraire, elle est même organisée. Depuis la fin de la société d'ordre à la fin du XVIIIe siècle, offre et demande matrimoniale se rencontrent sur des marchés spécifiquement créés.",
-        "start": 40.233,
+        "extrait_titre": "Les parents : architectes du mariage ?",
+        "extrait": "À la fin du XIXe siècle, il reste encore 30% des petites annonces qui sont formulées par les parents. Les parents recherchent pour une jeune fille à marier.",
+        "start": 3016.637,
         "title": "Qu’est-ce que faire un « beau » mariage ?",
         "show": "Entendez-vous l'éco ?",
         "chapo": "\"Qui se ressemble s'assemble\"... Selon l’INSEE, en 2022, quatre personnes en couple cohabitant sur dix vivaient avec une personne de la même classe d’emploi. Alors que l'homogamie se maintient en France, comment le choix du conjoint, si intime soit-il, répond-il à des stratégies économiques ?",
@@ -385,31 +407,9 @@
         "mid": "2024C29629S0351"
     },
     {
-        "extrait_titre": "Des critères économiques selon le sexe",
-        "extrait": "Pour les hommes, la question de l'argent semble être centrale. Les femmes demandent aux hommes d'avoir des situations d'avenir, tandis que les hommes recherchent des femmes avec un patrimoine et des dotes.",
-        "start": 3003.363,
-        "title": "Qu’est-ce que faire un « beau » mariage ?",
-        "show": "Entendez-vous l'éco ?",
-        "chapo": "\"Qui se ressemble s'assemble\"... Selon l’INSEE, en 2022, quatre personnes en couple cohabitant sur dix vivaient avec une personne de la même classe d’emploi. Alors que l'homogamie se maintient en France, comment le choix du conjoint, si intime soit-il, répond-il à des stratégies économiques ?",
-        "mp3": "https://media.radiofrance-podcast.net/podcast09/10081-16.12.2024-ITEMA_23966492-2024C29629S0351-21.mp3",
-        "url": "https://www.radiofrance.fr/franceculture/podcasts/entendez-vous-l-eco/qu-est-ce-que-faire-un-beau-mariage-3905852",
-        "mid": "2024C29629S0351"
-    },
-    {
-        "extrait_titre": "Société d'Ordre : Une vision toujours d'actualité ?",
-        "extrait": "Il y a aussi une concurrence, une mise en concurrence. Les hommes vont être en concurrence entre eux pour trouver leur partenaire féminine et les femmes vont être aussi en concurrence entre elles pour trouver leur partenaire masculin.",
-        "start": 226.612,
-        "title": "Qu’est-ce que faire un « beau » mariage ?",
-        "show": "Entendez-vous l'éco ?",
-        "chapo": "\"Qui se ressemble s'assemble\"... Selon l’INSEE, en 2022, quatre personnes en couple cohabitant sur dix vivaient avec une personne de la même classe d’emploi. Alors que l'homogamie se maintient en France, comment le choix du conjoint, si intime soit-il, répond-il à des stratégies économiques ?",
-        "mp3": "https://media.radiofrance-podcast.net/podcast09/10081-16.12.2024-ITEMA_23966492-2024C29629S0351-21.mp3",
-        "url": "https://www.radiofrance.fr/franceculture/podcasts/entendez-vous-l-eco/qu-est-ce-que-faire-un-beau-mariage-3905852",
-        "mid": "2024C29629S0351"
-    },
-    {
-        "extrait_titre": "La Géorgie face à un nouveau défi : vers une guerre ?",
-        "extrait": "En Georgie, on voit que la question européenne est utilisée par le pouvoir pour cliver. Pas pour dire nous faisons allégeance à la Russie, c'est pour dire si on se tourne vers l'Europe, vers l'Occident, ça risque de vous entraîner vers la guerre. Regardez l'Ukraine. C'est ainsi que c'est présenté : si vous allez trop loin dans cette direction, voilà les risques que ça peut engendrer.",
-        "start": 203.799,
+        "extrait_titre": "La géopolitique de la peur : un dilemme pour la Géorgie ?",
+        "extrait": "En Georgie, la question européenne est utilisée par le pouvoir pour cliver. Pas pour dire nous faisons allégeance à la Russie, c'est pour dire si on se tourne vers l'Europe, vers l'Occident, ça risque de vous entraîner vers la guerre. Regardez l'Ukraine. La présentation de cette menace est comme un miroir de la lutte pour l'identité et l'avenir du pays.",
+        "start": 533.271,
         "title": "Géorgie, Roumanie : des démocraties contrariées",
         "show": "Les Enjeux internationaux",
         "chapo": "En Géorgie comme en Roumanie, les récents scrutins ont provoqué des mouvements de contestations majeurs, mais dans des contexte bien distincts. Entre ingérence russe et accusations de gouvernement des juges, comment ces tensions mettent-elles à l’épreuve les démocraties de l’Europe de l’Est ?",
@@ -418,9 +418,9 @@
         "mid": "2024C3305S0351"
     },
     {
-        "extrait_titre": "La Roumanie dans la tourmente électorale : complot ou manipulation ?",
-        "extrait": "La veille du second tour, la Cour constitutionnelle décide d'annuler le scrutin, une décision perçue comme très étonnante. Les accusations de gouvernement des juges s’intègrent dans un scénario où toutes les théories du complot prennent racine, agitant une inquiétude grandissante sur l'état de la démocratie.",
-        "start": 660.658,
+        "extrait_titre": "Quand les élections deviennent des jeux d'influence.",
+        "extrait": "En Roumanie, le jugement de la Cour constitutionnelle annulant les résultats du premier tour des élections a été perçu comme hautement mystérieux. Les services de renseignement ont transmis des informations au gouvernement qui ont influencé cette décision, ouvrant la voie aux théories du complot. Un candidat pro-russe fait une percée inattendue sur TikTok dans un contexte déjà tendu, marquant l'approfondissement des inquiétudes concernant la démocratie.",
+        "start": 25.803,
         "title": "Géorgie, Roumanie : des démocraties contrariées",
         "show": "Les Enjeux internationaux",
         "chapo": "En Géorgie comme en Roumanie, les récents scrutins ont provoqué des mouvements de contestations majeurs, mais dans des contexte bien distincts. Entre ingérence russe et accusations de gouvernement des juges, comment ces tensions mettent-elles à l’épreuve les démocraties de l’Europe de l’Est ?",
@@ -429,9 +429,9 @@
         "mid": "2024C3305S0351"
     },
     {
-        "extrait_titre": "L'ennui, une merveille cachée ?",
-        "extrait": "C'est pour ça que j'ai connu la merveille qui est au fond de l'ennui. Christian Bobin nous rappelle ici que l'ennui peut être un portail vers l'émerveillement. Dans ces moments de calme, il a découvert un arrêté du temps, un état de stupeur qui le rendait réceptif aux miracles de la vie.",
-        "start": 2003.671,
+        "extrait_titre": "L'ennui, source de miracles ?",
+        "extrait": "Je me suis ennuyé, mais pas terriblement. [...] parce que j'ai connu la merveille qui est au fond de l'ennui.",
+        "start": 85.751,
         "title": "Christian Bobin (1951-2022), l'enfance au cœur ",
         "show": "Toute une vie",
         "chapo": "Snobé par une partie de la critique qui le juge « mièvre », l'auteur originaire du Creusot laisse une empreinte sensible sur chacun de ses lecteurs, nombreux depuis le succès du \"Très-bas\" en 1992. Écrivain généreux et homme bon, l'écriture de Bobin est marquée par le sceau de l'enfance...",
@@ -440,19 +440,8 @@
         "mid": "2024C3330E0048"
     },
     {
-        "extrait_titre": "La puissance de l'enfant en nous",
-        "extrait": "Dieu, c'est ce que savent les enfants, pas les adultes. Un adulte n'a pas de temps à perdre à nourrir les moineaux. Cette citation de Bobin révèle l'idée que la véritable compréhension de la vie et de la beauté du monde est souvent cachée derrière la lourdeur des responsabilités adultes.",
-        "start": 2521.054,
-        "title": "Christian Bobin (1951-2022), l'enfance au cœur ",
-        "show": "Toute une vie",
-        "chapo": "Snobé par une partie de la critique qui le juge « mièvre », l'auteur originaire du Creusot laisse une empreinte sensible sur chacun de ses lecteurs, nombreux depuis le succès du \"Très-bas\" en 1992. Écrivain généreux et homme bon, l'écriture de Bobin est marquée par le sceau de l'enfance...",
-        "mp3": "https://media.radiofrance-podcast.net/podcast09/10471-15.12.2024-ITEMA_23965669-2024C3330E0048-21.mp3",
-        "url": "https://www.radiofrance.fr/franceculture/podcasts/toute-une-vie/christian-bobin-1951-2022-l-enfance-au-coeur-4363024",
-        "mid": "2024C3330E0048"
-    },
-    {
-        "extrait_titre": "Rire : une forme de résistance",
-        "extrait": "Le rire était une chose extrêmement fréquente chez Christian Bobin. Bobin a utilisé son rire comme un acte de défi face à un monde cynique. Son approche joyeuse était une forme de résistance à la morosité ambiante.",
+        "extrait_titre": "Le rire qui brise tout",
+        "extrait": "Le rire était une chose extrêmement fréquente chez Christian Bobin. [...] C'était comme ça.",
         "start": 186.588,
         "title": "Christian Bobin (1951-2022), l'enfance au cœur ",
         "show": "Toute une vie",
@@ -462,9 +451,9 @@
         "mid": "2024C3330E0048"
     },
     {
-        "extrait_titre": "La lumière et l'ombre de la mort",
-        "extrait": "La mort est d'une petite fille qui cueille des fleurs. Christian Bobin aborde la mort avec une douceur touchante, en la reliant à l'innocence et à la beauté de la vie, rappelant que même dans les moments les plus sombres, il y a une lumière à trouver.",
-        "start": 1962.43,
+        "extrait_titre": "La voix de l'enfant cachée",
+        "extrait": "En fait, l'enfant a connaissance de tout sauf de lui-même. [...] c'est presque rien.",
+        "start": 3048.495,
         "title": "Christian Bobin (1951-2022), l'enfance au cœur ",
         "show": "Toute une vie",
         "chapo": "Snobé par une partie de la critique qui le juge « mièvre », l'auteur originaire du Creusot laisse une empreinte sensible sur chacun de ses lecteurs, nombreux depuis le succès du \"Très-bas\" en 1992. Écrivain généreux et homme bon, l'écriture de Bobin est marquée par le sceau de l'enfance...",
@@ -473,9 +462,31 @@
         "mid": "2024C3330E0048"
     },
     {
-        "extrait_titre": "La révolution du photo-journalisme : Comment Paris Soir a redéfini la presse écrite ?",
-        "extrait": "La grande idée de Prouveau et de Pierre Lazareff, c'est de mettre de la photo avant le texte. C'est-à-dire que la photo devient le document, le texte expliquant ce document. Et par exemple, la une de Paris Soir, apparaît avec neuf photos, c'est-à-dire que neuf photos en première page.",
-        "start": 528.123,
+        "extrait_titre": "Écrire pour soigner",
+        "extrait": "J'ai trouvé un petit procédé pour voir quand un texte est parvenu à maturité. [...] je n'ai jamais écrit que pour résoudre une crise, traverser une forêt, rejoindre le temps limpide dessous le temps obscur.",
+        "start": 1810.686,
+        "title": "Christian Bobin (1951-2022), l'enfance au cœur ",
+        "show": "Toute une vie",
+        "chapo": "Snobé par une partie de la critique qui le juge « mièvre », l'auteur originaire du Creusot laisse une empreinte sensible sur chacun de ses lecteurs, nombreux depuis le succès du \"Très-bas\" en 1992. Écrivain généreux et homme bon, l'écriture de Bobin est marquée par le sceau de l'enfance...",
+        "mp3": "https://media.radiofrance-podcast.net/podcast09/10471-15.12.2024-ITEMA_23965669-2024C3330E0048-21.mp3",
+        "url": "https://www.radiofrance.fr/franceculture/podcasts/toute-une-vie/christian-bobin-1951-2022-l-enfance-au-coeur-4363024",
+        "mid": "2024C3330E0048"
+    },
+    {
+        "extrait_titre": "Le murmure des étourneaux",
+        "extrait": "Et puis au moment où le cercueil sort, la nuit tombe, commence à tomber avec un ciel rouge et les étourneaux arrivent par milliers. [...] C'est quand même, j'en tire aucune conclusion, mais je regarde comment parfois le ciel est poète.",
+        "start": 3285.854,
+        "title": "Christian Bobin (1951-2022), l'enfance au cœur ",
+        "show": "Toute une vie",
+        "chapo": "Snobé par une partie de la critique qui le juge « mièvre », l'auteur originaire du Creusot laisse une empreinte sensible sur chacun de ses lecteurs, nombreux depuis le succès du \"Très-bas\" en 1992. Écrivain généreux et homme bon, l'écriture de Bobin est marquée par le sceau de l'enfance...",
+        "mp3": "https://media.radiofrance-podcast.net/podcast09/10471-15.12.2024-ITEMA_23965669-2024C3330E0048-21.mp3",
+        "url": "https://www.radiofrance.fr/franceculture/podcasts/toute-une-vie/christian-bobin-1951-2022-l-enfance-au-coeur-4363024",
+        "mid": "2024C3330E0048"
+    },
+    {
+        "extrait_titre": "Quel est l'impact du Bélinographe dans le journalisme moderne ?",
+        "extrait": "Moi j'ai vu fonctionner le premier Bélinographe de ma vie, en 1934 ou 1935, à Paris Soir. C'est Lazareff qui l'avait fait installer au quatrième étage. Et ça a été vraiment une invention qui a changé beaucoup de choses.",
+        "start": 499.491,
         "title": "Paris-Soir",
         "show": "Les Nuits de France Culture",
         "chapo": "\"Paris-Soir\", journal quotidien relancé dans les années 1930, correspond à un période de grand tournant : le monde change et la presse change aussi. L'histoire de \"Paris-Soir\" est le sujet du premier volet de la série \"50 ans d'histoire de la presse\", réalisée en 1986. ",
@@ -484,19 +495,8 @@
         "mid": "2024C3372E0774"
     },
     {
-        "extrait_titre": "Le rôle du journalisme face à l'engagement : Un dilemme éternel ?",
-        "extrait": "Je n'ai jamais été un journaliste engagé. Et il est tout à fait évident qu'à l'âge où je vous parle, si je n'avais pas été... D'ailleurs, je n'aurais pas travaillé au Journal du Peuple si mes idées n'avaient pas été proches de ça.",
-        "start": 1254.527,
-        "title": "Paris-Soir",
-        "show": "Les Nuits de France Culture",
-        "chapo": "\"Paris-Soir\", journal quotidien relancé dans les années 1930, correspond à un période de grand tournant : le monde change et la presse change aussi. L'histoire de \"Paris-Soir\" est le sujet du premier volet de la série \"50 ans d'histoire de la presse\", réalisée en 1986. ",
-        "mp3": "https://media.radiofrance-podcast.net/podcast09/13915-16.12.2024-ITEMA_23965934-2024C3372E0774-21.mp3",
-        "url": "https://www.radiofrance.fr/franceculture/podcasts/les-nuits-de-france-culture/paris-soir-2437353",
-        "mid": "2024C3372E0774"
-    },
-    {
-        "extrait_titre": "Paris Soir et la neutralité face à la montée du fascisme : Un choix regrettable ?",
-        "extrait": "Paris Soir n'a pas parlé des camps de concentration qui existaient en Allemagne depuis 1934. Faux, dira Colombani. Faux, faux. Pas grand-chose, en tout cas.",
+        "extrait_titre": "La presse peut-elle être neutre face aux événements tragiques ?",
+        "extrait": "Paris Soir n'a pas parlé des camps de concentration qui existaient en Allemagne depuis 1934. Faux, dira Colombani. Faux, faux. Pas grand-chose... mais on ne sait pas ce qui se passe de l'autre côté.",
         "start": 1400.361,
         "title": "Paris-Soir",
         "show": "Les Nuits de France Culture",
@@ -506,9 +506,9 @@
         "mid": "2024C3372E0774"
     },
     {
-        "extrait_titre": "Commentaires inédits sur l'affaire Stavisky : La prudence des journalistes peu engageants",
-        "extrait": "Paris Soir n'a d'autre souci que celui d'une information complète. Paris Soir fait une assez large place à la relation des opérations militaires, mais ne cherche pas à expliquer les données politiques de la guerre civile.",
-        "start": 2942.974,
+        "extrait_titre": "Comment un article peut changer le cours de la vie ?",
+        "extrait": "Les photos ont été portées à M. Daladier, qui a été absolument furieux quand il a vu ces photos. Et aussitôt après, il a pris le fameux décret qui décidait que désormais, les exécutions auraient lieu dans des endroits fermés.",
+        "start": 2045.732,
         "title": "Paris-Soir",
         "show": "Les Nuits de France Culture",
         "chapo": "\"Paris-Soir\", journal quotidien relancé dans les années 1930, correspond à un période de grand tournant : le monde change et la presse change aussi. L'histoire de \"Paris-Soir\" est le sujet du premier volet de la série \"50 ans d'histoire de la presse\", réalisée en 1986. ",
@@ -517,8 +517,19 @@
         "mid": "2024C3372E0774"
     },
     {
-        "extrait_titre": "Quel est le véritable coût du cyclone Chido ?",
-        "extrait": "Une île méconnaissable et des victimes impossibles à décompter encore. Mayotte se réveille ce matin sous un paysage d'apocalypse, après que le cyclone Chido, le plus intense qu'ait connu l'archipel depuis 90 ans, a dévasté le département, par ailleurs le plus pauvre de France.",
+        "extrait_titre": "La puissance de l'image dans le journalisme : qu'en est-il ?",
+        "extrait": "La grande idée de Prouveau et de Pierre Lazareff, c'est de mettre de la photo avant le texte. C'est-à-dire que la photo devient le document, le texte expliquant ce document.",
+        "start": 528.123,
+        "title": "Paris-Soir",
+        "show": "Les Nuits de France Culture",
+        "chapo": "\"Paris-Soir\", journal quotidien relancé dans les années 1930, correspond à un période de grand tournant : le monde change et la presse change aussi. L'histoire de \"Paris-Soir\" est le sujet du premier volet de la série \"50 ans d'histoire de la presse\", réalisée en 1986. ",
+        "mp3": "https://media.radiofrance-podcast.net/podcast09/13915-16.12.2024-ITEMA_23965934-2024C3372E0774-21.mp3",
+        "url": "https://www.radiofrance.fr/franceculture/podcasts/les-nuits-de-france-culture/paris-soir-2437353",
+        "mid": "2024C3372E0774"
+    },
+    {
+        "extrait_titre": "Quand la nature se déchaîne : Une catastrophe oubliée ?",
+        "extrait": "Une île méconnaissable et des victimes impossibles à décompter encore. Mayotte se réveille ce matin sous un paysage d'apocalypse, après que le cyclone Shido, le plus intense qu'ait connu l'archipel depuis 90 ans, a dévasté le département, par ailleurs le plus pauvre de France.",
         "start": 51.155,
         "title": "À Mayotte, le cyclone Chido a dévasté l'archipel",
         "show": "Journal de 7 h",
@@ -528,19 +539,8 @@
         "mid": "2024C3396S0351"
     },
     {
-        "extrait_titre": "La tragédie humaine derrière les chiffres !",
-        "extrait": "Il est évident que, vu la violence de cet événement, nous l'avons tous vécu dans notre chair, dans notre famille, avec nos proches, nos collaborateurs. J'étais moi-même au centre de commandement avec tous mes collaborateurs. Le plafond du centre opérationnel s'est envolé. On s'est retrouvés face à la tempête, comme chacun d'entre nous, on l'a vécu.",
-        "start": 134.304,
-        "title": "À Mayotte, le cyclone Chido a dévasté l'archipel",
-        "show": "Journal de 7 h",
-        "chapo": "Retour dans cette édition sur la situation à Mayotte. Le cyclone Chido a littéralement dévasté l'archipel, rendant difficile encore l'estimation des dégâts, notamment humains. \n",
-        "mp3": "https://media.radiofrance-podcast.net/podcast09/10055-16.12.2024-ITEMA_23966496-2024C3396S0351-21.mp3",
-        "url": "https://www.radiofrance.fr/franceculture/podcasts/journal-de-7-h/journal-de-7h-du-lundi-16-decembre-2024-6580867",
-        "mid": "2024C3396S0351"
-    },
-    {
-        "extrait_titre": "La liberté est-elle une illusion ?",
-        "extrait": "Tous regrettent Andréa, partie avec un paysan pauvre... \"liberté\". Que dire ? C'est là-bas qu'Andréa est partie, le sang empli de doutes, fuyant une ancienne vie en cherchant une nouvelle, qui soit différente.",
+        "extrait_titre": "Comment la liberté peut-elle être une prison ?",
+        "extrait": "Tous regrettent Andréa, partie avec un paysan pauvre, qui a quatre enfants, une mère sénile, pour ainsi dire réduite à l'état d'épave, un chien, quelques bêtes et une petite ferme en tourbe face à la mer glaciale, de l'autre côté des montagnes du monde. Le bout du monde. Birney, le paysan, nomme cela liberté. Que dire ? C'est là-bas qu'Andréa est partie, le sang empli de doutes, fuyant une ancienne vie en cherchant une nouvelle, qui soit différente.",
         "start": 45.154,
         "title": "Ce maudit monde est habitable aussi longtemps que je t’aime",
         "show": "Le Feuilleton",
@@ -550,9 +550,9 @@
         "mid": "2024C3480E0046"
     },
     {
-        "extrait_titre": "Peut-on vraiment choisir ?",
-        "extrait": "Mais quoi qu'on fasse, on n'a aucune prise sur notre existence. Le gamin s'immerge dans les pensées antiques. Il se concentre. Il y parvient par moments plutôt bien. À d'autres, c'est un désastre.",
-        "start": 162.553,
+        "extrait_titre": "Le choix : une illusion ou une réalité ?",
+        "extrait": "Soit on prend une décision, soit on ne la prend pas. Mais quoi qu'on fasse, on n'a aucune prise sur notre existence. Le gamin s'immerge dans les pensées antiques. Il se concentre. Il y parvient par moments plutôt bien. À d'autres, c'est un désastre.",
+        "start": 159.552,
         "title": "Ce maudit monde est habitable aussi longtemps que je t’aime",
         "show": "Le Feuilleton",
         "chapo": "\"Le monde n’est jamais bon, voilà pourquoi il est toujours douloureux de devoir se passer d’une personne bonne et douce.\"",
@@ -561,9 +561,9 @@
         "mid": "2024C3480E0046"
     },
     {
-        "extrait_titre": "Les conséquences du désespoir : une quête de sens ?",
-        "extrait": "Voilà qui ne saurait aller, et c'est pour cela que, maintenant, tout s'effondre, à moins que le bonheur ne puisse habiter le malheur. La lumière peut-elle jaillir des ténèbres ? Et si oui, est-il juste et bon de l'accueillir ?",
-        "start": 1358.795,
+        "extrait_titre": "Qu'est-ce que c'est que d'aimer dans un monde si douloureux ?",
+        "extrait": "Le monde n'est jamais bon. Voilà pourquoi il est toujours douloureux de devoir se passer d'une personne bonne et douce. Ce maudit monde est habitable aussi longtemps que tu m'aimes.",
+        "start": 124.073,
         "title": "Ce maudit monde est habitable aussi longtemps que je t’aime",
         "show": "Le Feuilleton",
         "chapo": "\"Le monde n’est jamais bon, voilà pourquoi il est toujours douloureux de devoir se passer d’une personne bonne et douce.\"",
@@ -572,8 +572,8 @@
         "mid": "2024C3480E0046"
     },
     {
-        "extrait_titre": "L'effroi de l'enfance face à l'art ?",
-        "extrait": "Marseille, c'est le souvenir du bonheur qui n'a pas duré assez, évidemment... notre mère... contempler le paysage par la baie vitrée, le coucher du soleil, et elle nous disait Regardez les enfants, ce coucher du soleil, on dirait de l'or liquide, comme dans un tableau de Turner. C'est-à-dire qu'à l'âge de 4 ans et moi 7, Éric et moi savions déjà qui était Turner. Donc une enfance infiniment poétique.",
+        "extrait_titre": "L'enfance façonnée par l'art et la poésie ?",
+        "extrait": "Marseille, c'est le souvenir du bonheur qui n'a pas duré assez, évidemment. J'ai tout raconté dans mon livre, la...  La Bastide au volet jaune, il s'agissait d'une grande Bastide, en effet, que ma mère avait, qui était artiste, Huguette Spengler, avait déjà peint en jaune, face à la mer... déjà enfant, nous savions parfaitement qui étaient évidemment Gala et Dali, ou Dali et Gala, qui étaient nos héros préférés... c'était comme un tableau de Turner.",
         "start": 70.168,
         "title": "Marseille, Mulhouse et Madrid, l’enfance de l’art",
         "show": "À voix nue",
@@ -583,30 +583,52 @@
         "mid": "2024C3500E0178"
     },
     {
-        "extrait_titre": "Goya, le précurseur engagé ?",
-        "extrait": "C'est pour ça que je suis avec ferveur... découvrir, que nous découvrons tous Goya. Goya, il était comme Velázquez, puisque au début de sa carrière, lui aussi, il peint des portraits de cours... Goya délaisse les portraits de cour et ça... qu'est-ce qu'il faisait pour faire ces grands tableaux des désastres de la guerre ? Il quittait chaque matin... il se cachait derrière des gros rochers... pour croquer les exécutions.",
-        "start": 1463.831,
-        "title": "Marseille, Mulhouse et Madrid, l’enfance de l’art",
-        "show": "À voix nue",
-        "chapo": "De Marseille à Madrid, l’enfance de Christine Spengler est baignée dans le surréalisme de sa mère et l’Espagne de Goya qu’elle admire sur les murs du Prado.\n \n",
-        "mp3": "https://media.radiofrance-podcast.net/podcast09/10351-15.12.2024-ITEMA_23965667-2024C3500E0178-21.mp3",
-        "url": "https://www.radiofrance.fr/franceculture/podcasts/a-voix-nue/marseille-mulhouse-et-madrid-l-enfance-de-l-art-3828297",
-        "mid": "2024C3500E0178"
+        "extrait_titre": "Comment l'histoire façonne nos vies quotidiennes ?",
+        "extrait": "Mon goût pour l'histoire, je pense, vient de là, de cette espèce de narration continuée qui accompagnait le temps présent, la vie quotidienne, le récit des années de résistance. Le paradoxe est que mon père, qui était d'origine vénitienne, italien, naturalisé français, mais réexpédié par le régime de Vichy en Italie, qui était parti à pied lorsque Mussolini est tombé, rentré dans un maquis... Lui ne parlait pas et ne racontait rien et je pense que finalement l'histoire que j'ai choisi de faire, c'était l'histoire d'Italie, donc en quelque sorte de faire retour vers cette histoire qui m'avait été dissimulée et tue.",
+        "start": 870.726,
+        "title": "Famille Crouzet, l’histoire en héritage",
+        "show": "Le Cours de l'histoire",
+        "chapo": "Dans la famille Crouzet, l’histoire et le goût de la recherche reviennent à chaque génération. Des arrières-grands-parents aux enfants, l’histoire est un héritage qui laisse des traces : comment concilier vie de famille et recherches scientifiques ?",
+        "mp3": "https://media.radiofrance-podcast.net/podcast09/10076-16.12.2024-ITEMA_23966494-2024C36128S0351-21.mp3",
+        "url": "https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/famille-crouzet-l-histoire-en-heritage-8243400",
+        "mid": "2024C36128S0351"
     },
     {
-        "extrait_titre": "Un retour sur une enfance fracturée.",
-        "extrait": "Et donc, elle part avec Lucas. Éric et moi, nous prions pour que le divorce n'ait pas lieu... c'est triste à dire, mais c'est un inconnu... Mon père ne vint nous rendre visite pour Noël, je crois qu'une fois. Donc, pour moi, c'était un inconnu.",
-        "start": 482.037,
-        "title": "Marseille, Mulhouse et Madrid, l’enfance de l’art",
-        "show": "À voix nue",
-        "chapo": "De Marseille à Madrid, l’enfance de Christine Spengler est baignée dans le surréalisme de sa mère et l’Espagne de Goya qu’elle admire sur les murs du Prado.\n \n",
-        "mp3": "https://media.radiofrance-podcast.net/podcast09/10351-15.12.2024-ITEMA_23965667-2024C3500E0178-21.mp3",
-        "url": "https://www.radiofrance.fr/franceculture/podcasts/a-voix-nue/marseille-mulhouse-et-madrid-l-enfance-de-l-art-3828297",
-        "mid": "2024C3500E0178"
+        "extrait_titre": "L'héritage familial peut-il devenir un fardeau ?",
+        "extrait": "Il y a une mise en abîme là, c'est-à-dire que vous discutez les réflexions de votre aïeul. Ça donne que, globalement, sa réflexion était remarquable, mais qu'on peut aussi l'annoncer, ne pas l'adopter. Oui, parce que c'est vraiment ça. Elisabeth Crozet-Pavon, avant, il faut vraiment rappeler que l'histoire, c'est une discipline scientifique. Le mot histoire couvre plein de sens. C'est les choses du passé, etc. Mais ce qui nous intéresse aujourd'hui, c'est vraiment l'approche scientifique de la chose.",
+        "start": 738.877,
+        "title": "Famille Crouzet, l’histoire en héritage",
+        "show": "Le Cours de l'histoire",
+        "chapo": "Dans la famille Crouzet, l’histoire et le goût de la recherche reviennent à chaque génération. Des arrières-grands-parents aux enfants, l’histoire est un héritage qui laisse des traces : comment concilier vie de famille et recherches scientifiques ?",
+        "mp3": "https://media.radiofrance-podcast.net/podcast09/10076-16.12.2024-ITEMA_23966494-2024C36128S0351-21.mp3",
+        "url": "https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/famille-crouzet-l-histoire-en-heritage-8243400",
+        "mid": "2024C36128S0351"
     },
     {
-        "extrait_titre": "L'Héritage des Bibliothèques : Que Contiennent-elles ?",
-        "extrait": "La bibliothèque de mon père, il y avait au moins 7000 livres que nous avons retrouvés à sa mort. Personne n'en voulait, aucune institution ne nous voulait. Finalement, nous l'avons donné à la Sorbonne... pour ne pas laisser à notre fille... la corvée de savoir qu'est-ce qu'il faut en faire quand on disparaît.",
+        "extrait_titre": "Peut-on échapper à son histoire familiale ?",
+        "extrait": "On sait bien que tout le monde a des parents qui sont plus ou moins prestigieux. Moi, pour ma part, j'ai toujours eu l'impression d'être un fils d'archevêque, en quelque sorte. On me regardait avec soupçon comme ayant une ascendance qui me procurait des privilèges. C'est assez difficile d'échapper à cette pression. Et pour Guillemette, une collègue a déjà dit une fois, bien que ce ne soit pas devant elle, qu'elle était fille de coulac.",
+        "start": 2261.459,
+        "title": "Famille Crouzet, l’histoire en héritage",
+        "show": "Le Cours de l'histoire",
+        "chapo": "Dans la famille Crouzet, l’histoire et le goût de la recherche reviennent à chaque génération. Des arrières-grands-parents aux enfants, l’histoire est un héritage qui laisse des traces : comment concilier vie de famille et recherches scientifiques ?",
+        "mp3": "https://media.radiofrance-podcast.net/podcast09/10076-16.12.2024-ITEMA_23966494-2024C36128S0351-21.mp3",
+        "url": "https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/famille-crouzet-l-histoire-en-heritage-8243400",
+        "mid": "2024C36128S0351"
+    },
+    {
+        "extrait_titre": "Transmission intergénérationnelle : un héritage lourd à porter.",
+        "extrait": "Il y a ce lien avec Lucien Fèvre et donc l'école des annales. Mais pas seulement, parce que si on remonte la généalogie avec Henri Hauser, on est pareil, très proche des annales. Oui, il publiait plutôt dans la revue historique, mais il correspondait avec Lucien Fèvre. J'ai des fragments de correspondance que j'ai publiés. Cela parle de la façon dont l'héritage familial peut influer sur notre propre trajectoire.",
+        "start": 1782.831,
+        "title": "Famille Crouzet, l’histoire en héritage",
+        "show": "Le Cours de l'histoire",
+        "chapo": "Dans la famille Crouzet, l’histoire et le goût de la recherche reviennent à chaque génération. Des arrières-grands-parents aux enfants, l’histoire est un héritage qui laisse des traces : comment concilier vie de famille et recherches scientifiques ?",
+        "mp3": "https://media.radiofrance-podcast.net/podcast09/10076-16.12.2024-ITEMA_23966494-2024C36128S0351-21.mp3",
+        "url": "https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/famille-crouzet-l-histoire-en-heritage-8243400",
+        "mid": "2024C36128S0351"
+    },
+    {
+        "extrait_titre": "Une bibliothèque familiale : miroir de l’héritage.",
+        "extrait": "Alors, la bibliothèque de mon père, il y avait au moins 7000 livres que nous avons retrouvés à sa mort. Personne n'en voulait, aucune institution ne nous voulait. Finalement, nous l'avons donné à la Sorbonne. Il est certain que tout ce qui a été écrit, à partir de ce Baltan Studism, c'est une historiographie en enrichissement constant, a été pour moi une découverte, et une découverte féconde.",
         "start": 190.39,
         "title": "Famille Crouzet, l’histoire en héritage",
         "show": "Le Cours de l'histoire",
@@ -616,63 +638,8 @@
         "mid": "2024C36128S0351"
     },
     {
-        "extrait_titre": "Une Enfance Entre Traces d'Histoire et Résilience",
-        "extrait": "Je suis née dans une famille de résistants, avec une famille qui était une sorte de matrilinaire. Mon goût pour l'histoire, je pense, vient de cette espèce de narration continuée qui accompagnait le temps présent, le récit des années de résistance.",
-        "start": 845.272,
-        "title": "Famille Crouzet, l’histoire en héritage",
-        "show": "Le Cours de l'histoire",
-        "chapo": "Dans la famille Crouzet, l’histoire et le goût de la recherche reviennent à chaque génération. Des arrières-grands-parents aux enfants, l’histoire est un héritage qui laisse des traces : comment concilier vie de famille et recherches scientifiques ?",
-        "mp3": "https://media.radiofrance-podcast.net/podcast09/10076-16.12.2024-ITEMA_23966494-2024C36128S0351-21.mp3",
-        "url": "https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/famille-crouzet-l-histoire-en-heritage-8243400",
-        "mid": "2024C36128S0351"
-    },
-    {
-        "extrait_titre": "Les Sangs-Mêlés : Une Héritage Familial et Politique",
-        "extrait": "Ce livre est une sorte de déclaration de guerre... contre le non-sens de la fermeture sur soi. Le titre étant une phrase tirée du manuscrit.",
-        "start": 1393.054,
-        "title": "Famille Crouzet, l’histoire en héritage",
-        "show": "Le Cours de l'histoire",
-        "chapo": "Dans la famille Crouzet, l’histoire et le goût de la recherche reviennent à chaque génération. Des arrières-grands-parents aux enfants, l’histoire est un héritage qui laisse des traces : comment concilier vie de famille et recherches scientifiques ?",
-        "mp3": "https://media.radiofrance-podcast.net/podcast09/10076-16.12.2024-ITEMA_23966494-2024C36128S0351-21.mp3",
-        "url": "https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/famille-crouzet-l-histoire-en-heritage-8243400",
-        "mid": "2024C36128S0351"
-    },
-    {
-        "extrait_titre": "La Vie de Famille, Un Voyage au Coeur de l'Histoire",
-        "extrait": "Non, non, non, pas génial, généalogique. Un énorme travail pour remonter première génération... Alors donc, là, c'est l'histoire aussi d'un brassage de population.",
-        "start": 3527.46,
-        "title": "Famille Crouzet, l’histoire en héritage",
-        "show": "Le Cours de l'histoire",
-        "chapo": "Dans la famille Crouzet, l’histoire et le goût de la recherche reviennent à chaque génération. Des arrières-grands-parents aux enfants, l’histoire est un héritage qui laisse des traces : comment concilier vie de famille et recherches scientifiques ?",
-        "mp3": "https://media.radiofrance-podcast.net/podcast09/10076-16.12.2024-ITEMA_23966494-2024C36128S0351-21.mp3",
-        "url": "https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/famille-crouzet-l-histoire-en-heritage-8243400",
-        "mid": "2024C36128S0351"
-    },
-    {
-        "extrait_titre": "De la Narration Historique au Voyage dans le Temps",
-        "extrait": "Non, non, il y a des vacances... Oui, alors déjà, des vacances en Italie, à Venise, où il y a quand même une belle plage, donc je ne peux pas me plaindre.",
-        "start": 3068.431,
-        "title": "Famille Crouzet, l’histoire en héritage",
-        "show": "Le Cours de l'histoire",
-        "chapo": "Dans la famille Crouzet, l’histoire et le goût de la recherche reviennent à chaque génération. Des arrières-grands-parents aux enfants, l’histoire est un héritage qui laisse des traces : comment concilier vie de famille et recherches scientifiques ?",
-        "mp3": "https://media.radiofrance-podcast.net/podcast09/10076-16.12.2024-ITEMA_23966494-2024C36128S0351-21.mp3",
-        "url": "https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/famille-crouzet-l-histoire-en-heritage-8243400",
-        "mid": "2024C36128S0351"
-    },
-    {
-        "extrait_titre": "L'effondrement du régime Assad : un bouleversement régional ?",
-        "extrait": "La chute du régime de Bachar al-Assad a considérablement fragilisé l'axe de la résistance de l'Iran. Cet affaiblissement est réel. On voit que la Turquie, en revanche, est très contente de ce qui se passe, puisque la Turquie soutenait l'opposition à Bachar el-Assad.",
-        "start": 28.638,
-        "title": "Chute de Bachar al-Assad : la bascule est-elle aussi régionale ?",
-        "show": "Questions du soir : le débat",
-        "chapo": "La chute du régime de Bachar al-Assad le 8 décembre 2024 a considérablement fragilisé l'« axe de la résistance » de l'Iran. Le renversement du pouvoir en Syrie est-il le signe d'une recomposition des forces ? Quelles conséquences peut-on attendre de ce séisme géopolitique au Proche-Orient ?",
-        "mp3": "https://media.radiofrance-podcast.net/podcast09/10175-16.12.2024-ITEMA_23966490-2024C36267S0351-21.mp3",
-        "url": "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/chute-de-bachar-al-assad-la-bascule-est-elle-aussi-regionale-3651230",
-        "mid": "2024C36267S0351"
-    },
-    {
-        "extrait_titre": "Israël : un acteur déstabilisateur dans la région ?",
-        "extrait": "Il est frappant de voir que depuis une semaine, Israël bombarde non-stop la Syrie. Cela peut fragiliser les nouvelles autorités de Damas, qui ont besoin d'être soutenues dans ce contexte de transition, extrêmement compliquée. L'attitude d'Israël apparaît comme l'élément vraiment déstabilisant du Proche-Orient.",
+        "extrait_titre": "Israël : L'atome libre du Proche-Orient ?",
+        "extrait": "Il est frappant de voir que depuis une semaine, Israël bombarde non-stop dans des proportions absolument inimaginables la Syrie. Cela pose question, puisque cela peut tout à fait fragiliser les nouvelles autorités de Damas, qui ont plutôt besoin, me semble-t-il, d'être, si ce n'est soutenu en tous les cas, de ne pas leur mettre des bâtons dans les roues dès le départ.",
         "start": 234.54,
         "title": "Chute de Bachar al-Assad : la bascule est-elle aussi régionale ?",
         "show": "Questions du soir : le débat",
@@ -682,9 +649,9 @@
         "mid": "2024C36267S0351"
     },
     {
-        "extrait_titre": "Le pragmatisme de l'Iran face à la Syrie : une stratégie perdante ?",
-        "extrait": "L'Iran a dépensé énormément d'argent et perdu des milliers de vies militaires en Syrie. Le débat actuel en Iran vise à justifier ces investissements en argumentant que la résistance en Syrie reste nécessaire. La réalité, c'est que les coûts pourraient susciter des mouvements de contestation internes, face à une crise économique.",
-        "start": 1058.546,
+        "extrait_titre": "L'Iran, perdant isolé : quel avenir ?",
+        "extrait": "Oui, absolument, parce que c'était quand même le point d'appui de cette stratégie iranienne dans la région et que le régime de Bachar el-Assad était très important dans ce contexte-là, puisque c'est une alliance, effectivement, qui est encore plus ancienne que l'arrivée au pouvoir de Bachar el-Assad.",
+        "start": 709.013,
         "title": "Chute de Bachar al-Assad : la bascule est-elle aussi régionale ?",
         "show": "Questions du soir : le débat",
         "chapo": "La chute du régime de Bachar al-Assad le 8 décembre 2024 a considérablement fragilisé l'« axe de la résistance » de l'Iran. Le renversement du pouvoir en Syrie est-il le signe d'une recomposition des forces ? Quelles conséquences peut-on attendre de ce séisme géopolitique au Proche-Orient ?",
@@ -693,9 +660,9 @@
         "mid": "2024C36267S0351"
     },
     {
-        "extrait_titre": "Le retour de la laïcité en Syrie : rêve ou réalité ?",
-        "extrait": "Si la démocratie vient vraiment en Syrie, cela pourrait établir un modèle de gouvernement inclusif, un gouvernement qui préserve les institutions de l'État et fournit les services à la population. Il est crucial de laisser les Syriens gérer la situation eux-mêmes après avoir renversé un régime de 54 ans.",
-        "start": 1535.807,
+        "extrait_titre": "Un espoir pour la démocratie en Syrie ?",
+        "extrait": "Je pense que la Syrie, c'est quand même une histoire qui nous déchire tous le cœur. […] Et si la démocratie vient vraiment dans ce pays ? Et si la laïcité vient vraiment ? Attention, ça peut être un danger pour des pays comme l'Iran.",
+        "start": 1959.033,
         "title": "Chute de Bachar al-Assad : la bascule est-elle aussi régionale ?",
         "show": "Questions du soir : le débat",
         "chapo": "La chute du régime de Bachar al-Assad le 8 décembre 2024 a considérablement fragilisé l'« axe de la résistance » de l'Iran. Le renversement du pouvoir en Syrie est-il le signe d'une recomposition des forces ? Quelles conséquences peut-on attendre de ce séisme géopolitique au Proche-Orient ?",
@@ -704,8 +671,19 @@
         "mid": "2024C36267S0351"
     },
     {
-        "extrait_titre": "Un cambrioleur au bon goût ou un héros romanesque ?",
-        "extrait": "Ce qui fascine, c'est que, je pense, en premier lieu, c'est que ce sont des brigands stylés. Ce sont des caméléons qui vont mimer les personnes riches, donc les gros bourgeois, les nobles, et les mimer à la perfection. Et en plus de ça, ce sont des non-violents.",
+        "extrait_titre": "Le coût des illusions : l'Iran et son investissement en Syrie",
+        "extrait": "On parle d'entre 50 et 60 milliards de dollars dépensés par l'Iran. C'est un coup énorme. Les Iraniens sont en crise économique, notamment depuis la sortie de Trump de l'accord sur le nucléaire. Ce débat va être crucial en interne en Iran.",
+        "start": 1145.322,
+        "title": "Chute de Bachar al-Assad : la bascule est-elle aussi régionale ?",
+        "show": "Questions du soir : le débat",
+        "chapo": "La chute du régime de Bachar al-Assad le 8 décembre 2024 a considérablement fragilisé l'« axe de la résistance » de l'Iran. Le renversement du pouvoir en Syrie est-il le signe d'une recomposition des forces ? Quelles conséquences peut-on attendre de ce séisme géopolitique au Proche-Orient ?",
+        "mp3": "https://media.radiofrance-podcast.net/podcast09/10175-16.12.2024-ITEMA_23966490-2024C36267S0351-21.mp3",
+        "url": "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/chute-de-bachar-al-assad-la-bascule-est-elle-aussi-regionale-3651230",
+        "mid": "2024C36267S0351"
+    },
+    {
+        "extrait_titre": "Arsène Lupin : héros ou voleur ?",
+        "extrait": "Ce qui fascine, c'est que, je pense, en premier lieu, c'est que ce sont des brigands stylés. Ce sont des caméléons qui vont mimer les personnes riches, donc les gros bourgeois, les nobles, et les mimer à la perfection. Et en plus de ça, ce sont des non-violents. Donc imaginez, vis-à-vis du grand public, des voleurs qui ne s'en prennent qu'aux riches et qui, en plus de ça, ne sont pas violents.",
         "start": 319.24,
         "title": "Le vrai Arsène Lupin enfin dévoilé !",
         "show": "Le Point culture",
@@ -715,9 +693,9 @@
         "mid": "2024C41196S0351"
     },
     {
-        "extrait_titre": "Des voleurs, mais pas n'importe quel voleur !",
-        "extrait": "Il y a forcément un apprentissage derrière, ce ne sont pas des voleurs à la tire, ce ne sont pas des simples cambrioleurs. Là, on a vraiment un mode opératoire qui nécessite beaucoup de réflexion, beaucoup d'intelligence.",
-        "start": 378.89,
+        "extrait_titre": "Les rats d'hôtel, un phénomène fascinant",
+        "extrait": "C'est un type de voleur qui apparaît en même temps qu'un nouveau type d'hôtel. Les grands palaces qui se créaient, dans les stations balnéaires notamment, qui sont un phénomène nouveau au XIXe siècle. Et donc ces palaces et les casinos qui vont souvent avec offrent une très très grosse concentration de personnes très riches et donc de poids potentiel pour les voleurs.",
+        "start": 155.937,
         "title": "Le vrai Arsène Lupin enfin dévoilé !",
         "show": "Le Point culture",
         "chapo": "Dans son livre \"Aux origines d'Arsène Lupin\", l'historien Patrice Lajoye retrace la vie de Georges Ostrowski, cambrioleur qui volait les riches dans les palaces à la fin du 19ᵉ siècle. Ce dernier, méconnu du grand-public, inspira plusieurs personnages de fiction comme Arsène Lupin ou Fantômas. ",
@@ -726,9 +704,9 @@
         "mid": "2024C41196S0351"
     },
     {
-        "extrait_titre": "La métaphysique: une quête irrépressible",
-        "extrait": "C'est irrépressible, l'homme est un être métaphysique. Mais un besoin ne crée pas un savoir. Dans son livre \"La critique de la raison pure\", Kant affirme que la raison théorique, si elle veut établir du savoir, ne peut pas s'aventurer au-delà du cadre d'une expérience au moins possible.",
-        "start": 90.251,
+        "extrait_titre": "La métaphysique est-elle un besoin humain ?",
+        "extrait": "En effet, Kant reconnaissait tout à fait que les humains ont un besoin métaphysique, un besoin de penser des choses qui dépassent ce monde. D'où ils viennent, si vraiment rien de leur âme ne va leur survivre, s'il existe un dieu et de quelle sorte, s'ils sont libres ou bien manipulés, [...] C'est irrépressible, l'homme est un être métaphysique.",
+        "start": 59.68,
         "title": "Que de critiques de la métaphysique ! ",
         "show": "Avec philosophie",
         "chapo": "Les philosophes qui font aujourd’hui de la métaphysique conçoivent-ils leur activité comme la quête d’un savoir ? Ou considèrent-ils qu’ils s’évadent seulement en pensée, voire produisent des fictions, un peu comme les sciences-fictions des romanciers et des cinéastes ? ",
@@ -737,9 +715,9 @@
         "mid": "2024C48904S0351"
     },
     {
-        "extrait_titre": "Fiction ou métaphysique: quelle distinction ?",
-        "extrait": "Est-ce que cette fiction, elle aboutit à un savoir ? Je ne dirais pas que la métaphysique est de la fiction, je dirais que la métaphysique passe par la fiction en laissant, pour moi, entre la philosophie et la littérature, une différence d'orientation dans un magma, si l'on veut, continu.",
-        "start": 270.119,
+        "extrait_titre": "Fiction et métaphysique : alliées ou ennemies ?",
+        "extrait": "Alors, je revendique de produire de la fiction, ça oui. Est-ce que cette fiction, elle aboutit à un savoir ? Je ne dirais pas que la métaphysique est de la fiction, je dirais que la métaphysique passe par la fiction en laissant, pour moi, entre la philosophie et la littérature, une différence d'orientation dans un magma, si l'on veut, continu.",
+        "start": 267.318,
         "title": "Que de critiques de la métaphysique ! ",
         "show": "Avec philosophie",
         "chapo": "Les philosophes qui font aujourd’hui de la métaphysique conçoivent-ils leur activité comme la quête d’un savoir ? Ou considèrent-ils qu’ils s’évadent seulement en pensée, voire produisent des fictions, un peu comme les sciences-fictions des romanciers et des cinéastes ? ",
@@ -748,9 +726,9 @@
         "mid": "2024C48904S0351"
     },
     {
-        "extrait_titre": "Le pouvoir des possibles: un monde de pluralité",
-        "extrait": "La question est de savoir si on peut actualiser. En même temps, des possibles qui sont incompatibles. Donc, combien de réalités dans la même réalité ? Combien de mondes dans les mêmes mondes ? Normalement on a l'impression qu'on a une connaissance vraie et il y a un seul monde qui est actualisé.",
-        "start": 1294.046,
+        "extrait_titre": "Pourquoi le monde est-il tel qu'il est ?",
+        "extrait": "Pour ce qui concerne la métaphysique, je suis assez d'accord avec Leibniz que la question fondamentale est pourquoi il y a quelque chose plutôt qu'un rien. En ce qui me concerne, la question est pourquoi il y a ce monde-ci plutôt qu'un autre ? [...] Est-ce que ce monde-ci, cette façon de penser, cette façon de représenter les choses est nécessaire ? ou elle ne l'est pas.",
+        "start": 318.32,
         "title": "Que de critiques de la métaphysique ! ",
         "show": "Avec philosophie",
         "chapo": "Les philosophes qui font aujourd’hui de la métaphysique conçoivent-ils leur activité comme la quête d’un savoir ? Ou considèrent-ils qu’ils s’évadent seulement en pensée, voire produisent des fictions, un peu comme les sciences-fictions des romanciers et des cinéastes ? ",
@@ -759,8 +737,19 @@
         "mid": "2024C48904S0351"
     },
     {
-        "extrait_titre": "Métaphysique et science: le rapport complexe",
-        "extrait": "Ce n'est pas par hasard si le réalisme spéculatif, il naît dans les années 2000, au moment où la crise environnementale devient... C'est-à-dire qu'on ne peut pas ne pas en parler. Et comment en philosophie, quand on n'est donc pas scientifique, quand on n'est pas océanographe, climatologue, comment parler de la crise environnementale ? Eh bien, justement, je pense que cette question...",
+        "extrait_titre": "La métaphysique face à la science : ennemies ou complices ?",
+        "extrait": "Il y a la voie de la métaphysique classique jusqu'à Kant qui prétendait atteindre par une élaboration conceptuelle à une forme de nécessité interne aussi forte dans son genre que celle qu'on peut toucher du doigt quand on fait des mathématiques. [...] Pour toucher au réel, il faut que la pensée sorte d'elle-même, d'une certaine façon.",
+        "start": 560.953,
+        "title": "Que de critiques de la métaphysique ! ",
+        "show": "Avec philosophie",
+        "chapo": "Les philosophes qui font aujourd’hui de la métaphysique conçoivent-ils leur activité comme la quête d’un savoir ? Ou considèrent-ils qu’ils s’évadent seulement en pensée, voire produisent des fictions, un peu comme les sciences-fictions des romanciers et des cinéastes ? ",
+        "mp3": "https://media.radiofrance-podcast.net/podcast09/23118-16.12.2024-ITEMA_23966516-2024C48904S0351-21.mp3",
+        "url": "https://www.radiofrance.fr/franceculture/podcasts/avec-philosophie/que-de-critiques-de-la-metaphysique-6669817",
+        "mid": "2024C48904S0351"
+    },
+    {
+        "extrait_titre": "La crise environnementale et la résurgence de la métaphysique",
+        "extrait": "C'est-à-dire que ce n'est pas par hasard si le réalisme spéculatif, il naît dans les années 2000, au moment où la crise environnementale devient [...] Comment en philosophie, quand on n'est donc pas scientifique, quand on n'est pas océanographe, climatologue, comment parler de la crise environnementale ? Eh bien, justement, je pense que cette question...",
         "start": 2938.006,
         "title": "Que de critiques de la métaphysique ! ",
         "show": "Avec philosophie",
@@ -770,9 +759,9 @@
         "mid": "2024C48904S0351"
     },
     {
-        "extrait_titre": "Les premiers artistes de l'humanité ?",
-        "extrait": "Les artistes, c'est Homo sapiens, donc c'est nous. Homo sapiens, il arrive sur le continent eurasiatique aux alentours de moins 50 000 à peu près, même peut-être plus avant. Bon, c'est un peu compliqué, on n'a pas le temps là, il faudrait deux heures d'émission en réalité. Mais en tous les cas, les homo sapiens qui sont là à moins 38 000, c'est nous. Et ils savent parfaitement tenir un fusain, tenir un silex.",
-        "start": 1039.977,
+        "extrait_titre": "Révélations sur l'art paléolithique : une révolution de pensée ?",
+        "extrait": "La grotte Chauvet a complètement chamboulé tout ce qu'on pensait sur l'art paléolithique avant sa découverte. Avant, on faisait des partitions entre l'orignacien, le gravétien, et nous à Chauvet, on n'arrive pas à faire ça, parce qu'on est dans un système de pensée global.",
+        "start": 1120.25,
         "title": "Grotte Chauvet : la science au pied des murs",
         "show": "La Science, CQFD",
         "chapo": "Avec les dessins de la grotte Chauvet qui nous viennent d’un autre temps, Homo sapiens nous dévoile sa vision du monde et ses croyances. Comment les premiers mythes mis en images par l’humanité sont-ils étudiés et quelles informations nous apportent-ils sur les artistes de l’époque ? ",
@@ -781,9 +770,9 @@
         "mid": "2024C48906S0351"
     },
     {
-        "extrait_titre": "Chauvet, la merveille de la préhistoire",
-        "extrait": "Déjà, le site, c'est son état de conservation. Ça, c'est incroyable. On a les traces de doigts sur les parois. Et c'est ce qui a ébloui tout le monde. C'est-à-dire que tout est dans un excellent état de conservation. Après, pour la recherche, ça a ouvert une porte vers le passé, alors peut-être une illusion de pouvoir imaginer plein de choses, mais on arrive, avec cet état de conservation, à aller très loin dans l'analyse.",
-        "start": 256.079,
+        "extrait_titre": "Les artistes de la préhistoire : des maîtres à la Renaissance ?",
+        "extrait": "Pour moi, ce sont des équivalents de grands peintres de la Renaissance. Ils maîtrisent parfaitement leurs gestes, parfaitement leurs techniques. Voilà, il n'y a pas que du très beau à Chauvet, mais pour moi, les artistes qui ont fait la salle du fond, ce sont les équivalents d'un Léonard ou d'un Raphaël.",
+        "start": 1481.296,
         "title": "Grotte Chauvet : la science au pied des murs",
         "show": "La Science, CQFD",
         "chapo": "Avec les dessins de la grotte Chauvet qui nous viennent d’un autre temps, Homo sapiens nous dévoile sa vision du monde et ses croyances. Comment les premiers mythes mis en images par l’humanité sont-ils étudiés et quelles informations nous apportent-ils sur les artistes de l’époque ? ",
@@ -792,9 +781,9 @@
         "mid": "2024C48906S0351"
     },
     {
-        "extrait_titre": "Que révèlent les peintures sur notre passé ?",
-        "extrait": "La grotte Chauvet, on n'a trouvé aucune trace de vie quotidienne sur place. Ce n'était pas un lieu d'habitation. Ce n'était pas un lieu d'habitation. En tout cas, il n'y a pas eu beaucoup de vestiges, mais il y a tout de même des traces de foyers, par exemple. Donc, toute une série d'activités ont eu lieu. Il y a quelques objets qui ont aussi été retrouvés.",
-        "start": 530.615,
+        "extrait_titre": "Entre l'homme et l'ours : un partage dangereux ?",
+        "extrait": "Les humains et les ours se sont croisés dans cet espace-là. L'humain investit le monde des ours, puisque l'ours des cavernes hiverne dans cette grotte, mais ils ne se sont pas forcément croisés.",
+        "start": 1914.947,
         "title": "Grotte Chauvet : la science au pied des murs",
         "show": "La Science, CQFD",
         "chapo": "Avec les dessins de la grotte Chauvet qui nous viennent d’un autre temps, Homo sapiens nous dévoile sa vision du monde et ses croyances. Comment les premiers mythes mis en images par l’humanité sont-ils étudiés et quelles informations nous apportent-ils sur les artistes de l’époque ? ",
@@ -803,19 +792,8 @@
         "mid": "2024C48906S0351"
     },
     {
-        "extrait_titre": "Chauvet : bien plus qu'un simple abri",
-        "extrait": "Cette grotte s'est conservée grâce à ça. Et on peut imaginer que d'autres, ce sont lessivés tranquillement, et les figures ont disparu. Ou alors, après une phase de froid particulièrement intense, les plafonds se sont effondrés. Vous voyez, c'est toujours ce défi que l'on a dans la préhistoire. On sait ce qu'on voit, on sait ce qu'on a, on ne sait pas ce qu'on découvrira demain, mais on sait que beaucoup, beaucoup de choses se sont perdues.",
-        "start": 1371.047,
-        "title": "Grotte Chauvet : la science au pied des murs",
-        "show": "La Science, CQFD",
-        "chapo": "Avec les dessins de la grotte Chauvet qui nous viennent d’un autre temps, Homo sapiens nous dévoile sa vision du monde et ses croyances. Comment les premiers mythes mis en images par l’humanité sont-ils étudiés et quelles informations nous apportent-ils sur les artistes de l’époque ? ",
-        "mp3": "https://media.radiofrance-podcast.net/podcast09/23118-16.12.2024-ITEMA_23966516-2024C48906S0351-21.mp3",
-        "url": "https://www.radiofrance.fr/franceculture/podcasts/la-science-cqfd/chauvet-2871337",
-        "mid": "2024C48906S0351"
-    },
-    {
-        "extrait_titre": "La danse visuelle des ancêtres",
-        "extrait": "Quand vous avez une torche ou un foyer en bas de parois, les flammes bougent, donc elles vont créer un effet cinétique, elles vont faire bouger le volume, bouger les animaux. Et ce sont des effets d'optique qui existent vraiment quand vous êtes sur des flammes d'éclairage. Et on a des animaux à plusieurs pattes. Et on peut imaginer effectivement que le feu va faire bouger l'animal, le faire marcher ou le faire courir sur la paroi.",
+        "extrait_titre": "La lumière et l’art : un lien caché dans la grotte ?",
+        "extrait": "Quand vous avez une torche ou un foyer en bas de parois, les flammes bougent, donc elles vont créer un effet cinétique, elles vont faire bouger le volume, bouger les animaux. Et l'esprit se focalise sur la narration qui l'accompagne.",
         "start": 3003.752,
         "title": "Grotte Chauvet : la science au pied des murs",
         "show": "La Science, CQFD",
@@ -825,7 +803,18 @@
         "mid": "2024C48906S0351"
     },
     {
-        "extrait_titre": "La peur de la liberté : une réalité ?",
+        "extrait_titre": "La grotte Chauvet, miracle d'authenticité et de préservation",
+        "extrait": "Ce qui fait que la grotte s'est conservée grâce à l'eau qui a coulé sur les murs, mais a formé de la calcite, des carbonates de calcium, qui ont figé les pigments sur la paroi. Ces pigments sont devenus de la pierre.",
+        "start": 1364.143,
+        "title": "Grotte Chauvet : la science au pied des murs",
+        "show": "La Science, CQFD",
+        "chapo": "Avec les dessins de la grotte Chauvet qui nous viennent d’un autre temps, Homo sapiens nous dévoile sa vision du monde et ses croyances. Comment les premiers mythes mis en images par l’humanité sont-ils étudiés et quelles informations nous apportent-ils sur les artistes de l’époque ? ",
+        "mp3": "https://media.radiofrance-podcast.net/podcast09/23118-16.12.2024-ITEMA_23966516-2024C48906S0351-21.mp3",
+        "url": "https://www.radiofrance.fr/franceculture/podcasts/la-science-cqfd/chauvet-2871337",
+        "mid": "2024C48906S0351"
+    },
+    {
+        "extrait_titre": "La peur de la liberté est-elle universelle ?",
         "extrait": "La liberté et la vie nouvelle font peur, on les craint et on finit même parfois par les haïr. Les situations et les personnages inventés par le grand dramaturge russe Anton Chekhov sont là pour nous le rappeler.",
         "start": 31.52,
         "title": "Anton Tchekhov lu par Jacques Rancière",
@@ -836,9 +825,9 @@
         "mid": "2024C49162S0260"
     },
     {
-        "extrait_titre": "L'évolution de Tchékov : un reflet de la société",
-        "extrait": "Le corpus de nouvelles de Chekhov, il est considérable et en même temps il est intéressant parce qu'il y a une évolution, c'est-à-dire qu'au début il écrit à toute vitesse, simplement c'est son gagne-pain. Puis petit à petit il prend conscience de lui-même comme un écrivain.",
-        "start": 1116.937,
+        "extrait_titre": "Peut-on vraiment choisir sa lecture ?",
+        "extrait": "Je suis devenu un lecteur passionné, en même temps un lecteur, je dirais, toujours un peu à côté, ou un lecteur intempestif. Intempestif, non pas au sens où j'aurais véritablement la prétention à lire autrement que les autres.",
+        "start": 244.859,
         "title": "Anton Tchekhov lu par Jacques Rancière",
         "show": "Le Book Club",
         "chapo": " ",
@@ -847,9 +836,9 @@
         "mid": "2024C49162S0260"
     },
     {
-        "extrait_titre": "L'amour et la servitude : un dilemme éternel",
-        "extrait": "Pour la femme, il s'agit de la rupture avec une condition de servitude, parce qu'elles connaissent mieux la servitude, y compris celles qui sont bien mariées avec des gens riches, mais en même temps ça implique une série de servitudes.",
-        "start": 2240.692,
+        "extrait_titre": "Les personnages de Tchékov sont-ils finalement des esclaves du quotidien ?",
+        "extrait": "Il y a effectivement les gens qui décident de partir. Il y a la dernière nouvelle de Chekhov. En un sens, ça suit bien l'évolution. Elle s'appelle la fiancée. Elle va se marier avec un fils de pop, un homme bien, une famille bien, etc.",
+        "start": 1180.127,
         "title": "Anton Tchekhov lu par Jacques Rancière",
         "show": "Le Book Club",
         "chapo": " ",
@@ -858,9 +847,9 @@
         "mid": "2024C49162S0260"
     },
     {
-        "extrait_titre": "Les petites choses qui font basculer une vie",
-        "extrait": "Ce qui est très frappant, c'est que chacun de ces moments dont on a parlé, il y a toujours des notations de paysage, des notations d'odeur, des notations de parfum, de fleurs. De champs d'oiseaux.",
-        "start": 2503.699,
+        "extrait_titre": "Pourquoi les hommes et les femmes réagissent-ils différemment à l'amour ?",
+        "extrait": "Dans les nouvelles de Tchékov, effectivement, ce thème de la vie nouvelle, ce n'est pas souvent parlé fin, mais on peut dire ça. C'est un peu réduit dans la mesure parce que la vie nouvelle, c'est le grand thème de l'époque, c'est la révolution, etc.",
+        "start": 2279.524,
         "title": "Anton Tchekhov lu par Jacques Rancière",
         "show": "Le Book Club",
         "chapo": " ",
@@ -869,7 +858,7 @@
         "mid": "2024C49162S0260"
     },
     {
-        "extrait_titre": "La révolution des affects : changer soi pour changer le monde",
+        "extrait_titre": "La transformation intérieure, est-elle vraiment à portée de main ?",
         "extrait": "Il n'y aura pas de révolution tant que les gens n'auront pas véritablement changé. Par conséquent, effectivement, c'est seulement à partir d'une révolution des affects qui forcément passe par les individus.",
         "start": 2388.82,
         "title": "Anton Tchekhov lu par Jacques Rancière",
@@ -880,9 +869,9 @@
         "mid": "2024C49162S0260"
     },
     {
-        "extrait_titre": "Les Fêtes d'Hébé : un opéra au cœur de Paris-Plage ?",
-        "extrait": "Pour preuve, Hébé, déesse de la jeunesse, est chassée de l'Olympe et elle se retrouve sur les bords de Seine à Paris. Quittant la mythologie pour le quotidien, la mise en scène de Robert Carsen nous plonge dans un univers où l'opéra côtoie les guinguettes et le breakdance, affirmant une ultra contemporanéité qui interpelle sur notre rapport à l'art.",
-        "start": 103.135,
+        "extrait_titre": "Peut-on moderniser le classique sans l'altérer ?",
+        "extrait": " le parti pris de Robert Carsen, qui sort de ses grandes mises en scène monochrome, métaphysique, un peu pina-bauchienne, c'est vraiment d'être dans un truc hyper contemporain, avec le risque de la superficialité, mais en même temps, c'est être fidèle à une forme de propos qui nous rapproche des Parisiens qui vont voir ça... c'est à certains moments superficiel, mais j'avais assez peur après le premier acte. Au deuxième acte, il y a quelques moments quand même où ça touche à la beauté.",
+        "start": 398.807,
         "title": "Critique opéra : grâce aux \"Fêtes d’Hébé\", Robert Carsen installe Paris-plage à l'Opéra Comique",
         "show": "Les Midis de Culture",
         "chapo": "Au programme du débat critique, de l'opéra : \"Les Fêtes d’Hébé\" de Jean-Philippe Rameau mis en scène par Robert Carsen à l’Opéra Comique et     Le disque “Monteverdi - Vespro della Madonna 1643” par Vincent Dumestre et Le Poème Harmonique. ",
@@ -891,9 +880,9 @@
         "mid": "2024C51852S0351"
     },
     {
-        "extrait_titre": "Monteverdi : une musique qui transcende le temps",
-        "extrait": "1643, quelques mois avant sa mort, Claudio Monteverdi fait imprimer ce que l'on considère comme son testament musical. Pour Vincent Dumestre et Le Poème Harmonique, ce disque est une grande fresque sonore qui plonge l'auditeur dans une expérience où la musique de Monteverdi devient presque une méditation, une exploration de la sensualité et de l'aspiration religieuse, transcendant l'époque et touchant l'humanité.",
-        "start": 1052.353,
+        "extrait_titre": "L'opéra-ballet : divertissement ou profondeur ?",
+        "extrait": "alors que la musique de Rameau soit absolument sublime, là je ne peux être que d'accord. Mais en revanche, cet ouvrage, c'est un ouvrage qui a vraiment très peu de consistance dramatique. Et malheureusement, je trouve que le spectacle de Robert Carson échoue à donner une consistance dramatique à cet ouvrage. C'est une mise en scène que j'ai même trouvé assez superficielle.",
+        "start": 158.975,
         "title": "Critique opéra : grâce aux \"Fêtes d’Hébé\", Robert Carsen installe Paris-plage à l'Opéra Comique",
         "show": "Les Midis de Culture",
         "chapo": "Au programme du débat critique, de l'opéra : \"Les Fêtes d’Hébé\" de Jean-Philippe Rameau mis en scène par Robert Carsen à l’Opéra Comique et     Le disque “Monteverdi - Vespro della Madonna 1643” par Vincent Dumestre et Le Poème Harmonique. ",
@@ -902,9 +891,9 @@
         "mid": "2024C51852S0351"
     },
     {
-        "extrait_titre": "L'opéra-ballet, précurseur de la revue moderne ?",
-        "extrait": "En fait, cet ouvrage, c'est un opéra-ballet. Comme son nom l'indique, dans l'opéra-ballet, la danse est aussi importante que le chant. On pourrait voir ça de cette manière. Le débat autour de la mise en scène de Robert Carsen illustre bien la confrontation entre le divertissement moderne et le riche héritage artistique du passé, où l'opéra-ballet devient une réflexion sur l'art et la société.",
-        "start": 542.198,
+        "extrait_titre": "Monteverdi : un chef-d'œuvre intemporel, même à l'ère moderne ?",
+        "extrait": "Ensemble, le poème harmonique, c'est un disque qui est passionnant, surtout quand on n'est pas extrêmement familier de cette musique ou qu'on la connait de loin...vous donner la sensation que vous êtes en train d'assister à des vêpres, que vous êtes en 1643 avec eux, alors que c'est un montage, et qu'on est au disque, il y a quelque chose d'à la fois très très fidèle à l'époque, et quelque chose d'hypravivant.",
+        "start": 1066.02,
         "title": "Critique opéra : grâce aux \"Fêtes d’Hébé\", Robert Carsen installe Paris-plage à l'Opéra Comique",
         "show": "Les Midis de Culture",
         "chapo": "Au programme du débat critique, de l'opéra : \"Les Fêtes d’Hébé\" de Jean-Philippe Rameau mis en scène par Robert Carsen à l’Opéra Comique et     Le disque “Monteverdi - Vespro della Madonna 1643” par Vincent Dumestre et Le Poème Harmonique. ",
@@ -913,9 +902,9 @@
         "mid": "2024C51852S0351"
     },
     {
-        "extrait_titre": "L'angoisse du temps qui passe : comment rester jeune en musique ?",
-        "extrait": "Est-ce que ça vous arrive aujourd'hui de vous sentir vieux ? Chaque seconde, chaque minute. Et en même temps, il y a plein de choses qui nous font nous sentir pas si vieux que ça. Et je me sens quand on a fini le dernier album, Hyper Drama. Quand on l'a bouclé, le premier truc qu'on s'est dit et dont on était contents, c'est de dire Ok, ça ne sonne pas comme un disque de vieux et de mecs qui font ça depuis 20 ans ensemble ou de vieux couples. Je crois qu'on a réussi à faire quelque chose de fun et de léger, malgré le niveau de détails et tout.",
-        "start": 50.917,
+        "extrait_titre": "Justice, jeunes éternels ?",
+        "extrait": "Quand on a fini le dernier album, Hyper Drama, le premier truc qu'on s'est dit et dont on était contents, c'est de dire Ok, ça ne sonne pas comme un disque de vieux et de mecs qui font ça depuis 20 ans ensemble ou de vieux couples. En fait, on était contents d'avoir réussi à faire quelque chose de fun et de léger, malgré le niveau de détails et tout.",
+        "start": 61.083,
         "title": "Le groupe Justice : \"Notre dernier album ne sonne pas comme un disque de vieux qui font ça depuis 20 ans\"",
         "show": "Les Midis de Culture",
         "chapo": "\"Justice\", groupe mythique de la French Touch, est ces derniers mois de tous les événements : de la sortie de leur album \"Hyperdrama\" à leur performance aux JO, Xavier de Rosnay et Gaspard Augé continuent de faire vibrer leurs sonorités électro dont on ne compte plus les tubes. ",
@@ -924,9 +913,9 @@
         "mid": "2024C51852S1351"
     },
     {
-        "extrait_titre": "Réussir malgré le rejet : la clé du succès music",
-        "extrait": "DJL n'a pas voulu de ce morceau-là sur Gigolo et c'est pour ça que ça s'est arrêté là, notre collaboration avec Gigolo. Parce qu'ils le trouvaient trop... Ils ne comprenaient pas en fait de ce que c'était. Pedro nous avait dit Hum, j'aime pas trop ce morceau et avait misé sur un autre morceau et c'est Mehdi qui nous a dit Mais non, vous ne vous rendez pas compte, il faut que ça soit ça. Nous, on avait cette intuition aussi qu'il fallait que ce soit le morceau lead de cette EP. Et en même temps, on faisait confiance.",
-        "start": 412.228,
+        "extrait_titre": "Le choc du premier café : une métaphore musicale !",
+        "extrait": "Pour nous, en tout cas, les choses qu'on finit toujours par le plus aimer sont les choses qui sont un peu gênantes au début. Et le café, c'est un super exemple. Personne n'aime son premier café ou sa première clope. Ça fait tousser, c'est dégueulasse... Et puis jusqu'au jour où ça finit par devenir un élément indispensable de nos vies.",
+        "start": 1184.952,
         "title": "Le groupe Justice : \"Notre dernier album ne sonne pas comme un disque de vieux qui font ça depuis 20 ans\"",
         "show": "Les Midis de Culture",
         "chapo": "\"Justice\", groupe mythique de la French Touch, est ces derniers mois de tous les événements : de la sortie de leur album \"Hyperdrama\" à leur performance aux JO, Xavier de Rosnay et Gaspard Augé continuent de faire vibrer leurs sonorités électro dont on ne compte plus les tubes. ",
@@ -935,9 +924,9 @@
         "mid": "2024C51852S1351"
     },
     {
-        "extrait_titre": "Le choc des émotions : pourquoi la musique dérange ?",
-        "extrait": "Je pense qu'on a un spectre, qu'on a un univers émotionnel qui est vaste mais en même temps assez restreint dans le sens où il y a des accords ou des tonalités qui pour nous sont un peu interdites parce qu'on les trouve soit trop faciles ou soit trop... Je pense qu'on a un peu de mal de toute façon à être... Parce que nos corps ne répondent pas favorablement à ces tonalités. Mais qu'est-ce qui est trop facile ? Par exemple, une sonorité qui serait trop facile, c'est quoi ? C'est d'aller dans du majeur en permanence ? Non, mais en fait, il y a une analogie qu'on fait souvent qui est celle avec le goût ou la nourriture, par exemple. Pour nous, en tout cas, les choses qu'on finit toujours par le plus aimer sont les choses qui sont un peu gênantes au début.",
-        "start": 1139.522,
+        "extrait_titre": "La musique : un langage physique avant tout",
+        "extrait": "Pour moi, la musique, c'est physique avant tout, et il ne faut pas trop chercher à intellectualiser tout ça. Et quand vous produisez, quand vous fabriquez, quand vous créez un morceau, les fréquences, les sons, les basses, les aigus ont une fonction particulière.",
+        "start": 1013.819,
         "title": "Le groupe Justice : \"Notre dernier album ne sonne pas comme un disque de vieux qui font ça depuis 20 ans\"",
         "show": "Les Midis de Culture",
         "chapo": "\"Justice\", groupe mythique de la French Touch, est ces derniers mois de tous les événements : de la sortie de leur album \"Hyperdrama\" à leur performance aux JO, Xavier de Rosnay et Gaspard Augé continuent de faire vibrer leurs sonorités électro dont on ne compte plus les tubes. ",
@@ -946,8 +935,8 @@
         "mid": "2024C51852S1351"
     },
     {
-        "extrait_titre": "L'IA va-t-elle remplacer les radiologues ?",
-        "extrait": "Geoff Hinton, un des inventeurs du deep learning, avait dit en 2017, oui, arrêtons de former des radiologues parce que d'ici 5 ans, on n'en aura plus besoin. Ça, c'est une citation qui est très souvent donnée. Et depuis, il s'est un petit peu ravisé, puisque, effectivement, il n'y a pas encore d'IA qui vraiment remplace les radiologues.",
+        "extrait_titre": "L'IA, meilleure radiologue que l'être humain ?",
+        "extrait": "Geoff Hinton, qui est un des inventeurs du deep learning, avait dit en 2017, oui, arrêtons de former des radiologues parce que d'ici 5 ans, on n'en aura plus besoin. Et depuis, il s'est un petit peu ravisé, puisque, effectivement, il n'y a pas encore d'IA qui vraiment remplace les radiologues. Donc, on a des signaux un peu contradictoires, d'une part des progrès assez impressionnants sur l'interprétation d'imagerie médicale, et d'autre part des IA généralistes qui ne sont pas capables des fois de faire des choses très simples.",
         "start": 169.446,
         "title": "L’Intelligence artificielle au service de la santé : apports ou dangers ? ",
         "show": "Carnets de santé",
@@ -957,9 +946,9 @@
         "mid": "2024C53457S0349"
     },
     {
-        "extrait_titre": "Peut-on accorder confiance à l'IA dans les soins médicaux ?",
-        "extrait": "Et donc là, la question est beaucoup plus complexe, et probablement que la responsabilité serait partagée entre l'humain, l'éditeur de la solution et l'hôpital qui l'a acheté potentiellement. Donc le cadre juridique n'est pas parfaitement clair sur cette question-là.",
-        "start": 1366.887,
+        "extrait_titre": "L'intelligence artificielle peut-elle simuler l'empathie ?",
+        "extrait": "Une grosse publication a montré que l'IA pourrait être capable d'empathie. En fait, ils ont comparé des réponses données à des questions médicales par des médecins versus un modèle d'IA. Les résultats ont montré que les évaluations de l'empathie dans les réponses étaient souvent mieux perçues venant de la machine.",
+        "start": 1544.252,
         "title": "L’Intelligence artificielle au service de la santé : apports ou dangers ? ",
         "show": "Carnets de santé",
         "chapo": "L'intelligence artificielle fascine autant qu’elle inquiète. Dans quels domaines de la santé et comment est-elle utilisée aujourd’hui ? Quels sont ses apports ? Présente t-elle des dangers pour les médecins ? Pour nous ? ",
@@ -968,9 +957,9 @@
         "mid": "2024C53457S0349"
     },
     {
-        "extrait_titre": "L'IA peut-elle simuler l'empathie humaine ?",
-        "extrait": "En fait, ils ont comparé des réponses données à des questions médicales par des médecins versus un modèle. Et ils ont demandé à des humains, patients et des médecins, d'évaluer la qualité de l'empathie donnée dans les réponses. Et en fait, en aveugle, ils ne savaient pas si c'était des humains ou l'IA.",
-        "start": 1566.316,
+        "extrait_titre": "IA : la promesse d'une médecine personnalisée, mais à quel prix ?",
+        "extrait": "Il y a effectivement des algorithmes qui permettent de prédire, par exemple, 10 ans à l'avance, si le patient va, entre guillemets, souffrir de son cancer de prostate. Mais cela soulève la question du surdiagnostic, où l'on diagnostique des maladies qui n'auraient jamais posé problème, entraînant des traitements inutiles avec des effets secondaires.",
+        "start": 1642.995,
         "title": "L’Intelligence artificielle au service de la santé : apports ou dangers ? ",
         "show": "Carnets de santé",
         "chapo": "L'intelligence artificielle fascine autant qu’elle inquiète. Dans quels domaines de la santé et comment est-elle utilisée aujourd’hui ? Quels sont ses apports ? Présente t-elle des dangers pour les médecins ? Pour nous ? ",
@@ -979,9 +968,9 @@
         "mid": "2024C53457S0349"
     },
     {
-        "extrait_titre": "L'histoire de l'esclavage encore silenciée?",
-        "extrait": "On l'abordait si votre professeur d'histoire avait une certaine conscience de l'importance de la question, je dirais. Mais globalement, quand on a fait des études sur l'enseignement de l'histoire de l'esclavage, on a vu comment c'était à géométrie variable. Et il a fallu attendre la loi Taubira de 2001 pour que précisément l'article 2 de la loi Taubira dise que la question de l'esclavage et de ses héritages devaient être inscrits dans les programmes scolaires français.",
-        "start": 299.602,
+        "extrait_titre": "L'impact continu de l'esclavage sur Haïti : un héritage à décoloniser ?",
+        "extrait": " La résistance passe également par la rébellion qui donnera lieu au soulèvement noir du 23 août 1791, déclenchant une révolution qui mènera à l'indépendance d'Haïti. Et c'est précisément à cette date, le 23 août, que nous avons choisi chaque année de commémorer la traite négrière. Mais dans le même temps, le pays va être entraîné dans une dette qui va provoquer de l'instabilité politique et des catastrophes dont peut-être certains effets se font sentir encore actuellement.",
+        "start": 84.446,
         "title": "Ecrire l’histoire de l’esclavage : décoloniser nos imaginaires",
         "show": "Questions du soir : l'idée",
         "chapo": "Ecrire l’histoire de l’esclavage, c’est aussi questionner les représentations visuelles du XVIIe à nos jours. Ces nouvelles sources permettent de connaître la vie quotidienne des esclavagisés et de comprendre tout un système de représentation des dominations, qui perdure dans nos imaginaires.",
@@ -990,9 +979,9 @@
         "mid": "2024C53458S0351"
     },
     {
-        "extrait_titre": "Une approche renouvelée : l'esclave en tant qu'individu",
-        "extrait": "C'est-à-dire qu'une personne mise en esclavage continue à être un être humain, à avoir des objectifs, des projets politiques, des projets sentimentaux, une vie qui se construit dans l'interstice de cette domination extrême et de cette violence extrême qu'est l'esclavage. Ce qui fait que les chercheurs, en anglais, ont construit le mot enslaved qui a du mal à s'imposer, mais le chemin se fait et je pense qu'il se poursuivra.",
-        "start": 427.905,
+        "extrait_titre": "L'esclavage : un système de mondialisation avant l'heure ?",
+        "extrait": "L'archéologie maritime s'est intéressée en fait aux épaves des navires négriers. Et d'abord montre une première chose, quand on fait la cartographie de ces navires, on s'aperçoit que toutes les nations européennes sont concernées. C'est l'un des premiers systèmes de mondialisation de l'histoire.",
+        "start": 618.501,
         "title": "Ecrire l’histoire de l’esclavage : décoloniser nos imaginaires",
         "show": "Questions du soir : l'idée",
         "chapo": "Ecrire l’histoire de l’esclavage, c’est aussi questionner les représentations visuelles du XVIIe à nos jours. Ces nouvelles sources permettent de connaître la vie quotidienne des esclavagisés et de comprendre tout un système de représentation des dominations, qui perdure dans nos imaginaires.",
@@ -1001,9 +990,9 @@
         "mid": "2024C53458S0351"
     },
     {
-        "extrait_titre": "Les images, vecteurs de domination coloniale?",
-        "extrait": "D'une certaine façon, je dirais peu importe. Parce que ce qui est visé, ce n'est pas tellement une réalité d'un monde colonial qui se donnerait à voir. Ce qui se donne à voir, c'est la domination et la richesse. Donc, qu'importe que l'on aille dans les colonies, ce qui est le plus important, c'est d'être conforté dans sa position dominante dans la métropole coloniale.",
-        "start": 1155.64,
+        "extrait_titre": "Les images de l'esclavage : un reflet des idéologies coloniales ?",
+        "extrait": "La propagande veut montrer la puissance et la force de la République française. Et on fait comprendre aux autres que s'ils bougent, ce sera comme en Algérie. L'image occupe 100% de la manière de voir l'espace colonial, et la propagande a un espace merveilleux pour s'étendre et dominer complètement l'information.",
+        "start": 802.61,
         "title": "Ecrire l’histoire de l’esclavage : décoloniser nos imaginaires",
         "show": "Questions du soir : l'idée",
         "chapo": "Ecrire l’histoire de l’esclavage, c’est aussi questionner les représentations visuelles du XVIIe à nos jours. Ces nouvelles sources permettent de connaître la vie quotidienne des esclavagisés et de comprendre tout un système de représentation des dominations, qui perdure dans nos imaginaires.",
@@ -1012,9 +1001,9 @@
         "mid": "2024C53458S0351"
     },
     {
-        "extrait_titre": "L'art peut-il être moche ?",
-        "extrait": "On appelle ça un mash-up.  Le montage sonore qui précède le générique, c'est un mash-up. On y entend le regretté Michel Blanc dans un film de Jean-Michel Ribe, Musée Haut, Musée Bas. Et c'est vrai qu'il y a des hauts et des bas dans l'histoire de l'art. Du beau et du laid mêlés, comme au Musée National International d'Art Modeste de Sète-le-Miam, où se tient jusqu'au 9 mars une exposition intitulée Beau Bad Ugly.  Les goûts et les couleurs, ça ne se discute pas, mais si, justement, allons-y voir.",
-        "start": 56.425,
+        "extrait_titre": "L'Art Dépassé : Qui peut juger de la beauté ?",
+        "extrait": "Les goûts et les couleurs, ça ne se discute pas, mais si, justement, allons-y voir. Pour se demander, en effet, ce qu'est une croûte, et surtout, qui nous sommes pour en juger.",
+        "start": 84.332,
         "title": "Ce sont des croûtes : histoires du moche en peinture ",
         "show": "Allons-y voir !",
         "chapo": "Les goûts et les couleurs ne se discutent pas ? Alors que se tient l’exposition \"Beaubadugly\" au Musée international d’art modeste de Sète jusqu'au 9 mars 2025, allons-y voir pour se demander ce qu’est une croûte et surtout qui nous sommes pour en juger.\n",
@@ -1023,9 +1012,9 @@
         "mid": "2024C53469E0016"
     },
     {
-        "extrait_titre": "À quoi sert une croûte ?",
-        "extrait": "Il est un arbitre des élégances qui fait parler de lui en ce moment, c'est le dictionnaire de l'Académie française. Eh bien, figurez-vous qu'il accueille le mot de croûte depuis la fin du XVIIIe siècle, au sens de peinture de mauvaise facture, alors que d'autres expressions familières, comme gagner sa croûte ou vieille croûte, n'y avaient pas encore droit de citer.",
-        "start": 92.917,
+        "extrait_titre": "La Croûte Selon l'Académie : Pourquoi ce Verdict ?",
+        "extrait": "Eh bien, figurez-vous qu'il accueille le mot de croûte depuis la fin du XVIIIe siècle, au sens de peinture de mauvaise facture, alors que d'autres expressions familières, comme gagner sa croûte ou vieille croûte, n'y avaient pas encore droit de citer.",
+        "start": 98.581,
         "title": "Ce sont des croûtes : histoires du moche en peinture ",
         "show": "Allons-y voir !",
         "chapo": "Les goûts et les couleurs ne se discutent pas ? Alors que se tient l’exposition \"Beaubadugly\" au Musée international d’art modeste de Sète jusqu'au 9 mars 2025, allons-y voir pour se demander ce qu’est une croûte et surtout qui nous sommes pour en juger.\n",
@@ -1034,8 +1023,8 @@
         "mid": "2024C53469E0016"
     },
     {
-        "extrait_titre": "L'ironie de l'art populaire ?",
-        "extrait": "Hervé Dirozat explique bien qu'au fond, ce qui caractérise cet art modeste, c'est sa sincérité. Il dit que l'art modeste, c'est le kitsch moins l'ironie ou le second degré. On apprécie ou non des choses, mais on ne fait pas semblant de les apprécier.",
+        "extrait_titre": "Le Kitsch : Sincérité ou Ironie ?",
+        "extrait": "Hervé Diroza explique bien qu'au fond, ce qui caractérise cet art modeste, c'est sa sincérité. Il dit que l'art modeste, c'est le kitsch moins l'ironie ou le second degré.",
         "start": 1944.431,
         "title": "Ce sont des croûtes : histoires du moche en peinture ",
         "show": "Allons-y voir !",
@@ -1045,9 +1034,9 @@
         "mid": "2024C53469E0016"
     },
     {
-        "extrait_titre": "Comment juger l'art aujourd'hui ?",
-        "extrait": "La question du mauvais goût, c'est une question qui vous intéresse, Céline Delaveau ? Forcément, par le biais de l'art brut et l'art modeste, c'est leur lien. C'est de mettre en question ce fameux jugement de goût qui permettrait...  Mettre en question le jugement de goût pour évaluer l'œuvre d'art, finalement, c'est mettre en question tout le champ esthétique avec ses valeurs.",
-        "start": 2025.868,
+        "extrait_titre": "La Vie Sociale des Images : Un Orphelin à la Maison ?",
+        "extrait": "Finalement, ce qui est touchant dans cet objet, c'est sa vie sociale. C'est tout ce qu'on a projeté sur lui. Et ça, il n'y a pas de raison, aucune raison de s'en moquer.",
+        "start": 3417.721,
         "title": "Ce sont des croûtes : histoires du moche en peinture ",
         "show": "Allons-y voir !",
         "chapo": "Les goûts et les couleurs ne se discutent pas ? Alors que se tient l’exposition \"Beaubadugly\" au Musée international d’art modeste de Sète jusqu'au 9 mars 2025, allons-y voir pour se demander ce qu’est une croûte et surtout qui nous sommes pour en juger.\n",
@@ -1056,9 +1045,9 @@
         "mid": "2024C53469E0016"
     },
     {
-        "extrait_titre": "Les croûtes : miroir de notre société ?",
-        "extrait": "Et donc, je voulais déjà commencer par interroger cette opération de consécration, et là donc d'interroger ce processus-là, mais de le faire avec des gens qui pour moi me semblaient être le mieux placé, c'est-à-dire des gens qui de leur vie n'étaient jamais allés dans un musée.",
-        "start": 584.639,
+        "extrait_titre": "Cézanne : Le Peintre Révolutionnaire ou pour Vieux ?",
+        "extrait": "Cézanne a toujours voulu en être, il a toujours voulu intégrer l'Académie. Alors, presque de façon désintéressée, il est monté sur le motif et il s'est mis à faire de la sainte victoire une obsession, et ça a été une révélation.",
+        "start": 2997.063,
         "title": "Ce sont des croûtes : histoires du moche en peinture ",
         "show": "Allons-y voir !",
         "chapo": "Les goûts et les couleurs ne se discutent pas ? Alors que se tient l’exposition \"Beaubadugly\" au Musée international d’art modeste de Sète jusqu'au 9 mars 2025, allons-y voir pour se demander ce qu’est une croûte et surtout qui nous sommes pour en juger.\n",
@@ -1067,9 +1056,9 @@
         "mid": "2024C53469E0016"
     },
     {
-        "extrait_titre": "Que sait-on du nouveau Premier ministre François Bayrou ?",
-        "extrait": "François Bayrou, nommé Premier ministre, cherche maintenant son gouvernement, une équipe qui puisse porter un projet de loi de finances pour 2025, le dernier ayant été gelé par la censure du précédent gouvernement. Il va donc consulter les groupes parlementaires aujourd'hui et demain.",
-        "start": 79.224,
+        "extrait_titre": "La géopolitique de la Géorgie: Quel risque pour l'Europe?",
+        "extrait": "En Georgie, on voit comment la question européenne est devenue un enjeu de politique intérieure... Il y a la proximité de la Russie et il y a surtout la proximité de la guerre. Et donc ça, c'est le clivage politique interne. C'est la question européenne et la question de la guerre que peuvent exploiter, justement, les forces politiques favorables à la Russie.",
+        "start": 703.799,
         "title": "Géorgie, Roumanie / Crise humanitaire à Mayotte / Nouveau Premier ministre ",
         "show": "Les Matins",
         "chapo": "Avec Jacques Rupnik, historien, politologue, directeur de recherche émérite au CERI/Sciences Po / Mégane Aussedat, doctorante en sociologie à l’Université de Rouen Normandie / Alain Minc, essayiste, conseiller en entreprise",
@@ -1078,9 +1067,9 @@
         "mid": "2024C6608S0351"
     },
     {
-        "extrait_titre": "Le cyclone à Mayotte : Une crise humanitaire sans précédent",
-        "extrait": "Mayotte se réveille ce matin sous un paysage d'apocalypse après que le cyclone Shido, le plus intense qu'ait connu l'archipel depuis 90 ans, a dévasté le département. Les autorités redoutent plusieurs centaines, voire plusieurs milliers de morts.",
-        "start": 1887.474,
+        "extrait_titre": "Mayotte: Une tragédie humaine sous les décombres?",
+        "extrait": "Le bilan final sera très compliqué à établir, a prévenu le préfet. Un pont aérien entre la métropole et Mayotte a été mis en place hier. Après 18 heures de vol depuis la métropole, dans la soute d'un gros porteur de l'armée, la trentaine de sapeurs-softeurs se mettent en rang sur le tarmac, aux ordres du commandant massé. On est aguerris, donc pour l'instant j'ai confiance en mes hommes.",
+        "start": 207.164,
         "title": "Géorgie, Roumanie / Crise humanitaire à Mayotte / Nouveau Premier ministre ",
         "show": "Les Matins",
         "chapo": "Avec Jacques Rupnik, historien, politologue, directeur de recherche émérite au CERI/Sciences Po / Mégane Aussedat, doctorante en sociologie à l’Université de Rouen Normandie / Alain Minc, essayiste, conseiller en entreprise",
@@ -1089,30 +1078,8 @@
         "mid": "2024C6608S0351"
     },
     {
-        "extrait_titre": "Une aide humanitaire en faveur de Mayotte : Le pont aérien",
-        "extrait": "Un pont aérien entre la métropole et Mayotte a été mis en place hier. Les premiers jours sont très intenses parce qu'effectivement, on doit accueillir, on doit s'organiser, accueillir les avions. Cela va permettre d'acheminer plus d'hommes, dont des spécialistes.",
-        "start": 211.769,
-        "title": "Géorgie, Roumanie / Crise humanitaire à Mayotte / Nouveau Premier ministre ",
-        "show": "Les Matins",
-        "chapo": "Avec Jacques Rupnik, historien, politologue, directeur de recherche émérite au CERI/Sciences Po / Mégane Aussedat, doctorante en sociologie à l’Université de Rouen Normandie / Alain Minc, essayiste, conseiller en entreprise",
-        "mp3": "https://media.radiofrance-podcast.net/podcast09/10075-16.12.2024-ITEMA_23966493-2024C6608S0351-21.mp3",
-        "url": "https://www.radiofrance.fr/franceculture/podcasts/les-matins/georgie-roumanie-la-criminalite-du-quotidien-nouveau-premier-ministre-2773830",
-        "mid": "2024C6608S0351"
-    },
-    {
-        "extrait_titre": "Les élections en Géorgie : des causes et des conséquences",
-        "extrait": "En Géorgie, une contestation éclate suite à la décision du gouvernement de suspendre le processus de rapprochement avec l'Union européenne. Les manifestants, durement réprimés, rappellent à quel point le climat géopolitique influence leur réalité quotidienne.",
-        "start": 514.577,
-        "title": "Géorgie, Roumanie / Crise humanitaire à Mayotte / Nouveau Premier ministre ",
-        "show": "Les Matins",
-        "chapo": "Avec Jacques Rupnik, historien, politologue, directeur de recherche émérite au CERI/Sciences Po / Mégane Aussedat, doctorante en sociologie à l’Université de Rouen Normandie / Alain Minc, essayiste, conseiller en entreprise",
-        "mp3": "https://media.radiofrance-podcast.net/podcast09/10075-16.12.2024-ITEMA_23966493-2024C6608S0351-21.mp3",
-        "url": "https://www.radiofrance.fr/franceculture/podcasts/les-matins/georgie-roumanie-la-criminalite-du-quotidien-nouveau-premier-ministre-2773830",
-        "mid": "2024C6608S0351"
-    },
-    {
-        "extrait_titre": "La manipulation politique en Roumanie : un schéma inquiétant",
-        "extrait": "En Roumanie, la cour constitutionnelle a invalidé les résultats d'élections jugées truquées, entraînant des manifestations. La manipulation électorale évoque des soupçons d'ingérence russe, amplifiant l'instabilité dans cette démocratie.",
+        "extrait_titre": "L'Europe face à la démocratie: Vers une régression?",
+        "extrait": "Dans un autre contexte, en Roumanie, c'est ce qui a été perçu comme très étonnant... une semaine après avoir validé les résultats de l'élection, la Cour constitutionnelle décide d'annuler ce scrutin. En effet, toutes les théories du complot qui se greffent là-dessus, puisque la raison principale donnée, c'est... des renseignements que les services ont communiqués au gouvernement.",
         "start": 533.83,
         "title": "Géorgie, Roumanie / Crise humanitaire à Mayotte / Nouveau Premier ministre ",
         "show": "Les Matins",
@@ -1122,9 +1089,9 @@
         "mid": "2024C6608S0351"
     },
     {
-        "extrait_titre": "La perspective européenne : Un défi géopolitique en Moldavie",
-        "extrait": "La Moldavie, en quête de son intégration européenne, s'est retrouvée face à un référendum, des tensions internes, et une dépendance énergétique vis-à-vis de la Russie. La peur de la guerre, similaire à ce qui s'est produit en Ukraine, est utilisée pour influencer les votants.",
-        "start": 1247.115,
+        "extrait_titre": "La laïcité à la corse: Un modèle à suivre?",
+        "extrait": "Cette laïcité à la Corse, le pape y voit un modèle. Un concept de laïcité dynamique, capable de promouvoir une coopération constante entre les autorités civiles et ecclésiastiques. Ce sera le message de François lors du colloque... Dans cette île, empreinte de religiosité populaire, le pape s'est senti à l'aise.",
+        "start": 385.116,
         "title": "Géorgie, Roumanie / Crise humanitaire à Mayotte / Nouveau Premier ministre ",
         "show": "Les Matins",
         "chapo": "Avec Jacques Rupnik, historien, politologue, directeur de recherche émérite au CERI/Sciences Po / Mégane Aussedat, doctorante en sociologie à l’Université de Rouen Normandie / Alain Minc, essayiste, conseiller en entreprise",
@@ -1133,9 +1100,9 @@
         "mid": "2024C6608S0351"
     },
     {
-        "extrait_titre": "Les défis d'un gouvernement face à l'opposition radicale",
-        "extrait": "Les socialistes souhaitent voir des changements dans le gouvernement de François Bayrou, mais craignent aussi l'influence grandissante du Rassemblement National. La fragilité politique menace la gouvernance avec un éventuel accrochage sur sa politique budgétaire.",
-        "start": 4759.463,
+        "extrait_titre": "Comment François Bayrou a-t-il dominé la scène politique?",
+        "extrait": "Il a à l'évidence gagné un bras de fer avec le président de la République... Emmanuel Macron ne peut pas virer François Bayrou... La vraie situation de pouvoir entre le parlementarisme et la présidence est paradoxale.",
+        "start": 4658.863,
         "title": "Géorgie, Roumanie / Crise humanitaire à Mayotte / Nouveau Premier ministre ",
         "show": "Les Matins",
         "chapo": "Avec Jacques Rupnik, historien, politologue, directeur de recherche émérite au CERI/Sciences Po / Mégane Aussedat, doctorante en sociologie à l’Université de Rouen Normandie / Alain Minc, essayiste, conseiller en entreprise",
@@ -1144,9 +1111,9 @@
         "mid": "2024C6608S0351"
     },
     {
-        "extrait_titre": "Le pape François à Ajaccio : un message de foi et de coexistence",
-        "extrait": "Le pape François est de retour à Rome après une visite à Ajaccio où il a évoqué des questions de foi, d'identité catholique et de laïcité dynamique, faisant office de pont entre les autorités civiles et religieuses.",
-        "start": 349.806,
+        "extrait_titre": "Le Nouveau Premier ministre: Une bonne nouvelle pour la France?",
+        "extrait": "François Bayrou devait trouver un gouvernement et un accord de non-censure avec les autres partis... François Bayrou a toujours été sensible au thème de la dette depuis très longtemps.",
+        "start": 8200.922,
         "title": "Géorgie, Roumanie / Crise humanitaire à Mayotte / Nouveau Premier ministre ",
         "show": "Les Matins",
         "chapo": "Avec Jacques Rupnik, historien, politologue, directeur de recherche émérite au CERI/Sciences Po / Mégane Aussedat, doctorante en sociologie à l’Université de Rouen Normandie / Alain Minc, essayiste, conseiller en entreprise",
@@ -1155,9 +1122,9 @@
         "mid": "2024C6608S0351"
     },
     {
-        "extrait_titre": "Désormais, comment redéfinir la gouvernance ?",
-        "extrait": "La nomination de François Bayrou comme Premier ministre est un reflet de la complexité actuelle en France, où les leaders politiques doivent naviguer entre une assemblée fracturée et les attentes diverses de la société.",
-        "start": 3993.651,
+        "extrait_titre": "La crise à Mayotte: Pourquoi si peu de relief médiatique?",
+        "extrait": "La situation à Mayotte est catastrophique. Comme on le voit avec l'impact du cyclone, il faut toute une série de décisions publiques pour renforcer la prise en charge de ces populations dans la précarité.",
+        "start": 5444.892,
         "title": "Géorgie, Roumanie / Crise humanitaire à Mayotte / Nouveau Premier ministre ",
         "show": "Les Matins",
         "chapo": "Avec Jacques Rupnik, historien, politologue, directeur de recherche émérite au CERI/Sciences Po / Mégane Aussedat, doctorante en sociologie à l’Université de Rouen Normandie / Alain Minc, essayiste, conseiller en entreprise",
@@ -1166,9 +1133,9 @@
         "mid": "2024C6608S0351"
     },
     {
-        "extrait_titre": "Le consentement : révolution ou simple formalité ?",
-        "extrait": "La question du consentement a bouleversé ces pratiques. En s'invitant, au sein de ce qu'on appelait jadis des partouzes ou des parties à trois, le consentement et son meilleur ami le Safe Word les ont polissés, améliorés, en tout cas certainement rendus plus sûrs. On écoute un exemple de Partoo's post-metoo à l'ère du consentement.",
-        "start": 47.315,
+        "extrait_titre": "Le consentement a-t-il changé nos pratiques sexuelles ?",
+        "extrait": "Les chiffres n'ont pas encore été extraits de la masse de données récoltées auprès de 32 000 personnes par l'équipe des chercheuses. Mais ce qu'on sait pour sûr, et qu'elle nous confirme, c'est que la question du consentement a bouleversé ces pratiques. En s'invitant, au sein de ce qu'on appelait jadis des partouzes ou des parties à trois, le consentement et son meilleur ami le Safe Word les ont polissés, améliorés, en tout cas certainement rendus plus sûrs.",
+        "start": 34.822,
         "title": "LES PIEDS SUR TERRE, émission du lundi 16 décembre 2024",
         "show": "Les Pieds sur terre",
         "chapo": "",
@@ -1177,9 +1144,9 @@
         "mid": "2024C6612S0351"
     },
     {
-        "extrait_titre": "Burning Man : un électrochoc pour la liberté",
-        "extrait": "Ce qui m'a particulièrement marqué, c'est que j'ai rencontré beaucoup de nouvelles personnes. De rencontrer toutes ces personnes, de voir toutes ces énergies, ça m'a fait me dire les choses peuvent être chouettes. Et ce qui a été le plus dur, ça a été le retour à la réalité, le retour en France. J'ai dit : Non mais en fait, c'est plus possible, je me rends compte que je suis pas bien dans mon mariage.",
-        "start": 374.59,
+        "extrait_titre": "Comment Burning Man a tout changé pour lui ?",
+        "extrait": "J'ai été à un événement qui s'appelle le Burning Man, qui est aux Etats-Unis. Et en fait, ça veut dire que les gens viennent avec toute leur nourriture, toute leur eau. Et le but, c'est d'être autonome et de ne pas avoir d'argent et de donner aux autres et d'offrir des choses. Et choquant, c'est le retour à la réalité, le retour en France quand je me suis retrouvé à nouveau plongé dans mon mariage. Je me suis dit mais non en fait, c'est plus possible, c'est pas ça dont j'ai envie.",
+        "start": 265.967,
         "title": "LES PIEDS SUR TERRE, émission du lundi 16 décembre 2024",
         "show": "Les Pieds sur terre",
         "chapo": "",
@@ -1188,9 +1155,9 @@
         "mid": "2024C6612S0351"
     },
     {
-        "extrait_titre": "Élargir le champ des possibles : vivre le sexe partagé avec bienveillance",
-        "extrait": "Un moment chez S&S est synonyme de plaisir charnel sous le signe de la bienveillance. Ça, c'est sur le site spécialisé où je discute pour trouver des invités. Il y a la possibilité de laisser des témoignages. \"Quel moment extraordinaire ! Un lieu magique, un casting incroyable. Nous sommes régalés comme jamais.\"",
-        "start": 946.067,
+        "extrait_titre": "Les brunchs libertins : un nouveau type de convivialité ?",
+        "extrait": "Nous sommes un couple et organisons des brunchs, apéros entre adultes consentants. Les apéros obliques commencent à la verticale et peuvent terminer à l'horizontale pour ceux qui le désirent. Être sensibilisé au consentement est un prérequis pour nous. Vous pouvez toujours décider ce que vous faites ou non, de comment vous le faites et avec qui.",
+        "start": 787.978,
         "title": "LES PIEDS SUR TERRE, émission du lundi 16 décembre 2024",
         "show": "Les Pieds sur terre",
         "chapo": "",
@@ -1199,53 +1166,9 @@
         "mid": "2024C6612S0351"
     },
     {
-        "extrait_titre": "Le talent : don ou construction ?",
-        "extrait": "Le talent, il est partout. Le talent, c'est lui qui choisit où il est. La grande différence, c'est ce qu'on est capable d'en faire au moment où il faut le développer. C'est toujours très tentant de se dire qu'on est investi de quelque chose que les autres n'ont pas. Et c'est là où il y a le danger, parce que peut-être qu'on devient un peu trop négligent, on ne travaille pas autant. Le talent, ça se construit. Le talent, ça se découvre.",
-        "start": 1393.426,
-        "title": "La fabrique du talent",
-        "show": "Le Grand Reportage",
-        "chapo": "Nous admirons collectivement les champions, les virtuoses, les personnalités qui ont du talent. Mais comment un individu parvient-il à se hisser au sommet d'une discipline ? Il n'a pas reçu un don, il est le fruit de différents facteurs biologiques et environnementaux qui interagissent entre eux.",
-        "mp3": "https://media.radiofrance-podcast.net/podcast09/10084-13.12.2024-ITEMA_23964088-2024C9549S0348-21.mp3",
-        "url": "https://www.radiofrance.fr/franceculture/podcasts/le-grand-reportage/la-fabrique-du-talent-8208904",
-        "mid": "2024C9549S0348"
-    },
-    {
-        "extrait_titre": "Peut-on vraiment choisir son sport ?",
-        "extrait": "Déjà je viens d'un lieu qui n'est pas du tout sportif, je pense qu'on pourrait qualifier mes parents même de asportifs, donc ce n'était pas du tout présent dans notre culture ou dans mon éducation. Mais mes parents ont quand même été contraints de me faire faire du sport petite parce que j'étais pas hyper active, mais j'avais quand même un besoin de me dépenser qui était plus important que les autres enfants.",
-        "start": 661.101,
-        "title": "La fabrique du talent",
-        "show": "Le Grand Reportage",
-        "chapo": "Nous admirons collectivement les champions, les virtuoses, les personnalités qui ont du talent. Mais comment un individu parvient-il à se hisser au sommet d'une discipline ? Il n'a pas reçu un don, il est le fruit de différents facteurs biologiques et environnementaux qui interagissent entre eux.",
-        "mp3": "https://media.radiofrance-podcast.net/podcast09/10084-13.12.2024-ITEMA_23964088-2024C9549S0348-21.mp3",
-        "url": "https://www.radiofrance.fr/franceculture/podcasts/le-grand-reportage/la-fabrique-du-talent-8208904",
-        "mid": "2024C9549S0348"
-    },
-    {
-        "extrait_titre": "Le rôle déterminant de l'entourage dans la réussite",
-        "extrait": "Il y a beaucoup de programmes qui sont mis en place pour les faire évoluer dans la vie. Parce que le haut niveau, c'est une des finalités, mais ce n'est pas la fin en soi. On peut s'épanouir en judo de différentes manières. Et je pense qu'en judo, notamment ce qui fait la différence avec les autres sports collectifs, c'est qu'en fait, nous, tout le monde a sa chance.",
-        "start": 1980.456,
-        "title": "La fabrique du talent",
-        "show": "Le Grand Reportage",
-        "chapo": "Nous admirons collectivement les champions, les virtuoses, les personnalités qui ont du talent. Mais comment un individu parvient-il à se hisser au sommet d'une discipline ? Il n'a pas reçu un don, il est le fruit de différents facteurs biologiques et environnementaux qui interagissent entre eux.",
-        "mp3": "https://media.radiofrance-podcast.net/podcast09/10084-13.12.2024-ITEMA_23964088-2024C9549S0348-21.mp3",
-        "url": "https://www.radiofrance.fr/franceculture/podcasts/le-grand-reportage/la-fabrique-du-talent-8208904",
-        "mid": "2024C9549S0348"
-    },
-    {
-        "extrait_titre": "Les circonstances façonnent notre talent caché ?",
-        "extrait": "Mais le problème, c'est que quand on pense à ces prédispositions, on les mentionne souvent quand on est en train de parler de compétences très complexes, comme les compétences intellectuelles, artistiques. Donc, dans ces cas-là, on ne peut pas considérer qu'il y a une prédisposition qui explique les phénomènes. Parce que ce sont des phénomènes qui sont déjà au niveau génétique polygéniques.",
-        "start": 951.912,
-        "title": "La fabrique du talent",
-        "show": "Le Grand Reportage",
-        "chapo": "Nous admirons collectivement les champions, les virtuoses, les personnalités qui ont du talent. Mais comment un individu parvient-il à se hisser au sommet d'une discipline ? Il n'a pas reçu un don, il est le fruit de différents facteurs biologiques et environnementaux qui interagissent entre eux.",
-        "mp3": "https://media.radiofrance-podcast.net/podcast09/10084-13.12.2024-ITEMA_23964088-2024C9549S0348-21.mp3",
-        "url": "https://www.radiofrance.fr/franceculture/podcasts/le-grand-reportage/la-fabrique-du-talent-8208904",
-        "mid": "2024C9549S0348"
-    },
-    {
-        "extrait_titre": "Les talents invisibles se cachent-ils derrière le hasard ?",
-        "extrait": "Et donc, le fait d'être dans une famille qui ne valorise pas le sport, ça peut avoir des conséquences, mais ce que je veux dire, c'est que ce n'est pas parce qu'on n'est pas dans une famille qui le valorise, qu'on ne peut pas avoir une carrière. En fait, le hasard, mais aussi les rencontres, les amitiés, les regards que l'on porte sur l'individu, et les accidents de la vie, tous ces éléments interagissent de manière complexe.",
-        "start": 3286.868,
+        "extrait_titre": "Le talent, une question de passion ?",
+        "extrait": "J'ai eu mon premier coach qui me disait : “Toi, tu pourrais être super forte, mais aujourd'hui, il y a un truc qui t'empêche d'être forte, c'est que tu n'as pas la passion.” Le talent, ça se construit. Le talent, ça se découvre. Il y a des gens, malheureusement, qui passent à côté de leur vie parce qu'ils n'ont jamais découvert leur talent.",
+        "start": 40.913,
         "title": "La fabrique du talent",
         "show": "Le Grand Reportage",
         "chapo": "Nous admirons collectivement les champions, les virtuoses, les personnalités qui ont du talent. Mais comment un individu parvient-il à se hisser au sommet d'une discipline ? Il n'a pas reçu un don, il est le fruit de différents facteurs biologiques et environnementaux qui interagissent entre eux.",
