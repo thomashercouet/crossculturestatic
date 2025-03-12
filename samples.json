@@ -1,5 +1,5 @@
 {
-    "date": "Mis à jour le 12/03/2025 à 13:06",
+    "date": "Mis à jour le 12/03/2025 à 13:37",
     "samples": [
         {
             "extrait_titre": "Comment France Télévisions s'adapte à la guerre de l'information ?",
@@ -402,7 +402,7 @@
             "url": "https://www.radiofrance.fr/franceculture/podcasts/entendez-vous-l-eco/cdd-interims-saisonniers-qui-signe-pour-l-instabilite-2414960",
             "date": 1741615125,
             "mid": "2025C29629S0069",
-            "score": 85
+            "score": 94
         },
         {
             "extrait_titre": "L'illusion de la flexibilité : qui en profite vraiment ?",
@@ -415,7 +415,7 @@
             "url": "https://www.radiofrance.fr/franceculture/podcasts/entendez-vous-l-eco/cdd-interims-saisonniers-qui-signe-pour-l-instabilite-2414960",
             "date": 1741615125,
             "mid": "2025C29629S0069",
-            "score": 90
+            "score": 84
         },
         {
             "extrait_titre": "CDD : un tremplin ou un piège ?",
@@ -428,7 +428,7 @@
             "url": "https://www.radiofrance.fr/franceculture/podcasts/entendez-vous-l-eco/cdd-interims-saisonniers-qui-signe-pour-l-instabilite-2414960",
             "date": 1741615125,
             "mid": "2025C29629S0069",
-            "score": 70
+            "score": 85
         },
         {
             "extrait_titre": "Le précariat : une nouvelle norme ?",
@@ -441,7 +441,7 @@
             "url": "https://www.radiofrance.fr/franceculture/podcasts/entendez-vous-l-eco/cdd-interims-saisonniers-qui-signe-pour-l-instabilite-2414960",
             "date": 1741615125,
             "mid": "2025C29629S0069",
-            "score": 71
+            "score": 73
         },
         {
             "extrait_titre": "Comment la précarité redéfinit-elle le travail ?",
@@ -454,7 +454,7 @@
             "url": "https://www.radiofrance.fr/franceculture/podcasts/entendez-vous-l-eco/cdd-interims-saisonniers-qui-signe-pour-l-instabilite-2414960",
             "date": 1741615125,
             "mid": "2025C29629S0069",
-            "score": 80
+            "score": 92
         },
         {
             "extrait_titre": "La précarité durable : un choix ou une nécessité ?",
@@ -467,7 +467,7 @@
             "url": "https://www.radiofrance.fr/franceculture/podcasts/entendez-vous-l-eco/cdd-interims-saisonniers-qui-signe-pour-l-instabilite-2414960",
             "date": 1741615125,
             "mid": "2025C29629S0069",
-            "score": 79
+            "score": 72
         },
         {
             "extrait_titre": "CDD : un contrat de travail ou un contrat de précarité ?",
@@ -480,7 +480,7 @@
             "url": "https://www.radiofrance.fr/franceculture/podcasts/entendez-vous-l-eco/cdd-interims-saisonniers-qui-signe-pour-l-instabilite-2414960",
             "date": 1741615125,
             "mid": "2025C29629S0069",
-            "score": 90
+            "score": 74
         },
         {
             "extrait_titre": "Comment un résistant est devenu un terroriste ?",
@@ -753,7 +753,7 @@
             "url": "https://www.radiofrance.fr/franceculture/podcasts/un-monde-connecte/usage-de-la-realite-virtuelle-en-prison-un-casque-pour-ressentir-l-evasion-2809155",
             "date": 1741679700,
             "mid": "2025C52117S0070",
-            "score": 70
+            "score": 87
         },
         {
             "extrait_titre": "\"La réalité virtuelle pour mieux apprécier la liberté réelle\"",
@@ -766,7 +766,7 @@
             "url": "https://www.radiofrance.fr/franceculture/podcasts/un-monde-connecte/usage-de-la-realite-virtuelle-en-prison-un-casque-pour-ressentir-l-evasion-2809155",
             "date": 1741679700,
             "mid": "2025C52117S0070",
-            "score": 86
+            "score": 94
         },
         {
             "extrait_titre": "« Sans proprioception, on est comme une marionnette sans ficelles »",
@@ -858,6 +858,19 @@
             "date": 1741708725,
             "mid": "2025C48906S0070",
             "score": 89
+        },
+        {
+            "extrait_titre": "« Steven Soderbergh filme le rien »",
+            "extrait": "« Peut-être que c'est quelqu'un qui s'acharne à filmer le rien. »",
+            "start": 799.888,
+            "title": "Critique ciné : \"The Insider\" de Steven Sodebergh mêle espionnage et satire du couple avec ennui",
+            "show": "Les Midis de Culture",
+            "chapo": "Les critiques discutent de \"The Insider\" de Steven Soderbergh, un thriller d'espionnage original entre passion amoureuse, duplicité et trahison. ",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/12360-12.03.2025-ITEMA_24055694-2025C51852S1071-NET_MFC_34C2DF59-61ED-4A34-B19C-7E393A44D11D-21.mp3",
+            "url": "https://www.radiofrance.fr/franceculture/podcasts/les-midis-de-culture/critique-cine-the-insider-de-steven-sodebergh-5642199",
+            "date": 1741778101,
+            "mid": "2025C51852S1071",
+            "score": 95
         },
         {
             "extrait_titre": "« 4,1 décès pour 1000 naissances : un chiffre qui cache des vies brisées »",
@@ -1169,7 +1182,7 @@
             "url": "https://www.radiofrance.fr/franceculture/podcasts/la-revue-de-presse-internationale/la-revue-de-presse-internationale-emission-du-mercredi-12-mars-2025-4469780",
             "date": 1741761720,
             "mid": "2025C22811S0071",
-            "score": 84
+            "score": 75
         },
         {
             "extrait_titre": "La purge au ministère de l'Éducation : un coup fatal pour les étudiants ?",
@@ -1182,7 +1195,7 @@
             "url": "https://www.radiofrance.fr/franceculture/podcasts/la-revue-de-presse-internationale/la-revue-de-presse-internationale-emission-du-mercredi-12-mars-2025-4469780",
             "date": 1741761720,
             "mid": "2025C22811S0071",
-            "score": 74
+            "score": 80
         },
         {
             "extrait_titre": "Pourquoi le Balouchistan est-il devenu un terrain de recrutement pour les insurgés ?",
@@ -1195,7 +1208,7 @@
             "url": "https://www.radiofrance.fr/franceculture/podcasts/la-revue-de-presse-internationale/la-revue-de-presse-internationale-emission-du-mercredi-12-mars-2025-4469780",
             "date": 1741761720,
             "mid": "2025C22811S0071",
-            "score": 91
+            "score": 75
         },
         {
             "extrait_titre": "Trump : 'Je veux fermer le ministère de l'Éducation'",
@@ -1208,7 +1221,7 @@
             "url": "https://www.radiofrance.fr/franceculture/podcasts/la-revue-de-presse-internationale/la-revue-de-presse-internationale-emission-du-mercredi-12-mars-2025-4469780",
             "date": 1741761720,
             "mid": "2025C22811S0071",
-            "score": 71
+            "score": 77
         },
         {
             "extrait_titre": "Les véritables victimes de la purge au ministère de l'Éducation ?",
@@ -1221,7 +1234,7 @@
             "url": "https://www.radiofrance.fr/franceculture/podcasts/la-revue-de-presse-internationale/la-revue-de-presse-internationale-emission-du-mercredi-12-mars-2025-4469780",
             "date": 1741761720,
             "mid": "2025C22811S0071",
-            "score": 86
+            "score": 89
         },
         {
             "extrait_titre": "« La mémoire ne s'efface jamais vraiment »",
@@ -1300,6 +1313,32 @@
             "date": 1741609725,
             "mid": "2025C51852S3069",
             "score": 92
+        },
+        {
+            "extrait_titre": "La condition féminine au cœur du cinéma hongkongais",
+            "extrait": "\"Tout simplement, la condition féminine, dans le cas de Hanoï, mais aussi de Stanley Kwan, qu'on pourrait qualifier comme un cinéaste de Women Pictures. Voilà, ces films qui sont centrés sur la condition féminine, sur des destins de femmes, qui étaient des sujets finalement qui étaient assez peu traités par le cinéma hongkongais.\"",
+            "start": 110.497,
+            "title": "Redécouvrir la nouvelle vague hongkongaise au cinéma",
+            "show": "Le Point culture",
+            "chapo": "Trois films de la vague honkongaise en version restaurée sortent en salles. Influencés par le cinéma étranger, ils abordent de nouvelles thématiques dans les années 1970, notamment les questions féminines, mais aussi la crainte de la rétrocession de Hong Kong à la Chine continentale.",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/21829-12.03.2025-ITEMA_24055720-2025C41196S0071-NET_MFC_E5821D58-9723-4180-A5C9-232DD48349BC-21.mp3",
+            "url": "https://www.radiofrance.fr/franceculture/podcasts/le-point-culture/redecouvrir-la-nouvelle-vague-hongkongaise-au-cinema-5224647",
+            "date": 1741780800,
+            "mid": "2025C41196S0071",
+            "score": 85
+        },
+        {
+            "extrait_titre": "Un cinéma d'auteur qui dévore le monde",
+            "extrait": "\"Donc, le cinéma de Hong Kong est vraiment, finalement, un cinéma d'auteur. Un dernier mot pour conclure cet entretien. Est-ce qu'il y a une spécificité du cinéma hongkongais par rapport au reste des cinémas asiatiques, selon vous ? Lorsqu'ils tournent leurs films, justement, c'est le cinéma de la Nouvelle Vague, Hong Kong a une poussée économique. Donc, c'est un cinéma qui est extrêmement moderne, extrêmement rapide, un peu clinquant. Je pense à Women, par exemple, qui a une sorte de fraîcheur, même si les thèmes sont assez graves aussi, mais il y a une sorte de fraîcheur, de comédie, etc., qui est peut-être plus accentué évidemment que dans le cinéma coréen qui à cette époque était encore englué dans une dictature extrêmement sombre ou le cinéma japonais qui connaissait la crise des studios donc essayait de trouver des thèmes pour se renouveler mais était quand même un cinéma en crise. Là c'est un cinéma qui est extrêmement florissant et je pense que lorsqu'on voit la... Voilà l'attitude, le visage de Chuyoun Fat. Dans Women, par exemple, on se rend compte que c'est un cinéma qui est prêt à un peu dévorer le monde. C'est extrêmement euphorisant.\"",
+            "start": 452.452,
+            "title": "Redécouvrir la nouvelle vague hongkongaise au cinéma",
+            "show": "Le Point culture",
+            "chapo": "Trois films de la vague honkongaise en version restaurée sortent en salles. Influencés par le cinéma étranger, ils abordent de nouvelles thématiques dans les années 1970, notamment les questions féminines, mais aussi la crainte de la rétrocession de Hong Kong à la Chine continentale.",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/21829-12.03.2025-ITEMA_24055720-2025C41196S0071-NET_MFC_E5821D58-9723-4180-A5C9-232DD48349BC-21.mp3",
+            "url": "https://www.radiofrance.fr/franceculture/podcasts/le-point-culture/redecouvrir-la-nouvelle-vague-hongkongaise-au-cinema-5224647",
+            "date": 1741780800,
+            "mid": "2025C41196S0071",
+            "score": 90
         },
         {
             "extrait_titre": "Comment la littérature peut-elle réinventer notre perception du vivant ?",
@@ -1822,6 +1861,45 @@
             "score": 86
         },
         {
+            "extrait_titre": "« Le cinéma de Soderbergh : un jeu d'esprit qui tourne à vide »",
+            "extrait": "« On a presque l'impression que Soderbergh s'ennuie à faire son film, réactivant des formes extrêmement éculées et donc assez mortes, qui sont celles à la fois du Houdonate, qui est le coupable, le côté Agatha Christie, mais c'est presque du cloué d'eau par moment. »",
+            "start": 383.605,
+            "title": "Critique ciné : \"The Insider\" de Steven Soderbergh & \"Black Box Diaries\" de Shiori Itō",
+            "show": "Les Midis de Culture",
+            "chapo": "Au programme du débat critique, du cinéma, avec deux films en salles ce jour : \"The Insider\" de Steven Soderbergh et \"Black Box Diaries\" de Shiori Itō. ",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/12360-12.03.2025-ITEMA_24055694-2025C51852S0071-NET_MFC_B61E36EC-A723-4B2C-BB7B-578771DA5F10-21.mp3",
+            "url": "https://www.radiofrance.fr/franceculture/podcasts/les-midis-de-culture/critique-cine-the-insider-de-steven-soderbergh-black-box-diaries-de-shiori-ito-1393218",
+            "date": 1741778925,
+            "mid": "2025C51852S0071",
+            "score": 85
+        },
+        {
+            "extrait_titre": "« La Black Box : un cri de désespoir et de résistance »",
+            "extrait": "« Cette Black Box, c'est tout le non-dit de cette histoire. C'est le pouvoir à la fois. Qu'est-ce qui se passe à l'intérieur du pouvoir japonais, à l'intérieur de la police japonaise, à l'intérieur du système judiciaire japonais, qui fait que sa plainte a été classée sans suite ? »",
+            "start": 1002.219,
+            "title": "Critique ciné : \"The Insider\" de Steven Soderbergh & \"Black Box Diaries\" de Shiori Itō",
+            "show": "Les Midis de Culture",
+            "chapo": "Au programme du débat critique, du cinéma, avec deux films en salles ce jour : \"The Insider\" de Steven Soderbergh et \"Black Box Diaries\" de Shiori Itō. ",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/12360-12.03.2025-ITEMA_24055694-2025C51852S0071-NET_MFC_B61E36EC-A723-4B2C-BB7B-578771DA5F10-21.mp3",
+            "url": "https://www.radiofrance.fr/franceculture/podcasts/les-midis-de-culture/critique-cine-the-insider-de-steven-soderbergh-black-box-diaries-de-shiori-ito-1393218",
+            "date": 1741778925,
+            "mid": "2025C51852S0071",
+            "score": 90
+        },
+        {
+            "extrait_titre": "« Comment un film peut changer la loi ? »",
+            "extrait": "« Elle a fait changer la loi quand même au Japon, à la marge on va dire, mais en tout cas évoluer. Il faut savoir que la loi n'avait pas changé depuis 110 ans. »",
+            "start": 1403.09,
+            "title": "Critique ciné : \"The Insider\" de Steven Soderbergh & \"Black Box Diaries\" de Shiori Itō",
+            "show": "Les Midis de Culture",
+            "chapo": "Au programme du débat critique, du cinéma, avec deux films en salles ce jour : \"The Insider\" de Steven Soderbergh et \"Black Box Diaries\" de Shiori Itō. ",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/12360-12.03.2025-ITEMA_24055694-2025C51852S0071-NET_MFC_B61E36EC-A723-4B2C-BB7B-578771DA5F10-21.mp3",
+            "url": "https://www.radiofrance.fr/franceculture/podcasts/les-midis-de-culture/critique-cine-the-insider-de-steven-soderbergh-black-box-diaries-de-shiori-ito-1393218",
+            "date": 1741778925,
+            "mid": "2025C51852S0071",
+            "score": 88
+        },
+        {
             "extrait_titre": "« Les débats sur les retraites deviennent dérisoires »",
             "extrait": "« L'entrée progressive, plus ou moins explicite, dans une économie de guerre, rendra secondaire, sinon dérisoire, les débats actuels sur l'âge de départ à 64 ans. »",
             "start": 56.337,
@@ -1988,7 +2066,7 @@
             "url": "https://www.radiofrance.fr/franceculture/podcasts/la-revue-de-presse-internationale/la-revue-de-presse-internationale-emission-du-mardi-11-mars-2025-5684977",
             "date": 1741675320,
             "mid": "2025C22811S0070",
-            "score": 93
+            "score": 94
         },
         {
             "extrait_titre": "Comment un jeune éboueur survit dans une décharge mortelle ?",
@@ -2001,7 +2079,7 @@
             "url": "https://www.radiofrance.fr/franceculture/podcasts/la-revue-de-presse-internationale/la-revue-de-presse-internationale-emission-du-mardi-11-mars-2025-5684977",
             "date": 1741675320,
             "mid": "2025C22811S0070",
-            "score": 74
+            "score": 90
         },
         {
             "extrait_titre": "Pourquoi les Ougandais doivent-ils être acteurs du changement ?",
@@ -2014,7 +2092,7 @@
             "url": "https://www.radiofrance.fr/franceculture/podcasts/la-revue-de-presse-internationale/la-revue-de-presse-internationale-emission-du-mardi-11-mars-2025-5684977",
             "date": 1741675320,
             "mid": "2025C22811S0070",
-            "score": 73
+            "score": 80
         },
         {
             "extrait_titre": "La pollution de l'air à Kampala : un tueur silencieux",
@@ -2027,7 +2105,7 @@
             "url": "https://www.radiofrance.fr/franceculture/podcasts/la-revue-de-presse-internationale/la-revue-de-presse-internationale-emission-du-mardi-11-mars-2025-5684977",
             "date": 1741675320,
             "mid": "2025C22811S0070",
-            "score": 81
+            "score": 80
         },
         {
             "extrait_titre": "Comment l'urbanisation galopante aggrave la crise des déchets ?",
@@ -2040,7 +2118,7 @@
             "url": "https://www.radiofrance.fr/franceculture/podcasts/la-revue-de-presse-internationale/la-revue-de-presse-internationale-emission-du-mardi-11-mars-2025-5684977",
             "date": 1741675320,
             "mid": "2025C22811S0070",
-            "score": 94
+            "score": 73
         },
         {
             "extrait_titre": "« Un stupéfiant événement visuel »",
@@ -2469,7 +2547,7 @@
             "url": "https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/robin-des-bois-sur-les-traces-d-un-brigand-au-grand-coeur-2157540",
             "date": 1741683525,
             "mid": "2025C36128S0070",
-            "score": 72
+            "score": 83
         },
         {
             "extrait_titre": "La couleur verte de Robin des Bois : symbole d'instabilité ?",
@@ -2482,7 +2560,7 @@
             "url": "https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/robin-des-bois-sur-les-traces-d-un-brigand-au-grand-coeur-2157540",
             "date": 1741683525,
             "mid": "2025C36128S0070",
-            "score": 94
+            "score": 75
         },
         {
             "extrait_titre": "Robin des Bois : un héros ou un hors-la-loi ?",
@@ -2495,7 +2573,7 @@
             "url": "https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/robin-des-bois-sur-les-traces-d-un-brigand-au-grand-coeur-2157540",
             "date": 1741683525,
             "mid": "2025C36128S0070",
-            "score": 78
+            "score": 71
         },
         {
             "extrait_titre": "Comment Robin des Bois est devenu un symbole de révolte ?",
@@ -2508,7 +2586,7 @@
             "url": "https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/robin-des-bois-sur-les-traces-d-un-brigand-au-grand-coeur-2157540",
             "date": 1741683525,
             "mid": "2025C36128S0070",
-            "score": 88
+            "score": 80
         },
         {
             "extrait_titre": "Robin des Bois : un personnage façonné par les époques ?",
@@ -2521,7 +2599,7 @@
             "url": "https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/robin-des-bois-sur-les-traces-d-un-brigand-au-grand-coeur-2157540",
             "date": 1741683525,
             "mid": "2025C36128S0070",
-            "score": 77
+            "score": 94
         },
         {
             "extrait_titre": "Pourquoi Robin des Bois est-il toujours d'actualité ?",
@@ -2534,7 +2612,7 @@
             "url": "https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/robin-des-bois-sur-les-traces-d-un-brigand-au-grand-coeur-2157540",
             "date": 1741683525,
             "mid": "2025C36128S0070",
-            "score": 86
+            "score": 79
         },
         {
             "extrait_titre": "Robin des Bois : un héros aux multiples visages",
@@ -2547,7 +2625,7 @@
             "url": "https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/robin-des-bois-sur-les-traces-d-un-brigand-au-grand-coeur-2157540",
             "date": 1741683525,
             "mid": "2025C36128S0070",
-            "score": 86
+            "score": 90
         },
         {
             "extrait_titre": "Comment vivre avec des identités plurielles ?",
@@ -2846,7 +2924,7 @@
             "url": "https://www.radiofrance.fr/franceculture/podcasts/avec-sciences/obesite-une-augmentation-inquietante-a-travers-le-monde-4025932",
             "date": 1741672620,
             "mid": "2025C26620S0070",
-            "score": 79
+            "score": 84
         },
         {
             "extrait_titre": "L'obésité : un problème multifactoriel",
@@ -2859,7 +2937,7 @@
             "url": "https://www.radiofrance.fr/franceculture/podcasts/avec-sciences/obesite-une-augmentation-inquietante-a-travers-le-monde-4025932",
             "date": 1741672620,
             "mid": "2025C26620S0070",
-            "score": 75
+            "score": 79
         },
         {
             "extrait_titre": "Une explosion de l'obésité chez les jeunes !",
@@ -2872,7 +2950,7 @@
             "url": "https://www.radiofrance.fr/franceculture/podcasts/avec-sciences/obesite-une-augmentation-inquietante-a-travers-le-monde-4025932",
             "date": 1741672620,
             "mid": "2025C26620S0070",
-            "score": 79
+            "score": 75
         },
         {
             "extrait_titre": "Comment une petite fille a-t-elle survécu à l'emprise de son père ?",
@@ -2924,7 +3002,7 @@
             "url": "https://www.radiofrance.fr/franceculture/podcasts/un-monde-connecte/paris-defence-and-strategy-forum-les-nouveaux-canaux-de-l-influence-russe-3205289",
             "date": 1741766100,
             "mid": "2025C52117S0071",
-            "score": 73
+            "score": 85
         },
         {
             "extrait_titre": "L'IA, nouvel outil de la propagande russe ?",
@@ -2937,7 +3015,7 @@
             "url": "https://www.radiofrance.fr/franceculture/podcasts/un-monde-connecte/paris-defence-and-strategy-forum-les-nouveaux-canaux-de-l-influence-russe-3205289",
             "date": 1741766100,
             "mid": "2025C52117S0071",
-            "score": 78
+            "score": 74
         },
         {
             "extrait_titre": "Comment Mark Carney incarne le changement au Canada ?",
@@ -3236,7 +3314,7 @@
             "url": "https://www.radiofrance.fr/franceculture/podcasts/cultures-monde/mexique-un-retour-aux-ressources-1073351",
             "date": 1741777125,
             "mid": "2025C16756S0071",
-            "score": 74
+            "score": 76
         },
         {
             "extrait_titre": "La créativité en cuisine a-t-elle des limites ?",
@@ -3249,7 +3327,7 @@
             "url": "https://www.radiofrance.fr/franceculture/podcasts/cultures-monde/mexique-un-retour-aux-ressources-1073351",
             "date": 1741777125,
             "mid": "2025C16756S0071",
-            "score": 74
+            "score": 86
         },
         {
             "extrait_titre": "Pourquoi la nourriture évoque-t-elle tant de souvenirs ?",
@@ -3262,7 +3340,7 @@
             "url": "https://www.radiofrance.fr/franceculture/podcasts/cultures-monde/mexique-un-retour-aux-ressources-1073351",
             "date": 1741777125,
             "mid": "2025C16756S0071",
-            "score": 91
+            "score": 94
         },
         {
             "extrait_titre": "La cuisine est-elle un art ou un savoir-faire ?",
@@ -3275,7 +3353,7 @@
             "url": "https://www.radiofrance.fr/franceculture/podcasts/cultures-monde/mexique-un-retour-aux-ressources-1073351",
             "date": 1741777125,
             "mid": "2025C16756S0071",
-            "score": 81
+            "score": 78
         },
         {
             "extrait_titre": "Comment la mythologie des chefs influence-t-elle notre perception de la cuisine ?",
@@ -3288,7 +3366,7 @@
             "url": "https://www.radiofrance.fr/franceculture/podcasts/cultures-monde/mexique-un-retour-aux-ressources-1073351",
             "date": 1741777125,
             "mid": "2025C16756S0071",
-            "score": 85
+            "score": 90
         },
         {
             "extrait_titre": "La nourriture dans le cinéma : un reflet de la culture ?",
@@ -3301,7 +3379,7 @@
             "url": "https://www.radiofrance.fr/franceculture/podcasts/cultures-monde/mexique-un-retour-aux-ressources-1073351",
             "date": 1741777125,
             "mid": "2025C16756S0071",
-            "score": 73
+            "score": 90
         },
         {
             "extrait_titre": "Comment Pierre Freinet a redéfini le rôle de l'acteur ?",
@@ -3392,7 +3470,7 @@
             "url": "https://www.radiofrance.fr/franceculture/podcasts/les-nuits-de-france-culture/les-animaux-fantastiques-des-creatures-essentielles-au-moyen-age-4234454",
             "date": 1741487777,
             "mid": "2025C3372E0145",
-            "score": 78
+            "score": 92
         },
         {
             "extrait_titre": "Le dragon, un outil d'évangélisation pour l'Église !",
@@ -3405,7 +3483,7 @@
             "url": "https://www.radiofrance.fr/franceculture/podcasts/les-nuits-de-france-culture/les-animaux-fantastiques-des-creatures-essentielles-au-moyen-age-4234454",
             "date": 1741487777,
             "mid": "2025C3372E0145",
-            "score": 90
+            "score": 76
         },
         {
             "extrait_titre": "Pourquoi le dragon est-il le roi des bestiaires ?",
@@ -3418,7 +3496,7 @@
             "url": "https://www.radiofrance.fr/franceculture/podcasts/les-nuits-de-france-culture/les-animaux-fantastiques-des-creatures-essentielles-au-moyen-age-4234454",
             "date": 1741487777,
             "mid": "2025C3372E0145",
-            "score": 73
+            "score": 94
         },
         {
             "extrait_titre": "Pourquoi le procès des viols de Mazan marque-t-il un tournant historique ?",
@@ -3431,7 +3509,7 @@
             "url": "https://www.radiofrance.fr/franceculture/podcasts/france-culture-va-plus-loin-l-invite-e-des-matins/manon-garcia-resister-aux-nouveau-males-2783445",
             "date": 1741765500,
             "mid": "2025C16450S0071",
-            "score": 87
+            "score": 91
         },
         {
             "extrait_titre": "Comment le consentement est-il mal compris dans le cadre judiciaire ?",
@@ -3444,7 +3522,7 @@
             "url": "https://www.radiofrance.fr/franceculture/podcasts/france-culture-va-plus-loin-l-invite-e-des-matins/manon-garcia-resister-aux-nouveau-males-2783445",
             "date": 1741765500,
             "mid": "2025C16450S0071",
-            "score": 86
+            "score": 87
         },
         {
             "extrait_titre": "Pourquoi les hommes doivent-ils repenser leur rapport à la masculinité ?",
@@ -3470,7 +3548,7 @@
             "url": "https://www.radiofrance.fr/franceculture/podcasts/france-culture-va-plus-loin-l-invite-e-des-matins/manon-garcia-resister-aux-nouveau-males-2783445",
             "date": 1741765500,
             "mid": "2025C16450S0071",
-            "score": 74
+            "score": 83
         },
         {
             "extrait_titre": "Comment le brigandage est devenu un métier à risque dans l'Antiquité ?",
@@ -3912,7 +3990,7 @@
             "url": "https://www.radiofrance.fr/franceculture/podcasts/le-point-culture/mark-fisher-la-critique-culturelle-comme-manuel-de-lutte-9347059",
             "date": 1741608000,
             "mid": "2025C41196S0069",
-            "score": 76
+            "score": 80
         },
         {
             "extrait_titre": "La mélancolie de Mark Fisher : un guide de survie au capitalisme ?",
@@ -3925,7 +4003,7 @@
             "url": "https://www.radiofrance.fr/franceculture/podcasts/le-point-culture/mark-fisher-la-critique-culturelle-comme-manuel-de-lutte-9347059",
             "date": 1741608000,
             "mid": "2025C41196S0069",
-            "score": 80
+            "score": 89
         },
         {
             "extrait_titre": "« La bataille est toujours utile » : un engagement sans regrets",
@@ -4134,6 +4212,71 @@
             "date": 1741618725,
             "mid": "2025C49162S0069",
             "score": 87
+        },
+        {
+            "extrait_titre": "« Si jamais on me retrouve morte, sachez que je ne me suis pas suicidée »",
+            "extrait": "Elle commence par une adresse aux victimes de violences sexuelles. Elle leur dit, si elle écrit elle-même à la main, comme s'il s'agissait vraiment d'un journal écrit, puisqu'elle est partie comme matériau d'un journal qu'elle avait enregistré en audio et puis filmé aussi. Et elle leur dit, il va y avoir des moments durs dans ce film, faites comme moi, fermez les yeux, respirez et ça va aller. Et puis elle s'adresse aussi à ses parents plusieurs fois, d'une part parce qu'elle a peur pour sa vie et qu'elle dit, si jamais on me retrouve morte, sachez que je ne me suis pas suicidée et qu'il faudra enquêter sur ma disparition, ce qui est quand même glaçant.",
+            "start": 543.489,
+            "title": "Critique ciné : \"Black Box Diaries\" de Shiori Itō",
+            "show": "Les Midis de Culture",
+            "chapo": "Les critiques discutent de \"Black Box Diaries\", le film de la journaliste japonaise Shiori Itō qui documente son combat contre le tabou des violences sexuelles au Japon.",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/12360-12.03.2025-ITEMA_24055694-2025C51852S2071-NET_MFC_4E58BA18-F09C-479D-9CF1-7A1853FA5002-21.mp3",
+            "url": "https://www.radiofrance.fr/franceculture/podcasts/les-midis-de-culture/critique-cine-black-box-diaries-de-shiori-ito-6311938",
+            "date": 1741779001,
+            "mid": "2025C51852S2071",
+            "score": 71
+        },
+        {
+            "extrait_titre": "Comment Shiori Itō a changé la loi sur les violences sexuelles au Japon ?",
+            "extrait": "Mais elle a fait changer la loi, quand même, au Japon. À la marge, on va dire, mais en tout cas, évoluer. Il faut savoir que la loi n'avait pas changé depuis, je ne sais plus, 110 ans. Ce qu'elle a fait, déjà, c'est qu'il y a une loi qui a passé la majorité sexuelle de, je ne sais plus, de 13 à 15 ans. Et puis, il y a tout un combat qui se fait.",
+            "start": 596.667,
+            "title": "Critique ciné : \"Black Box Diaries\" de Shiori Itō",
+            "show": "Les Midis de Culture",
+            "chapo": "Les critiques discutent de \"Black Box Diaries\", le film de la journaliste japonaise Shiori Itō qui documente son combat contre le tabou des violences sexuelles au Japon.",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/12360-12.03.2025-ITEMA_24055694-2025C51852S2071-NET_MFC_4E58BA18-F09C-479D-9CF1-7A1853FA5002-21.mp3",
+            "url": "https://www.radiofrance.fr/franceculture/podcasts/les-midis-de-culture/critique-cine-black-box-diaries-de-shiori-ito-6311938",
+            "date": 1741779001,
+            "mid": "2025C51852S2071",
+            "score": 81
+        },
+        {
+            "extrait_titre": "« On n'a pas le droit de raconter ça » : le poids du silence au Japon",
+            "extrait": "Et d'ailleurs, au Japon, elle a subi l'opprobre au total. Oui, c'est très saisissant ce qu'elle raconte, des réactions et beaucoup de réactions de femmes qui lui disent « on n'a pas le droit de raconter ça, on n'a pas le droit de dire ce genre de choses ».",
+            "start": 657.757,
+            "title": "Critique ciné : \"Black Box Diaries\" de Shiori Itō",
+            "show": "Les Midis de Culture",
+            "chapo": "Les critiques discutent de \"Black Box Diaries\", le film de la journaliste japonaise Shiori Itō qui documente son combat contre le tabou des violences sexuelles au Japon.",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/12360-12.03.2025-ITEMA_24055694-2025C51852S2071-NET_MFC_4E58BA18-F09C-479D-9CF1-7A1853FA5002-21.mp3",
+            "url": "https://www.radiofrance.fr/franceculture/podcasts/les-midis-de-culture/critique-cine-black-box-diaries-de-shiori-ito-6311938",
+            "date": 1741779001,
+            "mid": "2025C51852S2071",
+            "score": 88
+        },
+        {
+            "extrait_titre": "« C'est incroyable que cet homme parle » : un moment de cinéma inouï",
+            "extrait": "Il y a un très très beau moment où quelqu'un au téléphone va lui dire que oui, il accepte de témoigner à visage découvert et que son nom soit utilisé. Et elle se filme en train d'avoir ce coup de fil. Ces larmes arrivant en disant que c'est incroyable que cet homme parle, et on entend presque les larmes de la personne au téléphone en train de lui dire, ben oui c'est important, je me mets en danger, mais il faut faire cesser les violences sexuelles au Japon.",
+            "start": 441.514,
+            "title": "Critique ciné : \"Black Box Diaries\" de Shiori Itō",
+            "show": "Les Midis de Culture",
+            "chapo": "Les critiques discutent de \"Black Box Diaries\", le film de la journaliste japonaise Shiori Itō qui documente son combat contre le tabou des violences sexuelles au Japon.",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/12360-12.03.2025-ITEMA_24055694-2025C51852S2071-NET_MFC_4E58BA18-F09C-479D-9CF1-7A1853FA5002-21.mp3",
+            "url": "https://www.radiofrance.fr/franceculture/podcasts/les-midis-de-culture/critique-cine-black-box-diaries-de-shiori-ito-6311938",
+            "date": 1741779001,
+            "mid": "2025C51852S2071",
+            "score": 86
+        },
+        {
+            "extrait_titre": "« Je suis désolée de la honte que mon histoire provoque chez vous » : un cri du cœur",
+            "extrait": "Et puis elle s'adresse plusieurs fois à ses parents pour dire je suis désolée de la honte que mon histoire provoque chez vous, mais je dois témoigner, je dois le faire et donc ces adresses très intimes sont très percutantes aussi dans la simplicité avec lesquelles elle les conduit.",
+            "start": 567.594,
+            "title": "Critique ciné : \"Black Box Diaries\" de Shiori Itō",
+            "show": "Les Midis de Culture",
+            "chapo": "Les critiques discutent de \"Black Box Diaries\", le film de la journaliste japonaise Shiori Itō qui documente son combat contre le tabou des violences sexuelles au Japon.",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/12360-12.03.2025-ITEMA_24055694-2025C51852S2071-NET_MFC_4E58BA18-F09C-479D-9CF1-7A1853FA5002-21.mp3",
+            "url": "https://www.radiofrance.fr/franceculture/podcasts/les-midis-de-culture/critique-cine-black-box-diaries-de-shiori-ito-6311938",
+            "date": 1741779001,
+            "mid": "2025C51852S2071",
+            "score": 92
         },
         {
             "extrait_titre": "Comment la civilisation judéo-chrétienne occulte notre histoire ?",
@@ -4627,7 +4770,7 @@
             "url": "https://www.radiofrance.fr/franceculture/podcasts/avec-sciences/explorer-ou-perseverer-decouverte-des-mecanismes-neurologiques-d-un-choix-cornelien-9212209",
             "date": 1741586220,
             "mid": "2025C26620S0069",
-            "score": 78
+            "score": 85
         },
         {
             "extrait_titre": "Les neurones qui déterminent notre choix : exploration ou exploitation ?",
@@ -4640,7 +4783,7 @@
             "url": "https://www.radiofrance.fr/franceculture/podcasts/avec-sciences/explorer-ou-perseverer-decouverte-des-mecanismes-neurologiques-d-un-choix-cornelien-9212209",
             "date": 1741586220,
             "mid": "2025C26620S0069",
-            "score": 72
+            "score": 88
         },
         {
             "extrait_titre": "La science derrière nos choix : un équilibre neuronal fascinant !",
@@ -4653,7 +4796,7 @@
             "url": "https://www.radiofrance.fr/franceculture/podcasts/avec-sciences/explorer-ou-perseverer-decouverte-des-mecanismes-neurologiques-d-un-choix-cornelien-9212209",
             "date": 1741586220,
             "mid": "2025C26620S0069",
-            "score": 87
+            "score": 73
         },
         {
             "extrait_titre": "1500 espèces dans l'estomac des frelons asiatiques : un impact colossal sur la biodiversité !",
@@ -4666,7 +4809,7 @@
             "url": "https://www.radiofrance.fr/franceculture/podcasts/avec-sciences/frelons-asiatiques-de-quelles-especes-se-nourrissent-ces-especes-envahissantes-7754570",
             "date": 1741759020,
             "mid": "2025C26620S0071",
-            "score": 87
+            "score": 81
         },
         {
             "extrait_titre": "Le frelon asiatique : un fléau pour nos pollinisateurs !",
@@ -4679,7 +4822,7 @@
             "url": "https://www.radiofrance.fr/franceculture/podcasts/avec-sciences/frelons-asiatiques-de-quelles-especes-se-nourrissent-ces-especes-envahissantes-7754570",
             "date": 1741759020,
             "mid": "2025C26620S0071",
-            "score": 79
+            "score": 70
         },
         {
             "extrait_titre": "Pourquoi le frelon asiatique est-il si redoutable pour notre écosystème ?",
@@ -4692,7 +4835,7 @@
             "url": "https://www.radiofrance.fr/franceculture/podcasts/avec-sciences/frelons-asiatiques-de-quelles-especes-se-nourrissent-ces-especes-envahissantes-7754570",
             "date": 1741759020,
             "mid": "2025C26620S0071",
-            "score": 94
+            "score": 80
         },
         {
             "extrait_titre": "Comment la mer a changé ma vie ?",
