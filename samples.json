@@ -1,6 +1,6 @@
 {
-    "date": "Mis à jour le 13/03/2025 à 12:23",
-    "unix": 1741865032,
+    "date": "Mis à jour le 13/03/2025 à 14:59",
+    "unix": 1741874374,
     "samples": [
         {
             "extrait_titre": "Pourquoi les titres révèlent-ils notre hiérarchie sociale ?",
@@ -273,7 +273,7 @@
             "url": "https://www.radiofrance.fr/franceculture/podcasts/un-monde-connecte/paris-defence-and-strategy-forum-les-nouveaux-canaux-de-l-influence-russe-3205289",
             "date": 1741766100,
             "mid": "2025C52117S0071",
-            "score": 84
+            "score": 87
         },
         {
             "extrait_titre": "L'IA, nouvel outil de la propagande russe ?",
@@ -286,7 +286,7 @@
             "url": "https://www.radiofrance.fr/franceculture/podcasts/un-monde-connecte/paris-defence-and-strategy-forum-les-nouveaux-canaux-de-l-influence-russe-3205289",
             "date": 1741766100,
             "mid": "2025C52117S0071",
-            "score": 75
+            "score": 76
         },
         {
             "extrait_titre": "« Les débats sur les retraites deviennent dérisoires »",
@@ -468,7 +468,7 @@
             "url": "https://www.radiofrance.fr/franceculture/podcasts/avec-sciences/frelons-asiatiques-de-quelles-especes-se-nourrissent-ces-especes-envahissantes-7754570",
             "date": 1741759020,
             "mid": "2025C26620S0071",
-            "score": 87
+            "score": 73
         },
         {
             "extrait_titre": "Le frelon asiatique : un fléau pour nos pollinisateurs !",
@@ -481,7 +481,7 @@
             "url": "https://www.radiofrance.fr/franceculture/podcasts/avec-sciences/frelons-asiatiques-de-quelles-especes-se-nourrissent-ces-especes-envahissantes-7754570",
             "date": 1741759020,
             "mid": "2025C26620S0071",
-            "score": 81
+            "score": 74
         },
         {
             "extrait_titre": "Pourquoi le frelon asiatique est-il si redoutable pour notre écosystème ?",
@@ -494,7 +494,7 @@
             "url": "https://www.radiofrance.fr/franceculture/podcasts/avec-sciences/frelons-asiatiques-de-quelles-especes-se-nourrissent-ces-especes-envahissantes-7754570",
             "date": 1741759020,
             "mid": "2025C26620S0071",
-            "score": 77
+            "score": 75
         },
         {
             "extrait_titre": "Comment la cuisine devient-elle une œuvre d'art ?",
@@ -507,7 +507,7 @@
             "url": "https://www.radiofrance.fr/franceculture/podcasts/cultures-monde/mexique-un-retour-aux-ressources-1073351",
             "date": 1741777125,
             "mid": "2025C16756S0071",
-            "score": 82
+            "score": 76
         },
         {
             "extrait_titre": "La créativité en cuisine a-t-elle des limites ?",
@@ -520,7 +520,7 @@
             "url": "https://www.radiofrance.fr/franceculture/podcasts/cultures-monde/mexique-un-retour-aux-ressources-1073351",
             "date": 1741777125,
             "mid": "2025C16756S0071",
-            "score": 81
+            "score": 86
         },
         {
             "extrait_titre": "Pourquoi la nourriture évoque-t-elle tant de souvenirs ?",
@@ -533,7 +533,7 @@
             "url": "https://www.radiofrance.fr/franceculture/podcasts/cultures-monde/mexique-un-retour-aux-ressources-1073351",
             "date": 1741777125,
             "mid": "2025C16756S0071",
-            "score": 93
+            "score": 73
         },
         {
             "extrait_titre": "La cuisine est-elle un art ou un savoir-faire ?",
@@ -546,7 +546,7 @@
             "url": "https://www.radiofrance.fr/franceculture/podcasts/cultures-monde/mexique-un-retour-aux-ressources-1073351",
             "date": 1741777125,
             "mid": "2025C16756S0071",
-            "score": 78
+            "score": 75
         },
         {
             "extrait_titre": "Comment la mythologie des chefs influence-t-elle notre perception de la cuisine ?",
@@ -559,7 +559,7 @@
             "url": "https://www.radiofrance.fr/franceculture/podcasts/cultures-monde/mexique-un-retour-aux-ressources-1073351",
             "date": 1741777125,
             "mid": "2025C16756S0071",
-            "score": 73
+            "score": 79
         },
         {
             "extrait_titre": "La nourriture dans le cinéma : un reflet de la culture ?",
@@ -572,7 +572,33 @@
             "url": "https://www.radiofrance.fr/franceculture/podcasts/cultures-monde/mexique-un-retour-aux-ressources-1073351",
             "date": 1741777125,
             "mid": "2025C16756S0071",
-            "score": 76
+            "score": 91
+        },
+        {
+            "extrait_titre": "Comment l'art moderne a défié le régime nazi ?",
+            "extrait": "\"Ce qu'on voit dans cette exposition, c'est que une guerre politique, c'est toujours aussi simultanément un conflit entre des visions du monde.\"",
+            "start": 202.436,
+            "title": "Critique expo : \"L’art dégénéré : le procès de l’art moderne sous le nazisme\" au musée Picasso",
+            "show": "Les Midis de Culture",
+            "chapo": "Les critiques discutent de l'exposition \"L’art 'dégénéré' : le procès de l’art moderne sous le nazisme\" organisée au musée Picasso à Paris, qui présente des œuvres condamnées par les nazis en les remettant dans le contexte de l'émergence de théories racistes et antisémites dans l'histoire de l'art. ",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/12360-13.03.2025-ITEMA_24057235-2025C51852S1072-NET_MFC_1B1798B1-5294-44F8-A97B-C46D6155E105-21.mp3",
+            "url": "https://www.radiofrance.fr/franceculture/podcasts/les-midis-de-culture/critique-expo-l-art-degenere-le-proces-de-l-art-moderne-sous-le-nazisme-au-musee-picasso-3077095",
+            "date": 1741864501,
+            "mid": "2025C51852S1072",
+            "score": 95
+        },
+        {
+            "extrait_titre": "L'art dégénéré : un miroir de notre société actuelle ?",
+            "extrait": "\"C'est une exposition qui est importante évidemment, étant donné que déjà elle rentre en écho aujourd'hui en France avec ce que l'on vit dans le reste du monde, à savoir une montée des extrêmes droites.\"",
+            "start": 152.122,
+            "title": "Critique expo : \"L’art dégénéré : le procès de l’art moderne sous le nazisme\" au musée Picasso",
+            "show": "Les Midis de Culture",
+            "chapo": "Les critiques discutent de l'exposition \"L’art 'dégénéré' : le procès de l’art moderne sous le nazisme\" organisée au musée Picasso à Paris, qui présente des œuvres condamnées par les nazis en les remettant dans le contexte de l'émergence de théories racistes et antisémites dans l'histoire de l'art. ",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/12360-13.03.2025-ITEMA_24057235-2025C51852S1072-NET_MFC_1B1798B1-5294-44F8-A97B-C46D6155E105-21.mp3",
+            "url": "https://www.radiofrance.fr/franceculture/podcasts/les-midis-de-culture/critique-expo-l-art-degenere-le-proces-de-l-art-moderne-sous-le-nazisme-au-musee-picasso-3077095",
+            "date": 1741864501,
+            "mid": "2025C51852S1072",
+            "score": 90
         },
         {
             "extrait_titre": "« Le cinéma de Soderbergh : un jeu d'esprit qui tourne à vide »",
@@ -624,7 +650,7 @@
             "url": "https://www.radiofrance.fr/franceculture/podcasts/un-monde-connecte/usage-de-la-realite-virtuelle-en-prison-un-casque-pour-ressentir-l-evasion-2809155",
             "date": 1741679700,
             "mid": "2025C52117S0070",
-            "score": 94
+            "score": 70
         },
         {
             "extrait_titre": "\"La réalité virtuelle pour mieux apprécier la liberté réelle\"",
@@ -637,7 +663,7 @@
             "url": "https://www.radiofrance.fr/franceculture/podcasts/un-monde-connecte/usage-de-la-realite-virtuelle-en-prison-un-casque-pour-ressentir-l-evasion-2809155",
             "date": 1741679700,
             "mid": "2025C52117S0070",
-            "score": 85
+            "score": 86
         },
         {
             "extrait_titre": "Comment éviter de tomber dans le piège de la crédulité ?",
@@ -780,7 +806,7 @@
             "url": "https://www.radiofrance.fr/franceculture/podcasts/la-revue-de-presse-internationale/la-revue-de-presse-internationale-emission-du-mardi-11-mars-2025-5684977",
             "date": 1741675320,
             "mid": "2025C22811S0070",
-            "score": 70
+            "score": 90
         },
         {
             "extrait_titre": "Comment un jeune éboueur survit dans une décharge mortelle ?",
@@ -793,7 +819,7 @@
             "url": "https://www.radiofrance.fr/franceculture/podcasts/la-revue-de-presse-internationale/la-revue-de-presse-internationale-emission-du-mardi-11-mars-2025-5684977",
             "date": 1741675320,
             "mid": "2025C22811S0070",
-            "score": 94
+            "score": 85
         },
         {
             "extrait_titre": "Pourquoi les Ougandais doivent-ils être acteurs du changement ?",
@@ -806,7 +832,7 @@
             "url": "https://www.radiofrance.fr/franceculture/podcasts/la-revue-de-presse-internationale/la-revue-de-presse-internationale-emission-du-mardi-11-mars-2025-5684977",
             "date": 1741675320,
             "mid": "2025C22811S0070",
-            "score": 70
+            "score": 75
         },
         {
             "extrait_titre": "La pollution de l'air à Kampala : un tueur silencieux",
@@ -819,7 +845,7 @@
             "url": "https://www.radiofrance.fr/franceculture/podcasts/la-revue-de-presse-internationale/la-revue-de-presse-internationale-emission-du-mardi-11-mars-2025-5684977",
             "date": 1741675320,
             "mid": "2025C22811S0070",
-            "score": 74
+            "score": 83
         },
         {
             "extrait_titre": "Comment l'urbanisation galopante aggrave la crise des déchets ?",
@@ -832,7 +858,7 @@
             "url": "https://www.radiofrance.fr/franceculture/podcasts/la-revue-de-presse-internationale/la-revue-de-presse-internationale-emission-du-mardi-11-mars-2025-5684977",
             "date": 1741675320,
             "mid": "2025C22811S0070",
-            "score": 82
+            "score": 72
         },
         {
             "extrait_titre": "« La littérature, notre âme exprimée »",
@@ -1017,6 +1043,45 @@
             "score": 90
         },
         {
+            "extrait_titre": "Comment la lumière d'une famille a illuminé mon adolescence ?",
+            "extrait": "\"C'était des étés merveilleux. Où... je ne sais pas, le monde était vaste, c'est-à-dire comme ce jardin des Bourdieux, les maisons, tout était lumineux, c'est presque une sensation physique qui, dans ma famille à Versailles, mes parents se séparaient très douloureusement, ça créait une atmosphère vraiment sombre et la bascule dans la famille Bourdieu, évidemment, c'était d'abord au niveau de la lumière comme ça, du noir... au soleil, tout simplement, et aussi d'une certaine pesanteur à tous les niveaux.\"",
+            "start": 365.671,
+            "title": "Denis Podalydès pour son livre \"L'ami de la famille. Souvenirs de Pierre Bourdieu\"",
+            "show": "Les Midis de Culture",
+            "chapo": "Ami du fils de Pierre Bourdieu, Emmanuel, Denis Podalydès évoque ses souvenirs lumineux au sein de la famille Bourdieu, son admiration discrète pour le grand sociologue et la manière dont ses thèses ont durablement marqué son rapport au théâtre. ",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/12360-13.03.2025-ITEMA_24057235-2025C51852S3072-NET_MFC_87A3FAD9-FD9A-4F37-837F-358CCCBBB090-21.mp3",
+            "url": "https://www.radiofrance.fr/franceculture/podcasts/les-midis-de-culture/denis-podalydes-pour-son-livre-l-ami-de-la-famille-souvenirs-de-pierre-bourdieu-8544834",
+            "date": 1741868925,
+            "mid": "2025C51852S3072",
+            "score": 95
+        },
+        {
+            "extrait_titre": "Pourquoi l'habitus façonne-t-il notre perception du monde ?",
+            "extrait": "\"L'habitus, c'est une façon de percevoir le monde, ce sont un peu les lunettes dont nous n'avons pas toujours conscience, à travers lesquelles nous voyons le monde, et qui vient beaucoup de toutes nos habitudes sociales engrangées, de la culture qu'on a reçue... Donc ça nous a donné des tas de préjugés. En fait, nous sommes tous porteurs de quantité.\"",
+            "start": 547.039,
+            "title": "Denis Podalydès pour son livre \"L'ami de la famille. Souvenirs de Pierre Bourdieu\"",
+            "show": "Les Midis de Culture",
+            "chapo": "Ami du fils de Pierre Bourdieu, Emmanuel, Denis Podalydès évoque ses souvenirs lumineux au sein de la famille Bourdieu, son admiration discrète pour le grand sociologue et la manière dont ses thèses ont durablement marqué son rapport au théâtre. ",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/12360-13.03.2025-ITEMA_24057235-2025C51852S3072-NET_MFC_87A3FAD9-FD9A-4F37-837F-358CCCBBB090-21.mp3",
+            "url": "https://www.radiofrance.fr/franceculture/podcasts/les-midis-de-culture/denis-podalydes-pour-son-livre-l-ami-de-la-famille-souvenirs-de-pierre-bourdieu-8544834",
+            "date": 1741868925,
+            "mid": "2025C51852S3072",
+            "score": 90
+        },
+        {
+            "extrait_titre": "La vérité peut-elle détruire le plaisir littéraire ?",
+            "extrait": "\"La sociologie révèle que l'idée d'opinion personnelle, comme l'idée de goût personnel, est une illusion. On en conclut que la sociologie est réductrice, qu'elle désenchante, qu'en enlevant aux gens toute illusion, elle démobilise. Voudrait-on dire qu'on ne peut mobiliser que sur la base d'illusions ?\"",
+            "start": 1163.036,
+            "title": "Denis Podalydès pour son livre \"L'ami de la famille. Souvenirs de Pierre Bourdieu\"",
+            "show": "Les Midis de Culture",
+            "chapo": "Ami du fils de Pierre Bourdieu, Emmanuel, Denis Podalydès évoque ses souvenirs lumineux au sein de la famille Bourdieu, son admiration discrète pour le grand sociologue et la manière dont ses thèses ont durablement marqué son rapport au théâtre. ",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/12360-13.03.2025-ITEMA_24057235-2025C51852S3072-NET_MFC_87A3FAD9-FD9A-4F37-837F-358CCCBBB090-21.mp3",
+            "url": "https://www.radiofrance.fr/franceculture/podcasts/les-midis-de-culture/denis-podalydes-pour-son-livre-l-ami-de-la-famille-souvenirs-de-pierre-bourdieu-8544834",
+            "date": 1741868925,
+            "mid": "2025C51852S3072",
+            "score": 92
+        },
+        {
             "extrait_titre": "Pourquoi la philosophie est-elle en danger à l'université ?",
             "extrait": "La philosophie sur la scellette ce matin. Vous connaissez la crise de l'université, crise des moyens qui en fait le parent pauvre d'un système d'enseignement supérieur de plus en plus tripartite où les sciences po et les classes préparatoires drainent les meilleurs élèves et les financements. Et bien au sein de l'université, s'il y a une discipline tout particulièrement en souffrance, c'est la philosophie.",
             "start": 7.175,
@@ -1092,7 +1157,7 @@
             "url": "https://www.radiofrance.fr/franceculture/podcasts/avec-sciences/explorer-ou-perseverer-decouverte-des-mecanismes-neurologiques-d-un-choix-cornelien-9212209",
             "date": 1741586220,
             "mid": "2025C26620S0069",
-            "score": 71
+            "score": 72
         },
         {
             "extrait_titre": "Les neurones qui déterminent notre choix : exploration ou exploitation ?",
@@ -1105,7 +1170,7 @@
             "url": "https://www.radiofrance.fr/franceculture/podcasts/avec-sciences/explorer-ou-perseverer-decouverte-des-mecanismes-neurologiques-d-un-choix-cornelien-9212209",
             "date": 1741586220,
             "mid": "2025C26620S0069",
-            "score": 72
+            "score": 90
         },
         {
             "extrait_titre": "La science derrière nos choix : un équilibre neuronal fascinant !",
@@ -1118,7 +1183,7 @@
             "url": "https://www.radiofrance.fr/franceculture/podcasts/avec-sciences/explorer-ou-perseverer-decouverte-des-mecanismes-neurologiques-d-un-choix-cornelien-9212209",
             "date": 1741586220,
             "mid": "2025C26620S0069",
-            "score": 84
+            "score": 90
         },
         {
             "extrait_titre": "La condition féminine au cœur du cinéma hongkongais",
@@ -1625,7 +1690,7 @@
             "url": "https://www.radiofrance.fr/franceculture/podcasts/le-point-culture/mark-fisher-la-critique-culturelle-comme-manuel-de-lutte-9347059",
             "date": 1741608000,
             "mid": "2025C41196S0069",
-            "score": 92
+            "score": 70
         },
         {
             "extrait_titre": "La mélancolie de Mark Fisher : un guide de survie au capitalisme ?",
@@ -1638,7 +1703,7 @@
             "url": "https://www.radiofrance.fr/franceculture/podcasts/le-point-culture/mark-fisher-la-critique-culturelle-comme-manuel-de-lutte-9347059",
             "date": 1741608000,
             "mid": "2025C41196S0069",
-            "score": 80
+            "score": 91
         },
         {
             "extrait_titre": "L'Europe face à sa solitude stratégique : un constat alarmant ?",
@@ -1914,6 +1979,32 @@
             "score": 88
         },
         {
+            "extrait_titre": "« J'ai l'impression de devenir un chef d'entreprise »",
+            "extrait": "« C'est intéressant, ce que dit Jean-Béroule Vrigny, c'est que je suis entré dans le théâtre comme un aventurier, je suis arrivé au Théâtre National Populaire en pensant reprendre la grande aventure de mes devanciers, et puis j'ai l'impression de devenir un chef d'entreprise. C'est ça, c'est les tâches gestionnaires qui prennent le pas et qui vampirisent l'œuvre du créateur qui devrait rester le cœur des politiques de programmation et de direction de ces établissements. »",
+            "start": 548.956,
+            "title": "Crise du théâtre public : \"J'ai l'impression de devenir un chef d'entreprise\"",
+            "show": "Le Point culture",
+            "chapo": "Trois départs de directeurs de théâtres publics jettent une lumière crue sur leur difficulté à maintenir des programmes artistiques en plus de l'entretien des bâtiments et de leurs missions auprès des habitants.",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/21829-13.03.2025-ITEMA_24057260-2025C41196S0072-NET_MFC_B3D3715F-7A4A-4822-9AD3-C9F8D070382C-21.mp3",
+            "url": "https://www.radiofrance.fr/franceculture/podcasts/le-point-culture/crise-du-theatre-public-j-ai-l-impression-de-devenir-un-chef-d-entreprise-1666148",
+            "date": 1741867200,
+            "mid": "2025C41196S0072",
+            "score": 95
+        },
+        {
+            "extrait_titre": "Comment le théâtre public se transforme en entreprise ?",
+            "extrait": "« À une époque où on pouvait se dire être à la tête d'un théâtre comme ça, ça permet aussi de poursuivre un geste artistique, de pérenniser des collaborations. Mais maintenant, en fait, les charges connexes sont tellement importantes, charges pour lesquelles les artistes ne sont pas toujours formés. On parle d'artistes qui sont tout à coup directeurs d'équipes potentiellement très importantes... qui ont donc des fonctions manageriales, qui peuvent parfois d'ailleurs les mettre en porte-à-faux par rapport aux amitiés qu'ils ont pu nouer avec des artistes, qui sont tout à coup très courtisées, puisqu'évidemment, on veut se faire programmer. Donc, il y a une sorte de solitude qui s'installe également, et de difficulté à maintenir des programmations équitables. »",
+            "start": 445.683,
+            "title": "Crise du théâtre public : \"J'ai l'impression de devenir un chef d'entreprise\"",
+            "show": "Le Point culture",
+            "chapo": "Trois départs de directeurs de théâtres publics jettent une lumière crue sur leur difficulté à maintenir des programmes artistiques en plus de l'entretien des bâtiments et de leurs missions auprès des habitants.",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/21829-13.03.2025-ITEMA_24057260-2025C41196S0072-NET_MFC_B3D3715F-7A4A-4822-9AD3-C9F8D070382C-21.mp3",
+            "url": "https://www.radiofrance.fr/franceculture/podcasts/le-point-culture/crise-du-theatre-public-j-ai-l-impression-de-devenir-un-chef-d-entreprise-1666148",
+            "date": 1741867200,
+            "mid": "2025C41196S0072",
+            "score": 90
+        },
+        {
             "extrait_titre": "Pourquoi Robin des Bois n'est-il pas vraiment des bois ?",
             "extrait": "Robin des bois, c'est vrai que, bon, en anglais, on a Robin Hood. Et pendant très longtemps, même en France, on va avoir Robin Hood qui reste, puisqu'au XIXe siècle, quand on a les romans attribués à Alexandre Dumas qui paraissent, ça reste Robin Hood le proscrit. H-O-O-D. La capuche, Robin, la capuche, littéralement. Et d'ailleurs, dans les premières représentations un peu iconographiques, on a ce Robin, qui n'est pas le Robin à la William Blanc d'aujourd'hui, que vous ne voyez pas avec le chapeau traditionnel. De Robin Desbois, mais c'est vraiment une capuche. Et une des raisons avancées pour ce changement de nom, finalement, ça a souvent été la grande capacité des Français à parler anglais, reconnue de tout temps et par tous. Et c'est un prof d'anglais qui dit ça. Je vais me faire des amis ce matin. Il faut admettre que la proximité entre hood, la capuche, et wood, le bois... C'est ça. Et en fait, la graphie a longtemps évolué. C'est-à-dire qu'on a eu des hoods, écrits W-H-O-D... ou H-O-D tout simplement, rien n'était fixé pendant très longtemps, donc Robin Hood dans les textes médiévaux s'écrit de différentes façons et se rapprochait souvent de Wood Foray.",
             "start": 129.203,
@@ -1924,7 +2015,7 @@
             "url": "https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/robin-des-bois-sur-les-traces-d-un-brigand-au-grand-coeur-2157540",
             "date": 1741683525,
             "mid": "2025C36128S0070",
-            "score": 88
+            "score": 70
         },
         {
             "extrait_titre": "La couleur verte de Robin des Bois : symbole d'instabilité ?",
@@ -1937,7 +2028,7 @@
             "url": "https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/robin-des-bois-sur-les-traces-d-un-brigand-au-grand-coeur-2157540",
             "date": 1741683525,
             "mid": "2025C36128S0070",
-            "score": 88
+            "score": 80
         },
         {
             "extrait_titre": "Robin des Bois : un héros ou un hors-la-loi ?",
@@ -1950,7 +2041,7 @@
             "url": "https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/robin-des-bois-sur-les-traces-d-un-brigand-au-grand-coeur-2157540",
             "date": 1741683525,
             "mid": "2025C36128S0070",
-            "score": 70
+            "score": 77
         },
         {
             "extrait_titre": "Comment Robin des Bois est devenu un symbole de révolte ?",
@@ -1963,7 +2054,7 @@
             "url": "https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/robin-des-bois-sur-les-traces-d-un-brigand-au-grand-coeur-2157540",
             "date": 1741683525,
             "mid": "2025C36128S0070",
-            "score": 93
+            "score": 86
         },
         {
             "extrait_titre": "Robin des Bois : un personnage façonné par les époques ?",
@@ -1976,7 +2067,7 @@
             "url": "https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/robin-des-bois-sur-les-traces-d-un-brigand-au-grand-coeur-2157540",
             "date": 1741683525,
             "mid": "2025C36128S0070",
-            "score": 83
+            "score": 71
         },
         {
             "extrait_titre": "Pourquoi Robin des Bois est-il toujours d'actualité ?",
@@ -1989,7 +2080,7 @@
             "url": "https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/robin-des-bois-sur-les-traces-d-un-brigand-au-grand-coeur-2157540",
             "date": 1741683525,
             "mid": "2025C36128S0070",
-            "score": 85
+            "score": 78
         },
         {
             "extrait_titre": "Robin des Bois : un héros aux multiples visages",
@@ -2002,7 +2093,7 @@
             "url": "https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/robin-des-bois-sur-les-traces-d-un-brigand-au-grand-coeur-2157540",
             "date": 1741683525,
             "mid": "2025C36128S0070",
-            "score": 76
+            "score": 88
         },
         {
             "extrait_titre": "Le rap a gagné, mais à quel prix ?",
@@ -2210,7 +2301,7 @@
             "url": "https://www.radiofrance.fr/franceculture/podcasts/les-midis-de-culture/critique-cine-black-box-diaries-de-shiori-ito-6311938",
             "date": 1741779001,
             "mid": "2025C51852S2071",
-            "score": 78
+            "score": 91
         },
         {
             "extrait_titre": "Comment Shiori Itō a changé la loi sur les violences sexuelles au Japon ?",
@@ -2223,7 +2314,7 @@
             "url": "https://www.radiofrance.fr/franceculture/podcasts/les-midis-de-culture/critique-cine-black-box-diaries-de-shiori-ito-6311938",
             "date": 1741779001,
             "mid": "2025C51852S2071",
-            "score": 88
+            "score": 81
         },
         {
             "extrait_titre": "« On n'a pas le droit de raconter ça » : le poids du silence au Japon",
@@ -2236,7 +2327,7 @@
             "url": "https://www.radiofrance.fr/franceculture/podcasts/les-midis-de-culture/critique-cine-black-box-diaries-de-shiori-ito-6311938",
             "date": 1741779001,
             "mid": "2025C51852S2071",
-            "score": 77
+            "score": 75
         },
         {
             "extrait_titre": "« C'est incroyable que cet homme parle » : un moment de cinéma inouï",
@@ -2249,7 +2340,7 @@
             "url": "https://www.radiofrance.fr/franceculture/podcasts/les-midis-de-culture/critique-cine-black-box-diaries-de-shiori-ito-6311938",
             "date": 1741779001,
             "mid": "2025C51852S2071",
-            "score": 93
+            "score": 70
         },
         {
             "extrait_titre": "« Je suis désolée de la honte que mon histoire provoque chez vous » : un cri du cœur",
@@ -2262,7 +2353,7 @@
             "url": "https://www.radiofrance.fr/franceculture/podcasts/les-midis-de-culture/critique-cine-black-box-diaries-de-shiori-ito-6311938",
             "date": 1741779001,
             "mid": "2025C51852S2071",
-            "score": 72
+            "score": 79
         },
         {
             "extrait_titre": "Comment le hip-hop a façonné ma vision du monde ?",
@@ -2691,7 +2782,7 @@
             "url": "https://www.radiofrance.fr/franceculture/podcasts/la-revue-de-presse-internationale/la-revue-de-presse-internationale-emission-du-mercredi-12-mars-2025-4469780",
             "date": 1741761720,
             "mid": "2025C22811S0071",
-            "score": 84
+            "score": 81
         },
         {
             "extrait_titre": "La purge au ministère de l'Éducation : un coup fatal pour les étudiants ?",
@@ -2704,7 +2795,7 @@
             "url": "https://www.radiofrance.fr/franceculture/podcasts/la-revue-de-presse-internationale/la-revue-de-presse-internationale-emission-du-mercredi-12-mars-2025-4469780",
             "date": 1741761720,
             "mid": "2025C22811S0071",
-            "score": 76
+            "score": 77
         },
         {
             "extrait_titre": "Pourquoi le Balouchistan est-il devenu un terrain de recrutement pour les insurgés ?",
@@ -2717,7 +2808,7 @@
             "url": "https://www.radiofrance.fr/franceculture/podcasts/la-revue-de-presse-internationale/la-revue-de-presse-internationale-emission-du-mercredi-12-mars-2025-4469780",
             "date": 1741761720,
             "mid": "2025C22811S0071",
-            "score": 70
+            "score": 88
         },
         {
             "extrait_titre": "Trump : 'Je veux fermer le ministère de l'Éducation'",
@@ -2730,7 +2821,7 @@
             "url": "https://www.radiofrance.fr/franceculture/podcasts/la-revue-de-presse-internationale/la-revue-de-presse-internationale-emission-du-mercredi-12-mars-2025-4469780",
             "date": 1741761720,
             "mid": "2025C22811S0071",
-            "score": 76
+            "score": 75
         },
         {
             "extrait_titre": "Les véritables victimes de la purge au ministère de l'Éducation ?",
@@ -2743,7 +2834,7 @@
             "url": "https://www.radiofrance.fr/franceculture/podcasts/la-revue-de-presse-internationale/la-revue-de-presse-internationale-emission-du-mercredi-12-mars-2025-4469780",
             "date": 1741761720,
             "mid": "2025C22811S0071",
-            "score": 88
+            "score": 89
         },
         {
             "extrait_titre": "« La mémoire ne s'efface jamais vraiment »",
@@ -3227,6 +3318,19 @@
             "score": 87
         },
         {
+            "extrait_titre": "\"L'architecture est un art sacré, magique et sexuel\"",
+            "extrait": "Pour moi, l'architecture est définie par deux choses. Quelle que soit l'époque ou la culture que l'on observe, on retrouve toujours d'un côté l'aspect rituel et religieux de l'architecture comme art, et pour moi l'architecture est bien un art, et de l'autre, la question de la survie et de la préservation de la température du corps. L'architecte autrichien Hans Salaen, donc, auquel une exposition est consacrée au Centre Pompidou, pour lui, l'origine de l'architecture était sacrée, sa vocation étant magique, sacrée et sexuelle.",
+            "start": 19.412,
+            "title": "Critique expo : \"Hans Hollein. TransFORMS\" au Centre Pompidou à Paris",
+            "show": "Les Midis de Culture",
+            "chapo": "Les critiques discutent de l'exposition \"Hans Hollein. TransFORMS\" au Centre Pompidou à Paris, une rétrospective consacrée à la carrière artistique du célèbre architecte autrichien.",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/18723-13.03.2025-ITEMA_24057217-2025C51852S2072-NET_MFC_934E50D9-1B30-4883-A7FE-405F726827B1-21.mp3",
+            "url": "https://www.radiofrance.fr/franceculture/podcasts/les-midis-de-culture/les-midis-de-culture-la-critique-partie-2-emission-du-jeudi-13-mars-2025-4335572",
+            "date": 1741865401,
+            "mid": "2025C51852S2072",
+            "score": 95
+        },
+        {
             "extrait_titre": "Pourquoi le procès des viols de Mazan marque-t-il un tournant historique ?",
             "extrait": "Ce qui fait, je vous cite, du procès des viols de Mazan un grand procès au sens historique, c'est qu'il met un terme à l'espoir exclusif placé dans le judiciaire. Oui, alors, c'est vrai que c'est paradoxal, parce qu'en général, ce qui fait un procès historique, c'est plutôt qu'il va y avoir une nouvelle loi, qu'il va y avoir un changement. Apparemment, il va y avoir d'ailleurs une nouvelle loi. Oui, on va pouvoir y revenir, mais... Si vous voulez, moi c'est mon côté philosophe, je pense que ce qui est un événement comme Deleuze avec l'idée que ce qui fait événement c'est qu'il y aura un avant et un après. Et justement, je ne sais pas s'il y aura un avant et un après de ce procès à part... un avant et un après un peu déprimant de se dire qu'on ne va pas pouvoir faire des procès pour toutes les affaires de violences sexuelles, que ce n'est tout simplement pas possible.",
             "start": 130.414,
@@ -3237,7 +3341,7 @@
             "url": "https://www.radiofrance.fr/franceculture/podcasts/france-culture-va-plus-loin-l-invite-e-des-matins/manon-garcia-resister-aux-nouveau-males-2783445",
             "date": 1741765500,
             "mid": "2025C16450S0071",
-            "score": 71
+            "score": 92
         },
         {
             "extrait_titre": "Comment le consentement est-il mal compris dans le cadre judiciaire ?",
@@ -3250,7 +3354,7 @@
             "url": "https://www.radiofrance.fr/franceculture/podcasts/france-culture-va-plus-loin-l-invite-e-des-matins/manon-garcia-resister-aux-nouveau-males-2783445",
             "date": 1741765500,
             "mid": "2025C16450S0071",
-            "score": 86
+            "score": 85
         },
         {
             "extrait_titre": "Pourquoi les hommes doivent-ils repenser leur rapport à la masculinité ?",
@@ -3263,7 +3367,7 @@
             "url": "https://www.radiofrance.fr/franceculture/podcasts/france-culture-va-plus-loin-l-invite-e-des-matins/manon-garcia-resister-aux-nouveau-males-2783445",
             "date": 1741765500,
             "mid": "2025C16450S0071",
-            "score": 81
+            "score": 84
         },
         {
             "extrait_titre": "Comment éduquer les jeunes sur le consentement ?",
@@ -3276,7 +3380,7 @@
             "url": "https://www.radiofrance.fr/franceculture/podcasts/france-culture-va-plus-loin-l-invite-e-des-matins/manon-garcia-resister-aux-nouveau-males-2783445",
             "date": 1741765500,
             "mid": "2025C16450S0071",
-            "score": 93
+            "score": 81
         },
         {
             "extrait_titre": "Comment une petite fille a-t-elle survécu à l'emprise de son père ?",
@@ -3487,6 +3591,45 @@
             "score": 84
         },
         {
+            "extrait_titre": "Comment la jalousie peut mener à des pensées sombres ?",
+            "extrait": "« Je deviens complètement fou avec tout ça. Je deviens complètement fou, c'est-à-dire que je ne pouvais pas concevoir, moins qu'on puisse sacrifier une histoire avec un bébé de 11 mois, donc maintenant à cette époque, sous prétexte qu'on avait découvert la passion absolue. Surtout avec un con. C'est inconcevable. »",
+            "start": 552.178,
+            "title": "Daniel, Éléonore, Lætitia et l’écrivain",
+            "show": "Les Pieds sur terre",
+            "chapo": "Devant la télé, Daniel voit sa compagne, présentatrice d’une émission, tomber amoureuse en direct de l’écrivain célèbre qu’elle interviewe. Elle le quitte bientôt pour le romancier. Un soir, il guette l’arrivée de celui-ci, planqué dans l’ombre avec l’intention de le tuer.",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/18722-13.03.2025-ITEMA_24057212-2025C6612S0072-NET_MFC_F4A7148C-9610-4DD4-A53C-5DD83D17AFB2-21.mp3",
+            "url": "https://www.radiofrance.fr/franceculture/podcasts/les-pieds-sur-terre/daniel-eleonore-laetitia-et-l-ecrivain-9213740",
+            "date": 1741870725,
+            "mid": "2025C6612S0072",
+            "score": 90
+        },
+        {
+            "extrait_titre": "La décision qui a changé le cours de sa vie : un SMS salvateur",
+            "extrait": "« Et là, je reçois un SMS d'Eléonore qui me dit « Peux-tu prendre du lait pour le petit ? Ça va être l'heure du bidon. » Et je me souviens du visage du petit, le petit d'Eléonore et le petit du mec que j'allais tuer, du visage de ce gamin qui était super mignon, super gentil. Ça s'est joué à deux secondes peut-être, pas plus. »",
+            "start": 1052.753,
+            "title": "Daniel, Éléonore, Lætitia et l’écrivain",
+            "show": "Les Pieds sur terre",
+            "chapo": "Devant la télé, Daniel voit sa compagne, présentatrice d’une émission, tomber amoureuse en direct de l’écrivain célèbre qu’elle interviewe. Elle le quitte bientôt pour le romancier. Un soir, il guette l’arrivée de celui-ci, planqué dans l’ombre avec l’intention de le tuer.",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/18722-13.03.2025-ITEMA_24057212-2025C6612S0072-NET_MFC_F4A7148C-9610-4DD4-A53C-5DD83D17AFB2-21.mp3",
+            "url": "https://www.radiofrance.fr/franceculture/podcasts/les-pieds-sur-terre/daniel-eleonore-laetitia-et-l-ecrivain-9213740",
+            "date": 1741870725,
+            "mid": "2025C6612S0072",
+            "score": 95
+        },
+        {
+            "extrait_titre": "Une rencontre inattendue : l'amour au milieu du chaos",
+            "extrait": "« Et là, en le voyant, je me dis un truc immédiatement. Ce mec-là, c'est pas possible qu'il soit le beau-père de ma fille. C'est la première chose qui me revient. Et là, je me souviens lui avoir lâché cette phrase « Vous ne respirerez jamais le même air que ma fille. » »",
+            "start": 718.08,
+            "title": "Daniel, Éléonore, Lætitia et l’écrivain",
+            "show": "Les Pieds sur terre",
+            "chapo": "Devant la télé, Daniel voit sa compagne, présentatrice d’une émission, tomber amoureuse en direct de l’écrivain célèbre qu’elle interviewe. Elle le quitte bientôt pour le romancier. Un soir, il guette l’arrivée de celui-ci, planqué dans l’ombre avec l’intention de le tuer.",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/18722-13.03.2025-ITEMA_24057212-2025C6612S0072-NET_MFC_F4A7148C-9610-4DD4-A53C-5DD83D17AFB2-21.mp3",
+            "url": "https://www.radiofrance.fr/franceculture/podcasts/les-pieds-sur-terre/daniel-eleonore-laetitia-et-l-ecrivain-9213740",
+            "date": 1741870725,
+            "mid": "2025C6612S0072",
+            "score": 85
+        },
+        {
             "extrait_titre": "Pourquoi la France est-elle à la traîne par rapport aux États-Unis ?",
             "extrait": "\"La situation de l'économie française en fait elle est un peu dans la moyenne européenne. Alors si on veut avoir quelques chiffres, depuis le début de la crise sanitaire, le PIB français est aux alentours d'un peu plus de 4% au-dessus de son niveau d'avant crise. Mais vous voyez, en Europe, en moyenne, on est à 4,5. Donc, on est vraiment dans la moyenne européenne. Mais ce qui est assez intéressant, c'est que les États-Unis sont à plus 12. Donc, les États-Unis ont fait beaucoup mieux pendant cette période-là. L'Europe décroche. Et puisque la France est un élève moyen de l'Europe, la France décroche aussi par rapport aux États-Unis.\"",
             "start": 48.096,
@@ -3537,97 +3680,6 @@
             "date": 1741679100,
             "mid": "2025C16450S0070",
             "score": 75
-        },
-        {
-            "extrait_titre": "Pourquoi les CDD sont-ils devenus la norme ?",
-            "extrait": "Le nombre de CDD, contrat à durée déterminée, est passé de 0,5% de l'emploi salarié en 1982 à 9,3% en 2022 selon les chiffres de la Dares publiée le 17 décembre 2024 dernier. Damien Sose, est-ce qu'on peut se contenter de cela, de constater une explosion du nombre de contrats courts que sont les CDD ces 30 dernières années ?",
-            "start": 196.502,
-            "title": "CDD, intérims, saisonniers : qui signe pour l’instabilité ?",
-            "show": "Entendez-vous l'éco ?",
-            "chapo": "Les contrats courts dominent les embauches mais exposent à une précarité durable : instabilité des revenus, accès réduit aux droits sociaux, difficulté à se projeter. Entre flexibilité pour les entreprises et insécurité pour les salariés, ils interrogent la soutenabilité du travail.",
-            "mp3": "https://media.radiofrance-podcast.net/podcast09/10081-10.03.2025-ITEMA_24053082-2025C29629S0069-NET_MFC_BCD6C3F4-45D9-4DBC-B2C6-49A7F0245675-21.mp3",
-            "url": "https://www.radiofrance.fr/franceculture/podcasts/entendez-vous-l-eco/cdd-interims-saisonniers-qui-signe-pour-l-instabilite-2414960",
-            "date": 1741615125,
-            "mid": "2025C29629S0069",
-            "score": 89
-        },
-        {
-            "extrait_titre": "L'illusion de la flexibilité : qui en profite vraiment ?",
-            "extrait": "Ce qui fait la sécurité de l'employeur se fait souvent au détriment de celle du salarié qui n'a désormais plus qu'une maîtrise est limitée de son temps et de sa carrière. D'autant que certains enchaînent ces contrats au point de devoir trouver une forme de stabilité et de cohérence dans l'instabilité même.",
-            "start": 84.018,
-            "title": "CDD, intérims, saisonniers : qui signe pour l’instabilité ?",
-            "show": "Entendez-vous l'éco ?",
-            "chapo": "Les contrats courts dominent les embauches mais exposent à une précarité durable : instabilité des revenus, accès réduit aux droits sociaux, difficulté à se projeter. Entre flexibilité pour les entreprises et insécurité pour les salariés, ils interrogent la soutenabilité du travail.",
-            "mp3": "https://media.radiofrance-podcast.net/podcast09/10081-10.03.2025-ITEMA_24053082-2025C29629S0069-NET_MFC_BCD6C3F4-45D9-4DBC-B2C6-49A7F0245675-21.mp3",
-            "url": "https://www.radiofrance.fr/franceculture/podcasts/entendez-vous-l-eco/cdd-interims-saisonniers-qui-signe-pour-l-instabilite-2414960",
-            "date": 1741615125,
-            "mid": "2025C29629S0069",
-            "score": 78
-        },
-        {
-            "extrait_titre": "CDD : un tremplin ou un piège ?",
-            "extrait": "Ce qui m'intéresse le plus par rapport à ce qu'on disait sur l'augmentation des flux, c'est un chiffre qui est issu d'une étude de France Stratégie, me semble, qui montrait que les probabilités et les chances d'accéder à l'emploi stable dans un avenir proche se réduisent. C'est-à-dire qu'il devient de plus en plus difficile d'accéder à un CDI dans un temps court.",
-            "start": 467.854,
-            "title": "CDD, intérims, saisonniers : qui signe pour l’instabilité ?",
-            "show": "Entendez-vous l'éco ?",
-            "chapo": "Les contrats courts dominent les embauches mais exposent à une précarité durable : instabilité des revenus, accès réduit aux droits sociaux, difficulté à se projeter. Entre flexibilité pour les entreprises et insécurité pour les salariés, ils interrogent la soutenabilité du travail.",
-            "mp3": "https://media.radiofrance-podcast.net/podcast09/10081-10.03.2025-ITEMA_24053082-2025C29629S0069-NET_MFC_BCD6C3F4-45D9-4DBC-B2C6-49A7F0245675-21.mp3",
-            "url": "https://www.radiofrance.fr/franceculture/podcasts/entendez-vous-l-eco/cdd-interims-saisonniers-qui-signe-pour-l-instabilite-2414960",
-            "date": 1741615125,
-            "mid": "2025C29629S0069",
-            "score": 86
-        },
-        {
-            "extrait_titre": "Le précariat : une nouvelle norme ?",
-            "extrait": "Les abonnés aux contrats courts forment une nouvelle catégorie, le précariat parfois choisi, parfois subi. qui témoigne d'un nouveau rapport au temps et au travail.",
-            "start": 100.334,
-            "title": "CDD, intérims, saisonniers : qui signe pour l’instabilité ?",
-            "show": "Entendez-vous l'éco ?",
-            "chapo": "Les contrats courts dominent les embauches mais exposent à une précarité durable : instabilité des revenus, accès réduit aux droits sociaux, difficulté à se projeter. Entre flexibilité pour les entreprises et insécurité pour les salariés, ils interrogent la soutenabilité du travail.",
-            "mp3": "https://media.radiofrance-podcast.net/podcast09/10081-10.03.2025-ITEMA_24053082-2025C29629S0069-NET_MFC_BCD6C3F4-45D9-4DBC-B2C6-49A7F0245675-21.mp3",
-            "url": "https://www.radiofrance.fr/franceculture/podcasts/entendez-vous-l-eco/cdd-interims-saisonniers-qui-signe-pour-l-instabilite-2414960",
-            "date": 1741615125,
-            "mid": "2025C29629S0069",
-            "score": 80
-        },
-        {
-            "extrait_titre": "Comment la précarité redéfinit-elle le travail ?",
-            "extrait": "Disons qu'après-guerre, ce que Robert Castel appelle la société salariale s'est construite autour de la norme d'emploi qu'on avait qualifiée de Fordiste, c'est-à-dire de CDI à temps plein pour un seul employeur, pour une seule entreprise.",
-            "start": 1036.817,
-            "title": "CDD, intérims, saisonniers : qui signe pour l’instabilité ?",
-            "show": "Entendez-vous l'éco ?",
-            "chapo": "Les contrats courts dominent les embauches mais exposent à une précarité durable : instabilité des revenus, accès réduit aux droits sociaux, difficulté à se projeter. Entre flexibilité pour les entreprises et insécurité pour les salariés, ils interrogent la soutenabilité du travail.",
-            "mp3": "https://media.radiofrance-podcast.net/podcast09/10081-10.03.2025-ITEMA_24053082-2025C29629S0069-NET_MFC_BCD6C3F4-45D9-4DBC-B2C6-49A7F0245675-21.mp3",
-            "url": "https://www.radiofrance.fr/franceculture/podcasts/entendez-vous-l-eco/cdd-interims-saisonniers-qui-signe-pour-l-instabilite-2414960",
-            "date": 1741615125,
-            "mid": "2025C29629S0069",
-            "score": 75
-        },
-        {
-            "extrait_titre": "La précarité durable : un choix ou une nécessité ?",
-            "extrait": "Il faut créer une continuité par-delà la discontinuité de l'emploi et ça c'est un enjeu qui cristallise les différences de situation et la plus ou moins grande sécurité entre guillemets entre personnes.",
-            "start": 1925.921,
-            "title": "CDD, intérims, saisonniers : qui signe pour l’instabilité ?",
-            "show": "Entendez-vous l'éco ?",
-            "chapo": "Les contrats courts dominent les embauches mais exposent à une précarité durable : instabilité des revenus, accès réduit aux droits sociaux, difficulté à se projeter. Entre flexibilité pour les entreprises et insécurité pour les salariés, ils interrogent la soutenabilité du travail.",
-            "mp3": "https://media.radiofrance-podcast.net/podcast09/10081-10.03.2025-ITEMA_24053082-2025C29629S0069-NET_MFC_BCD6C3F4-45D9-4DBC-B2C6-49A7F0245675-21.mp3",
-            "url": "https://www.radiofrance.fr/franceculture/podcasts/entendez-vous-l-eco/cdd-interims-saisonniers-qui-signe-pour-l-instabilite-2414960",
-            "date": 1741615125,
-            "mid": "2025C29629S0069",
-            "score": 71
-        },
-        {
-            "extrait_titre": "CDD : un contrat de travail ou un contrat de précarité ?",
-            "extrait": "En fait, le CDI permet déjà ça. Il comporte une période d'essai. Donc, si la vraie raison de recours au CDD, c'était la sélection... On ne comprend pas trop pourquoi ça aurait autant augmenté.",
-            "start": 594.645,
-            "title": "CDD, intérims, saisonniers : qui signe pour l’instabilité ?",
-            "show": "Entendez-vous l'éco ?",
-            "chapo": "Les contrats courts dominent les embauches mais exposent à une précarité durable : instabilité des revenus, accès réduit aux droits sociaux, difficulté à se projeter. Entre flexibilité pour les entreprises et insécurité pour les salariés, ils interrogent la soutenabilité du travail.",
-            "mp3": "https://media.radiofrance-podcast.net/podcast09/10081-10.03.2025-ITEMA_24053082-2025C29629S0069-NET_MFC_BCD6C3F4-45D9-4DBC-B2C6-49A7F0245675-21.mp3",
-            "url": "https://www.radiofrance.fr/franceculture/podcasts/entendez-vous-l-eco/cdd-interims-saisonniers-qui-signe-pour-l-instabilite-2414960",
-            "date": 1741615125,
-            "mid": "2025C29629S0069",
-            "score": 76
         },
         {
             "extrait_titre": "« Quelle connerie la guerre ! »",
@@ -3747,6 +3799,97 @@
             "score": 90
         },
         {
+            "extrait_titre": "Pourquoi les CDD sont-ils devenus la norme ?",
+            "extrait": "Le nombre de CDD, contrat à durée déterminée, est passé de 0,5% de l'emploi salarié en 1982 à 9,3% en 2022 selon les chiffres de la Dares publiée le 17 décembre 2024 dernier. Damien Sose, est-ce qu'on peut se contenter de cela, de constater une explosion du nombre de contrats courts que sont les CDD ces 30 dernières années ?",
+            "start": 196.502,
+            "title": "CDD, intérims, saisonniers : qui signe pour l’instabilité ?",
+            "show": "Entendez-vous l'éco ?",
+            "chapo": "Les contrats courts dominent les embauches mais exposent à une précarité durable : instabilité des revenus, accès réduit aux droits sociaux, difficulté à se projeter. Entre flexibilité pour les entreprises et insécurité pour les salariés, ils interrogent la soutenabilité du travail.",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/10081-10.03.2025-ITEMA_24053082-2025C29629S0069-NET_MFC_BCD6C3F4-45D9-4DBC-B2C6-49A7F0245675-21.mp3",
+            "url": "https://www.radiofrance.fr/franceculture/podcasts/entendez-vous-l-eco/cdd-interims-saisonniers-qui-signe-pour-l-instabilite-2414960",
+            "date": 1741615125,
+            "mid": "2025C29629S0069",
+            "score": 74
+        },
+        {
+            "extrait_titre": "L'illusion de la flexibilité : qui en profite vraiment ?",
+            "extrait": "Ce qui fait la sécurité de l'employeur se fait souvent au détriment de celle du salarié qui n'a désormais plus qu'une maîtrise est limitée de son temps et de sa carrière. D'autant que certains enchaînent ces contrats au point de devoir trouver une forme de stabilité et de cohérence dans l'instabilité même.",
+            "start": 84.018,
+            "title": "CDD, intérims, saisonniers : qui signe pour l’instabilité ?",
+            "show": "Entendez-vous l'éco ?",
+            "chapo": "Les contrats courts dominent les embauches mais exposent à une précarité durable : instabilité des revenus, accès réduit aux droits sociaux, difficulté à se projeter. Entre flexibilité pour les entreprises et insécurité pour les salariés, ils interrogent la soutenabilité du travail.",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/10081-10.03.2025-ITEMA_24053082-2025C29629S0069-NET_MFC_BCD6C3F4-45D9-4DBC-B2C6-49A7F0245675-21.mp3",
+            "url": "https://www.radiofrance.fr/franceculture/podcasts/entendez-vous-l-eco/cdd-interims-saisonniers-qui-signe-pour-l-instabilite-2414960",
+            "date": 1741615125,
+            "mid": "2025C29629S0069",
+            "score": 94
+        },
+        {
+            "extrait_titre": "CDD : un tremplin ou un piège ?",
+            "extrait": "Ce qui m'intéresse le plus par rapport à ce qu'on disait sur l'augmentation des flux, c'est un chiffre qui est issu d'une étude de France Stratégie, me semble, qui montrait que les probabilités et les chances d'accéder à l'emploi stable dans un avenir proche se réduisent. C'est-à-dire qu'il devient de plus en plus difficile d'accéder à un CDI dans un temps court.",
+            "start": 467.854,
+            "title": "CDD, intérims, saisonniers : qui signe pour l’instabilité ?",
+            "show": "Entendez-vous l'éco ?",
+            "chapo": "Les contrats courts dominent les embauches mais exposent à une précarité durable : instabilité des revenus, accès réduit aux droits sociaux, difficulté à se projeter. Entre flexibilité pour les entreprises et insécurité pour les salariés, ils interrogent la soutenabilité du travail.",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/10081-10.03.2025-ITEMA_24053082-2025C29629S0069-NET_MFC_BCD6C3F4-45D9-4DBC-B2C6-49A7F0245675-21.mp3",
+            "url": "https://www.radiofrance.fr/franceculture/podcasts/entendez-vous-l-eco/cdd-interims-saisonniers-qui-signe-pour-l-instabilite-2414960",
+            "date": 1741615125,
+            "mid": "2025C29629S0069",
+            "score": 71
+        },
+        {
+            "extrait_titre": "Le précariat : une nouvelle norme ?",
+            "extrait": "Les abonnés aux contrats courts forment une nouvelle catégorie, le précariat parfois choisi, parfois subi. qui témoigne d'un nouveau rapport au temps et au travail.",
+            "start": 100.334,
+            "title": "CDD, intérims, saisonniers : qui signe pour l’instabilité ?",
+            "show": "Entendez-vous l'éco ?",
+            "chapo": "Les contrats courts dominent les embauches mais exposent à une précarité durable : instabilité des revenus, accès réduit aux droits sociaux, difficulté à se projeter. Entre flexibilité pour les entreprises et insécurité pour les salariés, ils interrogent la soutenabilité du travail.",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/10081-10.03.2025-ITEMA_24053082-2025C29629S0069-NET_MFC_BCD6C3F4-45D9-4DBC-B2C6-49A7F0245675-21.mp3",
+            "url": "https://www.radiofrance.fr/franceculture/podcasts/entendez-vous-l-eco/cdd-interims-saisonniers-qui-signe-pour-l-instabilite-2414960",
+            "date": 1741615125,
+            "mid": "2025C29629S0069",
+            "score": 91
+        },
+        {
+            "extrait_titre": "Comment la précarité redéfinit-elle le travail ?",
+            "extrait": "Disons qu'après-guerre, ce que Robert Castel appelle la société salariale s'est construite autour de la norme d'emploi qu'on avait qualifiée de Fordiste, c'est-à-dire de CDI à temps plein pour un seul employeur, pour une seule entreprise.",
+            "start": 1036.817,
+            "title": "CDD, intérims, saisonniers : qui signe pour l’instabilité ?",
+            "show": "Entendez-vous l'éco ?",
+            "chapo": "Les contrats courts dominent les embauches mais exposent à une précarité durable : instabilité des revenus, accès réduit aux droits sociaux, difficulté à se projeter. Entre flexibilité pour les entreprises et insécurité pour les salariés, ils interrogent la soutenabilité du travail.",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/10081-10.03.2025-ITEMA_24053082-2025C29629S0069-NET_MFC_BCD6C3F4-45D9-4DBC-B2C6-49A7F0245675-21.mp3",
+            "url": "https://www.radiofrance.fr/franceculture/podcasts/entendez-vous-l-eco/cdd-interims-saisonniers-qui-signe-pour-l-instabilite-2414960",
+            "date": 1741615125,
+            "mid": "2025C29629S0069",
+            "score": 93
+        },
+        {
+            "extrait_titre": "La précarité durable : un choix ou une nécessité ?",
+            "extrait": "Il faut créer une continuité par-delà la discontinuité de l'emploi et ça c'est un enjeu qui cristallise les différences de situation et la plus ou moins grande sécurité entre guillemets entre personnes.",
+            "start": 1925.921,
+            "title": "CDD, intérims, saisonniers : qui signe pour l’instabilité ?",
+            "show": "Entendez-vous l'éco ?",
+            "chapo": "Les contrats courts dominent les embauches mais exposent à une précarité durable : instabilité des revenus, accès réduit aux droits sociaux, difficulté à se projeter. Entre flexibilité pour les entreprises et insécurité pour les salariés, ils interrogent la soutenabilité du travail.",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/10081-10.03.2025-ITEMA_24053082-2025C29629S0069-NET_MFC_BCD6C3F4-45D9-4DBC-B2C6-49A7F0245675-21.mp3",
+            "url": "https://www.radiofrance.fr/franceculture/podcasts/entendez-vous-l-eco/cdd-interims-saisonniers-qui-signe-pour-l-instabilite-2414960",
+            "date": 1741615125,
+            "mid": "2025C29629S0069",
+            "score": 79
+        },
+        {
+            "extrait_titre": "CDD : un contrat de travail ou un contrat de précarité ?",
+            "extrait": "En fait, le CDI permet déjà ça. Il comporte une période d'essai. Donc, si la vraie raison de recours au CDD, c'était la sélection... On ne comprend pas trop pourquoi ça aurait autant augmenté.",
+            "start": 594.645,
+            "title": "CDD, intérims, saisonniers : qui signe pour l’instabilité ?",
+            "show": "Entendez-vous l'éco ?",
+            "chapo": "Les contrats courts dominent les embauches mais exposent à une précarité durable : instabilité des revenus, accès réduit aux droits sociaux, difficulté à se projeter. Entre flexibilité pour les entreprises et insécurité pour les salariés, ils interrogent la soutenabilité du travail.",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/10081-10.03.2025-ITEMA_24053082-2025C29629S0069-NET_MFC_BCD6C3F4-45D9-4DBC-B2C6-49A7F0245675-21.mp3",
+            "url": "https://www.radiofrance.fr/franceculture/podcasts/entendez-vous-l-eco/cdd-interims-saisonniers-qui-signe-pour-l-instabilite-2414960",
+            "date": 1741615125,
+            "mid": "2025C29629S0069",
+            "score": 78
+        },
+        {
             "extrait_titre": "« La mémoire ne perd jamais les souvenirs »",
             "extrait": "Il y a une chose remarquable, quand on vieillit, on perd la mémoire. Mais ça ne veut pas dire qu'on perd les souvenirs. Au contraire. On perd la capacité d'acquérir de nouveaux souvenirs. Mais ceux qui sont inscrits, ils sont bien plus proches que jamais.",
             "start": 0.632,
@@ -3796,7 +3939,7 @@
             "url": "https://www.radiofrance.fr/franceculture/podcasts/avec-sciences/obesite-une-augmentation-inquietante-a-travers-le-monde-4025932",
             "date": 1741672620,
             "mid": "2025C26620S0070",
-            "score": 89
+            "score": 81
         },
         {
             "extrait_titre": "L'obésité : un problème multifactoriel",
@@ -3809,7 +3952,7 @@
             "url": "https://www.radiofrance.fr/franceculture/podcasts/avec-sciences/obesite-une-augmentation-inquietante-a-travers-le-monde-4025932",
             "date": 1741672620,
             "mid": "2025C26620S0070",
-            "score": 92
+            "score": 93
         },
         {
             "extrait_titre": "Une explosion de l'obésité chez les jeunes !",
@@ -3822,7 +3965,7 @@
             "url": "https://www.radiofrance.fr/franceculture/podcasts/avec-sciences/obesite-une-augmentation-inquietante-a-travers-le-monde-4025932",
             "date": 1741672620,
             "mid": "2025C26620S0070",
-            "score": 79
+            "score": 89
         },
         {
             "extrait_titre": "« 4,1 décès pour 1000 naissances : un chiffre qui cache des vies brisées »",
@@ -4657,6 +4800,45 @@
             "score": 80
         },
         {
+            "extrait_titre": "Comment l'art moderne a défié le nazisme ?",
+            "extrait": "\"Ce qu'on voit dans cette exposition, c'est que donc une guerre politique, c'est toujours aussi simultanément un conflit entre des visions du monde.\"",
+            "start": 202.436,
+            "title": "Critique expos :  \"L’art 'dégénéré' : le procès de l’art moderne sous le nazisme\" & \"Hans Hollein. TransFORMS\" ",
+            "show": "Les Midis de Culture",
+            "chapo": "Au programme du débat critique, deux expositions à voir à Paris : \"L’art 'dégénéré' : le procès de l’art moderne sous le nazisme\" au musée Picasso et \"Hans Hollein. TransFORMS\" au centre Pompidou. ",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/12360-13.03.2025-ITEMA_24057235-2025C51852S0072-NET_MFC_10206C05-158B-43C3-9013-DB6D0E119512-21.mp3",
+            "url": "https://www.radiofrance.fr/franceculture/podcasts/les-midis-de-culture/les-midis-de-culture-la-critique-emission-du-jeudi-13-mars-2025-9527098",
+            "date": 1741865325,
+            "mid": "2025C51852S0072",
+            "score": 90
+        },
+        {
+            "extrait_titre": "L'art dégénéré : un miroir de notre époque ?",
+            "extrait": "\"C'est une exposition qui est importante évidemment, étant donné que déjà elle rentre en écho aujourd'hui en France avec ce que l'on vit dans le reste du monde, à savoir une montée des extrêmes droites.\"",
+            "start": 152.122,
+            "title": "Critique expos :  \"L’art 'dégénéré' : le procès de l’art moderne sous le nazisme\" & \"Hans Hollein. TransFORMS\" ",
+            "show": "Les Midis de Culture",
+            "chapo": "Au programme du débat critique, deux expositions à voir à Paris : \"L’art 'dégénéré' : le procès de l’art moderne sous le nazisme\" au musée Picasso et \"Hans Hollein. TransFORMS\" au centre Pompidou. ",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/12360-13.03.2025-ITEMA_24057235-2025C51852S0072-NET_MFC_10206C05-158B-43C3-9013-DB6D0E119512-21.mp3",
+            "url": "https://www.radiofrance.fr/franceculture/podcasts/les-midis-de-culture/les-midis-de-culture-la-critique-emission-du-jeudi-13-mars-2025-9527098",
+            "date": 1741865325,
+            "mid": "2025C51852S0072",
+            "score": 95
+        },
+        {
+            "extrait_titre": "L'art comme arme politique : une réalité troublante",
+            "extrait": "\"Une idéologie, un système politique est toujours simultanément un système de représentation, c'est-à-dire une manière pour une société de se représenter elle-même et de se représenter le monde selon certains cadres, selon certaines normes, selon certaines valeurs.\"",
+            "start": 161.967,
+            "title": "Critique expos :  \"L’art 'dégénéré' : le procès de l’art moderne sous le nazisme\" & \"Hans Hollein. TransFORMS\" ",
+            "show": "Les Midis de Culture",
+            "chapo": "Au programme du débat critique, deux expositions à voir à Paris : \"L’art 'dégénéré' : le procès de l’art moderne sous le nazisme\" au musée Picasso et \"Hans Hollein. TransFORMS\" au centre Pompidou. ",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/12360-13.03.2025-ITEMA_24057235-2025C51852S0072-NET_MFC_10206C05-158B-43C3-9013-DB6D0E119512-21.mp3",
+            "url": "https://www.radiofrance.fr/franceculture/podcasts/les-midis-de-culture/les-midis-de-culture-la-critique-emission-du-jeudi-13-mars-2025-9527098",
+            "date": 1741865325,
+            "mid": "2025C51852S0072",
+            "score": 92
+        },
+        {
             "extrait_titre": "Comment Facebook a cédé à la censure chinoise ?",
             "extrait": "Mark Zuckerberg était prêt à toutes les compromissions pour intégrer le marché chinois. La société aurait construit un prototype de suppression automatisée des messages pour répondre aux exigences de la censure de Pékin, une sorte de Facebook compatible avec le régime dans l'espoir de pénétrer le marché. L'entreprise était prête à embaucher des centaines de bandérateurs humains pour éradiquer tous les messages problématiques envers le pouvoir.",
             "start": 26.914,
@@ -5434,7 +5616,7 @@
             "url": "https://www.radiofrance.fr/franceculture/podcasts/les-enjeux-internationaux/soudan-du-sud-le-spectre-de-la-guerre-civile-5088660",
             "date": 1741845120,
             "mid": "2025C3305S0072",
-            "score": 80
+            "score": 87
         }
     ],
     "questions": [
