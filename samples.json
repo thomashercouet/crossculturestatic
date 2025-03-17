@@ -1,6 +1,6 @@
 {
-    "date": "Mis à jour le 17/03/2025 à 12:06",
-    "unix": 1742209598,
+    "date": "Mis à jour le 17/03/2025 à 12:20",
+    "unix": 1742210401,
     "shows": [
         {
             "title": "Le roquefort, on adore !",
@@ -2759,6 +2759,73 @@
                     "score": 87,
                     "start": 333.5,
                     "end": 350.035
+                }
+            ]
+        },
+        {
+            "title": "Défense : le réarmement quoi qu’il en coûte",
+            "id": "a61a140f-6321-456e-92ef-8fffac81dd4e",
+            "show": "Cultures Monde",
+            "show_id": "2358bc00-3f62-11e5-8314-005056a87c89",
+            "chapo": "La présidente de la Commission européenne Ursula von der Leyen a annoncé une enveloppe de 800 milliards d'euros pour la défense européenne dans le cadre du plan ReArm EU. Cette décision fait suite au changement de stratégie de la Maison Blanche, qui souhaite suspendre son aide militaire à l'Ukraine.",
+            "magnetotheque_id": "2025C16756S0076",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/cultures-monde/defense-le-rearmement-quoi-qu-il-en-coute-3455459",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/11701-17.03.2025-ITEMA_24061398-2025C16756S0076-NET_MFC_80208E21-0A5A-4DED-B17C-3F6FCDFE5BBE-21.mp3",
+            "duration": 3518,
+            "date": 1742209125,
+            "settings": [
+                "savoirs"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "Pourquoi l'Europe doit-elle se réarmer ?",
+                    "extrait": "Nous sommes dans une ère de réarmement. Et l'Europe est prête à augmenter massivement ses dépenses de défense. A la fois pour répondre à l'urgence à court terme d'agir et de soutenir l'Ukraine, mais aussi pour répondre à la nécessité à long terme d'assumer davantage de responsabilités pour notre propre sécurité européenne. Quoi qu'il advienne, il nous faut nous équiper davantage.",
+                    "score": 90,
+                    "start": 74.349,
+                    "end": 99.581
+                },
+                {
+                    "titre": "L'illusion de la paix par le désarmement ?",
+                    "extrait": "S'armer pour éviter la guerre, disent Ursula von der Leyen, Emmanuel Macron ou Donald Tusk. Acheter et produire des munitions, des avions, de l'artillerie, des drones et antidrones. En venir à parler des armes comme s'il s'agissait de boîtes de conserve ou d'eau minérale. Éviter de penser ne serait-ce qu'à l'effet d'un obus.",
+                    "score": 85,
+                    "start": 145.543,
+                    "end": 163.612
+                },
+                {
+                    "titre": "L'Europe face à la menace russe : un tournant décisif ?",
+                    "extrait": "Aujourd'hui, on a une adaptation d'un certain nombre d'États membres par rapport à des besoins militaires qui sont importants, compte tenu de la menace que fait poser la Russie sur la sécurité du continent notamment, mais ce n'est pas la seule.",
+                    "score": 88,
+                    "start": 329.673,
+                    "end": 340.937
+                },
+                {
+                    "titre": "La dépendance européenne aux États-Unis : un fardeau ?",
+                    "extrait": "Les dépenses américaines sont largement supérieures à individuellement ce que fait chacun des États membres. Mais même collectivement, les États européens, dans leur ensemble, ça fait à peu près 300 milliards d'euros. 300 milliards de dollars, on va dire, pour faire l'approximation, ça fait à peu près un tiers des dépenses américaines.",
+                    "score": 87,
+                    "start": 497.751,
+                    "end": 517.232
+                },
+                {
+                    "titre": "L'OTAN et l'autonomie militaire : un dilemme européen ?",
+                    "extrait": "L'Union européenne qui avait jusque-là délégué sa sécurité aux armées des États membres, mais surtout à l'OTAN et à son allié états-unien, est sommé de prendre son autonomie militaire, d'augmenter les budgets de la défense face à une industrie russe qui serait capable de produire en trois mois plus d'armes et de munitions que l'Europe en douze.",
+                    "score": 89,
+                    "start": 201.607,
+                    "end": 220.851
+                },
+                {
+                    "titre": "800 milliards d'euros pour la défense : une promesse ou une illusion ?",
+                    "extrait": "Sur ces 800 milliards d'euros, ça n'est pas de l'argent neuf. C'est pas 800 milliards d'euros tirés du budget européen. Il faut vraiment distinguer plusieurs éléments. D'abord, ce qui va être proposé par la Commission européenne après-demain, a priori, puisque là pour l'instant on est au stade du plan, mais il va falloir que ça se concrétise par des propositions.",
+                    "score": 86,
+                    "start": 971.381,
+                    "end": 996.008
+                },
+                {
+                    "titre": "La guerre en Ukraine : un catalyseur pour l'industrie de défense européenne ?",
+                    "extrait": "Aujourd'hui, il y a des perspectives de croissance dans les pays européens pour les industriels d'Europe, qui sont essentiellement les industriels d'Europe de l'Ouest. Mais il y a un enjeu de convaincre que les matériels européens, non pas qu'ils ne soient pas au bon niveau technologique, ils le sont, mais c'est en gros dans quel délai on va être capable de fournir les équipements.",
+                    "score": 84,
+                    "start": 1855.847,
+                    "end": 1882.583
                 }
             ]
         },
