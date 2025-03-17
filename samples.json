@@ -1,6 +1,6 @@
 {
-    "date": "Mis à jour le 17/03/2025 à 16:10",
-    "unix": 1742224206,
+    "date": "Mis à jour le 17/03/2025 à 16:23",
+    "unix": 1742225025,
     "shows": [
         {
             "title": "Quand la musique concrète fêtait ses 50 ans 1/5 : Pierre Schaeffer, esprit pionnier de la musique concrète",
@@ -4523,6 +4523,73 @@
                     "score": 92,
                     "start": 3083.94,
                     "end": 3110.317
+                }
+            ]
+        },
+        {
+            "title": "Les règles de l’art, avec Christine Angot ",
+            "id": "d7e7eb9a-1957-4ee7-a13a-343c8f8da166",
+            "show": "Le Book Club",
+            "show_id": "9919a6d4-3da2-4dd9-8103-77cef065f78d",
+            "chapo": "Dans son dernier roman, Christine Angot répond à une commande : passer une nuit dans le musée de son choix. L’autrice bouscule les règles de l’exercice pour décrire un cheminement littéraire et artistique marqué par la tragédie de l’inceste.\n\n  ",
+            "magnetotheque_id": "2025C49162S0076",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/le-book-club/les-regles-de-l-art-avec-christine-angot-1028344",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/23875-17.03.2025-ITEMA_24061408-2025C49162S0076-NET_MFC_86DE2E12-F7A2-44AE-BCD1-155B944FD594-21.mp3",
+            "duration": 3545,
+            "date": 1742223525,
+            "settings": [
+                "interview"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "« L'écriture, c'est la vie »",
+                    "extrait": "« Il n'y a aucune différence. Bête question. Il n'y a pas de travail dans la vie d'un écrivain. Ça n'existe pas, le travail. Donc, ça ne s'appelle pas du travail. C'est la vie et l'écriture. »",
+                    "score": 95,
+                    "start": 427.068,
+                    "end": 443.132
+                },
+                {
+                    "titre": "« La lecture, un pays à découvrir »",
+                    "extrait": "« Mais les gens en infériorité, d'emblée, mais si vous saviez ce beau pays qu'est la lecture, comment ça se fait que vous ne le connaissez pas, etc., mais que vous ne savez pas ce que vous ratez. Ça ne peut pas marcher ! Ça ne peut pas marcher ! »",
+                    "score": 90,
+                    "start": 744.299,
+                    "end": 761.153
+                },
+                {
+                    "titre": "« La voix, clé de la lecture »",
+                    "extrait": "« Pour moi, avant tout, c'est la voix, c'est le son, la musicalité de la personne. C'est la musicalité de la personne qui dit son intelligence des mots quand même. Donc pour moi ça c'est crucial, vraiment. »",
+                    "score": 88,
+                    "start": 225.37,
+                    "end": 245.732
+                },
+                {
+                    "titre": "« L'art, un chemin de vie »",
+                    "extrait": "« Ce qui compte, ce n'est pas les tableaux qu'on va décrire, ou sur lesquels on va déverser nos émotions, que je ne sais pas quoi. Ce qui compte, c'est Qui, quoi, quand et où, qu'est-ce qui s'est passé ? C'est tout. »",
+                    "score": 92,
+                    "start": 1642.65,
+                    "end": 1663.101
+                },
+                {
+                    "titre": "« Écrire, c'est être possédé »",
+                    "extrait": "« J'ai eu une mère obsédée par l'écriture, ou c'est peut-être vous qui le formulez. Possédée. Possédée, absolument possédée. »",
+                    "score": 93,
+                    "start": 2036.77,
+                    "end": 2042.055
+                },
+                {
+                    "titre": "« La commande, un miroir de la violence »",
+                    "extrait": "« Le titre de votre nouveau livre « La nuit sur commande », vous l'avez trouvé tout de suite. Il établissait un tel lien, je vous cite, « entre la commande éditoriale de passer une nuit au musée et la commande sexuelle à laquelle vous aviez pu être confrontée à tout moment de certaines nuits entre 13 et 16 ans et pendant deux mois à 25 ans par l'inceste que vous faisiez subir votre père. »",
+                    "score": 97,
+                    "start": 1226.942,
+                    "end": 1253.911
+                },
+                {
+                    "titre": "« La pureté de l'art face à la vulgarité du monde »",
+                    "extrait": "« C'est que l'art, l'écriture, l'art, la musique, etc., la princesse de Clèves et autres, sont des choses qui sont pures. C'est pur. Oui, on est dans l'abstrait et dans quelque chose qui est au-dessus de nous. Mais ce n'est pas parce que cette chose-là est majeure et pure qu'elles ne traînent pas assez basques toutes les vulgarités du temps. »",
+                    "score": 94,
+                    "start": 2299.137,
+                    "end": 2341.411
                 }
             ]
         },
