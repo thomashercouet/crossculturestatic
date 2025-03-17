@@ -1,6 +1,6 @@
 {
-    "date": "Mis à jour le 17/03/2025 à 13:48",
-    "unix": 1742215688,
+    "date": "Mis à jour le 17/03/2025 à 14:00",
+    "unix": 1742216404,
     "shows": [
         {
             "title": "Quand la musique concrète fêtait ses 50 ans 1/5 : Pierre Schaeffer, esprit pionnier de la musique concrète",
@@ -2217,6 +2217,38 @@
                     "score": 92,
                     "start": 652.599,
                     "end": 664.465
+                }
+            ]
+        },
+        {
+            "title": "Cinquantième et dernière saison des Concerts du dimanche ",
+            "id": "52a85df5-9cb0-41ba-b951-d7a2b1b43f2e",
+            "show": "Le Point culture",
+            "show_id": "25d4eded-ef3f-4106-9cca-09a53f4794dc",
+            "chapo": "Après un demi-siècle de représentations, les Concerts du dimanche, institution dominicale de la musique classique à Paris s'achèveront en juin. Une décision prise par son initiatrice Jeanine Roze, qui a permis aux lève-tôt de découvrir des musiciennes et des musiciens à succès ou en quête de public.",
+            "magnetotheque_id": "2025C41196S0076",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/le-point-culture/cinquantieme-et-derniere-saison-des-concerts-du-dimanche-9717572",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/21829-17.03.2025-ITEMA_24061420-2025C41196S0076-NET_MFC_98E3FEF3-FBFB-4161-B687-B85FE2995F8D-21.mp3",
+            "duration": 483,
+            "date": 1742212800,
+            "settings": [
+                "actu"
+            ],
+            "limit": 2,
+            "extraits": [
+                {
+                    "titre": "« Un demi-siècle de musique classique, c'est monumental ! »",
+                    "extrait": "« Oui, ça fonctionne, ça fonctionne très bien, mais je vais avoir 82 ans. Il faut devenir raisonnable un petit peu, et puis je pense que j'en ai fait le tour, le détour, et puis d'un seul goût, quand vous réalisez 50 ans, vous vous dites « mais mon Dieu, un demi-siècle ! » »",
+                    "score": 95,
+                    "start": 265.79,
+                    "end": 285.972
+                },
+                {
+                    "titre": "« Le public des concerts du dimanche : un mélange unique ! »",
+                    "extrait": "« C'est très, très, très, très mélangé. C'est un peu comme Tintin, ça va de 3 à 99 ans... ça permet un très très grand brassage de publics. »",
+                    "score": 90,
+                    "start": 339.226,
+                    "end": 352.25
                 }
             ]
         },
