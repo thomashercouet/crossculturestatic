@@ -1,6 +1,6 @@
 {
-    "date": "Mis à jour le 17/03/2025 à 17:14",
-    "unix": 1742228091,
+    "date": "Mis à jour le 17/03/2025 à 17:28",
+    "unix": 1742228932,
     "shows": [
         {
             "title": "Quand la musique concrète fêtait ses 50 ans 1/5 : Pierre Schaeffer, esprit pionnier de la musique concrète",
@@ -2058,6 +2058,66 @@
                     "score": 90,
                     "start": 609.638,
                     "end": 617.382
+                }
+            ]
+        },
+        {
+            "title": "Origines du CoVid : retour aux sources",
+            "id": "f1e022a9-4e05-461f-87ba-eeeaadb6af81",
+            "show": "La Science, CQFD",
+            "show_id": "dc59bf2c-a3f5-48b0-bd13-f7258761d52c",
+            "chapo": "Les origines du COVID-19 demeurent un mystère pour la communauté scientifique. Pourtant, comprendre son émergence pourrait nous aider à prévenir de futures pandémies. Comment l’analyse critique des épidémies passées peut-elle nous aider à mieux nous préparer aux prochaines menaces sanitaires ?",
+            "magnetotheque_id": "2025C48906S0076",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/la-science-cqfd/origines-du-cod-retour-aux-sources-6725208",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/23118-17.03.2025-ITEMA_24061407-2025C48906S0076-NET_MFC_306A24C6-7681-409C-899D-E5AAA47FB9A9-21.mp3",
+            "duration": 3509,
+            "date": 1742227125,
+            "settings": [
+                "savoirs"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "Pourquoi le SARS-CoV-2 reste-t-il un mystère ?",
+                    "extrait": "Il y a 5 ans, jour pour jour, le confinement était annoncé en France. Depuis, les origines du Covid-19 restent mystérieuses et continuent de faire débat. Pourquoi est-il crucial de déterminer l'émergence du SARS-CoV-2 ? C'est une question qui alimente un grand nombre de spéculations et de théories du complot. On sait que ce virus n'a pas été créé ex-nilo, que le marché de Wuhan a joué un rôle et que l'autre réservoir est bien la chauve-souris. Mais on ne comprend toujours pas sa chaîne de transmission. Quel est le chénon manquant, l'espèce intermédiaire entre les chauves-souris et l'humain ? Et s'agit-il d'une fuite de laboratoire ? Pour élucider l'origine de la peste noire, il a fallu attendre 700 ans. Alors, aura-t-on le fin mot de cette histoire ? Et pourquoi cette information peut-elle nous aider à mieux gérer les épidémies futures ?",
+                    "start": 8.271,
+                    "end": 53.538
+                },
+                {
+                    "titre": "Comment la modélisation a-t-elle échoué à anticiper la pandémie ?",
+                    "extrait": "Alors là, on touche aussi au fait que la santé publique est un domaine extrêmement interdisciplinaire et la modélisation est une des composantes. Honnêtement, les modèles, ils étaient là. On avait les modèles à Wuhan. Il y avait, dès janvier, l'équipe de modélisation d'Imperial College qui avait fait un travail extraordinaire. En se basant sur les cas dans les vols venant de Wuhan. Parce que la limite, c'est toujours le nombre de données disponibles. Et donc là, en testant les gens qui descendaient d'avion, en allant voir parmi les positifs combien développaient des symptômes, on avait, fin février à peu près, on avait à peu près les données du problème.",
+                    "start": 514.613,
+                    "end": 550.412
+                },
+                {
+                    "titre": "La transmission aéroportée : un déni qui a coûté cher",
+                    "extrait": "Et à cette époque, on se voit bien bien qu'il y avait même un déni sur cette question-là. Oui, ça a été extrêmement violent pour des histoires qui sont extrêmement intéressantes d'un point de vue épistémologique. Parce qu'en médecine, il y a eu une grande lutte pour faire reconnaître la théorie microbienne contre la théorie du mauvais air. Et donc c'est vrai que beaucoup de médecins ont vu cette transmission aéroportée comme un retour en arrière, au point que l'OMS a eu cette communication tristement célèbre « Covid is not airborne », qui a vraiment été catastrophique.",
+                    "start": 830.493,
+                    "end": 861.947
+                },
+                {
+                    "titre": "Pourquoi la recherche des origines du SARS-CoV-2 est-elle si complexe ?",
+                    "extrait": "Alors, au-delà de cette origine initiale, tout le problème est de savoir comment ensuite ce virus est passé chez l'homme. Vous avez évoqué un terme, la phylogénie moléculaire du SARS-CoV-2. Donc c'est ici qu'on peut en faire vraiment, à travers ces... Oui, il suffit d'un ordinateur avec les programmes adaptés et évidemment les séquences. Et donc, les séquences, elles vont être produites d'une part de façon expérimentale. On va partir d'un prélèvement, on va amplifier des éléments du génome viral et ensuite on va soumettre ces éléments amplifiés à un séquençage de façon à lire l'enchaînement des nucléotides.",
+                    "start": 2110.644,
+                    "end": 2155.495
+                },
+                {
+                    "titre": "Comment le Covid-19 pourrait-il évoluer à l'avenir ?",
+                    "extrait": "Oui, je le disais, il faut voir que les virus, non seulement ils sont extrêmement nombreux et diversifiés, mais en plus ils évoluent. Donc on n'est pas dans une vision fixiste, je dirais, où on pourrait labelliser, distinguer des risques à un moment donné. Ces risques sont mouvants. On parlait du SARS-CoV-2, le virus continue d'évoluer et il ne faudrait pas le voir comme un virus saisonnier.",
+                    "start": 2631.336,
+                    "end": 2654.412
+                },
+                {
+                    "titre": "Les biais cognitifs derrière les théories du complot sur le Covid-19",
+                    "extrait": "Alors, juste, je rebondis sur ce que dit Samuel, parce qu'en fait, c'est vrai qu'il y a eu des scientifiques qui sont décédés de virus Ebola, mais c'était quand même à une époque aussi, parce que la première vraie, c'est la fièvre de Marbourg, qui a tué, c'était des singes qui avaient été importés pour faire des expériences, et les singes ont contaminé les scientifiques parce qu'ils portaient ce virus-là. Et le deuxième point, c'est quand même, c'est qu'à l'époque, il faut quand même se rappeler, dans les années 60, les épidémies dans les tribus africaines, très souvent, on n'en parlait pas.",
+                    "start": 1578.95,
+                    "end": 1605.312
+                },
+                {
+                    "titre": "Comment la biologie moléculaire aide à retracer l'origine du SARS-CoV-2 ?",
+                    "extrait": "C'est essentiellement les outils de la biologie moléculaire et du séquençage des génomes. Donc en fait, ce qui s'est passé, c'est qu'ils ont repris un certain nombre de prélèvements qui avaient été faits à différents endroits sur le marché. Donc ils ont constaté que les endroits où on a pu retrouver des éléments qui correspondaient au génome du SARS-CoV-2, eh bien, cohabitaient en fait avec des éléments, cette fois-ci, de génomes animaux.",
+                    "start": 1180.205,
+                    "end": 1209.338
                 }
             ]
         },
