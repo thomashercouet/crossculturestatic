@@ -1,6 +1,6 @@
 {
-    "date": "Mis à jour le 17/03/2025 à 15:04",
-    "unix": 1742220288,
+    "date": "Mis à jour le 17/03/2025 à 15:18",
+    "unix": 1742221113,
     "shows": [
         {
             "title": "Quand la musique concrète fêtait ses 50 ans 1/5 : Pierre Schaeffer, esprit pionnier de la musique concrète",
@@ -2279,6 +2279,73 @@
                     "extrait": "Ce qui est très encourageant, c'est montrer que on est capable de synthétiser et de produire des anticorps monoclonaux bispécifiques. D'une part, ça, il fallait réussir à le faire et il fallait le prouver. Et deuxièmement, que ces anticorps bispécifiques, effectivement, sont très efficaces sur un large panel de variants du SARS-CoV-2. Donc ça ouvre une porte... au développement d'un outil type anticorps monoclonal qui marche sur un large panel et qui est moins rapidement obsolète.",
                     "start": 246.492,
                     "end": 276.879
+                }
+            ]
+        },
+        {
+            "title": "Les consommateurs chinois doivent-ils sauver la croissance ? ",
+            "id": "a387b563-c8d9-4bd2-ad6c-da727f05749e",
+            "show": "Entendez-vous l'éco ?",
+            "show_id": "ec20bd96-cdfc-44ce-8a1b-85c33cc8b7db",
+            "chapo": "Début mars, Pékin a annoncé vouloir miser sur la consommation pour soutenir la croissance. Pourtant, celle-ci est largement en berne comme en atteste la baisse des prix de 0,7% observée en février. Dans un contexte de tension sur les exportations, le consommateur doivent-il sauver la croissance ? ",
+            "magnetotheque_id": "2025C29629S0076",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/entendez-vous-l-eco/les-consommateurs-chinois-doivent-ils-sauver-la-croissance-9841864",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/23118-17.03.2025-ITEMA_24061407-2025C29629S0076-NET_MFC_7B8A6140-2D82-4443-8883-207C8655454F-21.mp3",
+            "duration": 3529,
+            "date": 1742219925,
+            "settings": [
+                "savoirs"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "Pourquoi la consommation chinoise est-elle en berne ?",
+                    "extrait": "La fameuse classe moyenne, fer de lance d'un nouveau modèle de croissance pour le pays, tarde à voir les promesses de prospérité économique se réaliser et exprime désormais une forme d'angoisse à travers une épargne de précaution qui mécaniquement se fait au détriment de la consommation.",
+                    "score": 85,
+                    "start": 97.047,
+                    "end": 112.062
+                },
+                {
+                    "titre": "L'échec d'une stratégie économique ?",
+                    "extrait": "Alors non, non, parce que d'une certaine façon, ce que l'on vit aujourd'hui, c'est l'échec d'une réussite, on pourrait dire. C'est-à-dire que, j'irai même plus loin dans l'histoire récente de la Chine, c'est même dès les années 2006-2007 qu'on commençait à parler de changement de stratégie économique.",
+                    "score": 90,
+                    "start": 388.945,
+                    "end": 405.619
+                },
+                {
+                    "titre": "La consommation, moteur de la croissance ?",
+                    "extrait": "La sécurité de la Chine d'une certaine façon et la sécurité de la croissance de la Chine est basée quand même logiquement sur compter sur ses propres forces d'une certaine façon, c'est-à-dire la croissance économique est moins comptée sur les exportations qui sont plus difficiles.",
+                    "score": 80,
+                    "start": 454.403,
+                    "end": 470.009
+                },
+                {
+                    "titre": "Un aveu de faiblesse du gouvernement chinois ?",
+                    "extrait": "Le 5 mars, il le dit, la demande réelle est faible, la consommation en particulier est apathique, certaines entreprises rencontrent des difficultés dans leur production et peinent à se faire payer. Est-ce qu'un tel aveu de faiblesse est rare ?",
+                    "score": 88,
+                    "start": 377.54,
+                    "end": 388.565
+                },
+                {
+                    "titre": "La crise immobilière, un tournant pour la consommation ?",
+                    "extrait": "D'abord par sa magnitude, puisqu'on pense qu'il y a 50 millions d'appartements vides et 30 millions d'appartements inachevés qui font que, sur le plan économique, cette crise va avoir un coût de l'ordre de 20% du PNB.",
+                    "score": 92,
+                    "start": 1206.891,
+                    "end": 1221.163
+                },
+                {
+                    "titre": "Les jeunes Chinois face à un marché du travail difficile",
+                    "extrait": "C'est-à-dire qu'aujourd'hui, on ne trouve presque plus, à Pékin, de jeunes migrants qui font ce genre de travail. Les migrants, souvent, sont partis ailleurs ou font du travail encore moins rémunéré, on pourrait dire.",
+                    "score": 87,
+                    "start": 2631,
+                    "end": 2645.925
+                },
+                {
+                    "titre": "Un changement générationnel en Chine ?",
+                    "extrait": "Il y a vraiment ce constat à quoi bon continuer dans le comportement que pouvaient avoir les parents et les grands-parents, qui se comprendent. C'est-à-dire qu'avec justement les problèmes d'emploi, avec les problèmes économiques, on n'arrive plus finalement à continuer à monter dans la hiérarchie, améliorer notre situation.",
+                    "score": 89,
+                    "start": 3440.465,
+                    "end": 3469.991
                 }
             ]
         },
