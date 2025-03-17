@@ -1,6 +1,6 @@
 {
-    "date": "Mis à jour le 17/03/2025 à 15:56",
-    "unix": 1742223409,
+    "date": "Mis à jour le 17/03/2025 à 16:10",
+    "unix": 1742224206,
     "shows": [
         {
             "title": "Quand la musique concrète fêtait ses 50 ans 1/5 : Pierre Schaeffer, esprit pionnier de la musique concrète",
@@ -1470,6 +1470,73 @@
                     "score": 92,
                     "start": 1962.31,
                     "end": 1967.796
+                }
+            ]
+        },
+        {
+            "title": "Tourmente et avalanche ",
+            "id": "45647a84-c4bf-4c5b-afed-5aa52855cf66",
+            "show": "LSD, la série documentaire",
+            "show_id": "fb8db8c6-20b0-4189-977e-07f112c3de79",
+            "chapo": "Comment la neige crée-t-elle une culture et des imaginaires dans les pays où elle tombe ? En Lozère et en Isère, la neige fait rêver autant qu’elle effraie petits et grands enfants.",
+            "magnetotheque_id": "2025C26362E0029",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/lsd-la-serie-documentaire/tourmente-et-avalanche-9857959",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/10177-17.03.2025-ITEMA_24061378-2025C26362E0029-ITE_00148602_RSCE-21.mp3",
+            "duration": 3514,
+            "date": 1742230707,
+            "settings": [
+                "temoignage"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "« La neige, un faux silence »",
+                    "extrait": "« Pourquoi partir en quête du bruit de la neige ? Car ce bruit si discret, cette fin du bruit, comme l'écrivait l'auteur Gilles Lapouge, n'est que faux silence. De la tempête à l'avalanche, du chasse-neige au téléphérique, du canon à neige au fusil de biathlon, du cri d'enfant aux murmures inquiets du commerçant, la neige n'est que brouhaha. »",
+                    "score": 90,
+                    "start": 96.546,
+                    "end": 117.797
+                },
+                {
+                    "titre": "« La neige a deux visages »",
+                    "extrait": "« La neige a deux visages. D'un côté, sa face lumineuse, sa beauté, sa magie, souvent associée à l'enfance. Elle agit comme une madeleine. L'adulte que je suis devenu l'adore, la recherche et ses merveilles dès qu'elle est là. De l'autre, sa face sombre. D'ailleurs, j'ai beau chercher, je n'ai pas tant de souvenirs d'enfance positifs marquants liés à la neige. Me viennent même plutôt des souvenirs désagréables. »",
+                    "score": 85,
+                    "start": 175.055,
+                    "end": 198.347
+                },
+                {
+                    "titre": "« La tourmente, c'est beaucoup de neige avec le vent »",
+                    "extrait": "« Une tourmente, c'est beaucoup de neige avec le vent qui souffle en l'air, du coup. Et tu ne vois rien, tu ne sais pas si tu descends, si tu montes, c'est ça. »",
+                    "score": 80,
+                    "start": 401.743,
+                    "end": 414.086
+                },
+                {
+                    "titre": "« La neige, un ennemi et un ami »",
+                    "extrait": "« Ils la redoutent énormément. Et pour eux, c'est une obsession. Dès que octobre commence, tous les jours, la dame a mis un thermomètre, et elle ne marquait pas sur un carnet, mais elle disait, oh, il fait moins 5, oh, il fait 2, ça va. Elle reporte la fenêtre et elle dit à tout le monde, il fait 15 degrés, ça va, ou ça va se gâter. »",
+                    "score": 88,
+                    "start": 1411.456,
+                    "end": 1430.741
+                },
+                {
+                    "titre": "« La neige, un patrimoine en péril »",
+                    "extrait": "« L'idée de dire que la neige est un patrimoine, c'est aussi peut-être un peu militant, mais c'est dire qu'il est nécessaire de transmettre et de pouvoir transmettre aux générations futures ces connaissances de la neige. Et si elle se raréfie, si elle continue à se raréfier selon les altitudes, selon les régions, avec le réchauffement climatique, ce patrimoine est d'une certaine façon mis en péril. »",
+                    "score": 92,
+                    "start": 3122.942,
+                    "end": 3146.732
+                },
+                {
+                    "titre": "« La neige, un souvenir d'enfance »",
+                    "extrait": "« Quand j'étais enfant, durant l'hiver, il me réveillait régulièrement. C'est le bruit d'une large pelle en plastique, avec laquelle mes parents raclent le coudron pour pousser la neige tombée pendant la nuit et pouvoir partir au travail. Ça faisait longtemps que je ne l'avais pas entendu, ce bruit. »",
+                    "score": 87,
+                    "start": 154.087,
+                    "end": 169.673
+                },
+                {
+                    "titre": "« La neige, un écho de disparition »",
+                    "extrait": "« Nous qui l'aimons autant que nous la redoutons, nous qui craignons aujourd'hui sa disparition. »",
+                    "score": 90,
+                    "start": 131.03,
+                    "end": 135.638
                 }
             ]
         },
