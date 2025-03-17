@@ -1,6 +1,6 @@
 {
-    "date": "Mis à jour le 17/03/2025 à 12:32",
-    "unix": 1742211153,
+    "date": "Mis à jour le 17/03/2025 à 12:46",
+    "unix": 1742211987,
     "shows": [
         {
             "title": "Le roquefort, on adore !",
@@ -1883,6 +1883,54 @@
             ]
         },
         {
+            "title": "Critique BD : \"Bouquet de peur\" de Nando Van Arb & \"Le retour\" d'Antoine Cossé",
+            "id": "e8a68131-0ef7-4816-8180-0de1375d0ec3",
+            "show": "Les Midis de Culture",
+            "show_id": "32a14af6-fc87-4f4f-a06e-39ccf8587119",
+            "chapo": "Les critiques discutent de deux bandes dessinées :  \"Bouquet de peur\", un album qui interroge les angoisses de son auteur Nando van Arb et \"Le retour\" d'Antoine Cossé, un conte fantastique qui aborde le traumatisme de la Première Guerre mondiale avec beaucoup de douceur.",
+            "magnetotheque_id": "2025C51852S2076",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/les-midis-de-culture/critique-bd-bouquet-de-peur-de-nando-van-arb-le-retour-d-antoine-cosse-4429760",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/12360-17.03.2025-ITEMA_24061394-2025C51852S2076-NET_MFC_36E045D4-CDE9-4EDC-B9CF-29B6F590FCB5-21.mp3",
+            "duration": 420,
+            "date": 1742211000,
+            "settings": [
+                "interview"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "Comment la guerre façonne les souvenirs ?",
+                    "extrait": "Il y a un petit garçon qui a perdu son père, ou plutôt un père qui n'est pas revenu de la guerre et qui est là comme un fantôme. Ce petit garçon va faire quelque chose d'assez extraordinaire, c'est qu'il va d'abord construire un toboggan qui parcourt toute la maison, qui devient une espèce de maison de fête foraine, une maison où les peurs, où l'inconscient est là. La maison est recouverte d'un drablon et parcourue par ce toboggan qui embête tout le monde. Et puis, ce toboggan va ouvrir une espèce de faille temporelle. Et en fait, ce qui va ressurgir, c'est énormément de choses. C'est d'abord l'humanité, enfin d'abord la vie antédiluvienne, ce ptérodactyle, c'est une espèce d'épaisseur du temps gigantesque.",
+                    "start": 332.332,
+                    "end": 374.654
+                },
+                {
+                    "titre": "La musicalité du silence : un récit entre deux mondes",
+                    "extrait": "Lucie Servin, la musicalité, elle tient en quoi ? Elle tient en fait qu'il y a une juxtaposition d'histoires, en fait, de récits. Et ce récit, il est mené par le dessin, presque. Et donc, tout est croisé de cases même qui se juxtaposent, qui se superposent avec ce traitement en noir et blanc, la vie, avec parfois des choses très dessinées et parfois c'est les ombres qui dessinent le récit ou un visage où il va y avoir que la bouche ou au contraire que les yeux et tout ça fait qu'il y a une espèce de... on est dans un entre-monde.",
+                    "start": 202.786,
+                    "end": 253.585
+                },
+                {
+                    "titre": "Le retour des fantômes : une bande dessinée sur le deuil",
+                    "extrait": "Ce retour, qu'est-ce qui revient ? En fait, on peut entendre bien sûr le retour du refoulé, mais la façon dont le fantastique vient à un moment percuter cette histoire qui commence comme une histoire très historique. Quand on ouvre la bande dessinée, on voit une maison et trois personnages, trois poilus, avec des têtes à la proust, avec des belles moustaches.",
+                    "start": 148.632,
+                    "end": 167.843
+                },
+                {
+                    "titre": "Une maison de fête foraine pour affronter les peurs",
+                    "extrait": "Ce petit garçon va faire quelque chose d'assez extraordinaire, c'est qu'il va d'abord construire un toboggan qui parcourt toute la maison, qui devient une espèce de maison de fête foraine, une maison où les peurs, où l'inconscient est là.",
+                    "start": 339.896,
+                    "end": 355.083
+                },
+                {
+                    "titre": "Le fantastique comme miroir du traumatisme",
+                    "extrait": "Mais même l'arrivée de ce ptérodactyle... qui est une espèce de la bête qui arrive et qui surgit et où on comprend le drame qui s'est joué mais se joue dans l'ellipse et surtout dans une espèce de confrontation, le fantastique c'est ce qu'on comprend pas quoi.",
+                    "start": 268.555,
+                    "end": 287.468
+                }
+            ]
+        },
+        {
             "title": "À Marseille, le data center de trop ? ",
             "id": "969ed1ca-073b-47f1-8e2c-bbbfd2e84a4f",
             "show": "La Transition de la semaine",
@@ -2080,6 +2128,38 @@
                     "extrait": "Ce qui est très encourageant, c'est montrer que on est capable de synthétiser et de produire des anticorps monoclonaux bispécifiques. D'une part, ça, il fallait réussir à le faire et il fallait le prouver. Et deuxièmement, que ces anticorps bispécifiques, effectivement, sont très efficaces sur un large panel de variants du SARS-CoV-2. Donc ça ouvre une porte... au développement d'un outil type anticorps monoclonal qui marche sur un large panel et qui est moins rapidement obsolète.",
                     "start": 246.492,
                     "end": 276.879
+                }
+            ]
+        },
+        {
+            "title": "Critique BD : \"Billy Lavigne\" d'Anthony Pastor",
+            "id": "3caaacf7-ecdb-474e-8ffd-c10b2af2a7ad",
+            "show": "Les Midis de Culture",
+            "show_id": "32a14af6-fc87-4f4f-a06e-39ccf8587119",
+            "chapo": "Les critiques discutent de  \"Billy Lavigne\", deuxième volet rugueux de la trilogie western d'Anthony Pastor, qui déconstruit la figure masculine et viriliste du cow-boy.",
+            "magnetotheque_id": "2025C51852S1076",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/les-midis-de-culture/critique-bd-billy-lavigne-d-anthony-pastor-3525043",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/12360-17.03.2025-ITEMA_24061394-2025C51852S1076-NET_MFC_77CE0DF0-4592-46BC-A5F8-5212854FAA6A-21.mp3",
+            "duration": 1221,
+            "date": 1742210101,
+            "settings": [
+                "interview"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "Comment le western déconstruit la virilité ?",
+                    "extrait": "« C'est un western qui déconstruit le mythe viriliste du cow-boy. Et c'est puissant et ça emporte comme la chanson de Bob Dylan. »",
+                    "score": 90,
+                    "start": 122.378,
+                    "end": 140.808
+                },
+                {
+                    "titre": "La mort des femmes dans le western : un cri silencieux",
+                    "extrait": "« En fait, c'est une société qui l'a tué, un ordre patriarcal là encore. Ce n'est pas un western à thèse, mais ça questionne ça. »",
+                    "score": 95,
+                    "start": 268.275,
+                    "end": 285.845
                 }
             ]
         },
@@ -3363,6 +3443,42 @@
             ]
         },
         {
+            "title": "Critique BD : \"Billy Lavigne\" d'Anthony Pastor, \"Bouquet de peur\" de Nando Van Arb & \"Le retour\" d'Antoine Cossé",
+            "id": "a7456460-6b72-4ead-9f87-9677255cceae",
+            "show": "Les Midis de Culture",
+            "show_id": "32a14af6-fc87-4f4f-a06e-39ccf8587119",
+            "chapo": "Trois bandes dessinées sont à l'honneur du débat critique :  \"Billy Lavigne\" d'Anthony Pastor, \"Bouquet de peur\" de Nando Van Arb et \"Le retour\" d'Antoine Cossé.",
+            "magnetotheque_id": "2025C51852S0076",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/les-midis-de-culture/critique-bd-billy-lavigne-d-anthony-pastor-bouquet-de-peur-de-nando-van-arb-le-retour-d-antoine-cosse-4954753",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/24613-17.03.2025-ITEMA_24061763-2025C51852S0076-NET_MFC_FCC7EE99-44CB-44EA-B631-7F374EB2A839-21.mp3",
+            "duration": 1638,
+            "date": 1742210925,
+            "settings": [
+                "interview"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "Comment le western déconstruit le mythe de la virilité ?",
+                    "extrait": "Exactement, et je trouve ça très actuel d'aller vers le western aujourd'hui, où on est en train de questionner nos rapports avec les Etats-Unis. Parce que je pense que le western, c'est une mythologie contemporaine, au même titre que la mythologie grecque, et que c'est là qu'on voit tous les mythes contemporains de la liberté... Et tout ce western se construit autour de la question de la liberté et la violence, qui est une forme d'emprisonnement, parce que même si on est dans les grands espaces, il y a beaucoup de ciel, on est quand même dans une société où on est corseté, enfin c'est « ouvre les yeux Billy », c'est ce refrain en fait qui porte le western, après donc de Billy Lavigne.",
+                    "start": 171.612,
+                    "end": 210.458
+                },
+                {
+                    "titre": "Pourquoi les femmes sont-elles invisibles dans le western ?",
+                    "extrait": "Il y a d'abord la mère de Billy qui est morte. Oui ? Qui est morte, mais qui est donc la première figure de Swaston, qui est morte les yeux ouverts. Billy, on lui dit toujours « Ouvre les yeux, ouvre les yeux ». Elle, elle est morte les yeux ouverts et personne ne se préoccupe de lui fermer les yeux. Vous savez, souvent on fait ce geste quand quelqu'un est mort. Et là, on l'enterre à l'écart du village. Elle était une maîtresse dans sa première vie. Puis elle est devenue une prostituée et méprisée par tous. Et elle est morte et personne ne se préoccupe vraiment de savoir comment.",
+                    "start": 237.932,
+                    "end": 267.853
+                },
+                {
+                    "titre": "Le bouquet de peurs : une ode à la créativité face à l'angoisse ?",
+                    "extrait": "Oui, tout à fait. Moi, quand je parle de joie, c'est-à-dire qu'il y a quelque chose qui est de l'ordre de l'ode à la création, et tu parlais de quelque chose de personnel, il a fait quelque chose de personnel, mais on voit une espèce de bouillonnement d'influence aussi. Je pensais à Matisse, dont on a beaucoup dit que c'était un peintre du bonheur, etc., alors que finalement, il y a quelque chose d'assez angoissant, et qui est aussi dans les motifs de la fleur.",
+                    "start": 780.167,
+                    "end": 803.289
+                }
+            ]
+        },
+        {
             "title": "Dernier voyage",
             "id": "efc320fe-18a2-4a68-8d0a-88c032b03ffe",
             "show": "Lectures du soir",
@@ -4054,39 +4170,6 @@
             ]
         },
         {
-            "title": "Daniel Mayer, le grouillot devenu président du Conseil constitutionnel",
-            "id": "a9f4b87f-1a08-4597-bce1-d48255e4d066",
-            "show": "Les Nuits de France Culture",
-            "show_id": "4ff3693f-6e66-11e5-8e9e-005056a87c89",
-            "chapo": "",
-            "magnetotheque_id": "2024C3372E0169",
-            "seo_url": "",
-            "mp3": "https://media.radiofrance-podcast.net/podcast09/13915-15.03.2025-ITEMA_24059601-2024C3372E0169-NET_MFC_98AFEB96-2A0B-43FB-89BE-D0782392C3B2-21.mp3",
-            "duration": 1170,
-            "date": 1741994488,
-            "settings": [
-                "interview",
-                "temoignage"
-            ],
-            "limit": 0,
-            "extraits": [
-                {
-                    "titre": "« La misère des souliers : un regard sur la vie »",
-                    "extrait": "« C'est l'histoire d'un petit garçon qui habite dans une espèce de cave dont la seule fenêtre est un soupirail qui donne à la hauteur du trottoir. Et il voit passer des gens. Et il étudie les gens, enfin il juge plutôt les gens à travers leurs souliers. Et c'est cette misère des souliers qui lui donne une idée de ce qu'est la vie. »",
-                    "score": 90,
-                    "start": 139.248,
-                    "end": 165.833
-                },
-                {
-                    "titre": "« La lutte pour la justice : un engagement indéfectible »",
-                    "extrait": "« C'est cette campagne qui m'a ouvert les yeux. Je me souviens d'un meeting au Trocadéro avec Léon Jouot, avec Henri Torres, avocat prestigieux, qui s'était fait siffler par les communistes parce qu'il avait une querelle avec eux. Enfin, quelque chose qui était encore brouhaha, qui était encore tohu-bohu, mais qui... marquait la nécessité de se battre pour la justice. »",
-                    "score": 85,
-                    "start": 274.393,
-                    "end": 303.872
-                }
-            ]
-        },
-        {
             "title": "Casanova, figure moderne ou conservatrice ?",
             "id": "380fdbf3-3895-41c2-9e1d-cfeb4a4efa22",
             "show": "Les Nuits de France Culture",
@@ -4197,28 +4280,35 @@
             ]
         },
         {
-            "title": "Canada : réparation et guérison, les pistes de la justice autochtone",
-            "id": "9bf521d9-8f41-48de-a6ca-909e7081ce8a",
-            "show": "Les Enjeux internationaux",
-            "show_id": "481f078d-4810-11e5-9fe0-005056a87c89",
-            "chapo": "Aujourd’hui, dans les enjeux internationaux, cap sur un pays pionnier en matière de justice restauratrice : le Canada. La justice réparatrice occupe en effet une place particulière dans le système pénal canadien - bien qu’elle demeure marginale face à une justice traditionnelle encore dominante.",
-            "magnetotheque_id": "2025C3305S0073",
-            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/les-enjeux-internationaux/canada-reparation-et-guerison-les-pistes-de-la-justice-autochtone-4537697",
-            "mp3": "https://media.radiofrance-podcast.net/podcast09/13305-14.03.2025-ITEMA_24058896-2025C3305S0073-NET_MFC_7E258896-956C-4345-9F7B-6B7215325984-21.mp3",
-            "duration": 814,
-            "date": 1741931520,
+            "title": "Daniel Mayer, le grouillot devenu président du Conseil constitutionnel",
+            "id": "a9f4b87f-1a08-4597-bce1-d48255e4d066",
+            "show": "Les Nuits de France Culture",
+            "show_id": "4ff3693f-6e66-11e5-8e9e-005056a87c89",
+            "chapo": "",
+            "magnetotheque_id": "2024C3372E0169",
+            "seo_url": "",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/13915-15.03.2025-ITEMA_24059601-2024C3372E0169-NET_MFC_98AFEB96-2A0B-43FB-89BE-D0782392C3B2-21.mp3",
+            "duration": 1170,
+            "date": 1741994488,
             "settings": [
-                "actu",
-                "interview"
+                "interview",
+                "temoignage"
             ],
             "limit": 0,
             "extraits": [
                 {
-                    "titre": "« La punition n'aide pas, la réparation est essentielle »",
-                    "extrait": "« Au contraire, moi, je pense que dans les crimes sexuels, des crimes graves, la punition n'aide pas. Et je pense qu'on confond souvent punir et protéger. Donc, évidemment, quelqu'un qui est un agresseur sexuel doit être mis à l'écart, non pas pour le punir, mais pour essayer de voir comment cette personne-là peut se reconstruire, guérir, se transformer, etc. »",
-                    "score": 95,
-                    "start": 452.38,
-                    "end": 478.571
+                    "titre": "« La misère des souliers : un regard sur la vie »",
+                    "extrait": "« C'est l'histoire d'un petit garçon qui habite dans une espèce de cave dont la seule fenêtre est un soupirail qui donne à la hauteur du trottoir. Et il voit passer des gens. Et il étudie les gens, enfin il juge plutôt les gens à travers leurs souliers. Et c'est cette misère des souliers qui lui donne une idée de ce qu'est la vie. »",
+                    "score": 90,
+                    "start": 139.248,
+                    "end": 165.833
+                },
+                {
+                    "titre": "« La lutte pour la justice : un engagement indéfectible »",
+                    "extrait": "« C'est cette campagne qui m'a ouvert les yeux. Je me souviens d'un meeting au Trocadéro avec Léon Jouot, avec Henri Torres, avocat prestigieux, qui s'était fait siffler par les communistes parce qu'il avait une querelle avec eux. Enfin, quelque chose qui était encore brouhaha, qui était encore tohu-bohu, mais qui... marquait la nécessité de se battre pour la justice. »",
+                    "score": 85,
+                    "start": 274.393,
+                    "end": 303.872
                 }
             ]
         },
@@ -4256,6 +4346,32 @@
                     "extrait": "« Elle partit à la pointe du jour, ayant avec elle une femme de compagnie, un laquais sur le siège et un autre qui la précédait en courrier. Je la suivis des yeux, aussi longtemps que je puis apercevoir la voiture. J'étais immobile, la même place, longtemps après que mes regards ne voyaient plus rien, car toutes mes pensées étaient concentrées sur le cher objet que je perdais. L'univers ne me semblait plus rien. »",
                     "start": 1042.367,
                     "end": 1074.863
+                }
+            ]
+        },
+        {
+            "title": "Canada : réparation et guérison, les pistes de la justice autochtone",
+            "id": "9bf521d9-8f41-48de-a6ca-909e7081ce8a",
+            "show": "Les Enjeux internationaux",
+            "show_id": "481f078d-4810-11e5-9fe0-005056a87c89",
+            "chapo": "Aujourd’hui, dans les enjeux internationaux, cap sur un pays pionnier en matière de justice restauratrice : le Canada. La justice réparatrice occupe en effet une place particulière dans le système pénal canadien - bien qu’elle demeure marginale face à une justice traditionnelle encore dominante.",
+            "magnetotheque_id": "2025C3305S0073",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/les-enjeux-internationaux/canada-reparation-et-guerison-les-pistes-de-la-justice-autochtone-4537697",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/13305-14.03.2025-ITEMA_24058896-2025C3305S0073-NET_MFC_7E258896-956C-4345-9F7B-6B7215325984-21.mp3",
+            "duration": 814,
+            "date": 1741931520,
+            "settings": [
+                "actu",
+                "interview"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "« La punition n'aide pas, la réparation est essentielle »",
+                    "extrait": "« Au contraire, moi, je pense que dans les crimes sexuels, des crimes graves, la punition n'aide pas. Et je pense qu'on confond souvent punir et protéger. Donc, évidemment, quelqu'un qui est un agresseur sexuel doit être mis à l'écart, non pas pour le punir, mais pour essayer de voir comment cette personne-là peut se reconstruire, guérir, se transformer, etc. »",
+                    "score": 95,
+                    "start": 452.38,
+                    "end": 478.571
                 }
             ]
         },
