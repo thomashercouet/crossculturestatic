@@ -1,6 +1,6 @@
 {
-    "date": "Mis à jour le 17/03/2025 à 12:20",
-    "unix": 1742210401,
+    "date": "Mis à jour le 17/03/2025 à 12:32",
+    "unix": 1742211153,
     "shows": [
         {
             "title": "Le roquefort, on adore !",
@@ -4021,32 +4021,6 @@
             ]
         },
         {
-            "title": "Canada : réparation et guérison, les pistes de la justice autochtone",
-            "id": "9bf521d9-8f41-48de-a6ca-909e7081ce8a",
-            "show": "Les Enjeux internationaux",
-            "show_id": "481f078d-4810-11e5-9fe0-005056a87c89",
-            "chapo": "Aujourd’hui, dans les enjeux internationaux, cap sur un pays pionnier en matière de justice restauratrice : le Canada. La justice réparatrice occupe en effet une place particulière dans le système pénal canadien - bien qu’elle demeure marginale face à une justice traditionnelle encore dominante.",
-            "magnetotheque_id": "2025C3305S0073",
-            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/les-enjeux-internationaux/canada-reparation-et-guerison-les-pistes-de-la-justice-autochtone-4537697",
-            "mp3": "https://media.radiofrance-podcast.net/podcast09/13305-14.03.2025-ITEMA_24058896-2025C3305S0073-NET_MFC_7E258896-956C-4345-9F7B-6B7215325984-21.mp3",
-            "duration": 814,
-            "date": 1741931520,
-            "settings": [
-                "actu",
-                "interview"
-            ],
-            "limit": 0,
-            "extraits": [
-                {
-                    "titre": "« La punition n'aide pas, la réparation est essentielle »",
-                    "extrait": "« Au contraire, moi, je pense que dans les crimes sexuels, des crimes graves, la punition n'aide pas. Et je pense qu'on confond souvent punir et protéger. Donc, évidemment, quelqu'un qui est un agresseur sexuel doit être mis à l'écart, non pas pour le punir, mais pour essayer de voir comment cette personne-là peut se reconstruire, guérir, se transformer, etc. »",
-                    "score": 95,
-                    "start": 452.38,
-                    "end": 478.571
-                }
-            ]
-        },
-        {
             "title": "Tribune de Paris - Y a-t-il une crise du couple moderne ? 3/7 -  La révolution sentimentale (1ère diffusion : 10/03/1953 Chaîne Nationale)",
             "id": "a89817e8-37d8-4479-ae69-16c1e2e0c432",
             "show": "Les Nuits de France Culture",
@@ -4219,6 +4193,32 @@
                     "score": 75,
                     "start": 800.955,
                     "end": 819.204
+                }
+            ]
+        },
+        {
+            "title": "Canada : réparation et guérison, les pistes de la justice autochtone",
+            "id": "9bf521d9-8f41-48de-a6ca-909e7081ce8a",
+            "show": "Les Enjeux internationaux",
+            "show_id": "481f078d-4810-11e5-9fe0-005056a87c89",
+            "chapo": "Aujourd’hui, dans les enjeux internationaux, cap sur un pays pionnier en matière de justice restauratrice : le Canada. La justice réparatrice occupe en effet une place particulière dans le système pénal canadien - bien qu’elle demeure marginale face à une justice traditionnelle encore dominante.",
+            "magnetotheque_id": "2025C3305S0073",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/les-enjeux-internationaux/canada-reparation-et-guerison-les-pistes-de-la-justice-autochtone-4537697",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/13305-14.03.2025-ITEMA_24058896-2025C3305S0073-NET_MFC_7E258896-956C-4345-9F7B-6B7215325984-21.mp3",
+            "duration": 814,
+            "date": 1741931520,
+            "settings": [
+                "actu",
+                "interview"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "« La punition n'aide pas, la réparation est essentielle »",
+                    "extrait": "« Au contraire, moi, je pense que dans les crimes sexuels, des crimes graves, la punition n'aide pas. Et je pense qu'on confond souvent punir et protéger. Donc, évidemment, quelqu'un qui est un agresseur sexuel doit être mis à l'écart, non pas pour le punir, mais pour essayer de voir comment cette personne-là peut se reconstruire, guérir, se transformer, etc. »",
+                    "score": 95,
+                    "start": 452.38,
+                    "end": 478.571
                 }
             ]
         },
