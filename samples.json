@@ -1,6 +1,6 @@
 {
-    "date": "Mis à jour le 17/03/2025 à 23:52",
-    "unix": 1742251929,
+    "date": "Mis à jour le 18/03/2025 à 00:05",
+    "unix": 1742252709,
     "shows": [
         {
             "title": "Critique BD : \"Billy Lavigne\" d'Anthony Pastor, \"Bouquet de peur\" de Nando Van Arb & \"Le retour\" d'Antoine Cossé",
@@ -68,59 +68,6 @@
                     "score": 90,
                     "start": 488.416,
                     "end": 503.104
-                }
-            ]
-        },
-        {
-            "title": "Le petit congrès et la grande ambition du Parti socialiste",
-            "id": "d02183a1-526d-4a54-aa19-55afb7acca23",
-            "show": "Le Billet politique",
-            "show_id": "7656aae3-b20b-11e5-8e9e-005056a87c89",
-            "chapo": "Les candidatures se multiplient dans la perspective du congrès du Parti socialiste prévu au mois de juin et dont l'enjeu semble être le maintien ou l'éviction de l’actuel Premier secrétaire, Olivier Faure.",
-            "magnetotheque_id": "2025C22191S0073",
-            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/le-billet-politique/la-petite-ambition-du-parti-socialiste-4296843",
-            "mp3": "https://media.radiofrance-podcast.net/podcast09/13917-14.03.2025-ITEMA_24058917-2025C22191S0073-NET_MFC_0AD48F5C-8589-4073-BD66-8860D74DC005-21.mp3",
-            "duration": 298,
-            "date": 1741936800,
-            "settings": [
-                "actu"
-            ],
-            "limit": 0,
-            "extraits": [
-                {
-                    "titre": "Le Parti Socialiste face à sa propre extinction ?",
-                    "extrait": "Le Parti Socialiste est aujourd'hui un parti qui compte moins de 50 000 adhérents, qui se cherchent un avenir, un programme, un projet, une incarnation, et qui se rassurent en perpétuant comme un rituel ce qu'il a toujours fait, un congrès, des contributions et des motions.",
-                    "score": 95,
-                    "start": 280.396,
-                    "end": 293.402
-                },
-                {
-                    "titre": "Olivier Faure : le dernier rempart du PS ?",
-                    "extrait": "Lui veut rester en poste, il a été le premier à annoncer qu'il était candidat à sa propre succession au mi-février et il fera tout pour se maintenir sur un cadre du parti parce qu'Olivier Faure, s'il n'est plus premier secrétaire, il redevient député de Seine-et-Marne, c'est-à-dire plus rien, sa carrière est finie.",
-                    "score": 90,
-                    "start": 75.81,
-                    "end": 90.2
-                },
-                {
-                    "titre": "La quête de Blanche-Neige au PS : un défi impossible ?",
-                    "extrait": "Selon un ancien ministre socialiste, il n'y a que des nains politiques dans ce parti. Or, il faut trouver Blanche-Neige. Se désole-t-il en se référant au compte des frères Grimm ? Mais de Blanche-Neige, il n'y a pas.",
-                    "score": 88,
-                    "start": 228.775,
-                    "end": 239.118
-                },
-                {
-                    "titre": "Le PS : un parti d'élus locaux sans vision nationale ?",
-                    "extrait": "Par ailleurs, ce parti est aujourd'hui avant tout un parti d'élus locaux, avec pour chef de file des maires, des présidents de départements, des présidents de régions, dont la politique menée au niveau local n'apparaît pas comme un modèle transposable au niveau national.",
-                    "score": 85,
-                    "start": 256.283,
-                    "end": 269.17
-                },
-                {
-                    "titre": "François Hollande : l'ombre qui plane sur le congrès",
-                    "extrait": "Pèsera sur ce congrès l'ombre tutélaire de François Hollande, l'ancien président redevenu député. Lui ne sera pas candidat, il ne veut pas redevenir premier secrétaire. Sa principale ambition semble être pour le moment de faire tomber Olivier Faure, ce sur quoi il s'accorde avec tous les autres prétendants.",
-                    "score": 87,
-                    "start": 144.178,
-                    "end": 160.665
                 }
             ]
         },
@@ -321,59 +268,6 @@
             ]
         },
         {
-            "title": "Le cinéma est-il un milieu particulièrement toxique ?",
-            "id": "edf01eff-b600-4f81-abce-06d104adf357",
-            "show": "La Question du jour",
-            "show_id": "1f460354-6799-455b-bdc7-ddb15c0d88fb",
-            "chapo": "D’après un sondage Ifop pour la fondation Jean-Jaurès, publié mi-octobre, 18 % des Françaises ont été victimes de harcèlement sexuel ou de sexisme au travail l’année précédente. Le milieu du cinéma n’échappe pas à cette réalité.",
-            "magnetotheque_id": "2025C26356S0073",
-            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/la-question-du-jour/le-cinema-est-il-un-milieu-particulierement-toxique-1651940",
-            "mp3": "https://media.radiofrance-podcast.net/podcast09/22898-14.03.2025-ITEMA_24059262-2025C26356S0073-NET_MFC_2A91673B-6FB8-4E57-B39A-D60F85065E57-21.mp3",
-            "duration": 462,
-            "date": 1741933320,
-            "settings": [
-                "interview"
-            ],
-            "limit": 0,
-            "extraits": [
-                {
-                    "titre": "Le cinéma, un terreau fertile pour les violences silencieuses ?",
-                    "extrait": "« Je ne dirais pas que le cinéma est toxique en soi. C'est un milieu professionnel comme bien d'autres milieux professionnels avec ses contraintes, ses joies, ses peines. Mais effectivement, il y a un terreau favorable dans la mesure à l'expression de violences. »",
-                    "score": 85,
-                    "start": 217.507,
-                    "end": 229.97
-                },
-                {
-                    "titre": "Pourquoi la peur du silence règne dans le cinéma ?",
-                    "extrait": "« Le silence qui s'explique par le fait qu'on a aussi une réputation à construire et donc on parie aussi sur le fait qu'on aimerait bien être embauché sur d'autres projets s'il y en a d'autres qui se présentent. »",
-                    "score": 90,
-                    "start": 255.33,
-                    "end": 270.654
-                },
-                {
-                    "titre": "L'économie de la fascination : un piège pour les artistes ?",
-                    "extrait": "« On est tellement content d'avoir été élu et de pouvoir travailler dans ce milieu qui est si valorisé socialement, que finalement, parfois, on est prêt à tolérer des choses que l'on n'accepterait pas dans d'autres milieux professionnels. »",
-                    "score": 88,
-                    "start": 282.057,
-                    "end": 298.807
-                },
-                {
-                    "titre": "Le réalisateur, un chef d'État sous pression ?",
-                    "extrait": "« Un réalisateur, c'est un peu un chef d'État, avec son équipe, les gens qui travaillent autour de lui... Et évidemment, comme tout univers de pouvoir, il y a parfois des rapports de force qui se créent, des rapports de soumission, de domination. »",
-                    "score": 92,
-                    "start": 324.201,
-                    "end": 356.048
-                },
-                {
-                    "titre": "Comment le stress influence-t-il la création au cinéma ?",
-                    "extrait": "« C'est un univers quand même de tension et c'est aussi très lié à la tension nerveuse de la personne qui doit gérer le tournage. »",
-                    "score": 87,
-                    "start": 422.157,
-                    "end": 431.282
-                }
-            ]
-        },
-        {
             "title": "Roumanie : la démocratie face à l’extrême droite",
             "id": "f1b2e30b-f47e-4dc1-9c96-57f1bea9c16a",
             "show": "Les Enjeux internationaux",
@@ -396,39 +290,6 @@
                     "score": 95,
                     "start": 407.642,
                     "end": 445.11
-                }
-            ]
-        },
-        {
-            "title": "Suzanne Matline, syndicaliste envers et contre tout",
-            "id": "3e6c7af8-e1be-4840-96d4-52e453b0916e",
-            "show": "Les Nuits de France Culture",
-            "show_id": "4ff3693f-6e66-11e5-8e9e-005056a87c89",
-            "chapo": "",
-            "magnetotheque_id": "2024C3372E0168",
-            "seo_url": "",
-            "mp3": "https://media.radiofrance-podcast.net/podcast09/13915-14.03.2025-ITEMA_24058389-2024C3372E0168-NET_MFC_6777C6F4-290B-4D9C-A5E3-FD26E1A37795-21.mp3",
-            "duration": 1134,
-            "date": 1741908053,
-            "settings": [
-                "interview",
-                "temoignage"
-            ],
-            "limit": 0,
-            "extraits": [
-                {
-                    "titre": "« J'ai le sentiment d'avoir été, avec tous mes camarades, une résistante »",
-                    "extrait": "« En somme, maintenant, j'ai le sentiment d'avoir été, avec tous mes camarades, une résistante, à un système et à des gens qui occupaient l'espace vital d'autres individus. Et cet espace auquel ils avaient droit était complètement mangé par les tenants de la force et du pouvoir qui existaient à cette époque. »",
-                    "score": 95,
-                    "start": 951.15,
-                    "end": 979.709
-                },
-                {
-                    "titre": "Comment une femme a défié les normes de son époque ?",
-                    "extrait": "« Ma famille n'était pas contre le fait que je milite, bien qu'elle aurait préféré que je choisisse une autre voie. Mais la société nous traitait encore de pétroleuses. Et quand on s'exprimait à l'extérieur, les femmes ne manquaient pas de nous crier « mais allez donc raccommoder vos chaussettes, allez faire votre soupe, qu'est-ce que vous faites là dans la rue, c'est honteux ». »",
-                    "score": 90,
-                    "start": 990.405,
-                    "end": 1012.464
                 }
             ]
         },
@@ -967,91 +828,6 @@
             ]
         },
         {
-            "title": "Table ronde : crise politique en Roumanie",
-            "id": "6b8cce20-01d5-450d-b4fa-d3e71ea72b35",
-            "show": "Cultures Monde",
-            "show_id": "2358bc00-3f62-11e5-8314-005056a87c89",
-            "chapo": "La Cour constitutionnelle roumaine a rejeté la candidature de Calin Georgescu pour l’élection présidentielle à venir. Le candidat ultra-nationaliste est soupçonné d’avoir bénéficié d’ingérences russes. Lui et ses partisans ont manifesté leur colère dans la rue et dénoncent un coup d’Etat.",
-            "magnetotheque_id": "2025C16756S2073",
-            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/cultures-monde/table-ronde-crise-politique-en-roumanie-8141740",
-            "mp3": "https://media.radiofrance-podcast.net/podcast09/11701-14.03.2025-ITEMA_24058916-2025C16756S2073-NET_MFC_9E990C13-6DCE-42E6-8F08-B2B86B523A01-21.mp3",
-            "duration": 2317,
-            "date": 1741949925,
-            "settings": [
-                "savoirs"
-            ],
-            "limit": 0,
-            "extraits": [
-                {
-                    "titre": "« Nous vivons dans une grande dictature »",
-                    "extrait": "Et il ne s'agit plus de savoir qui se présente, mais de la démocratie, qui a été bafouée de toutes parts. D'une certaine manière, on montre directement aux gens que nous vivons dans une grande dictature, je veux dire, où sont les droits de l'homme. Il ne s'agit plus de savoir qui soutient un camp ou l'autre, il s'agit de savoir que nous sommes un peuple et que nous avons le droit de voter pour qui nous voulons. Et rejeter un candidat avec 350 000 signatures n'est ni juste ni normal. C'est pourquoi tous ces gens sont ici, rassemblés dans les rues pour les droits que nous avons légitimement, les droits que nous devrions avoir. Ils n'existent plus, ils ont disparu.",
-                    "score": 95,
-                    "start": 5.242,
-                    "end": 44.092
-                },
-                {
-                    "titre": "Comment l'extrême droite s'érige-t-elle en défenseur de la démocratie ?",
-                    "extrait": "Les partisans de Georgescu et des mouvements qui sont autour de lui ultra-nationalistes se font les porte-parole de la démocratie, se définissent comme des partisans de la démocratie. Ils dénoncent la dictature de l'État profond, la dictature de l'État, des actions de l'État, voire le mot totalitarisme a été utilisé par Giorgescu. Il est en lutte contre... L'État totalitaire, le nouveau État totalitaire qui interdit sa candidature et celle de ses proches éventuellement. Donc c'est une contradiction du discours. Ils se font les défenseurs de la démocratie, ils sont des pro-démocrates, mais en même temps ils continuent le même discours sur les réseaux sociaux, sur les pancartes lors de la manifestation, qui porte donc un discours qui est xénophobe, antisémite.",
-                    "score": 90,
-                    "start": 354.683,
-                    "end": 406.419
-                },
-                {
-                    "titre": "« La population a voté pour la paix » : un slogan révélateur",
-                    "extrait": "Rappelons que lorsque Georges Escou a été élu au premier tour et a fait un score important, il s'était crié « la population a voté pour la paix ». C'est-à-dire pas de parapluie européen, militaire et sortir de l'OTAN. Et la garantie de la paix, c'est la Russie. Pour lui.",
-                    "score": 92,
-                    "start": 2203.132,
-                    "end": 2227.97
-                },
-                {
-                    "titre": "La Roumanie, un laboratoire politique entre Trump et Poutine ?",
-                    "extrait": "Ce pays de l'Union Européenne et de l'OTAN, comme tu le rappelais, occupe une position stratégique clé au sud-est de l'Europe, les mitrophes de la Turquie et sur la mer Noire. Il est devenu le terrain d'une implacable guerre hybride lancée par Moscou, mais surtout le laboratoire politique d'une alliance inédite, de fait, entre Donald Trump et Vladimir Poutine.",
-                    "score": 94,
-                    "start": 156.679,
-                    "end": 178.735
-                }
-            ]
-        },
-        {
-            "title": "LES PIEDS SUR TERRE, émission du vendredi 14 mars 2025",
-            "id": "0417054c-1e00-4767-a24d-bc877df51090",
-            "show": "Les Pieds sur terre",
-            "show_id": "beb83c10-402c-11e5-8314-005056a87c89",
-            "chapo": "",
-            "magnetotheque_id": "2025C6612S0073",
-            "seo_url": "",
-            "mp3": "https://media.radiofrance-podcast.net/podcast09/10078-14.03.2025-ITEMA_24058915-2025C6612S0073-NET_MFC_2216673E-74B8-402D-A40D-BC5504A813B0-21.mp3",
-            "duration": 1763,
-            "date": 1741957125,
-            "settings": [
-                "temoignage"
-            ],
-            "limit": 0,
-            "extraits": [
-                {
-                    "titre": "« Si vous recevez cette lettre, c'est que je ne suis plus de ce monde »",
-                    "extrait": "« Si vous recevez cette lettre, c'est que je ne suis plus de ce monde. Vous avez été tous géniaux, mais vous êtes allés beaucoup trop loin dans cette histoire. Faux cul, sans amis, on va te niquer à ton retour, boloss, sale pute, connasse. »",
-                    "score": 95,
-                    "start": 438.282,
-                    "end": 451.027
-                },
-                {
-                    "titre": "Comment le silence peut tuer ?",
-                    "extrait": "« En fait, c'est pas tant le harcèlement qui tue, c'est aussi le silence. Et à partir du moment où on arrive à sortir du silence, on comprend très vite que c'est ça qui nous a minés, en fait. Le silence, c'est dangereux, et la parole, c'est une arme. »",
-                    "score": 90,
-                    "start": 1526.862,
-                    "end": 1541.048
-                },
-                {
-                    "titre": "« Je me suis retrouvé interné en hôpital psychiatrique »",
-                    "extrait": "« Je me suis retrouvé interné en hospital psychiatrique, contre mon gré, puisque je ne voulais pas. J'ai même été jusqu'à menacer de mort l'interne en psychiatrie, en lui disant que s'il m'internait, je revenais, je le brûlais lui et tout le service. »",
-                    "score": 88,
-                    "start": 1326.578,
-                    "end": 1339.232
-                }
-            ]
-        },
-        {
             "title": "LES PIEDS SUR TERRE, émission du lundi 17 mars 2025",
             "id": "6e741ce4-c2ee-407c-b426-00f66a7164b3",
             "show": "Les Pieds sur terre",
@@ -1201,38 +977,6 @@
             ]
         },
         {
-            "title": "\"Ce que l'Horizon promet\" : une exposition qui questionne les frontières entre prédictions et prévisions",
-            "id": "5386b25b-5229-4e9f-998c-5cbc0b075dd3",
-            "show": "Un monde connecté",
-            "show_id": "274c0b2b-c347-4748-8989-eb3f08ae5273",
-            "chapo": "Dans l'exposition \"Ce que l'Horizon promet\", une vingtaine d'artistes présente des œuvres qui jouent sur l'aléatoire, le déréglage et l'illusion pour questionner notre libre arbitre dans un univers de plus en plus numérique.",
-            "magnetotheque_id": "2025C52117S0073",
-            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/un-monde-connecte/ce-que-l-horizon-promet-une-exposition-qui-questionne-les-frontieres-entre-predictions-et-previsions-2073590",
-            "mp3": "https://media.radiofrance-podcast.net/podcast09/24399-14.03.2025-ITEMA_24058922-2025C52117S0073-NET_MFC_12876AD4-6F42-41EE-A291-D4EC2826537D-21.mp3",
-            "duration": 228,
-            "date": 1741938900,
-            "settings": [
-                "actu"
-            ],
-            "limit": 2,
-            "extraits": [
-                {
-                    "titre": "« L'avenir peut se jouer sur un coup de dé »",
-                    "extrait": "« Merveilleuse réflexion autour d'un aléatoire ordonné pour tenter de prédire les catastrophes climatiques. L'artiste nous ramène à notre triste sort. Malgré tous les outils de prévision météorologique, la nature l'emporte et notre avenir peut se jouer sur un coup de dé, imprévisible. Et c'est sans doute ce qui en fait sa cruelle beauté. »",
-                    "score": 95,
-                    "start": 82.175,
-                    "end": 102.468
-                },
-                {
-                    "titre": "Comment préserver notre libre arbitre dans un univers dataïfié ?",
-                    "extrait": "« Oui Guillaume, car c'est bien lui qui est menacé. Comment préserver notre autonomie dans un univers dataïfié ? »",
-                    "score": 90,
-                    "start": 175.686,
-                    "end": 182.07
-                }
-            ]
-        },
-        {
             "title": "\"Guerre hybride\" : nouvelles modalités de la guerre",
             "id": "b0a9b409-8922-4706-b12c-34dbd2977b70",
             "show": "À la source",
@@ -1254,73 +998,6 @@
                     "score": 95,
                     "start": 231.43,
                     "end": 251.936
-                }
-            ]
-        },
-        {
-            "title": "Défense, innovation, transition : vers un nouvel interventionnisme européen?",
-            "id": "3f9a4518-d1a7-4a30-ba92-d93e642b0a98",
-            "show": "Entendez-vous l'éco ?",
-            "show_id": "ec20bd96-cdfc-44ce-8a1b-85c33cc8b7db",
-            "chapo": "La multiplication des annonces européennes pour répondre aux enjeux sécuritaires et stratégiques semblent dessiner les contours d'un nouvel interventionnismes de la part de l'Union Européenne.",
-            "magnetotheque_id": "2025C29629S0073",
-            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/entendez-vous-l-eco/defense-innovation-transition-un-nouvel-interventionnisme-europeen-6195110",
-            "mp3": "https://media.radiofrance-podcast.net/podcast09/10081-14.03.2025-ITEMA_24058898-2025C29629S0073-NET_MFC_8E15260F-25DD-4CD1-8D28-3B581C111F7A-21.mp3",
-            "duration": 3545,
-            "date": 1741960725,
-            "settings": [
-                "savoirs"
-            ],
-            "limit": 0,
-            "extraits": [
-                {
-                    "titre": "L'Europe face à un tournant historique : un nouvel interventionnisme ?",
-                    "extrait": "\"Je pense qu'on est vraiment, pour l'Europe, dans une sorte d'épreuve du feu. Certains parlent de crise existentielle. Il me semble que l'expression est plutôt bien choisie. Et c'est effectivement une croisée de chemins, parce qu'il s'agit de savoir, au fond, si l'Europe continue de fonctionner en ordre dispersé et subit l'assaut américain, ou bien si véritablement l'Europe se met en ordre de marche, est capable de s'unir, est capable de changer son logiciel, quitter ce vieux logiciel tout poussiéreux, ordo-libéral, pour véritablement en adopter un nouveau avec une politique beaucoup plus volontariste.\"",
-                    "score": 90,
-                    "start": 302.683,
-                    "end": 366.804
-                },
-                {
-                    "titre": "Pourquoi l'Union Européenne doit-elle réinventer son modèle économique ?",
-                    "extrait": "\"Il s'agit également de trouver un nouvel élan au niveau de la politique industrielle. Il s'agit sans doute aussi de trouver dans la politique financière des leviers pour réagir à ce qui se passe au niveau géopolitique. Il faut sans doute aussi actionner la politique de la concurrence. Il y a tout un arsenal de mesures à concevoir, mais il faut s'en donner les moyens.\"",
-                    "score": 85,
-                    "start": 370.948,
-                    "end": 395.597
-                },
-                {
-                    "titre": "L'armement européen : un choix stratégique ou une nécessité ?",
-                    "extrait": "\"Avec le plan pour réarmer l'Europe, nous pouvons mobiliser 800 milliards d'euros. Chers parlementaires, laissez-moi vous présenter la clause de sauvegarde nationale. Car nous dépensons seulement en moyenne 2% de notre PIB en défense. Toutes les analyses s'accordent pour dire que nous devrions dépenser plus de 3%.\"",
-                    "score": 88,
-                    "start": 876.458,
-                    "end": 907.35
-                },
-                {
-                    "titre": "Comment l'Europe peut-elle transformer son épargne en investissement ?",
-                    "extrait": "\"Si je regarde néanmoins dans la durée, le fait qu'en Europe il y ait beaucoup d'épargne, ça c'est un atout européen. Et le défi que nous allons avoir, c'est d'utiliser mieux cette épargne pour l'innovation, pour l'investissement en Europe. Ça peut être la défense aussi, même si la défense relève in fine de financements publics et pas d'épargne privée.\"",
-                    "score": 87,
-                    "start": 168.607,
-                    "end": 192.975
-                },
-                {
-                    "titre": "L'urgence d'une réponse européenne face aux tensions géopolitiques",
-                    "extrait": "\"L'agression que nous subissons des États-Unis d'Amérique, elle a démarré à l'été 2022, quand Joe Biden a déclenché l'IRA, l'Inflation Reduction Act, qui est une décision de subvention sur le territoire américain des industries qui allaient favoriser la transition écologique. Donc voilà, ça fait trois ans que cette guerre commerciale existe. Donc il est vraiment temps qu'on réagisse.\"",
-                    "score": 92,
-                    "start": 782.983,
-                    "end": 808.352
-                },
-                {
-                    "titre": "Pourquoi l'union budgétaire est-elle cruciale pour l'avenir de l'Europe ?",
-                    "extrait": "\"Il faudra même sans doute aller plus loin que ça. Est-ce que les États membres y seront prêts ? Ça, ce n'est pas certain. Mais en fait, il va falloir un peu de mutualisation budgétaire, plus de capacité au niveau du budget européen. Mais il faudra sans doute aussi mobiliser la Banque centrale pour contenir les effets macroéconomiques et financiers de ces efforts budgétaires nationaux et mutuels.\"",
-                    "score": 89,
-                    "start": 1240.784,
-                    "end": 1270.453
-                },
-                {
-                    "titre": "L'Europe peut-elle vraiment se réarmer sans mutualisation ?",
-                    "extrait": "\"On est loin, je pense, de la mutualisation. Et ici, de tout ce qu'on a parlé, en fait, il y a très très peu de mutualisation. Donc là, on est, et c'est ce que je disais au début de l'émission, on est plutôt dans une continuité, de ce qui se passe depuis une dizaine d'années, c'est-à-dire qu'on augmente, on va dire, ce qu'on peut appeler la force de frappe financière de l'Union Européenne.\"",
-                    "score": 90,
-                    "start": 1516.212,
-                    "end": 1547.637
                 }
             ]
         },
@@ -1487,52 +1164,6 @@
             ]
         },
         {
-            "title": "Pourquoi Donald Trump détruit-il la science américaine ?",
-            "id": "e046c077-b27f-4053-a7e3-a9585417c9cb",
-            "show": "Questions du soir : le débat",
-            "show_id": "df67029c-4820-4a4b-83df-6c2c88bb5840",
-            "chapo": "Aux États-Unis, la science est sous pression. Licenciements, coupes budgétaires, censure : chercheurs et institutions sont confrontés à une offensive sans précédent par l’administration Trump.",
-            "magnetotheque_id": "2025C36267S0073",
-            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/pourquoi-donald-trump-detruit-il-la-science-americaine-3255849",
-            "mp3": "https://media.radiofrance-podcast.net/podcast09/18722-14.03.2025-ITEMA_24058890-2025C36267S0073-NET_MFC_3885C60F-6E01-4DFB-8B3B-FD9D7E9B8961-21.mp3",
-            "duration": 2332,
-            "date": 1741975125,
-            "settings": [
-                "actu"
-            ],
-            "limit": 0,
-            "extraits": [
-                {
-                    "titre": "Comment Donald Trump attaque-t-il la science américaine ?",
-                    "extrait": "« Handicap, femmes, inclusivité, diversité, discrimination, non-binaires, transsexuels, transgenres, LGBT, historiquement, socioculturels, socio-économiques, autant de mots et d'expressions désormais proscrits dans les dossiers de demande de financement à la recherche par l'administration de Donald Trump. » S'ajoutent des coupes budgétaires massives, l'interdiction de coopérations internationales, le limogéage de scientifiques, l'attaque verbale contre les sciences sociales, contre les sciences de la nature, contre les universités.",
-                    "score": 95,
-                    "start": 0.992,
-                    "end": 32.197
-                },
-                {
-                    "titre": "La science, un ennemi pour Trump ?",
-                    "extrait": "« Dès l’instant où vous identifiez que l’université, la science, la recherche, c’est votre ennemi, c’est la marque très clairement d’un régime totalitaire, et vous rentrez dans l’obscurantisme. »",
-                    "score": 90,
-                    "start": 168.367,
-                    "end": 181.883
-                },
-                {
-                    "titre": "La déconnexion entre science et société : un danger croissant",
-                    "extrait": "« Il y a dans la société américaine également, et c’est à cela que le programme de Trump répond, un mouvement anti-science, qui s’apparente à un mouvement anti-université, qui est un mouvement qui est populaire, qui commence à s’enraciner dans une partie de la population et qui associe les sciences à un monde des élites, à un monde déconnecté. »",
-                    "score": 92,
-                    "start": 344.326,
-                    "end": 394.684
-                },
-                {
-                    "titre": "La terreur dans les universités américaines : un nouveau maccartisme ?",
-                    "extrait": "« Je pense que les collègues sont absolument terrorisés, n'ayons pas peur des mots. La prochaine étape, c'est sans doute de mettre certains chercheurs en prison à cause des domaines de recherche et qu'ils seront considérés comme de dangereux agitateurs politiques qu'il faut faire taire. »",
-                    "score": 93,
-                    "start": 1528.308,
-                    "end": 1544.317
-                }
-            ]
-        },
-        {
             "title": "5 ans après, quelle sera la prochaine pandémie ? ",
             "id": "2d114815-acfe-4d63-b251-3a8bbae54179",
             "show": "La Question du jour",
@@ -1586,67 +1217,6 @@
             ]
         },
         {
-            "title": "A la frontière : Calais, chronique de la solidarité",
-            "id": "dd8e622a-28fa-42de-a7d3-87d8a168db76",
-            "show": "Douce France",
-            "show_id": "c1c5bb54-b9e9-4549-82e5-24892a5070bb",
-            "chapo": "Douce France vous emmène à la frontière de Calais, une des limites de l’Union Européenne. Si pour beaucoup, cette ville est synonyme d’impasse de la politique migratoire européenne, c’est aussi un territoire de solidarité.",
-            "magnetotheque_id": "2025C45177S0073",
-            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/douce-france/a-la-frontiere-calais-chronique-de-la-solidarite-7671952",
-            "mp3": "https://media.radiofrance-podcast.net/podcast09/22825-14.03.2025-ITEMA_24058932-2025C45177S0073-NET_MFC_A30A67AF-4EC2-4FCE-8F86-14C340E03492-21.mp3",
-            "duration": 3569,
-            "date": 1741982325,
-            "settings": [
-                "savoirs",
-                "temoignage"
-            ],
-            "limit": 0,
-            "extraits": [
-                {
-                    "titre": "Comment la frontière de Calais façonne des vies ?",
-                    "extrait": "Entrer à Calais, c'est vivre physiquement la matérialité de la frontière avec l'Angleterre. Cette frontière fabrique le paysage, un paysage violent, austère et rude. La dernière fois que je suis venue ici, c'était en 2018 et depuis, le paysage a encore changé. Ici, depuis 25 ans, on a construit des ersatz de fortification, des murs de 4 mètres de haut, encore des murs, parfois entre les murs, surmontés de 36 000 kilomètres de barbelés pour protéger l'accès aux ports, aux ferries, aux camions et aux tunnels sous la Manche.",
-                    "start": 151.448,
-                    "end": 182.774
-                },
-                {
-                    "titre": "Pourquoi la solidarité à Calais est-elle si cruciale ?",
-                    "extrait": "C'est ici que des élèves du lycée Raoul Follereau de Nevers ont décidé de passer une partie de leurs vacances scolaires. Morgane, Avista, Salma, Juliette, Gabriel et Pierre ont 17 ou 18 ans. Ils participent à un atelier sur les droits humains organisé par leur lycée avec la section Nivernaise d'Amnesty International. Pour la première fois depuis sa création, cet atelier est délocalisé.",
-                    "start": 208.749,
-                    "end": 228.658
-                },
-                {
-                    "titre": "La réalité des migrants à Calais : un quotidien déshumanisant",
-                    "extrait": "À Calais, on compterait un millier de migrants sur le territoire, selon la préfecture de police. Depuis 1999, les arrivées sont constantes, malgré les multiples tentatives de les freiner. Calais, c'est une frontière extérieure de l'Union Européenne, comme Lampedusa ou Lesbos face à la Turquie.",
-                    "start": 746.192,
-                    "end": 763.442
-                },
-                {
-                    "titre": "Comment la peur se transforme en haine ?",
-                    "extrait": "Je me dis, mais ça prend de l'énergie et du temps pour faire ça, pour juste... Détester les gens, et je pense que le plus grand responsable de cette animalisation, de cette déshumanisation des migrants et puis de tous les victimes de quelconque situation, c'est la peur et la haine, ou plutôt la peur qui se transforme en haine.",
-                    "start": 520.3,
-                    "end": 543.77
-                },
-                {
-                    "titre": "La solidarité face à l'indifférence : un appel à l'action",
-                    "extrait": "Il ne faut pas nier non plus que Calais, c'est une ville extrêmement pauvre et on l'entend à tort et à travers qu'en fait, à Calais, du coup, les personnes souffrent de la situation à force de voir des personnes exilées et autres. Mais bon, à Calais, les personnes, elles souffrent aussi énormément de la précarité, elles souffrent énormément du chômage.",
-                    "start": 1502.229,
-                    "end": 1527.826
-                },
-                {
-                    "titre": "Pourquoi la déshumanisation des migrants est-elle si répandue ?",
-                    "extrait": "En fait, on ne prend même pas le temps de leur parler. Et je sais qu'on ne peut pas juste s'asseoir et leur parler et leur faire de la thérapie pendant 6 heures. Mais genre juste, c'est ridicule. En fait, on dirait les discours de Eren un peu Bardella.",
-                    "start": 697.753,
-                    "end": 708.596
-                },
-                {
-                    "titre": "La réalité des migrants : entre survie et espoir",
-                    "extrait": "Traverser la Manche, à tout prix pour rejoindre l'Angleterre, quoi qu'il en coûte. Depuis 2018, les naufrages se sont multipliés. En novembre 2021, 31 personnes sont mortes lors d'une traversée, sans que personne ne leur vienne en aide malgré leurs appels.",
-                    "start": 1144.163,
-                    "end": 1158.434
-                }
-            ]
-        },
-        {
             "title": "Négociations en Ukraine : la paix du plus fort ?",
             "id": "2c673584-429a-49d4-9ba5-d72564205018",
             "show": "France Culture va plus loin (l'Invité(e) des Matins)",
@@ -1690,45 +1260,6 @@
                     "score": 87,
                     "start": 403.467,
                     "end": 414.854
-                }
-            ]
-        },
-        {
-            "title": "Archéologie, ethnologie, les muses de la galerie",
-            "id": "8a51f1f2-efd8-447f-b08a-d1eb3483ff54",
-            "show": "L'Entretien archéologique",
-            "show_id": "f8a6ea7b-749a-4702-9961-dff3d9750b9d",
-            "chapo": "Visite de l’exposition “Objets en questions : Archéologie, ethnologie, avant-garde” au Musée du Quai Branly-Jacques Chirac. Comment  l’archéologie et l’ethnologie ont-elles influencé les arts plastiques dans l’entre deux guerres? Comment ces deux sciences de terrain ont-elles transfiguré les musées?",
-            "magnetotheque_id": "2025C26375S0073",
-            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/l-entretien-archeologique/archeologie-ethnologie-les-muses-de-la-galerie-8312744",
-            "mp3": "https://media.radiofrance-podcast.net/podcast09/23118-14.03.2025-ITEMA_24058925-2025C26375S0073-NET_MFC_97EF0720-0DE4-40EC-9CA4-54A0A60002ED-21.mp3",
-            "duration": 1719,
-            "date": 1741967925,
-            "settings": [
-                "savoirs"
-            ],
-            "limit": 0,
-            "extraits": [
-                {
-                    "titre": "Comment l'archéologie a redéfini l'art moderne ?",
-                    "extrait": "« Jean-Jean Rivière, dans un des premiers numéros de Cahiers d'Art, 1928, va écrire un article qui s'appelle « Archaeologisme », dans lequel il dit, en gros, « le mythe grec est dépassé, il est mort. Ne regardons plus le sourire de la Grèce, regardons le sourire des Khmer ». Donc il fait absolument une rupture complète en disant « nos références ne sont plus les références classiques ». Et effectivement, qu'est-ce qu'on va découvrir ? On va découvrir de nouvelles formes d'art. »",
-                    "score": 95,
-                    "start": 815.074,
-                    "end": 850.937
-                },
-                {
-                    "titre": "La collision des cultures : un nouveau regard sur les objets",
-                    "extrait": "« Ce qui est complètement fascinant et passionnant dans cette exposition, c'est justement de voir le glissement qui s'opère entre le statut de document et le statut d'œuvre chez l'objet à ce moment-là, et à quel point finalement ces deux statuts ne sont jamais exclusifs et qu'un objet peut naviguer finalement entre ces deux mondes-là et que c'est parce qu'il navigue entre ces deux mondes-là qu'il est intéressant à questionner et à exposer. »",
-                    "score": 90,
-                    "start": 1570.285,
-                    "end": 1596.741
-                },
-                {
-                    "titre": "Pourquoi l'ethnologie et l'archéologie sont-elles essentielles à la muséographie moderne ?",
-                    "extrait": "« Ce qui est intéressant aussi avec cette exposition, c'est qu'elle nous met face, nous, à notre rapport, à nos musées. Moi, je ne savais pas, par exemple, que j'étais, en allant visiter une exposition au Quai Branly ou ailleurs, face à une muséographie qui a été littéralement créée, ou en tout cas pensée, repensée, à cette époque-là, grâce à l'archéologie et l'ethnographie. »",
-                    "score": 92,
-                    "start": 1224.807,
-                    "end": 1246.747
                 }
             ]
         },
@@ -1796,66 +1327,6 @@
                     "score": 89,
                     "start": 1771.191,
                     "end": 1794.457
-                }
-            ]
-        },
-        {
-            "title": "Catherine Clément, philosophe et écrivaine : \"Je préfère faire de l'histoire par le roman\"",
-            "id": "38e3a2ce-63ee-407c-a3bf-672908fa9b52",
-            "show": "Le Cours de l'histoire",
-            "show_id": "0a41bdd2-4a6d-4fb2-b2d1-ca42d2dc5381",
-            "chapo": "Dans \"Païenne\", l’écrivaine et philosophe Catherine Clément incarne à travers le personnage d’une pythie, le basculement du paganisme vers le monothéisme chrétien dans l’Antiquité tardive.",
-            "magnetotheque_id": "2025C36128S0073",
-            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/catherine-clement-philosophe-ecrivaine-et-folle-d-histoire-2531149",
-            "mp3": "https://media.radiofrance-podcast.net/podcast09/10076-14.03.2025-ITEMA_24058902-2025C36128S0073-NET_MFC_01D59B24-1775-4F66-99DE-ADD41C259AE2-21.mp3",
-            "duration": 3496,
-            "date": 1741942725,
-            "settings": [
-                "savoirs"
-            ],
-            "limit": 0,
-            "extraits": [
-                {
-                    "titre": "« Je préfère faire de l'histoire par le roman »",
-                    "extrait": "Catherine Clément : \"Je préfère faire de l'histoire par le roman. Parce que ça passe mieux, c'est plus facile à lire, ça raconte des histoires, ça empile des histoires, et plus il y a d'histoires, mieux je me porte.\"",
-                    "score": 95,
-                    "start": 1807.645,
-                    "end": 1817.691
-                },
-                {
-                    "titre": "Comment la mythologie a façonné une vie ?",
-                    "extrait": "Catherine Clément : \"J'ai réagi à la peur en apprenant à lire toute seule. Et j'ai appris à lire dans un énorme livre de mythologie, très intéressant, parce qu'il y avait des illustrations et que les dieux et les déesses étaient tout nus, donc c'était extrêmement bien. C'est un énorme bouquin, je pouvais à peine le porter.\"",
-                    "score": 90,
-                    "start": 638.101,
-                    "end": 657.833
-                },
-                {
-                    "titre": "Le monothéisme, un danger pour la liberté ?",
-                    "extrait": "Catherine Clément : \"Je le déteste. Je le trouve terriblement dangereux. Terriblement dangereux. Parce que ça ne laisse pas de choix. Ça entrave la liberté.\"",
-                    "score": 92,
-                    "start": 1747.465,
-                    "end": 1760.014
-                },
-                {
-                    "titre": "La guerre, un souvenir fragmentaire et insupportable",
-                    "extrait": "Catherine Clément : \"C'est quelque chose d'insupportable qui fragmente la vie jusqu'à la vieillesse. En petit tas, comme ça. C'est fragmentatoire, ce truc-là. C'est terrible, les bombardements. C'est ce qu'il y a de pire dans la guerre.\"",
-                    "score": 88,
-                    "start": 244.531,
-                    "end": 266.772
-                },
-                {
-                    "titre": "Pourquoi le polythéisme est-il plus démocratique ?",
-                    "extrait": "Catherine Clément : \"Le fait d'avoir beaucoup de dieux, ça protège, c'est plus démocratique. Et le fait de ratatiner à un seul dieu, c'est pas bon.\"",
-                    "score": 89,
-                    "start": 1653.859,
-                    "end": 1674.579
-                },
-                {
-                    "titre": "La Pitié, un oracle au cœur des bouleversements",
-                    "extrait": "Catherine Clément : \"C'est le dernier oracle de la Pitié, quand les Romains chassent la Pitié de Delphes. On connaît la date, on sait très bien où ça s'est passé. On ne sait pas très bien comment ça s'est passé, mais on sait où ça s'est passé et à quelle date. Delphes, 6 janvier 392.\"",
-                    "score": 91,
-                    "start": 871.665,
-                    "end": 891.354
                 }
             ]
         },
@@ -2076,186 +1547,6 @@
             ]
         },
         {
-            "title": "Estelle Ferrarese : \"Pour Adorno, un claquement de porte ou une pantoufle sont les symptômes de nos vies mutilées\"",
-            "id": "f816ec8f-d55b-4333-86b5-e470bccf9bf1",
-            "show": "Le Souffle de la pensée",
-            "show_id": "4bb9a5f9-137a-4c39-9fcf-5b9baa9a525d",
-            "chapo": "153 aphorismes sur les détails d'une vie mutilée par la société, dominée par le social et l'industrie culturelle, composent les \"Minima Moralia\" de Theodor W. Adorno. Estelle Ferrarese revient sur ce journal d'exil du grand philosophe allemand.",
-            "magnetotheque_id": "2025C53456S0073",
-            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/le-souffle-de-la-pensee/estelle-ferrarese-sur-minima-moralia-de-theodor-w-adorno-1267169",
-            "mp3": "https://media.radiofrance-podcast.net/podcast09/22789-14.03.2025-ITEMA_24058937-2025C53456S0073-NET_MFC_5346E0A3-2E42-4832-A6EE-CDF02B2131B7-21.mp3",
-            "duration": 3513,
-            "date": 1741946325,
-            "settings": [
-                "savoirs"
-            ],
-            "limit": 0,
-            "extraits": [
-                {
-                    "titre": "Comment la technicisation déshumanise nos gestes quotidiens ?",
-                    "extrait": "La technicisation a rendu précis et frustres les gestes que nous faisons, et du même coup aussi les hommes. Elle retire au geste toute hésitation, toute circonspection et tout raffinement. Elle les plie aux exigences intransigeantes, et pour ainsi dire privées d'histoire, qui sont celles des choses. C'est ainsi qu'on a désappris à fermer une porte doucement et sans bruit, tout en la fermant bien. Celles des voitures et des frigidaires, il faut les claquer. D'autres ont tendance à se refermer toutes seules, automatiquement, invitant ainsi celui qui vient d'entrer au sans-gêne, le dispensant de regarder derrière lui et de respecter l'intérieur qui l'accueille.",
-                    "start": 1111.534,
-                    "end": 1153.175
-                },
-                {
-                    "titre": "Pourquoi Adorno voit-il la beauté comme une illusion ?",
-                    "extrait": "Il n'y a plus maintenant de beauté et de consolation que dans le regard qui se tourne vers l'horrible, s'y confronte et maintient avec une conscience entière de la négativité la possibilité d'un monde meilleur.",
-                    "start": 2158.028,
-                    "end": 2170.292
-                },
-                {
-                    "titre": "La critique : un acte de résistance ou de paralysie ?",
-                    "extrait": "Il n'y a pas de vie juste ou de vie bonne dans un monde faux. [...] C'est sur cette base de manière négative qu'on peut peut-être progresser vers un monde qui serait moins injuste, moins horrible.",
-                    "start": 2533.286,
-                    "end": 2550.724
-                },
-                {
-                    "titre": "Comment la banalité du quotidien révèle notre barbarie ?",
-                    "extrait": "Les pantoufles, savates, slippers sont conçus de telle sorte qu'on puisse y glisser le pied sans céder de la main. Elles sont les monuments de la haine pour toute attitude courbée.",
-                    "start": 2584.745,
-                    "end": 2596.236
-                },
-                {
-                    "titre": "Adorno et la souffrance : un regard sur notre humanité mutilée",
-                    "extrait": "Il y a une sorte de signe qu'il est possible de faire vers une nature et un être humain non dominé, mais qui ne renvoie pas à un ensemble de caractéristiques complexes, des capacités.",
-                    "start": 1749.673,
-                    "end": 1765.104
-                },
-                {
-                    "titre": "Pourquoi la bienveillance est-elle suspecte selon Adorno ?",
-                    "extrait": "Il y a derrière cette... Ce diagnostic particulièrement noir, et justement la sévérité de la conclusion qu'il en tire, c'est-à-dire qu'il n'y a pas de vie juste dans un monde faux, au fond un appel politique.",
-                    "start": 2299.398,
-                    "end": 2329.631
-                },
-                {
-                    "titre": "Comment Adorno nous pousse à affronter notre impuissance ?",
-                    "extrait": "Il s'agit en tout cas d'aiguiser avec un texte qui, par endroits, peut sembler dater, je crois. Il y a effectivement des moments où, clairement, on sent les années 40 du siècle passé. Déguiser le regard à la fois sur le monde, y compris sur soi-même, c'est-à-dire d'avoir une absence de... de mansuétude pour soi-même, y compris dans ses pratiques politiques, il me semble assez salutaire.",
-                    "start": 3162.421,
-                    "end": 3192.255
-                }
-            ]
-        },
-        {
-            "title": "\"Si jamais vous trouvez ce poème quelque part\" d’Arthur Teboul, quand les mots nous changent",
-            "id": "ace6ff5a-a756-49f7-980c-ffebdcf29caa",
-            "show": "L'Instant poésie",
-            "show_id": "f69ae1d2-f2b6-44a9-b803-7d809a03be95",
-            "chapo": "Dans ce poème, Arthur Teboul raconte un évènement qui lui est arrivé : la perte d'un poème qu'il avait écrit et qui lui tenait à coeur. Pour ne pas se laisser submerger par la colère, il choisit d'écrire un autre poème, capable de transformer cet échec \"d'un coup de baguette magique\". ",
-            "magnetotheque_id": "2025C53416E0010",
-            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/l-instant-poesie/si-jamais-vous-trouvez-ce-poeme-quelque-part-d-arthur-teboul-2941836",
-            "mp3": "https://media.radiofrance-podcast.net/podcast09/13025-27.02.2025-ITEMA_24035693-2025C53416E0010-ITE_00148176_RSCE-21.mp3",
-            "duration": 385,
-            "date": 1741984583,
-            "settings": [
-                "interview"
-            ],
-            "limit": 0,
-            "extraits": [
-                {
-                    "titre": "Comment transformer la colère en poésie ?",
-                    "extrait": "C'est un truc que je trouve assez magique aussi avec l'écriture, c'est qu'au moment de la colère, au moment de la frustration, on peut décider d'un coup de baguette magique, d'un coup de stylo, de transformer son expérience maudite, son échec, un poème et donc j'étais comme un fou en train de chercher ce poème que je ne retrouvais pas et je me suis dit j'aurais bien même le dire plus de fois dans ma vie ça je me suis dit, quand de rares occasions te laisse pas faire transforme te laisse pas faire écris un poème.",
-                    "score": 95,
-                    "start": 216.259,
-                    "end": 253.071
-                },
-                {
-                    "titre": "La magie de l'écriture : retrouver ce qui est perdu",
-                    "extrait": "Et comme par hasard, quand j'ai fini d'écrire ce poème, qu'est-ce qui s'est passé ? J'ai retrouvé Building Chant. J'ai retrouvé mon poème. Voilà. J'avais perdu un poème. J'en ai retrouvé deux. Parce que je ne me suis pas laissé absorber par cette... Mais je devenais vraiment fou.",
-                    "score": 90,
-                    "start": 260.294,
-                    "end": 278.424
-                },
-                {
-                    "titre": "Pourquoi la perte peut-elle être une opportunité ?",
-                    "extrait": "C'est une chance, je trouve, qu'on a les artistes à pouvoir transformer nos colères, nos angoisses, nos frustrations en quelque chose d'un peu plus filtré, un substrat. Donc je crois que tout le monde peut transformer ses peurs, ses angoisses, ses colères en quelque chose de plus grand.",
-                    "score": 92,
-                    "start": 299.059,
-                    "end": 324.214
-                },
-                {
-                    "titre": "La poésie comme refuge face à l'angoisse",
-                    "extrait": "C'est une chance qu'on a de pouvoir s'autoriser à être poète. Une chance qui nous a été donnée, soit parce qu'on nous a donné confiance en soi, soit parce qu'il y a des rebondissements dans la vie qui nous ont menés à créer cet espace.",
-                    "score": 88,
-                    "start": 339.192,
-                    "end": 351.481
-                },
-                {
-                    "titre": "« Si jamais vous trouvez ce poème quelque part... »",
-                    "extrait": "Et donc, je vous le dis, si jamais vous trouvez ce poème quelque part... Dites-le moi, quoi.",
-                    "score": 85,
-                    "start": 376.015,
-                    "end": 382.746
-                }
-            ]
-        },
-        {
-            "title": "Dégoûts et des douleurs, on ne discute pas ?",
-            "id": "8cfb42b1-2298-4f4b-9442-38c7ad9c91b8",
-            "show": "Avec philosophie",
-            "show_id": "744d0dc6-dacc-4d71-a22c-af97eec7a56e",
-            "chapo": "Pourquoi certains aliments nous dégoûtent ? Quelle est la place du dégoût dans les troubles du comportement alimentaire ?",
-            "magnetotheque_id": "2025C48904S0072",
-            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/avec-philosophie/degouts-et-des-douleurs-on-ne-discute-pas-1336427",
-            "mp3": "https://media.radiofrance-podcast.net/podcast09/10467-13.03.2025-ITEMA_24057223-2025C48904S0072-NET_MFC_4BA9BD7C-2066-426B-874E-138B60891BFE-21.mp3",
-            "duration": 3504,
-            "date": 1741859925,
-            "settings": [
-                "savoirs"
-            ],
-            "limit": 0,
-            "extraits": [
-                {
-                    "titre": "Le dégoût, gardien de notre santé ?",
-                    "extrait": "Le dégoût nous protège, sans nul doute. Il est d'ailleurs une réaction fréquente des enfants devant le nouveau ou l'étrange qu'ils préfèrent tenir prudemment, loin de leur bouche.",
-                    "score": 85,
-                    "start": 40.831,
-                    "end": 50.174
-                },
-                {
-                    "titre": "Le dégoût de soi, un cercle vicieux",
-                    "extrait": "Ce qui est le plus caractéristique, c'est vraiment le dégoût de soi, la honte du comportement. Donc, au moment de la crise, il n'y a pas le dégoût alimentaire. Il y a vraiment une recherche d'apaisement, d'une tension à travers des aliments plaisir.",
-                    "score": 90,
-                    "start": 446.511,
-                    "end": 462.46
-                },
-                {
-                    "titre": "Pourquoi le dégoût est-il si mal compris ?",
-                    "extrait": "Le dégoût, c'est une émotion importante parce que Charles Darwin, dans l'expression des émotions chez l'homme et les animaux, va en faire une des six émotions primaires et universelles aux côtés de la peur, de la joie, de la surprise, de la tristesse et de la colère.",
-                    "score": 80,
-                    "start": 818.481,
-                    "end": 833.593
-                },
-                {
-                    "titre": "Le dégoût, un sentiment culturel ?",
-                    "extrait": "Il y a bien une dose de perversion, dites-vous, dans chaque culture qui considère que s'éduquer gustativement, c'est apprendre à aimer le dégoûtant.",
-                    "score": 88,
-                    "start": 2669.004,
-                    "end": 2681.916
-                },
-                {
-                    "titre": "Le dégoût, un signal d'alarme ?",
-                    "extrait": "Le dégoût, ce serait une sorte de signal d'alarme incarné, instinctif et qui a vraiment un rôle protecteur.",
-                    "score": 82,
-                    "start": 1805.932,
-                    "end": 1814.099
-                },
-                {
-                    "titre": "Comment le dégoût peut-il devenir beau ?",
-                    "extrait": "Il y a une véritable jouissance du dégoûtant, ou est-ce que dans cette sublimation, du coup, le dégoûtant devient beau ou devient bon, et justement disparaît en quelque sorte ?",
-                    "score": 87,
-                    "start": 1430.685,
-                    "end": 1445.012
-                },
-                {
-                    "titre": "Le dégoût, un reflet de notre humanité ?",
-                    "extrait": "Ce qui nous dégoûte, nous fait plaisir aussi. Ce qui est aussi une idée freudienne. Il y a une ambivalence du sentiment.",
-                    "score": 86,
-                    "start": 2764.335,
-                    "end": 2778.602
-                }
-            ]
-        },
-        {
             "title": "Les consommateurs chinois doivent-ils sauver la croissance ? ",
             "id": "a387b563-c8d9-4bd2-ad6c-da727f05749e",
             "show": "Entendez-vous l'éco ?",
@@ -2323,45 +1614,6 @@
             ]
         },
         {
-            "title": "Francis Hallé, botaniste : \"La forêt n'a pas besoin de nous, elle se porte mieux quand on ne s'en occupe pas\" ",
-            "id": "297c024a-32a3-44bf-b735-11453914af05",
-            "show": "Les Midis de Culture",
-            "show_id": "32a14af6-fc87-4f4f-a06e-39ccf8587119",
-            "chapo": "Comment repenser notre rapport au vivant ? Tout au long de sa carrière et aujourd'hui encore Francis Hallé s'est battu et se bat pour une reconnaissance de la flore à la hauteur de son intelligence, avec \"Le génie de la forêt\", il nous emmène dans une balade littéraire, dessinée et arboricole. ",
-            "magnetotheque_id": "2025C51852S3073",
-            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/les-midis-de-culture/francis-halle-botaniste-biologiste-amoureux-des-plantes-4216112",
-            "mp3": "https://media.radiofrance-podcast.net/podcast09/12360-14.03.2025-ITEMA_24058914-2025C51852S3073-NET_MFC_BE3E80F7-514B-4EB7-80BA-FFF71289963C-21.mp3",
-            "duration": 1715,
-            "date": 1741955325,
-            "settings": [
-                "interview"
-            ],
-            "limit": 0,
-            "extraits": [
-                {
-                    "titre": "« La forêt n'a pas besoin de nous »",
-                    "extrait": "« La forêt, elle n'a pas besoin de nous, elle se porte beaucoup mieux quand on ne s'en occupe pas. »",
-                    "score": 95,
-                    "start": 1053.556,
-                    "end": 1057.877
-                },
-                {
-                    "titre": "« La beauté a une signification biologique »",
-                    "extrait": "« Un scientifique qui aurait le culot de marquer un jugement esthétique ou le terme de beauté dans un article, interdit de publication. Parce que ça n'avait pas, j'utilise un parfait, ça n'avait pas de signification biologique. Et moi, j'en ai trouvé une. »",
-                    "score": 90,
-                    "start": 160.637,
-                    "end": 180.804
-                },
-                {
-                    "titre": "« La déforestation, un viol »",
-                    "extrait": "« C'est monstrueux, c'est un espèce de viol. Et le fric que ça rapporte, ça ne va pas au pays. Ça ne va pas aux gens du pays. Ça va à des grosses boîtes des régions tempérées, Etats-Unis, Europe, Japon. Donc c'est un vol en même temps. »",
-                    "score": 92,
-                    "start": 851.682,
-                    "end": 870.448
-                }
-            ]
-        },
-        {
             "title": "Royaume-Uni : de l'économie aux affaires étrangères, la rupture Keir Starmer ? ",
             "id": "56091e65-4bae-4891-90c1-d960012a596f",
             "show": "France Culture va plus loin le samedi",
@@ -2405,181 +1657,6 @@
                     "score": 88,
                     "start": 1225.334,
                     "end": 1250.756
-                }
-            ]
-        },
-        {
-            "title": "Retour des États-Unis // Crise politique en Roumanie",
-            "id": "3de21444-7d6c-430d-99be-d06bb59c2ee8",
-            "show": "Cultures Monde",
-            "show_id": "2358bc00-3f62-11e5-8314-005056a87c89",
-            "chapo": "Comme chaque semaine, une émission d'actualité en deux parties : retour de terrain avec Coline Renault qui rentre des États-Unis ; suivi d'une table-ronde sur la crise politique en Roumanie suite à l'exclusion du candidat d'extrême droite Călin Georgescu de la présidentielle.",
-            "magnetotheque_id": "2025C16756S0073",
-            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/cultures-monde/retour-des-etats-unis-crise-politique-en-roumanie-6523180",
-            "mp3": "https://media.radiofrance-podcast.net/podcast09/11701-14.03.2025-ITEMA_24058916-2025C16756S0073-NET_MFC_DAC70898-7CEC-46A9-B458-D01C4DD2D597-21.mp3",
-            "duration": 3500,
-            "date": 1741949925,
-            "settings": [
-                "savoirs"
-            ],
-            "limit": 0,
-            "extraits": [
-                {
-                    "titre": "« Stop denying, people are dying » : la colère face à un système de santé défaillant",
-                    "extrait": "« En fait, il y a deux niveaux de problèmes. Le premier problème, c'est qu'il y a 20% de personnes non-assurées aux Etats-Unis. Mais les personnes qui sont concernées par des dettes médicales, la plupart du temps, ont une assurance. Parce qu'aux Etats-Unis, les remboursements ne vont pas être systématiques et les assurances privées décident si elles vont ou non rembourser tel ou tel soin. Et plusieurs études ont montré que, par principe, elles refusent. Et après, si on monte un dossier, elles vont peut-être finir par accepter, mais elles vont prendre n'importe quel prétexte pour refuser le remboursement. Elles vont dire qu'il s'agit d'un soin de confort ou que le médicament n'a pas fait ses preuves ou alors qu'il y a un problème administratif, qu'il manque un papier dans le dossier. Donc, elles refusent de rembourser des soins, même si on paye chaque mois pour son assurance. »",
-                    "score": 95,
-                    "start": 391.767,
-                    "end": 431.562
-                },
-                {
-                    "titre": "Comment un meurtrier devient un héros ?",
-                    "extrait": "« En fait, ce qui est assez fou, c'est qu'aux Etats-Unis, tout le monde a une histoire avec le système de santé. Pas seulement les gens très pauvres, mais aussi les vendeurs de hot dogs comme les traders, tout le monde a une histoire. Et parmi les gens rassemblés ce jour-là, ils ont tous eu une mauvaise expérience un jour ou une autre avec les assurances en santé. Une personne qui s'est fait mordre par un chien, qui a fait un passage aux urgences et qui a payé 2000 dollars juste pour désinfecter la plaie. Une jeune femme qui a eu de l'eczéma et qui a dû débourser 3000 dollars pour payer sa crème et qui n'a pas été remboursée par les assurances parce que ça a été considéré comme un soin de confort. Et donc toutes ces personnes-là, elles avaient toute une expérience plus ou moins grave, mais en tout cas suffisante pour les mettre en colère et les conduire à soutenir un meurtrier. »",
-                    "score": 90,
-                    "start": 212.657,
-                    "end": 255.15
-                },
-                {
-                    "titre": "Le paradoxe de l'assurance santé aux États-Unis : pourquoi tant de dettes médicales ?",
-                    "extrait": "« Il faut savoir qu'il faut débourser entre 200 dollars et 600 dollars par mois pour pouvoir être assuré. Ces chiffres-là, ils reviennent souvent dans les témoignages que vous recueillez. Je paye entre 200, 400, 600 dollars par mois pour mon assurance privée. Et ces mêmes personnes vous disent, et pourtant, ce n'est pas une garantie que je vais être remboursée et couvert correctement en cas de pépin de santé. Grave ou pas grave. »",
-                    "score": 85,
-                    "start": 355.129,
-                    "end": 376.521
-                },
-                {
-                    "titre": "« Ce système n'est pas injuste, il y a des perdants et des gagnants » : un témoignage poignant",
-                    "extrait": "« Oui, donc Kiss il a renoncé à souscrire à une assurance car il en avait une au début de sa vie et il est tombé malade et on lui a demandé de payer tout de même, ce qu'on disait tout à l'heure qui arrive très régulièrement, donc à partir de ça il a décidé qu'il n'aurait plus d'assurance. et je lui demande comment il se sent par rapport à ce système et il me répond « Ce système n'est pas injuste, il y a des perdants et des gagnants et moi je fais partie des perdants. » »",
-                    "score": 92,
-                    "start": 924.653,
-                    "end": 950.624
-                },
-                {
-                    "titre": "La culture de la charité : une réponse à l'échec du système de santé américain ?",
-                    "extrait": "« Vous le disiez, il y a un système de solidarité, de charité qui est assez actif aux Etats-Unis et notamment à Nashville et qui n'est pas suffisant pour répondre aux besoins mais néanmoins qui existe. Vous dites dans votre article qu'il y a une vraie culture de la charité aux Etats-Unis et vous la voyez aussi auprès d'associations qui aident les personnes qui se sont surendettées pour payer leurs soins de santé. »",
-                    "score": 88,
-                    "start": 968.569,
-                    "end": 987.159
-                },
-                {
-                    "titre": "« Nous vivons dans une grande dictature » : la voix des manifestants en Roumanie",
-                    "extrait": "« Il ne s'agit plus de savoir qui se présente, mais de la démocratie, qui a été bafouée de toutes parts. D'une certaine manière, on montre directement aux gens que nous vivons dans une grande dictature, je veux dire, où sont les droits de l'homme ? »",
-                    "score": 94,
-                    "start": 1191.527,
-                    "end": 1203.805
-                },
-                {
-                    "titre": "La Roumanie face à la montée de l'extrême droite : un test pour la démocratie ?",
-                    "extrait": "« Est-ce que vous pouvez peut-être nous donner un aperçu de la situation dans la capitale aujourd'hui et ces derniers jours ? Est-ce que des manifestations ont encore eu lieu comme en début de semaine, ou bien est-ce qu'on assiste à un retour au calme depuis aujourd'hui ? »",
-                    "score": 87,
-                    "start": 1456.119,
-                    "end": 1469.275
-                }
-            ]
-        },
-        {
-            "title": "Thierry Collet, magicien : \"Fréquenter les illusions, c'est aussi un peu les déconstruire\"",
-            "id": "2e262940-6d1f-43a8-b875-b6285dcf50ba",
-            "show": "Le Point culture",
-            "show_id": "25d4eded-ef3f-4106-9cca-09a53f4794dc",
-            "chapo": "Au-delà du monde enfantin souvent associé à la magie, cet art se diversifie, avec plusieurs types de magies et de magiciens, l'adoption de nouvelles technologies, et un mélange avec le théâtre et la comédie.",
-            "magnetotheque_id": "2025C41196S0073",
-            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/le-point-culture/les-midis-de-culture-le-point-culture-emission-du-vendredi-14-mars-2025-3895030",
-            "mp3": "https://media.radiofrance-podcast.net/podcast09/21829-14.03.2025-ITEMA_24058936-2025C41196S0073-NET_MFC_DF0C5C98-6D64-43B9-9959-0E533C60C861-21.mp3",
-            "duration": 603,
-            "date": 1741953600,
-            "settings": [
-                "actu"
-            ],
-            "limit": 2,
-            "extraits": [
-                {
-                    "titre": "La magie à l'ère numérique : un nouveau territoire à explorer",
-                    "extrait": "Moi je suis toujours intéressé aux endroits dans notre monde actuel où il y avait du secret, il y avait de l'inconnu, il y avait une forme de magie quelque part, il y avait des choses qui étaient cachées. Et aujourd'hui notre dévotion, notre attache aux technologies numériques... Il y a quelque chose de l'idolâtrie aussi, c'est quand même des nouvelles divinités qui sont en même temps des oracles, qui nous prennent en charge, qui nous augmentent de pouvoir magique, de choses qu'on ne pouvait absolument pas faire avant, mais qui en même temps nous tiennent un peu en laisse. C'est en même temps un peu notre cordon ombilical. Donc je trouvais qu'il y avait un endroit un peu de caché. On ne sait pas très bien les limites de ce qui est possible et de ce qui ne l'est pas encore, de ce qu'on croit et de ce qu'on sait. On est proche de la science-fiction avec ses nouveaux outils. Donc pour moi, il y avait un territoire de magie à explorer.",
-                    "score": 95,
-                    "start": 211.897,
-                    "end": 260.694
-                },
-                {
-                    "titre": "Fréquenter les illusions pour mieux les déconstruire",
-                    "extrait": "Alors, ce n'est pas simple, parce que la magie, elle n'a pas été du tout inventée pour ça. La magie, elle a été inventée pour justement plutôt exercer le pouvoir et l'autorité. Oui, voire la manipulation ! Complètement. Il y a quelqu'un qui sait face à des gens qui ne savent pas comment ça marche. Et donc, ce savoir naît évidemment du pouvoir. Et moi, ça m'intéressait, sans forcément toujours dévoiler les trucs, mais que le public puisse identifier des mécanismes, plutôt ce qui se passe dans son propre cerveau, pour être peut-être un petit peu plus attentif aux illusions ou aux faux-semblants ou aux reflets qu'il y a dans le monde contemporain. Alors, est-ce qu'ingérer un peu de poison, c'est aussi fabriquer des anticorps, c'est la vaccination ? Donc, fréquenter les illusions et un peu les déconstruire, c'est aussi, sans doute, être capable de les regarder dans le monde réel ?",
-                    "score": 90,
-                    "start": 268.188,
-                    "end": 320.764
-                }
-            ]
-        },
-        {
-            "title": "Critique musique : Lady Gaga fait son grand retour avec \"MAYHEM\", un disque inégal qui déborde dans une surenchère pop",
-            "id": "b4c438dd-c7f8-4214-a2a4-5711f903b813",
-            "show": "Les Midis de Culture",
-            "show_id": "32a14af6-fc87-4f4f-a06e-39ccf8587119",
-            "chapo": "Les critiques discutent de \"MAYHEM\", le nouvel album de Lady Gaga qui revient aux sonorités pop des débuts de l'artiste et bat tous les records.",
-            "magnetotheque_id": "2025C51852S1073",
-            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/les-midis-de-culture/critique-musique-lady-gaga-fait-son-grand-retour-avec-mayhem-3010319",
-            "mp3": "https://media.radiofrance-podcast.net/podcast09/12360-14.03.2025-ITEMA_24058914-2025C51852S1073-NET_MFC_9D340C0E-6644-4384-A157-4177B93194E9-21.mp3",
-            "duration": 849,
-            "date": 1741950901,
-            "settings": [
-                "interview"
-            ],
-            "limit": 0,
-            "extraits": [
-                {
-                    "titre": "\"C'est un disque qui tente de vous donner des espèces de rushs immédiats, mais une fois que ça se dissipe, qu'est-ce qui reste ? La gueule de bois.\"",
-                    "extrait": "\"C'est un disque qui tente de vous donner des espèces de rushs immédiats, mais une fois que ça se dissipe, qu'est-ce qui reste ? La gueule de bois.\"",
-                    "score": 95,
-                    "start": 308.041,
-                    "end": 316.864
-                }
-            ]
-        },
-        {
-            "title": "Thomas Breda, le télétravail cinq ans après le Covid",
-            "id": "20fe17cf-a2b5-4bae-986e-8afea6a85188",
-            "show": "Comme personne",
-            "show_id": "b0bcc4ad-8a54-4af7-bd5a-adad6991447e",
-            "chapo": "Cinq ans après le premier confinement lié au Covid-19, le télétravail est bien ancré dans les habitudes des entreprises françaises. Thomas Breda, chercheur à l'École d'économie de Paris, s'intéresse aux répercussions de cette pratique.",
-            "magnetotheque_id": "2025C41179S0073",
-            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/comme-personne/thomas-breda-le-teletravail-5-ans-apres-le-covid-9136981",
-            "mp3": "https://media.radiofrance-podcast.net/podcast09/21662-14.03.2025-ITEMA_24058934-2025C41179S0073-NET_MFC_7089F432-8985-4FFE-B4CF-FBF02A255936-21.mp3",
-            "duration": 226,
-            "date": 1741933740,
-            "settings": [],
-            "limit": 0,
-            "extraits": [
-                {
-                    "titre": "Le télétravail : un choix ou une nécessité ?",
-                    "extrait": "Un cadre sur deux serait prêt à démissionner si son entreprise supprimait le télétravail, selon la dernière étude de l'APEC, l'Association pour l'Emploi des Cadres. Et pourtant, l'accès au télétravail reste toujours très inégalitaire.",
-                    "score": 85,
-                    "start": 133.918,
-                    "end": 147.346
-                },
-                {
-                    "titre": "Les inégalités du télétravail révélées !",
-                    "extrait": "Pour comparer, 80% des cadres qui peuvent télétravailler le font. Alors pour expliquer cette différence, Thomas Breda n'a pas trouvé de raison précise. Les recherches montrent pourtant que les employés sont favorables au travail à distance.",
-                    "score": 90,
-                    "start": 172.508,
-                    "end": 186.134
-                },
-                {
-                    "titre": "Le paradoxe du télétravail : liberté ou contrôle ?",
-                    "extrait": "Il peut y avoir cette idée que les cadres sont plus orientés dans leur vie en général vers le travail, que donc il n'y a pas besoin, moins besoin d'aller... surveiller ce qu'ils font, faire en sorte qu'ils travaillent effectivement, parce que ce sont des personnes qui vont le faire de manière plus autonome.",
-                    "score": 80,
-                    "start": 186.394,
-                    "end": 203.846
-                },
-                {
-                    "titre": "Le télétravail, un changement de paradigme ?",
-                    "extrait": "On a vu un changement quand même de paradigme assez important dans l'organisation du travail. Tout le monde s'est mis à travailler de cette manière-là. On s'est demandé si c'était durable.",
-                    "score": 75,
-                    "start": 95.103,
-                    "end": 104.345
-                },
-                {
-                    "titre": "Le télétravail, un luxe pour certains ?",
-                    "extrait": "L'accès au télétravail reste toujours très inégalitaire. Alors l'exemple, le plus grand exemple, c'est les employés de bureau. C'est des personnes qui passaient déjà dans les années 90 beaucoup de temps devant des ordinateurs, toutes les caractéristiques de métiers télétravaillables et donc le taux de télétravail pour ces métiers où on peut télétravailler reste assez limité.",
-                    "score": 85,
-                    "start": 143.604,
-                    "end": 165.863
                 }
             ]
         },
@@ -2724,31 +1801,6 @@
                     "score": 80,
                     "start": 1495.794,
                     "end": 1509.647
-                }
-            ]
-        },
-        {
-            "title": "Critique musique : \"choke enough\", premier album délicat et détaillé d'Oklou",
-            "id": "ab1f9d9d-19e8-43f5-bd20-4bfd573373e0",
-            "show": "Les Midis de Culture",
-            "show_id": "32a14af6-fc87-4f4f-a06e-39ccf8587119",
-            "chapo": " Les critiques discutent de \"choke enough\", premier album épuré de la musicienne française Oklou, nouvelle venue sur la scène de l'hyperpop sensible.",
-            "magnetotheque_id": "2025C51852S2073",
-            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/les-midis-de-culture/critique-musique-choke-enough-d-oklou-5099117",
-            "mp3": "https://media.radiofrance-podcast.net/podcast09/12360-14.03.2025-ITEMA_24058914-2025C51852S2073-NET_MFC_61C00AD3-E81C-4CD8-B6B8-5B1AA3942956-21.mp3",
-            "duration": 803,
-            "date": 1741951801,
-            "settings": [
-                "interview"
-            ],
-            "limit": 0,
-            "extraits": [
-                {
-                    "titre": "\"Elle nous emmène dans la forêt, dans des chemins détournés\"",
-                    "extrait": "\"Oui, Lady Gaga, c'est l'autoroute, ça marche, c'est pratique, c'est efficace, voilà, c'est la cocaïne, c'est le whisky coca pour réussir sa soirée et là, c'est autre chose, elle nous emmène dans la forêt, dans des chemins détournés, elle nous fait prendre la petite route qu'on ne connaissait pas, donc c'est vraiment cette sensation qu'on a quand on l'écoute.\"",
-                    "score": 95,
-                    "start": 391.25,
-                    "end": 409.14
                 }
             ]
         },
@@ -2913,38 +1965,6 @@
             ]
         },
         {
-            "title": "Aux États-Unis, les oubliés du système de santé",
-            "id": "382101cc-0f83-4a45-a02e-07b4ee02f9fd",
-            "show": "Cultures Monde",
-            "show_id": "2358bc00-3f62-11e5-8314-005056a87c89",
-            "chapo": "Le système médical états-unien est un système complexe et inégalitaire, où les pouvoirs publics et les assurances privées coexistent. Coline Renault est allée à la rencontre des habitants des États-Unis, dont certains renoncent à se faire soigner par peur de s'endetter. ",
-            "magnetotheque_id": "2025C16756S1073",
-            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/cultures-monde/aux-etats-unis-un-systeme-de-sante-a-bout-de-souffle-6422747",
-            "mp3": "https://media.radiofrance-podcast.net/podcast09/11701-14.03.2025-ITEMA_24058916-2025C16756S1073-NET_MFC_35192EA8-D367-4D19-8059-9FCE921DDF95-21.mp3",
-            "duration": 1185,
-            "date": 1741948201,
-            "settings": [
-                "savoirs"
-            ],
-            "limit": 0,
-            "extraits": [
-                {
-                    "titre": "« Stop denying, people are dying » : la colère face à un système de santé défaillant",
-                    "extrait": "« En fait, il y a deux niveaux de problèmes. Le premier problème, c'est qu'il y a 20% de personnes non-assurées aux Etats-Unis. Mais les personnes qui sont concernées par des dettes médicales, la plupart du temps, ont une assurance. Parce qu'aux Etats-Unis, les remboursements ne vont pas être systématiques et les assurances privées décident si elles vont ou non rembourser tel ou tel soin. Et plusieurs études ont montré que, par principe, elles refusent. Et après, si on monte un dossier, elles vont peut-être finir par accepter, mais elles vont prendre n'importe quel prétexte pour refuser le remboursement. Elles vont dire qu'il s'agit d'un soin de confort ou que le médicament n'a pas fait ses preuves ou alors qu'il y a un problème administratif, qu'il manque un papier dans le dossier. Donc, elles refusent de rembourser des soins, même si on paye chaque mois pour son assurance. »",
-                    "score": 95,
-                    "start": 391.92,
-                    "end": 431.706
-                },
-                {
-                    "titre": "Comment un jeune homme est devenu un héros pour la jeunesse américaine ?",
-                    "extrait": "« En fait, ce qui est assez fou, c'est qu'aux Etats-Unis, tout le monde a une histoire avec le système de santé. Pas seulement les gens très pauvres, mais aussi les vendeurs de hot dogs comme les traders, tout le monde a une histoire. Et parmi les gens rassemblés ce jour-là, ils ont tous eu une mauvaise expérience un jour ou une autre avec les assurances santé. Une personne qui s'est fait mordre par un chien, qui a fait un passage aux urgences et qui a payé 2000 dollars juste pour désinfecter la plaie. Une jeune femme qui a eu de l'eczéma et qui a dû débourser 3000 dollars pour payer sa crème et qui n'a pas été remboursée par les assurances parce que ça a été considéré comme un soin de confort. »",
-                    "score": 90,
-                    "start": 212.835,
-                    "end": 247.665
-                }
-            ]
-        },
-        {
             "title": "Tourmente et avalanche ",
             "id": "45647a84-c4bf-4c5b-afed-5aa52855cf66",
             "show": "LSD, la série documentaire",
@@ -3008,53 +2028,6 @@
                     "score": 90,
                     "start": 131.03,
                     "end": 135.638
-                }
-            ]
-        },
-        {
-            "title": "Carte blanche à Karine Tuil : Éprise de justice ",
-            "id": "2a273cef-05ce-4788-b44a-e163a0ee4ffd",
-            "show": "France Culture va plus loin (l'Invité(e) des Matins)",
-            "show_id": "7431a6a7-481b-11e5-9fe0-005056a87c89",
-            "chapo": "Pour cette carte blanche dédiée à Karine Tuil, l'écrivaine a décidé de réunir Dominique Simonnot, Claire Marin et Jean-Pierre Siméon en raison de leur investissement sur la question de la vulnérabilité propre à la condition humaine. ",
-            "magnetotheque_id": "2025C16450S0073",
-            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/france-culture-va-plus-loin-l-invite-e-des-matins/carte-blanche-a-karine-tuil-eprise-de-justice-2393715",
-            "mp3": "https://media.radiofrance-podcast.net/podcast09/13983-14.03.2025-ITEMA_24058920-2025C16450S0073-NET_MFC_98752E8F-AB61-421D-A45C-8B6FF43CADAF-21.mp3",
-            "duration": 2230,
-            "date": 1741938300,
-            "settings": [
-                "actu",
-                "interview"
-            ],
-            "limit": 0,
-            "extraits": [
-                {
-                    "titre": "La vulnérabilité, clé de la condition humaine ?",
-                    "extrait": "\"Oui, moi tous mes livres saisissent des êtres au moment où ils chutent, au moment où ils vacillent. Ce qui m'intéresse c'est vraiment la vulnérabilité de la condition humaine. Et dans mes livres, c'est vraiment ce point de fracture qui me hante.\"",
-                    "score": 90,
-                    "start": 72.093,
-                    "end": 87.739
-                },
-                {
-                    "titre": "Pourquoi la prison reste-t-elle un sujet tabou ?",
-                    "extrait": "\"Il a toujours regretté de ne pas avoir pu faire plus pour la prison. D'ailleurs, on en est toujours là. Tout le monde se moque de ce qui se passe en prison et c'est une énorme erreur. Parce que les détenus vont sortir et de la façon dont on les traite à l'intérieur dépendra la façon dont ils se conduisent à l'extérieur.\"",
-                    "score": 85,
-                    "start": 502.58,
-                    "end": 519.543
-                },
-                {
-                    "titre": "Comment la poésie peut-elle changer le monde ?",
-                    "extrait": "\"La poésie doit être au cœur de la pensée sociale, politique, au cœur de la communauté. Les poètes depuis toujours proposent une alternative d'existence et de choix, et on ne les écoute pas, on ne les prend pas au sérieux.\"",
-                    "score": 88,
-                    "start": 1150.714,
-                    "end": 1172.28
-                },
-                {
-                    "titre": "L'amour, une lutte contre la perte ?",
-                    "extrait": "\"Tout amour est un vœu de vie intense menacé par sa perte et sa fragilité.\"",
-                    "score": 92,
-                    "start": 1962.31,
-                    "end": 1967.796
                 }
             ]
         },
@@ -3191,32 +2164,6 @@
             ]
         },
         {
-            "title": "Canada : réparation et guérison, les pistes de la justice autochtone",
-            "id": "9bf521d9-8f41-48de-a6ca-909e7081ce8a",
-            "show": "Les Enjeux internationaux",
-            "show_id": "481f078d-4810-11e5-9fe0-005056a87c89",
-            "chapo": "Aujourd’hui, dans les enjeux internationaux, cap sur un pays pionnier en matière de justice restauratrice : le Canada. La justice réparatrice occupe en effet une place particulière dans le système pénal canadien - bien qu’elle demeure marginale face à une justice traditionnelle encore dominante.",
-            "magnetotheque_id": "2025C3305S0073",
-            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/les-enjeux-internationaux/canada-reparation-et-guerison-les-pistes-de-la-justice-autochtone-4537697",
-            "mp3": "https://media.radiofrance-podcast.net/podcast09/13305-14.03.2025-ITEMA_24058896-2025C3305S0073-NET_MFC_7E258896-956C-4345-9F7B-6B7215325984-21.mp3",
-            "duration": 814,
-            "date": 1741931520,
-            "settings": [
-                "actu",
-                "interview"
-            ],
-            "limit": 0,
-            "extraits": [
-                {
-                    "titre": "« La punition n'aide pas, la réparation est essentielle »",
-                    "extrait": "« Au contraire, moi, je pense que dans les crimes sexuels, des crimes graves, la punition n'aide pas. Et je pense qu'on confond souvent punir et protéger. Donc, évidemment, quelqu'un qui est un agresseur sexuel doit être mis à l'écart, non pas pour le punir, mais pour essayer de voir comment cette personne-là peut se reconstruire, guérir, se transformer, etc. »",
-                    "score": 95,
-                    "start": 452.38,
-                    "end": 478.571
-                }
-            ]
-        },
-        {
             "title": "Comment a été vécu le confinement ? Quelles ont été les conséquences matérielles et sociales ?",
             "id": "ffb18b8c-47bd-4977-b1b3-da317edf162f",
             "show": "Carnets de santé",
@@ -3285,38 +2232,6 @@
                     "score": 90,
                     "start": 1236.755,
                     "end": 1257.305
-                }
-            ]
-        },
-        {
-            "title": "Dernier voyage",
-            "id": "efc320fe-18a2-4a68-8d0a-88c032b03ffe",
-            "show": "Lectures du soir",
-            "show_id": "ee7280ad-40f6-11e5-9fe0-005056a87c89",
-            "chapo": "\"Je sens un calme infini descendre dans le trouble de mon âme lasse. Ma légèreté vient de moi-même, du poids d’un jour brûlant enfin soulevé et de la douceur de l’ombre naissante sur mes paupières desséchées. Heureux celui qui peut se griser de sa seule pensée.\"",
-            "magnetotheque_id": "2025C17591E0030",
-            "seo_url": "",
-            "mp3": "https://media.radiofrance-podcast.net/podcast09/12024-14.03.2025-ITEMA_24058912-2025C17591E0030-ITE_00147408_RSCE-21.mp3",
-            "duration": 1205,
-            "date": 1741985784,
-            "settings": [
-                "interview"
-            ],
-            "limit": 0,
-            "extraits": [
-                {
-                    "titre": "« Être seule, c'est être libre »",
-                    "extrait": "« Être seule, c'est être libre, et la liberté était le seul bonheur nécessaire à ma nature. »",
-                    "score": 95,
-                    "start": 681.92,
-                    "end": 686.423
-                },
-                {
-                    "titre": "« Heureux celui qui peut se griser de sa seule pensée »",
-                    "extrait": "« Heureux celui qui peut se griser de sa seule pensée et qui sait éthériser par la chaleur de son âme tous les rayons de l'univers. »",
-                    "score": 90,
-                    "start": 609.638,
-                    "end": 617.382
                 }
             ]
         },
@@ -3448,45 +2363,6 @@
                     "score": 90,
                     "start": 339.226,
                     "end": 352.25
-                }
-            ]
-        },
-        {
-            "title": "Critique musique : \"MAYHEM\" de Lady Gaga & \"choke enough\" de Oklou",
-            "id": "2df14ce9-32ca-468c-9b0c-f6bd1d288c52",
-            "show": "Les Midis de Culture",
-            "show_id": "32a14af6-fc87-4f4f-a06e-39ccf8587119",
-            "chapo": " Au programme du débat critique, de la musique, avec deux nouveaux albums entre pop et électro, \"MAYHEM\" de Lady Gaga et \"choke enough\" de Oklou.",
-            "magnetotheque_id": "2025C51852S0073",
-            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/les-midis-de-culture/critique-musique-mayhem-de-lady-gaga-choke-enough-de-oklou-4221466",
-            "mp3": "https://media.radiofrance-podcast.net/podcast09/12360-14.03.2025-ITEMA_24058914-2025C51852S0073-NET_MFC_153DEE92-D017-4F59-AB52-3AAFAD3C42FE-21.mp3",
-            "duration": 1652,
-            "date": 1741951725,
-            "settings": [
-                "interview"
-            ],
-            "limit": 0,
-            "extraits": [
-                {
-                    "titre": "« C'est un disque qui tente de vous donner des espèces de rush immédiats, mais qu'est-ce qui reste ? »",
-                    "extrait": "« Mais une fois que ça se dissipe, qu'est-ce qui reste ? La gueule de bois. Une gueule de bois. C'est un peu ça que j'ai eu cette impression-là. »",
-                    "score": 90,
-                    "start": 314.143,
-                    "end": 321.086
-                },
-                {
-                    "titre": "« Lady Gaga, c'est l'autoroute, ça marche, c'est pratique, c'est efficace »",
-                    "extrait": "« Oui, Lady Gaga c'est l'autoroute, ça marche, c'est pratique, c'est efficace, voilà c'est la cocaïne, c'est le whisky coca pour réussir sa soirée et là c'est autre chose, elle nous emmène dans la forêt, dans des chemins détournés. »",
-                    "score": 95,
-                    "start": 1240.248,
-                    "end": 1258.136
-                },
-                {
-                    "titre": "« Oklou, c'est la musique amniotique »",
-                    "extrait": "« Moi j'ai appelé ça la musique amniotique, il y a vraiment quelque chose, on est dans une bulle, en suspension, et tout à coup, tout semble aller bien, ce qui est assez agréable en ce moment, il faut le reconnaître, c'est assez rare. »",
-                    "score": 85,
-                    "start": 976.544,
-                    "end": 991.672
                 }
             ]
         },
@@ -3799,267 +2675,6 @@
                     "score": 94,
                     "start": 2299.137,
                     "end": 2341.411
-                }
-            ]
-        },
-        {
-            "title": "USAID : sans l'aide internationale américaine, la menace de recrudescence de la tuberculose plane",
-            "id": "87a057ff-76a1-4ac1-ba21-c6b50cbe8e5b",
-            "show": "La Revue de presse internationale",
-            "show_id": "bd43a733-4811-11e5-9fe0-005056a87c89",
-            "chapo": "Le gel des versements américains aux programmes de lutte contre la tuberculose met en danger des \"millions de vies\", selon l'OMS. Les premiers effets se font déjà sentir dans de nombreux pays. ",
-            "magnetotheque_id": "2025C22811S0073",
-            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/la-revue-de-presse-internationale/la-revue-de-presse-internationale-emission-du-vendredi-14-mars-2025-3528729",
-            "mp3": "https://media.radiofrance-podcast.net/podcast09/10901-14.03.2025-ITEMA_24058909-2025C22811S0073-NET_MFC_6D86C38C-BE24-42FE-92B7-F17F40744175-21.mp3",
-            "duration": 308,
-            "date": 1741934520,
-            "settings": [
-                "actu"
-            ],
-            "limit": 0,
-            "extraits": [
-                {
-                    "titre": "« Des millions de vies en danger à cause d'un gel d'aide »",
-                    "extrait": "Le gel des versements américains aux programmes de lutte contre la tuberculose met en danger des \"millions de vies\", selon l'OMS. Les premiers effets se font déjà sentir dans de nombreux pays.",
-                    "score": 95,
-                    "start": 94.669,
-                    "end": 108.618
-                },
-                {
-                    "titre": "« La tuberculose : un fléau qui revient en force »",
-                    "extrait": "L'arrêt des médicaments en cours de traitement augmente considérablement le risque de résistance de la tuberculose aux médicaments, insiste la BBC. Les efforts déployés à l'échelle mondiale pour lutter contre la tuberculose qui a tué 1 250 000 personnes en 2023 ont permis de sauver plus de 79 millions de vies au cours des deux dernières décennies.",
-                    "score": 90,
-                    "start": 86.703,
-                    "end": 108.618
-                },
-                {
-                    "titre": "« Les États-Unis : un quart de l'aide mondiale contre la tuberculose »",
-                    "extrait": "Selon l'OMS, les Etats-Unis ont fourni un quart du montant total de l'aide internationale pour lutter contre la tuberculose chaque année. Mais le gel de cette aide américaine menace clairement ses avancées, alerte l'Organisation mondiale pour la santé.",
-                    "score": 88,
-                    "start": 109.178,
-                    "end": 122.881
-                },
-                {
-                    "titre": "« La liberté d'expression en danger aux États-Unis »",
-                    "extrait": "Depuis samedi, de nombreuses manifestations de soutien s'organisent aux Etats-Unis pour défendre la liberté d'expression, car son arrestation viole les protections du premier amendement.",
-                    "score": 85,
-                    "start": 206.254,
-                    "end": 219.804
-                },
-                {
-                    "titre": "« Une arrestation qui soulève des questions sur la liberté d'expression »",
-                    "extrait": "Aucune charge n'est retenue contre lui, mais l'administration Trump l'accuse d'être liée au Hamas et a invoqué une loi rarement utilisée pour entamer une procédure d'expulsion.",
-                    "score": 82,
-                    "start": 158.007,
-                    "end": 168.155
-                },
-                {
-                    "titre": "« Une manipulation immorale des symboles juifs »",
-                    "extrait": "Une manipulation par le président américain des symboles juifs et hébreux immorales et historiquement irresponsables, estime-t-elle.",
-                    "score": 80,
-                    "start": 294.101,
-                    "end": 300.662
-                }
-            ]
-        },
-        {
-            "title": "Michel Siffre, un voyageur dans le temps",
-            "id": "a7120b9f-0953-4766-9f8a-a748caaf2a3b",
-            "show": "Sciences chrono",
-            "show_id": "117ba5cb-7234-4a65-b5a6-c5995d5fa9d6",
-            "chapo": "En 1962, le spéléologue Michel Siffre descend dans un gouffre à 130 mètres de profondeur pour réaliser une expérience d’isolement qui a fait date dans l’histoire de la chronobiologie. Comment cette aventure nous a-t-elle permis de mieux comprendre notre horloge biologique et les rythmes circadiens ?",
-            "magnetotheque_id": "2025C51809S0073",
-            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/sciences-chrono/michel-siffre-un-voyageur-dans-le-temps-8155040",
-            "mp3": "https://media.radiofrance-podcast.net/podcast09/24469-14.03.2025-ITEMA_24058921-2025C51809S0073-NET_MFC_62937817-0E5B-45D6-8874-4427CCE1D259-21.mp3",
-            "duration": 3517,
-            "date": 1741967925,
-            "settings": [
-                "savoirs"
-            ],
-            "limit": 0,
-            "extraits": [
-                {
-                    "titre": "Comment Michel Siffre a défié le temps ?",
-                    "extrait": "« Eh bien, je vais rester pendant 1000 ou 1500 heures au fond d'un gouffre sur un glacier souterrain, dans des conditions climatiques dures, avec moins degrés et 100% d'humidité. »",
-                    "score": 95,
-                    "start": 142.515,
-                    "end": 153.923
-                },
-                {
-                    "titre": "La découverte d'une horloge biologique interne",
-                    "extrait": "« Ce qu'on ne savait pas c'est est-ce que ce rythme veille-sommeil, notre habitude de nous coucher à peu près à la même heure et de nous lever à la même heure, est-ce que c'est lié à l'environnement lumineux par exemple ? »",
-                    "score": 90,
-                    "start": 381.231,
-                    "end": 403.21
-                },
-                {
-                    "titre": "La perception du temps : un phénomène troublant",
-                    "extrait": "« Dès le premier jour, je n'ai plus aucune notion de l'heure, bien que j'essaie de me repérer en fonction de ma faim. »",
-                    "score": 92,
-                    "start": 1019.212,
-                    "end": 1023.456
-                },
-                {
-                    "titre": "Les effets surprenants de l'isolement sur le corps",
-                    "extrait": "« Tous les impacts que Michel Siffre a révélés, ce sont maintenant ce qu'on appelle des effets sanitaires de la désynchronisation de notre horloge biologique et des effets sanitaires de la dette de sommeil. »",
-                    "score": 88,
-                    "start": 1121.181,
-                    "end": 1130.142
-                },
-                {
-                    "titre": "L'expérience qui a changé notre compréhension du sommeil",
-                    "extrait": "« Michel Siffre a montré que non, ce n'est pas le cas. Lui, il a vieilli, évidemment, mais sa période n'a pas changé. »",
-                    "score": 87,
-                    "start": 1707.696,
-                    "end": 1714.098
-                },
-                {
-                    "titre": "La musique comme échappatoire dans l'isolement",
-                    "extrait": "« Tu sais Michel ? Tu écoutais dix fois de suite le même disque de Luis Mariano et lui il disait « mais moi je ne me souvenais pas que je venais tout juste de l'écouter ». »",
-                    "score": 85,
-                    "start": 1139.329,
-                    "end": 1160.842
-                },
-                {
-                    "titre": "L'héritage de Michel Siffre : un pionnier de la chronobiologie",
-                    "extrait": "« Michel Siffre a confirmé ce phénomène. Il y avait quelques études aussi en Allemagne par un collègue chronobiologiste qui s'appelait Jürgen Aschoff et Weaver, qui était un de ses collaborateurs, qui avait aussi montré des périodicités un peu de ce type. »",
-                    "score": 89,
-                    "start": 1450.526,
-                    "end": 1465.89
-                }
-            ]
-        },
-        {
-            "title": "Synchronisation des cerveaux : branchés sur la même fréquence",
-            "id": "2065e9c7-89e7-4fd0-8f53-b3d993270620",
-            "show": "La Science, CQFD",
-            "show_id": "dc59bf2c-a3f5-48b0-bd13-f7258761d52c",
-            "chapo": "L’activité des cerveaux d’individus peut se synchroniser lors d’une interaction, comme le toucher affectif chez un couple. Les mécanismes sous-jacents à ce phénomène restent encore méconnus. Comment la technique de l’hyperscanning permet-elle d’étudier cette synchronie ? Comment l'interpréter ? ",
-            "magnetotheque_id": "2025C48906S0072",
-            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/la-science-cqfd/synchronisation-des-cerveaux-8248254",
-            "mp3": "https://media.radiofrance-podcast.net/podcast09/23118-13.03.2025-ITEMA_24057247-2025C48906S0072-NET_MFC_AF9C9B44-4F68-46C9-A3B4-4831A49D9115-21.mp3",
-            "duration": 3530,
-            "date": 1741881525,
-            "settings": [
-                "savoirs"
-            ],
-            "limit": 0,
-            "extraits": [
-                {
-                    "titre": "Comment nos cerveaux se synchronisent-ils ?",
-                    "extrait": "Plus on passe de temps avec quelqu'un, plus on va avoir des expériences communes et plus nos activités cérébrales vont se ressembler. Et le degré d'intimité va moduler cette synchronie. Lorsque vous vous sentez sur la même longueur d'onde avec un ami, vous ne croyez pas si bien dire. C'est cette synchronisation intercérébrale encore mystérieuse qui est étudiée par la science multiserveaux.",
-                    "score": 90,
-                    "start": 28.439,
-                    "end": 53.312
-                },
-                {
-                    "titre": "La télépathie, mythe ou réalité ?",
-                    "extrait": "Depuis qu'on a observé ces synchronisations intercérébrales, malheureusement, ça a souvent été le raccourci qui a été pris par beaucoup de gens de croire qu'on parlait de télépathie. Il y a même un article en 1965 dans Science qui avait prétendu avoir démontré la télépathie entre deux jumeaux.",
-                    "score": 85,
-                    "start": 336.005,
-                    "end": 359.19
-                },
-                {
-                    "titre": "La douleur peut-elle être atténuée par la synchronisation ?",
-                    "extrait": "Il est possible de synchroniser sa respiration, son rythme cardiaque, mais aussi ses ondes cérébrales avec un compagnon qui souffre, on lui tient la main. Et cette étude montre que plus on est synchronisé avec les ondes cérébrales de l'autre, plus le degré d'empathie est fort pour l'autre. Et puis ensuite, cette forte synchronisation diminue aussi la douleur.",
-                    "score": 88,
-                    "start": 714.424,
-                    "end": 732.418
-                },
-                {
-                    "titre": "Pourquoi l'hyperscanning révolutionne-t-il les neurosciences ?",
-                    "extrait": "C'est-à-dire que jusqu'à encore maintenant, en majeure partie en neurosciences, on enregistre un seul cerveau à la fois. Et en 2002, on a Reid Montagu qui a proposé le terme « hyperscanning », de dire « si on a suffisamment d'argent pour avoir deux IRM », plutôt que scanner un seul cerveau, on peut scanner deux cerveaux.",
-                    "score": 92,
-                    "start": 1749.223,
-                    "end": 1769.794
-                },
-                {
-                    "titre": "Les interactions sociales altérées par la technologie ?",
-                    "extrait": "Particulièrement la vidéoconférence, parce qu'il y a des temps incompressibles de traitement de l'information vidéo, etc., ça passe par Internet, etc., et du coup, ça crée des délais. Donc, on a montré que, justement, via la vidéoconférence, notre capacité à se synchroniser, à s'aligner dans un dialogue est atténuée.",
-                    "score": 87,
-                    "start": 3046.697,
-                    "end": 3074.518
-                },
-                {
-                    "titre": "La cognition sociale, un phénomène à deux ?",
-                    "extrait": "Il faut amener ces interactions dans le laboratoire. Et la place de l'enregistrement multiserveau là-dedans, c'est un des outils parmi tant d'autres, pour comprendre qu'est-ce qui se passe sur le plan neurophysiologique, quand il y a ces synchronisations interpersonnelles et quels sont les potentiels mécanismes qui sous-tendent notre cognition sociale quand on est en contexte interactif.",
-                    "score": 89,
-                    "start": 1216.57,
-                    "end": 1246.822
-                },
-                {
-                    "titre": "L'impact des interactions sociales sur notre cerveau",
-                    "extrait": "Il y a une plus-value à étudier les individus en groupe parce que beaucoup de nos activités quotidiennes qui au final sont celles que nous voulons comprendre sont des activités de groupe. Le dialogue, toutes les activités, c'est très rare que nous fassions des choses seuls ou en ne pensant pas à d'autres personnes.",
-                    "score": 90,
-                    "start": 1036.531,
-                    "end": 1054.874
-                }
-            ]
-        },
-        {
-            "title": "Sous l’Océan avec Laure Limongi   ",
-            "id": "288d0970-70ae-4441-95ac-3087f9ab49f4",
-            "show": "Le Book Club",
-            "show_id": "9919a6d4-3da2-4dd9-8103-77cef065f78d",
-            "chapo": "Aujourd’hui, plongée dans un voyage futuriste au cœur des abysses. En 2123, la terre est devenue invivable : le vivant s’est réfugié sous les mers. Pour son dernier ouvrage, \"L'Invention de la mer\", notre invitée Laure Limongi signe un texte hybride entre littérature, science, poésie et politique. ",
-            "magnetotheque_id": "2025C49162S0072",
-            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/le-book-club/sous-l-ocean-avec-laure-limongi-1311360",
-            "mp3": "https://media.radiofrance-podcast.net/podcast09/23875-13.03.2025-ITEMA_24057248-2025C49162S0072-NET_MFC_E6FB0099-F264-4806-A1E9-CB0E5D6370AF-21.mp3",
-            "duration": 3508,
-            "date": 1741877925,
-            "settings": [
-                "interview"
-            ],
-            "limit": 0,
-            "extraits": [
-                {
-                    "titre": "Comment la littérature peut-elle guérir ?",
-                    "extrait": "« Je préviens souvent que le trouble, je risque de l’accentuer, qu’il peut y avoir des effets inflammatoires inédits. Voilà, c’est pour ça que clairement, c’est une démarche artistique et pas médicale. Mais quand même, je pense que c’est aussi un retour personnel. Je pense que la littérature vraiment fait bouger des choses. »",
-                    "score": 90,
-                    "start": 379.772,
-                    "end": 398.774
-                },
-                {
-                    "titre": "La puissance de la lecture dans nos vies",
-                    "extrait": "« Je pense que pour écrire, il faut être aussi un immense lecteur amoureux et se nourrir de ça. En tout cas, dans ma pratique, je sais qu’à chaque fois que je peux avoir un moment de découragement ou quoi que ce soit, lire un livre où il y a une langue, où il y a vraiment un projet qui va m’intéresser derrière, ça me redonne une énergie folle. »",
-                    "score": 85,
-                    "start": 807.297,
-                    "end": 827.134
-                },
-                {
-                    "titre": "Pourquoi la rencontre avec l'autre est essentielle ?",
-                    "extrait": "« Violetta se moque un peu des obsos humains qui ont peur ne serait-ce que des migrants alors que pour elle le fait que des gens se déplacent c’est tellement naturel que c’est absurde par rapport à quelqu’un qui vient d’ailleurs. Ça n’a absolument pas de sens pour elle et de fait ça n’a pas de sens du tout. »",
-                    "score": 88,
-                    "start": 2560.799,
-                    "end": 2574.911
-                },
-                {
-                    "titre": "La littérature comme levier de transformation",
-                    "extrait": "« Évidemment, l’art et la littérature, c’est totalement ça. C’est aussi pour ça que j’aime enseigner. Moi, j’enseigne la création littéraire avec des jeunes gens à l’École nationale supérieure d’art de Cergy. Et c’est génial de voir à quel point chacun, chacune peut développer des mondes et peut inventer des possibilités. »",
-                    "score": 92,
-                    "start": 2868.42,
-                    "end": 2887.25
-                },
-                {
-                    "titre": "La lecture, un acte de résistance ?",
-                    "extrait": "« Je pense que parfois, et c’est aussi cette omniprésence de l’image, et à travers l’image du commerce, de quelque chose qui est lié vers le fait de l’achat permanent, de se projeter dans des choses irréalistes, irréelles, irréalistes, qui nous coupent un peu trop de cette expérience simple de l’accès à l’histoire, que ce soit par le livre, par le récit, par le conte, etc. »",
-                    "score": 87,
-                    "start": 1668.294,
-                    "end": 1688.018
-                },
-                {
-                    "titre": "Comment la douleur peut-elle transformer ?",
-                    "extrait": "« Einar était en train de devenir tout ce qu’il haïssait. Il disait qu’il fallait reprendre aux périlleux ce qu’ils nous volaient. Il disait qu’il fallait les détruire, systématiquement, sur l’eau, afin que plus jamais ils n’osent s’en approcher. »",
-                    "score": 90,
-                    "start": 1988.765,
-                    "end": 2010.459
-                },
-                {
-                    "titre": "La littérature, un espace de liberté ?",
-                    "extrait": "« Je pense que si on veut inventer des choses comme ça, il faut un peu s’abstraire de tout cela. Et laisser un peu son intuition porter. Justement, d’où le fait que moi, je sois davantage nourrie par de la théorie, par exemple. Parce que ça m’aide à être un petit peu... Branché à vous, à votre imaginaire. »",
-                    "score": 89,
-                    "start": 2946.944,
-                    "end": 2963.46
                 }
             ]
         },
@@ -4656,45 +3271,6 @@
             ]
         },
         {
-            "title": "La gloire de mon père de Marcel Pagnol 5/5",
-            "id": "f387acdd-fcb5-4f24-8486-d6ecc3b6db88",
-            "show": "Le Feuilleton",
-            "show_id": "3c1c2e55-41a0-11e5-9fe0-005056a87c89",
-            "chapo": ".",
-            "magnetotheque_id": "2022C3480E0005",
-            "seo_url": "",
-            "mp3": "https://media.radiofrance-podcast.net/podcast09/13023-08.04.2022-ITEMA_22989153-2022C3480E0005-ITE_00123289_RSCE-21.mp3",
-            "duration": 1727,
-            "date": 1741984125,
-            "settings": [
-                "interview"
-            ],
-            "limit": 0,
-            "extraits": [
-                {
-                    "titre": "« Il est permis de mentir aux enfants lorsque c'est pour leur bien. »",
-                    "extrait": "« Il est permis de mentir aux enfants lorsque c'est pour leur bien. Il répéta, ne l'oublie pas. »",
-                    "score": 90,
-                    "start": 287.205,
-                    "end": 295.829
-                },
-                {
-                    "titre": "Comment la mémoire des souvenirs reste-t-elle intacte malgré le temps ?",
-                    "extrait": "« Il y a une chose remarquable, quand on vieillit, on perd la mémoire. Mais ça ne veut pas dire qu'on perd les souvenirs. Au contraire, on perd la capacité d'acquérir de nouveaux souvenirs. Mais ceux qui sont inscrits, ils sont bien plus proches que jamais. »",
-                    "score": 85,
-                    "start": 0.612,
-                    "end": 19.188
-                },
-                {
-                    "titre": "« Je n'ai jamais demandé à y aller. L'ouverture, ce n'est pas pour les enfants. »",
-                    "extrait": "« Je n'ai jamais demandé à y aller. L'ouverture, ce n'est pas pour les enfants. Tu es un grand menteur. J'ai entendu tout ce que vous avez dit et tout ce que tu as pleuré. »",
-                    "score": 80,
-                    "start": 371.663,
-                    "end": 381.628
-                }
-            ]
-        },
-        {
             "title": "Covid 19 : des anticorps bispécifiques efficaces contre tous les variants ?",
             "id": "2f93e9d5-30e6-490d-802c-8133f3f7ddaa",
             "show": "Avec sciences",
@@ -4721,45 +3297,6 @@
                     "extrait": "Ce qui est très encourageant, c'est montrer que on est capable de synthétiser et de produire des anticorps monoclonaux bispécifiques. D'une part, ça, il fallait réussir à le faire et il fallait le prouver. Et deuxièmement, que ces anticorps bispécifiques, effectivement, sont très efficaces sur un large panel de variants du SARS-CoV-2. Donc ça ouvre une porte... au développement d'un outil type anticorps monoclonal qui marche sur un large panel et qui est moins rapidement obsolète.",
                     "start": 246.492,
                     "end": 276.879
-                }
-            ]
-        },
-        {
-            "title": "Faire résonner nos silences ",
-            "id": "ed7fd5ab-9f59-4534-8d43-f4f1d823c565",
-            "show": "Questions du soir : l'idée",
-            "show_id": "18d2d677-e679-453c-aec9-76ddef22ddb4",
-            "chapo": "Nos silences sont multiples : ils apaisent, protègent, enferment ou oppressent. Dans « Nos silences », Laurence Joseph explore leur place dans nos vies, du silence choisi à celui imposé, et interroge ce qu’ils disent de nous et de la société.",
-            "magnetotheque_id": "2025C53458S0073",
-            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-l-idee/faire-resonner-nos-silences-7184585",
-            "mp3": "https://media.radiofrance-podcast.net/podcast09/25343-14.03.2025-ITEMA_24058928-2025C53458S0073-NET_MFC_28D10691-05DB-4762-A50B-80D44B4B1CD5-21.mp3",
-            "duration": 1525,
-            "date": 1741976925,
-            "settings": [
-                "savoirs"
-            ],
-            "limit": 0,
-            "extraits": [
-                {
-                    "titre": "Le silence, un espace de contemplation",
-                    "extrait": "L'histoire sémantique du silence, c'est le latin sileo, qui nous amène dans une région de contemplation, être là, se poser tranquillement. C'est presque une modalité de l'être qui peut faire penser à la nature morte, à la nature contemplative. C'est quelque chose qui a à voir le silence avec le mouvement ou c'est autour du roman quelque chose qui est totalement figé, qui fige ne serait-ce que la parole et les êtres ?",
-                    "score": 90,
-                    "start": 99.779,
-                    "end": 124.154
-                },
-                {
-                    "titre": "Le silence, un acte de résistance",
-                    "extrait": "Souffre en silence. Je pense aussi, évidemment, à ce qu'on dit souvent aux femmes. Souffre en silence. Je pense qu'il y a beaucoup cette idée que le silence, c'est quelque chose qui va aussi nous permettre de dépasser certains obstacles, de tenir, c'est la persévérance, c'est l'endurance. Pour moi, en Gérona, c'est vraiment la figure des résistants. Et j'ai beaucoup pensé à la résistance et à tous les peuples en résistance, qui justement endurent en silence, mais ça ne veut pas dire qu'il n'y a aucune action de l'autre côté et que parfois on endure en silence pour une noble cause.",
-                    "score": 95,
-                    "start": 561.415,
-                    "end": 599.595
-                },
-                {
-                    "titre": "Le pouvoir caché du silence",
-                    "extrait": "Je l'ai trouvé très troublant ce terme-là, ce terme choisi, celui d'efficacité. Cette efficacité, on la lit aussi à la mythologie, avec cette idée que le silence pouvait toujours sauver le soleil, ce que je trouve assez magnifique. Et en Gérona, justement, c'est celle qui, au moment où on l'a faite, les jours vont s'allonger, le soleil va reprendre son pouvoir petit à petit et nous sortir de la brume. L'efficacité du silence, on peut la transposer de manière métaphorique en disant que c'est elle qui va permettre de produire les mots, qui va venir ensuite dans les textes nous éclairer, nous guider.",
-                    "score": 92,
-                    "start": 681.005,
-                    "end": 722.912
                 }
             ]
         },
@@ -4979,45 +3516,6 @@
                     "score": 85,
                     "start": 582.589,
                     "end": 597.925
-                }
-            ]
-        },
-        {
-            "title": "Daniel, Éléonore, Lætitia et l’écrivain",
-            "id": "833e8681-230f-4bd4-87a4-61d5cf408b88",
-            "show": "Les Pieds sur terre",
-            "show_id": "beb83c10-402c-11e5-8314-005056a87c89",
-            "chapo": "Devant la télé, Daniel voit sa compagne, présentatrice d’une émission, tomber amoureuse en direct de l’écrivain célèbre qu’elle interviewe. Elle le quitte bientôt pour le romancier. Un soir, il guette l’arrivée de celui-ci, planqué dans l’ombre avec l’intention de le tuer.",
-            "magnetotheque_id": "2025C6612S0072",
-            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/les-pieds-sur-terre/daniel-eleonore-laetitia-et-l-ecrivain-9213740",
-            "mp3": "https://media.radiofrance-podcast.net/podcast09/23117-13.03.2025-ITEMA_24057245-2025C6612S0072-NET_MFC_F4A7148C-9610-4DD4-A53C-5DD83D17AFB2-21.mp3",
-            "duration": 1705,
-            "date": 1741870725,
-            "settings": [
-                "temoignage"
-            ],
-            "limit": 0,
-            "extraits": [
-                {
-                    "titre": "Comment la jalousie peut mener à des pensées sombres ?",
-                    "extrait": "« Je deviens complètement fou avec tout ça. Je deviens complètement fou, c'est-à-dire que je ne pouvais pas concevoir, moins qu'on puisse sacrifier une histoire avec un bébé de 11 mois, donc maintenant à cette époque, sous prétexte qu'on avait découvert la passion absolue. Surtout avec un con. C'est inconcevable. »",
-                    "score": 90,
-                    "start": 552.178,
-                    "end": 572.913
-                },
-                {
-                    "titre": "La rencontre inattendue qui a tout changé",
-                    "extrait": "« Et là, en le voyant, je me dis un truc immédiatement. Ce mec-là, c'est pas possible qu'il soit le beau-père de ma fille. C'est la première chose qui me revient. Et là, je me souviens lui avoir lâché cette phrase « Vous ne respirerez jamais le même air que ma fille. » »",
-                    "score": 85,
-                    "start": 718.08,
-                    "end": 733.988
-                },
-                {
-                    "titre": "Une décision qui aurait pu tout changer",
-                    "extrait": "« Et je me suis dit, comme il empruntait systématiquement toujours le même chemin, dès qu'il passe derrière l'arbre, je lui balance ça sur la tête, avec un élan par derrière. Et là, je reçois un SMS d'Eléonore qui me dit « Peux-tu prendre du lait pour le petit ? Ça va être l'heure du bidon. » »",
-                    "score": 95,
-                    "start": 1041.827,
-                    "end": 1060.017
                 }
             ]
         },
@@ -5344,46 +3842,6 @@
             ]
         },
         {
-            "title": "Gahugu Gato (Petit pays) ",
-            "id": "25364898-96e1-4d13-90f4-55f8d020ebac",
-            "show": "À voix nue",
-            "show_id": "b4534f1d-40f8-11e5-9fe0-005056a87c89",
-            "chapo": "« Gahugu Gato » comme « petit pays » en kinyarwanda, la langue du Rwanda, pour parler du pays où il vit désormais et auquel est consacré son deuxième roman, « Jacaranda ». ",
-            "magnetotheque_id": "2025C3500E0030",
-            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/a-voix-nue/gahugu-gato-petit-pays-8433622",
-            "mp3": "https://media.radiofrance-podcast.net/podcast09/10351-09.03.2025-ITEMA_24052257-2025C3500E0030-ITE_00148101_RSCE-21.mp3",
-            "duration": 1727,
-            "date": 1741978724,
-            "settings": [
-                "interview",
-                "temoignage"
-            ],
-            "limit": 0,
-            "extraits": [
-                {
-                    "titre": "« Le génocide est une marée noire »",
-                    "extrait": "« Le génocide, c'est 100 jours. Mais ces 100 jours-là ont décidé ensuite de l'existence de... D'une partie de l'humanité, au Rwanda en tout cas, vont façonner l'existence non seulement des gens qui ont vécu, mais des gens qui viendront après. »",
-                    "score": 95,
-                    "start": 137.864,
-                    "end": 161.402
-                },
-                {
-                    "titre": "« On n'a pas le luxe de ne pas y penser »",
-                    "extrait": "« On n'a pas le luxe de ne pas y penser. Et encore, moi qui ne suis pas survivant ou survivante, je peux passer des jours, des semaines, sans peut-être trop y penser. Lorsqu'on est survivant ou survivante, on n'a pas ce luxe-là, on vit, on vit avec le génocide en permanence. »",
-                    "score": 90,
-                    "start": 463.962,
-                    "end": 487.897
-                },
-                {
-                    "titre": "« La vie déborde de beauté »",
-                    "extrait": "« Mon moteur, c'est le soleil. Mon moteur, c'est la lumière. Et d'ailleurs, c'est ce que je remarque chez les survivants et les survivantes. Tous ces gens qui ont vécu le pire, ce sont souvent des êtres très lumineux qui m'apportent, moi... beaucoup de vitalité, d'entrain. »",
-                    "score": 92,
-                    "start": 1305.361,
-                    "end": 1351.596
-                }
-            ]
-        },
-        {
             "title": "Faut-il traiter la Russie de Poutine comme notre pire ennemi ?",
             "id": "55eb76c7-7d74-4bf3-8656-8ddac467f458",
             "show": "L'Esprit public",
@@ -5511,31 +3969,6 @@
                     "score": 89,
                     "start": 3078.008,
                     "end": 3087.718
-                }
-            ]
-        },
-        {
-            "title": "Découverte de nouveaux outils préhistoriques standardisés en os ",
-            "id": "a3398d94-c580-4167-b52b-94d74f96f38a",
-            "show": "Avec sciences",
-            "show_id": "741f4a16-597e-4952-8578-348b2f8307ca",
-            "chapo": "Dans une nouvelle publication parue dans Nature, des scientifiques rapportent la découverte d'outils préhistoriques standardisés en os. Cela repousse d'un million d'années l’usage systématique de ce matériau par le genre Homo.",
-            "magnetotheque_id": "2025C26620S0073",
-            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/avec-sciences/decouverte-de-nouveaux-outils-prehistoriques-standardises-en-os-3550106",
-            "mp3": "https://media.radiofrance-podcast.net/podcast09/21421-14.03.2025-ITEMA_24058933-2025C26620S0073-NET_MFC_5BEC20A9-1070-4FEE-9E55-A6072A19C6A6-21.mp3",
-            "duration": 327,
-            "date": 1741931820,
-            "settings": [
-                "savoirs"
-            ],
-            "limit": 1,
-            "extraits": [
-                {
-                    "titre": "Comment les outils en os révèlent l'ingéniosité de nos ancêtres ?",
-                    "extrait": "\"Il y a eu très peu d'intérêt au fil du temps sur l'utilisation de l'os à des fins technologiques et lorsqu'on utilise les nouvelles méthodes qui ont été développées au fil des dernières années, on se rend compte que l'utilisation de l'os est beaucoup plus importante que ce que l'on imaginait auparavant. D'où l'importance de regarder de revisiter des séries fouillées anciennement pour voir si on n'avait pas passé à côté d'outils qui sont intéressants lorsqu'on aborde des questions sur l'évolution culturelle au sein de notre lignée.\"",
-                    "score": 95,
-                    "start": 61.369,
-                    "end": 102.837
                 }
             ]
         }
