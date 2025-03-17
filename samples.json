@@ -1,6 +1,6 @@
 {
-    "date": "Mis à jour le 17/03/2025 à 21:55",
-    "unix": 1742244911,
+    "date": "Mis à jour le 17/03/2025 à 22:08",
+    "unix": 1742245694,
     "shows": [
         {
             "title": "Critique BD : \"Billy Lavigne\" d'Anthony Pastor, \"Bouquet de peur\" de Nando Van Arb & \"Le retour\" d'Antoine Cossé",
@@ -3700,6 +3700,38 @@
                     "score": 88,
                     "start": 1694.616,
                     "end": 1708.345
+                }
+            ]
+        },
+        {
+            "title": "Hier nous avons vendu notre maison ",
+            "id": "849e2543-e482-4110-bcd7-a53d10f6ed89",
+            "show": "Lectures du soir",
+            "show_id": "ee7280ad-40f6-11e5-9fe0-005056a87c89",
+            "chapo": "\"Mon art lui-même était autrefois une chose pour laquelle je ne pouvais rien, sans doute ai-je apporté entretemps ma part au développement de la plante, mais la graine était tout de même là sans que j’eusse rien fait\"",
+            "magnetotheque_id": "2025C17591E0036",
+            "seo_url": "",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/12024-17.03.2025-ITEMA_24061392-2025C17591E0036-ITE_00147635_RSCE-21.mp3",
+            "duration": 1270,
+            "date": 1742245046,
+            "settings": [
+                "interview"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "« Mon art lui-même n'était autrefois qu'une chose pour laquelle je ne pouvais rien »",
+                    "extrait": "« Mon art lui-même n'était autrefois qu'une chose pour laquelle je ne pouvais rien. Sans doute ai-je apporté entre-temps ma part au développement de la plante, mais la graine était tout de même là, sans que j’eusse rien fait. »",
+                    "score": 95,
+                    "start": 472.006,
+                    "end": 486.335
+                },
+                {
+                    "titre": "Pourquoi choisir entre l'art et la vie ?",
+                    "extrait": "« Mais n'y a-t-il que les réalisations personnelles qui nous comblent et nous rendent heureux ? Quelqu'un a prétendu que ce sont justement nos meilleurs talents qui nous tombent du ciel sans que nous les méritions. »",
+                    "score": 90,
+                    "start": 456.845,
+                    "end": 468.169
                 }
             ]
         },
