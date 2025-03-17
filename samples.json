@@ -1,6 +1,6 @@
 {
-    "date": "Mis à jour le 17/03/2025 à 11:14",
-    "unix": 1742206484,
+    "date": "Mis à jour le 17/03/2025 à 11:27",
+    "unix": 1742207263,
     "shows": [
         {
             "title": "Le roquefort, on adore !",
@@ -2141,6 +2141,66 @@
                     "score": 92,
                     "start": 3269.728,
                     "end": 3277.85
+                }
+            ]
+        },
+        {
+            "title": "Aux sources du libéralisme",
+            "id": "aa365edf-febb-4418-b83f-a25cb027e72d",
+            "show": "Avec philosophie",
+            "show_id": "744d0dc6-dacc-4d71-a22c-af97eec7a56e",
+            "chapo": "John Locke, Adam Smith, Benjamin Constant et John Stuart Mill sont considérés comme les fondateurs de la pensée libérale. Leurs divergences et les nuances au sein même de leurs théories indiquent que le libéralisme n'est pas une philosophie homogène. Mais quelles étaient vraiment leurs thèses ?",
+            "magnetotheque_id": "2025C48904S0076",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/avec-philosophie/aux-sources-du-liberalisme-2401780",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/23118-17.03.2025-ITEMA_24061407-2025C48904S0076-NET_MFC_2C8FCEE5-A7A9-4DF1-862F-F66825C38744-21.mp3",
+            "duration": 3494,
+            "date": 1742205525,
+            "settings": [
+                "savoirs"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "Pourquoi le libéralisme n'est pas synonyme de démocratie ?",
+                    "extrait": "L'enjeu fondamental des libéraux, même par rapport à certains démocrates qui diront plus tard la volonté populaire, souveraine peut tout ce qu'elle veut, les libéraux continueront de dire que ce soit un peuple souverain ou une assemblée souveraine, peu importe, il faut limiter ce pouvoir, il y a des droits premiers à ne pas entraver.",
+                    "score": 90,
+                    "start": 431.631,
+                    "end": 453.196
+                },
+                {
+                    "titre": "La liberté moderne : un nouveau défi ?",
+                    "extrait": "Nous ne pouvons plus jouir de la liberté des anciens qui se composait de la participation active et constante au pouvoir collectif. Notre liberté à nous doit se composer de la jouissance paisible de l'indépendance privée.",
+                    "score": 85,
+                    "start": 2574.381,
+                    "end": 2590.459
+                },
+                {
+                    "titre": "John Locke : le libéral révolutionnaire ?",
+                    "extrait": "Locke n'est pas simplement ce libéral bontain, un peu bourgeois, défenseur de la liberté et surtout de la propriété privée, mais aussi de la limitation du pouvoir politique.",
+                    "score": 88,
+                    "start": 627.866,
+                    "end": 636.894
+                },
+                {
+                    "titre": "La résistance à la tyrannie : un droit fondamental ?",
+                    "extrait": "La dissolution du gouvernement est en fait une justification du droit de résistance à la tyrannie, ce qui en fait est un appel à la révolution, à la prise d'armes.",
+                    "score": 92,
+                    "start": 643.519,
+                    "end": 652.483
+                },
+                {
+                    "titre": "Adam Smith : l'égoïsme peut-il être altruiste ?",
+                    "extrait": "Aussi égoïste que l'homme puisse être supposé, il y a évidemment certains principes dans sa nature qui le conduisent à s'intéresser à la fortune des autres et qui lui rendent nécessaire leur bonheur, quoiqu'ils n'en retirent rien d'autre que le plaisir de les voir heureux.",
+                    "score": 87,
+                    "start": 1726.785,
+                    "end": 1743.832
+                },
+                {
+                    "titre": "La société civile face à l'État : un équilibre précaire ?",
+                    "extrait": "Cette société civile, par exemple, si j'anticipe un peu sur Adam Smith, dont on va parler, je crois, tout à l'heure, c'est le produit, si on suit les analyses de Smith et d'autres philosophes, notamment écossais, mais pas uniquement, c'est le produit d'un développement de l'histoire, en fait, c'est-à-dire... comment dire, une division du travail, un degré développé de développement d'une société parvenue à un haut degré de division du travail, du travail social et du travail économique.",
+                    "score": 89,
+                    "start": 1554.016,
+                    "end": 1599.914
                 }
             ]
         },
