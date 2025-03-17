@@ -1,6 +1,6 @@
 {
-    "date": "Mis à jour le 17/03/2025 à 14:00",
-    "unix": 1742216404,
+    "date": "Mis à jour le 17/03/2025 à 14:14",
+    "unix": 1742217258,
     "shows": [
         {
             "title": "Quand la musique concrète fêtait ses 50 ans 1/5 : Pierre Schaeffer, esprit pionnier de la musique concrète",
@@ -2343,6 +2343,45 @@
             ]
         },
         {
+            "title": "LES PIEDS SUR TERRE, émission du lundi 17 mars 2025",
+            "id": "6e741ce4-c2ee-407c-b426-00f66a7164b3",
+            "show": "Les Pieds sur terre",
+            "show_id": "beb83c10-402c-11e5-8314-005056a87c89",
+            "chapo": "",
+            "magnetotheque_id": "2025C6612S0076",
+            "seo_url": "",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/10078-17.03.2025-ITEMA_24061396-2025C6612S0076-NET_MFC_6F429D81-1902-437C-A32F-BEB1EDEBFEB4-21.mp3",
+            "duration": 1841,
+            "date": 1742216325,
+            "settings": [
+                "temoignage"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "Comment le bac est devenu un sésame pour certains et un combat pour d'autres ?",
+                    "extrait": "Dans les milieux favorisés et chez les bons élèves, le baccalauréat semble être devenu une formalité. Les étudiants sont recrutés sur dossier bien avant de connaître les notes du bac. On se soucie un peu de la mention, mais avec un taux de réussite globale de 91,4%, toutes filières confondues, ça ne serait plus vraiment un enjeu. En réalité, pourtant, dans les milieux populaires ou pour les élèves les plus fragiles ou encore ceux qui sont empêchés, c'est une toute autre histoire. En dessous de chez moi, par exemple, il y a, comme on dit, une boîte à bac. Les parents de tous les milieux se saignent aux quatre veines pour y envoyer leurs enfants. Et chaque 4 à 5 juillet, c'est la même scène que je vois depuis ma fenêtre, sur le trottoir où les résultats sont affichés. Il y a ceux qui baissent la tête en silence et repartent une boule au ventre. Celles et ceux qui hurlent « je l'ai », dont les cris transpercent toute la rue. Il y a des pleurs, il y a des parents dignes, mais émus, et moi aussi comme une gourde, chaque année depuis ma fenêtre.",
+                    "score": 95,
+                    "start": 6.895,
+                    "end": 75.607
+                },
+                {
+                    "titre": "\"Vous m'avez dit que je n'étais pas capable, que je n'irai pas loin dans la vie. Vous êtes trompé sur mon compte.\"",
+                    "extrait": "Voilà, j'ai fondu en larmes. Trois, quatre heures après, j'avais encore le diplôme dans les mains. Et mes enfants m'ont grande pleurer. « Maman, tu peux être fière. » Puis de voir la fierté dans les yeux de ces enfants, c'est... C'est très touchant, parce qu'ils ne savent pas par quoi on est passé, on ne leur dit pas tout. J'ai repensé à tous ces moments difficiles, plus jeunes. Ah mais là, vous voyez là, je l'ai eu en fait. Vous m'avez dit que je n'étais pas capable, que je n'irai pas loin dans la vie. Vous êtes trompé sur mon compte, finalement, je n'étais pas si bête que ça.",
+                    "score": 90,
+                    "start": 928.715,
+                    "end": 965.54
+                },
+                {
+                    "titre": "Pourquoi passer le bac à 50 ans est plus qu'un simple diplôme ?",
+                    "extrait": "Je pense que j'étais plus fière de ce bac-là, le bac agricole, que pour le bac C que j'ai eu à 18 ans. Celui-là, je l'avais vraiment choisi. Et puis, je savais aussi, maintenant, on allait me prendre au sérieux, grâce au bac. Mais la voie que je suis en train de prendre, ce n'est pas du tout une voie facile. Je me prépare à diminuer mes revenus de façon assez conséquente. Je n'ai pas un mari, je n'ai pas un héritage. ça va être un boulot très physique et j'ai 50 pieds j'ai un corps aussi de cet âge là donc une fois que j'y serai ce ne sera pas du luxe de temps en temps je me pose encore des questions et puis je suis là-bas et les doutes ils s'évaporent je pense que c'est la meilleure décision que j'ai prise de ma vie.",
+                    "score": 92,
+                    "start": 1631.02,
+                    "end": 1683.228
+                }
+            ]
+        },
+        {
             "title": "Faut-il traiter la Russie de Poutine comme notre pire ennemi ? /  Economie de guerre : qui doit se serrer le ceinturon ?",
             "id": "8b2d57fb-74b9-4c23-a1bf-4446cb25e1c9",
             "show": "L'Esprit public",
@@ -3015,6 +3054,45 @@
                     "score": 93,
                     "start": 3198.735,
                     "end": 3221.508
+                }
+            ]
+        },
+        {
+            "title": "Marina Foïs en volcanologue passionnée dans \"Magma\" ",
+            "id": "eddceef4-1212-4efe-a7c3-c96aa15e8772",
+            "show": "Les Midis de Culture",
+            "show_id": "32a14af6-fc87-4f4f-a06e-39ccf8587119",
+            "chapo": "Actrice entière qui aime s'abandonner aux rôles qu'elle incarne et jouer pour le plaisir du jeu, Marina Foïs se glisse dans la peau de Katia, une volcanologue passionnée qui se hisse sur les collines de la Soufrière dans \"Magma\" réalisé par Cyprien Vial. ",
+            "magnetotheque_id": "2025C51852S3076",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/les-midis-de-culture/marina-fois-en-volcanologue-passionnee-dans-magma-2147189",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/12360-17.03.2025-ITEMA_24061394-2025C51852S3076-NET_MFC_57A45DB8-F417-4EAA-8BE9-D098BEA6B2BD-21.mp3",
+            "duration": 1723,
+            "date": 1742214525,
+            "settings": [
+                "interview"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "« La catastrophe, c'est l'assurance d'une fin annoncée »",
+                    "extrait": "« Franchement d'abord parce que c'est très divertissant et spectaculaire. Évidemment, c'est une façon de sublimer nos peurs, l'assurance d'une fin annoncée. C'est aussi l'idée d'un bouleversement qui pourrait faire naître un mieux après la catastrophe. »",
+                    "score": 95,
+                    "start": 24.351,
+                    "end": 35.878
+                },
+                {
+                    "titre": "« La justice, c'est la société qui produit les monstres »",
+                    "extrait": "« Je ne peux pas complètement tout à fait me défaire de l'histoire qu'on me raconte je peux être ni victime ni coupable et pourtant être concernée parce que c'est quand même la société qui produit les monstres et qui produit les crimes et qui fait que certains dérapent. »",
+                    "score": 90,
+                    "start": 161.908,
+                    "end": 219.86
+                },
+                {
+                    "titre": "« Le pouvoir, ça rend con »",
+                    "extrait": "« Le pouvoir, ça rend con, l'argent, ça rend con. Oui, mais le cahier des charges de l'actrice, il n'est pas pire que n'importe qui d'autre à d'autres places de la société. »",
+                    "score": 85,
+                    "start": 1407.203,
+                    "end": 1416.606
                 }
             ]
         },
