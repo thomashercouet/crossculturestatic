@@ -1,6 +1,6 @@
 {
-    "date": "Mis à jour le 17/03/2025 à 10:09",
-    "unix": 1742202572,
+    "date": "Mis à jour le 17/03/2025 à 10:24",
+    "unix": 1742203451,
     "shows": [
         {
             "title": "Le roquefort, on adore !",
@@ -3355,6 +3355,73 @@
                     "score": 88,
                     "start": 1655.441,
                     "end": 1667.752
+                }
+            ]
+        },
+        {
+            "title": "Quand un viking fonde la Normandie, Rollon à fond la caisse",
+            "id": "8fa4a301-332e-439e-ab10-69645ae070bc",
+            "show": "Le Cours de l'histoire",
+            "show_id": "0a41bdd2-4a6d-4fb2-b2d1-ca42d2dc5381",
+            "chapo": "Le traité de Saint-Clair-sur-Epte est conclu par le roi Charles le Simple et Rollon en 911. Considéré comme l’acte de naissance de la Normandie, il s’inscrit en réalité dans une longue histoire de contacts et d’affrontements. Comment les vikings scandinaves se sont-ils intégrés dans le monde franc ?",
+            "magnetotheque_id": "2025C36128S0076",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/quand-un-viking-fonde-la-normandie-rollon-a-fond-la-caisse-7705347",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/10076-17.03.2025-ITEMA_24061381-2025C36128S0076-NET_MFC_726B0BEB-55B3-410F-BD61-ADCE94788A59-21.mp3",
+            "duration": 3508,
+            "date": 1742201925,
+            "settings": [
+                "savoirs"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "Comment Rollon a fondé la Normandie ?",
+                    "extrait": "Rollon eut un soir une étrange vision. Rollon ! Tu veux boire un autre gobelet ? Cet effigie, le doigt pointé vers la terre conquise au fil de l'épée, et arraché en 911 au roi de France, c'est celle de Rollon, premier duc de Normandie. Alors en l'an 911, il se décide Rollon. Voici le pays qui m'était promis, je veux vivre sur cette terre.",
+                    "score": 95,
+                    "start": 30.187,
+                    "end": 54.172
+                },
+                {
+                    "titre": "Les Vikings : des envahisseurs ou des commerçants ?",
+                    "extrait": "Alors, un viking, d'abord, première chose, je crois qu'il faut éviter une erreur qu'on retrouve souvent, c'est que les vikings, ce n'est pas un peuple. Les vikings, ça désigne à l'origine des Scandinaves qui sont partis loin de chez eux à la recherche de la richesse par le biais du commerce, par le biais de la piraterie, en exigeant des tribus, qui sont des guerriers et des marchands qui vont en expédition viking.",
+                    "score": 90,
+                    "start": 329.665,
+                    "end": 366.301
+                },
+                {
+                    "titre": "Pourquoi les Vikings ont-ils envahi la France ?",
+                    "extrait": "Les raisons du mouvement viking elles sont très très compliquées, il n'y a pas une seule cause simple mais il y a un faisceau de raisons qui tiennent à l'essor des échanges entre les pays riverains des mers septentrionales qui tiennent également à l'évolution du monde scandinave.",
+                    "score": 88,
+                    "start": 240.523,
+                    "end": 270.595
+                },
+                {
+                    "titre": "Le traité de Saint-Clair-sur-Epte : un tournant historique",
+                    "extrait": "Le roi voulut lui donner la terre de Flandre, mais Rollon refusa en raison des difficultés causées par les marécages. Le roi s'engagea à lui donner la Bretagne, l'imitrophe de la terre promise. Robert et Francon revinrent apporter cela à Rollon et le conduisirent auprès du roi Charles dans le respect de la foi chrétienne.",
+                    "score": 92,
+                    "start": 2383.099,
+                    "end": 2403.065
+                },
+                {
+                    "titre": "Comment Rollon a-t-il changé son nom ?",
+                    "extrait": "Et Rollon qui prend comme nom de baptême Robert, le nom de son parrain. Alors ça, ce qui est intéressant, c'est que ça on le sait non seulement par Rollon, par Dudon, excusez-moi, mais on le sait également par un document qui est autonome de Dudon de Saint-Quentin, qui est une charte en faveur de l'abbaye de Saint-Denis.",
+                    "score": 85,
+                    "start": 2305.394,
+                    "end": 2340.267
+                },
+                {
+                    "titre": "Les Vikings : des pirates à des agriculteurs ?",
+                    "extrait": "Alors, il est probable qu'il y ait eu un certain nombre de paysans qui se soient installés parmi les vikings. Également, on a conservé dans le français régional de la Normandie un certain nombre de mots qui ont une origine noroise, alors qu'ils sont intéressants parce qu'on a environ 150 mots qui sont passés de la langue noroise vers la langue Doyle.",
+                    "score": 87,
+                    "start": 3155.202,
+                    "end": 3188.787
+                },
+                {
+                    "titre": "La Normandie : un héritage scandinave méconnu",
+                    "extrait": "Non, alors, c'est souvent une grande surprise, notamment quand on reçoit des étudiants, par exemple, ou du public, qui recherchent des objets vikings en Normandie, ben non, il y en a très peu. Qu'est-ce qu'on a ? On a récupéré un certain nombre d'armes, quelques armes dans la scène, des épées, des haches par exemple.",
+                    "score": 89,
+                    "start": 1771.191,
+                    "end": 1794.457
                 }
             ]
         },
