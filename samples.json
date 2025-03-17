@@ -1,6 +1,6 @@
 {
-    "date": "Mis à jour le 17/03/2025 à 19:06",
-    "unix": 1742234770,
+    "date": "Mis à jour le 17/03/2025 à 19:19",
+    "unix": 1742235557,
     "shows": [
         {
             "title": "Critique BD : \"Billy Lavigne\" d'Anthony Pastor, \"Bouquet de peur\" de Nando Van Arb & \"Le retour\" d'Antoine Cossé",
@@ -615,6 +615,52 @@
                     "score": 85,
                     "start": 274.393,
                     "end": 303.872
+                }
+            ]
+        },
+        {
+            "title": "Dans la guerre commerciale, l’Europe peut-elle faire plier Trump ?",
+            "id": "cceb9d7e-0a68-4a38-93fb-1e9160177c4a",
+            "show": "Questions du soir : le débat",
+            "show_id": "df67029c-4820-4a4b-83df-6c2c88bb5840",
+            "chapo": "Donald Trump lance une guerre économique entre les États-Unis et l’Europe. Face aux menaces de taxes et aux incertitudes du commerce mondial, l’Union européenne doit définir sa réponse pour défendre ses intérêts sans risquer une escalade commerciale.  ",
+            "magnetotheque_id": "2025C36267S0076",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/l-europe-peut-elle-faire-plier-trump-economiquement-4042565",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/18722-17.03.2025-ITEMA_24061370-2025C36267S0076-NET_MFC_096B955B-D1AE-43EC-BC39-E106E603E534-21.mp3",
+            "duration": 2265,
+            "date": 1742234325,
+            "settings": [
+                "actu"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "Comment l'Europe peut-elle faire plier Trump ?",
+                    "extrait": "« économiquement l'Europe a une carte à jouer mais elle a trop souvent peur de sa propre force. »",
+                    "score": 85,
+                    "start": 166.337,
+                    "end": 182.849
+                },
+                {
+                    "titre": "Les droits de douane, un poison pour l'économie",
+                    "extrait": "« Les droits de douane sont des taxes. Ils sont mauvais pour les entreprises et pires pour les consommateurs. »",
+                    "score": 90,
+                    "start": 126.6,
+                    "end": 133.826
+                },
+                {
+                    "titre": "L'Allemagne, le pays protecteur devenu disruptif",
+                    "extrait": "« le pays protecteur devient le pays disrupteur... L'Allemagne qui conduisait l'Europe est en panade. »",
+                    "score": 88,
+                    "start": 574.345,
+                    "end": 586.135
+                },
+                {
+                    "titre": "Une guerre commerciale, un rêve pour la Chine ?",
+                    "extrait": "« C'est le rêve absolu de la Chine qui se produit actuellement. »",
+                    "score": 92,
+                    "start": 1011.051,
+                    "end": 1015.492
                 }
             ]
         },
