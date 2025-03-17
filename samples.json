@@ -1,6 +1,6 @@
 {
-    "date": "Mis à jour le 17/03/2025 à 19:32",
-    "unix": 1742236329,
+    "date": "Mis à jour le 17/03/2025 à 19:45",
+    "unix": 1742237123,
     "shows": [
         {
             "title": "Critique BD : \"Billy Lavigne\" d'Anthony Pastor, \"Bouquet de peur\" de Nando Van Arb & \"Le retour\" d'Antoine Cossé",
@@ -802,6 +802,45 @@
                     "score": 92,
                     "start": 652.599,
                     "end": 664.465
+                }
+            ]
+        },
+        {
+            "title": "Ce que l'on sait de l'emballement climatique",
+            "id": "bdbdf036-17c8-4f79-b46d-339584339725",
+            "show": "Questions du soir : l'idée",
+            "show_id": "18d2d677-e679-453c-aec9-76ddef22ddb4",
+            "chapo": "Comment faire face aux enjeux climatiques quand les connaissances scientifiques peinent à irriguer les débats publics et politiques ? Le chercheur Nathanaël Wallenhorst interroge la place des savoirs sur la biosphère et leur capacité à structurer une réponse collective aux défis de l’Anthropocène.",
+            "magnetotheque_id": "2025C53458S0076",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-l-idee/ce-que-l-on-sait-de-l-emballement-climatique-7498028",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/25344-17.03.2025-ITEMA_24061412-2025C53458S0076-NET_MFC_0075E332-999C-449D-9A56-B9265C0ACA2E-21.mp3",
+            "duration": 1525,
+            "date": 1742236125,
+            "settings": [
+                "savoirs"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "« La science est notre ennemi, c'est le signe d'un régime totalitaire »",
+                    "extrait": "« Dès l'instant où vous identifiez que l'université, la science, la recherche, c'est votre ennemi, c'est la marque très clairement d'un régime totalitaire, et vous rentrez dans l'obscurantisme, et on a des conséquences... »",
+                    "score": 95,
+                    "start": 55.464,
+                    "end": 70.016
+                },
+                {
+                    "titre": "« Demain n'est pas dans le prolongement d'aujourd'hui » : la clé pour comprendre le changement climatique",
+                    "extrait": "« C'est une franche et nette éducation scientifique qui permette de comprendre réellement le paradigme, la logique qui donne tout son sens aujourd'hui à la production des savoirs scientifiques contemporains, qu'est la rupture. « Demain n'est pas dans le prolongement d'aujourd'hui ». »",
+                    "score": 90,
+                    "start": 242.127,
+                    "end": 259.223
+                },
+                {
+                    "titre": "« Système de survie » : pourquoi le terme 'environnement' est obsolète",
+                    "extrait": "« Pensez donc à trois cercles concentriques, le grand cercle à l'extérieur et l'environnement. Essayez maintenant d'imaginer comment continuer à vivre si l'environnement se dégrade... C'est pourquoi j'aime dire aux gens de ne pas utiliser le mot environnement. Utilisez plutôt le mot système de survie, car c'est bien de cela qu'il s'agit et notre existence en dépend. »",
+                    "score": 92,
+                    "start": 1050.544,
+                    "end": 1081.304
                 }
             ]
         },
