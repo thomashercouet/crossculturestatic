@@ -1,6 +1,6 @@
 {
-    "date": "Mis à jour le 17/03/2025 à 11:01",
-    "unix": 1742205693,
+    "date": "Mis à jour le 17/03/2025 à 11:14",
+    "unix": 1742206484,
     "shows": [
         {
             "title": "Le roquefort, on adore !",
@@ -2777,6 +2777,48 @@
                     "score": 88,
                     "start": 1326.578,
                     "end": 1339.232
+                }
+            ]
+        },
+        {
+            "title": "Comment définir la précision ?",
+            "id": "2b7f9e34-18c8-430b-a85c-817862f83e60",
+            "show": "Le Pourquoi du comment : philo  ",
+            "show_id": "b6bd068b-da10-4d88-8d15-f0e1c87ed34b",
+            "chapo": "Selon Bergson, la philosophie manque de précision. Que signifie cette critique ? Qu’est-ce que la précision et pourquoi est-elle essentielle ? Permet-elle d’atteindre la vérité ? Une prédiction peut-elle être précise ? Cette chronique explore le rôle et les limites de la précision dans notre pensée.",
+            "magnetotheque_id": "2025C45539E0041",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/le-pourquoi-du-comment-philo/comment-definir-la-precision-3944016",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/22838-17.03.2025-ITEMA_24061418-2025C45539E0041-NET_MFC_BD1670CB-1C8C-451C-BD15-295C0BC7DB65-21.mp3",
+            "duration": 235,
+            "date": 1742205533,
+            "settings": [
+                "savoirs"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "Pourquoi la précision est-elle essentielle dans notre vie ?",
+                    "extrait": "La précision est peut-être un enjeu majeur de la vie humaine dans tous les domaines. Et on a raison de se référer à cette phrase célèbre qui ouvre le dernier livre d'Henri Bergson, « La pensée et le mouvant », qui est une injonction à la philosophie et peut-être à la vie humaine en général. « Ce qui a le plus manqué à la philosophie, dit-il ». C'est la précision. Et il ouvre tout le recueil de toute sa pensée dans la pensée et le mouvant par cette exigence qui s'étend peut-être aujourd'hui à tous les domaines, y compris à la politique et à la morale des êtres humains, y compris face aux dangers les plus graves du moment, cette exigence de penser et d'agir avec précision.",
+                    "start": 45.104,
+                    "end": 83.941
+                },
+                {
+                    "titre": "La vérité vs la précision : quelle est la différence ?",
+                    "extrait": "La précision, c'est la concordance précise avec un objet singulier. C'est la concordance de mon énoncé, non pas avec l'objet en général, mais avec l'objet singulier, l'objet qui fait preuve, en quelque sorte, par sa singularité. Ainsi, il y a aujourd'hui des controverses sur la vérité. Il y a des hommes politiques même qui mettent en doute la notion de vérité, qui jouent avec la notion de vérité. C'est extrêmement dangereux. En revanche, la précision, on ne joue pas avec. La précision fait preuve.",
+                    "start": 130.013,
+                    "end": 160.388
+                },
+                {
+                    "titre": "Comment la précision renforce notre confiance dans la science ?",
+                    "extrait": "La confiance dans la science passe par ce qu'on appelle aussi la précision de ses prédictions. Et on a confiance dans une mécanique, les mécaniques qu'on appelle des mécaniques de précision... Si elles atteignent précisément le but qu'il faut, parfois un but de vie et de mort, comme dans des outils chirurgicaux extrêmement précis. Et d'ailleurs, la chirurgie est une image de la précision. Il ne faut pas se tromper d'organe, c'est à des millimètres près.",
+                    "start": 186.963,
+                    "end": 211.298
+                },
+                {
+                    "titre": "La précision : un lien vital avec le réel",
+                    "extrait": "Ainsi, la précision, peut-être même plus que la vérité, nous relie au réel, nous empêche de nous tromper, au sens aussi de nous mentir et rétablit la confiance entre les êtres humains.",
+                    "start": 222.024,
+                    "end": 232.587
                 }
             ]
         },
