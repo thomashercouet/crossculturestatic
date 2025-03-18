@@ -1,7 +1,39 @@
 {
-    "date": "Mis à jour le 18/03/2025 à 12:29",
-    "unix": 1742297375,
+    "date": "Mis à jour le 18/03/2025 à 13:43",
+    "unix": 1742301782,
     "shows": [
+        {
+            "title": "Critique littérature : \"La ligne\" d'Aharon Appelfeld",
+            "id": "c6777376-2a8d-4e8f-bcb8-9319e006826f",
+            "show": "Les Midis de Culture",
+            "show_id": "32a14af6-fc87-4f4f-a06e-39ccf8587119",
+            "chapo": "Les critiques discutent de \"La ligne\", un roman écrit et publié par Aharon Appelfeld en Israël en 1991 qui vient seulement de paraître en France, et raconte l'errance d'un jeune garçon juif en Europe après la Shoah.",
+            "magnetotheque_id": "2025C51852S1077",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/les-midis-de-culture/critique-litterature-la-ligne-d-aharon-appelfeld-2924298",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/12360-18.03.2025-ITEMA_24062631-2025C51852S1077-NET_MFC_833C653F-6B0D-472A-A19B-6341B59D38F0-21.mp3",
+            "duration": 1008,
+            "date": 1742296501,
+            "settings": [
+                "interview"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "« L'écriture m'a arraché aux profondeurs du désespoir »",
+                    "extrait": "Aharon Appelfeld confiait volontiers que l'écriture l'avait arraché aux profondeurs du désespoir. Lui qui était né juif en 1932 en Roumanie et qui, à dix ans après s'être évadé d'un camp nazi, a dû vivre seul pendant trois ans. Il traversera l'Europe aux côtés de l'armée rouge après 1945 avant d'embarquer pour Israël. Cette errance, on la retrouve dans ce nouveau livre.",
+                    "score": 95,
+                    "start": 73.745,
+                    "end": 95.522
+                },
+                {
+                    "titre": "Comment la mémoire façonne notre identité ?",
+                    "extrait": "Ce qui est très beau dans ce roman-là, mais qu'il a beaucoup traité par ailleurs, c'est sur la mémoire, c'est-à-dire qu'est-ce qu'on garde, qu'est-ce qui fait trace quand la moitié, enfin les trois quarts, 90% de la population a été exterminée. Et donc il fait de son narrateur, qui est quand même un peu son double, il s'appelle Erwin, c'est toujours un peu lui, mais pas lui, c'est un espèce de double de l'auteur.",
+                    "score": 90,
+                    "start": 565.773,
+                    "end": 584.116
+                }
+            ]
+        },
         {
             "title": "Tribune de Paris - Y a-t-il une crise du couple moderne ? 3/7 -  La révolution sentimentale (1ère diffusion : 10/03/1953 Chaîne Nationale)",
             "id": "a89817e8-37d8-4479-ae69-16c1e2e0c432",
@@ -1407,6 +1439,45 @@
             ]
         },
         {
+            "title": "Critique littérature : \"La ligne\" d'Aharon Appelfeld & \"Uvaspina\" de Monica Acito",
+            "id": "70d1bbe9-de71-47cc-868b-72e8d7a3c415",
+            "show": "Les Midis de Culture",
+            "show_id": "32a14af6-fc87-4f4f-a06e-39ccf8587119",
+            "chapo": "Au programme du débat critique, de la littérature étrangère, avec \"La ligne\" d'Aharon Appelfeld & \"Uvaspina\" de Monica Acito. ",
+            "magnetotheque_id": "2025C51852S0077",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/les-midis-de-culture/critique-litterature-la-ligne-d-aharon-appelfeld-uvaspina-de-monica-acito-3750726",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/12360-18.03.2025-ITEMA_24062631-2025C51852S0077-NET_MFC_DE384A21-BD7A-4CD9-A50C-62D6366A5D8E-21.mp3",
+            "duration": 1667,
+            "date": 1742297325,
+            "settings": [
+                "interview"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "« L'écriture m'a arraché aux profondeurs du désespoir »",
+                    "extrait": "Aharon Appelfeld confiait volontiers que l'écriture l'avait arraché aux profondeurs du désespoir. Lui qui était né juif en 1932 en Roumanie et qui, à dix ans après s'être évadé d'un camp nazi, a dû vivre seul pendant trois ans. Il traversera l'Europe aux côtés de l'armée rouge après 1945 avant d'embarquer pour Israël.",
+                    "score": 95,
+                    "start": 73.745,
+                    "end": 92.982
+                },
+                {
+                    "titre": "Comment la mémoire façonne notre identité ?",
+                    "extrait": "Ce qui est très beau dans ce roman-là, mais qu'il a beaucoup traité par ailleurs, c'est sur la mémoire, c'est-à-dire qu'est-ce qu'on garde, qu'est-ce qui fait trace quand la moitié, enfin les trois quarts, 90% de la population a été exterminée.",
+                    "score": 90,
+                    "start": 565.773,
+                    "end": 577.795
+                },
+                {
+                    "titre": "« La vengeance n'est pas majestueuse »",
+                    "extrait": "Elle n'est pas majestueuse la vengeance, elle est un peu patraque, elle tombe un peu comme ça. Alors que ce qui est très beau, c'est justement la trace et la mémoire parce que ces objets vont non seulement prendre le poids de reliques parce qu'ils se sentent dépositaires d'objets qui ont disparu et le font rentrer en contact avec des gens.",
+                    "score": 92,
+                    "start": 619.13,
+                    "end": 636.502
+                }
+            ]
+        },
+        {
             "title": "Quand un viking fonde la Normandie, Rollon à fond la caisse",
             "id": "8fa4a301-332e-439e-ab10-69645ae070bc",
             "show": "Le Cours de l'histoire",
@@ -2106,6 +2177,38 @@
                     "score": 92,
                     "start": 1579.782,
                     "end": 1739.15
+                }
+            ]
+        },
+        {
+            "title": "Thierry Frémaux : \"Regarder les films Lumière nettoie les yeux.\"",
+            "id": "770bbc25-0844-49a9-83fc-eb603d12d63b",
+            "show": "Le Point culture",
+            "show_id": "25d4eded-ef3f-4106-9cca-09a53f4794dc",
+            "chapo": "Une succession de films courts des frères Lumière font l'objet d'une sortie au cinéma. Elle permet de redécouvrir la créativité des films d'Auguste et de Louis qui, au-delà d'avoir été des inventeurs, ont posé les premiers jalons de la narration et de l'esthétique cinématographiques.",
+            "magnetotheque_id": "2025C41196S0077",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/le-point-culture/redecouvrir-les-films-des-freres-lumiere-c-est-une-sorte-de-reapprentissage-du-regard-8786360",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/21829-18.03.2025-ITEMA_24062653-2025C41196S0077-NET_MFC_A7502345-A786-4A85-9F74-224F3400B692-21.mp3",
+            "duration": 627,
+            "date": 1742299200,
+            "settings": [
+                "actu"
+            ],
+            "limit": 2,
+            "extraits": [
+                {
+                    "titre": "« Voir les films Lumière, ça vous nettoie les yeux »",
+                    "extrait": "« Oui, je pense que voir les films lumières, ça vous nettoie les yeux. C'est important de se nettoyer les yeux parce que notre regard il est très pollué très contaminé par tout ce qu'on voit et là c'est les premières images et donc il y a quelque chose dans cette espèce de pureté originelle qui interroge les images d'aujourd'hui c'est sûr. »",
+                    "score": 95,
+                    "start": 508.302,
+                    "end": 541.507
+                },
+                {
+                    "titre": "Le cinéma, miroir de notre humanité ?",
+                    "extrait": "« Je dis à un moment dans le film, le cinéma me dit qui je suis et me dit qui sont les autres. Et en effet, rapidement, le cinéma a permis à des gens de voyager, comme aujourd'hui encore. »",
+                    "score": 90,
+                    "start": 360.925,
+                    "end": 371.427
                 }
             ]
         },
@@ -3474,6 +3577,59 @@
                     "score": 90,
                     "start": 131.03,
                     "end": 135.638
+                }
+            ]
+        },
+        {
+            "title": "Critique littérature : \"Uvaspina\" de Monica Acito",
+            "id": "e434c9d2-6c3d-4cfe-b487-5fbb15eca7e7",
+            "show": "Les Midis de Culture",
+            "show_id": "32a14af6-fc87-4f4f-a06e-39ccf8587119",
+            "chapo": "Les critiques discutent d'\"Uvaspina\" de l'autrice italienne Monica Acito, un premier roman dont l'action se situe à Naples et qui déborde comme la ville.",
+            "magnetotheque_id": "2025C51852S2077",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/les-midis-de-culture/critique-litterature-uvaspina-de-monica-acito-8369842",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/12360-18.03.2025-ITEMA_24062631-2025C51852S2077-NET_MFC_EB175E6D-5543-4085-9ED2-2CB5D2B00F55-21.mp3",
+            "duration": 661,
+            "date": 1742297400,
+            "settings": [
+                "interview"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "\"La langue déborde comme Naples\"",
+                    "extrait": "« C'est un roman qui m'a fait beaucoup d'effet. Du dégoût, de la peur, j'ai ri, j'ai été très triste, j'ai eu envie de défendre les personnages. Enfin, j'étais complètement dans ce livre, mon cœur battait au rythme des pages que je tournais. »",
+                    "score": 90,
+                    "start": 44.079,
+                    "end": 55.972
+                },
+                {
+                    "titre": "\"Une mère qui fait mine de mourir\"",
+                    "extrait": "« Une mère qui, tous les mercredis, fait mine de mourir devant ses enfants. »",
+                    "score": 85,
+                    "start": 32.067,
+                    "end": 34.969
+                },
+                {
+                    "titre": "\"Naples : entre beauté et puanteur\"",
+                    "extrait": "« Naples, c'est à la fois la ville qui pue le plus, c'est la plus belle, mais ça, voilà, quand un jour on a pu se promener dans Naples, on le sent, donc ce qu'elle décrit est juste la ville de Naples. »",
+                    "score": 88,
+                    "start": 303.453,
+                    "end": 315.164
+                },
+                {
+                    "titre": "\"Une anti-carte postale de Naples\"",
+                    "extrait": "« Ce qu'elle réussit à faire, Monica Hachito, c'est l'inverse de ce que fait Sorrentino. Elle donne une image réelle, mais ça n'empêche que Naples et tous ses personnages sont complètement... Ils sont tous un peu mythologiques. »",
+                    "score": 92,
+                    "start": 329.87,
+                    "end": 355.679
+                },
+                {
+                    "titre": "\"La sorcière et le poète\"",
+                    "extrait": "« J'ai rarement lu ces derniers temps un livre avec un personnage féminin jeune, aussi méchant, aussi mauvais, on flirte avec la folie, on y est carrément, on est vraiment... Sur le personnage de sorcière, mais pas de sorcière en tant que femme forte, de sorcière au sens maléfique. »",
+                    "score": 95,
+                    "start": 592.29,
+                    "end": 610.533
                 }
             ]
         },
