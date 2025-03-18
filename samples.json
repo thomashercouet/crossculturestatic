@@ -1,6 +1,6 @@
 {
-    "date": "Mis à jour le 18/03/2025 à 12:03",
-    "unix": 1742295815,
+    "date": "Mis à jour le 18/03/2025 à 12:17",
+    "unix": 1742296638,
     "shows": [
         {
             "title": "Tribune de Paris - Y a-t-il une crise du couple moderne ? 3/7 -  La révolution sentimentale (1ère diffusion : 10/03/1953 Chaîne Nationale)",
@@ -3840,6 +3840,66 @@
                     "score": 87,
                     "start": 333.5,
                     "end": 350.035
+                }
+            ]
+        },
+        {
+            "title": " Pressions commerciales : l'UE contre-attaque",
+            "id": "d4310e89-8950-4e57-b817-058323dd4767",
+            "show": "Cultures Monde",
+            "show_id": "2358bc00-3f62-11e5-8314-005056a87c89",
+            "chapo": "Comme lors de son premier mandat, Donald Trump a imposé de nouveaux droits de douane, notamment en taxant de 25 % l'acier et l'aluminium en provenance de l'Union européenne. Face aux attaques commerciales menée par les États-Unis, l'Europe des 27 riposte.",
+            "magnetotheque_id": "2025C16756S0077",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/cultures-monde/pressions-commerciales-l-ue-contre-attaque-3490576",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/11701-18.03.2025-ITEMA_24062633-2025C16756S0077-NET_MFC_DE6939FC-F0ED-47D6-A1E5-123611D34DF2-21.mp3",
+            "duration": 3475,
+            "date": 1742295525,
+            "settings": [
+                "savoirs"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "Comment l'UE riposte aux droits de douane de Trump ?",
+                    "extrait": "« Les contre-mesures que nous prenons aujourd'hui sont fortes, mais proportionnées, puisque les États-Unis appliquent des droits de douane d'une valeur de 28 milliards de dollars. Nous répondons par des contre-mesures d'une valeur de 26 milliards d'euros. »",
+                    "score": 85,
+                    "start": 125.243,
+                    "end": 139.129
+                },
+                {
+                    "titre": "L'ironie des hosties dans la guerre commerciale",
+                    "extrait": "« Il y a le poulet, les fruits et légumes, les boissons alcoolisées, mais aussi les chewing-gums, les vapoteuses, les outils de bricolage, les chasse-neige, les hosties, les négligés féminins, le mot pudique pour parler des nuisettes. »",
+                    "score": 80,
+                    "start": 150.093,
+                    "end": 162.401
+                },
+                {
+                    "titre": "Les droits de douane : un impôt déguisé ?",
+                    "extrait": "« Alors, c'est peu probable. On ne sait pas trop Donald Trump ce qu'il a en tête. Il utilise beaucoup de chiffres qui sont souvent approximatifs ou faux. Donc il faut souvent le rappeler. Il n'empêche que les droits de douane c'est d'abord un impôt et donc effectivement ça rapporte de l'argent. »",
+                    "score": 90,
+                    "start": 262.801,
+                    "end": 280.008
+                },
+                {
+                    "titre": "Pourquoi l'UE doit-elle se protéger des États-Unis ?",
+                    "extrait": "« L'Union européenne doit agir pour protéger les consommateurs et les entreprises. »",
+                    "score": 75,
+                    "start": 119.703,
+                    "end": 123.69
+                },
+                {
+                    "titre": "La dépendance énergétique de l'UE : un enjeu crucial",
+                    "extrait": "« Ça traduit aussi une des faiblesses de l'Union Européenne, qui est une des régions du monde qui n'a pas de ressources énergétiques sur son sol. »",
+                    "score": 85,
+                    "start": 612.766,
+                    "end": 619.334
+                },
+                {
+                    "titre": "Le paradoxe de la guerre commerciale : qui en souffre vraiment ?",
+                    "extrait": "« En Europe, c'est 10 millions d'emplois actuellement qui dépendent du commerce avec les États-Unis. »",
+                    "score": 80,
+                    "start": 886.701,
+                    "end": 892.563
                 }
             ]
         },
