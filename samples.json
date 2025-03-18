@@ -1,6 +1,6 @@
 {
-    "date": "Mis à jour le 18/03/2025 à 13:43",
-    "unix": 1742301782,
+    "date": "Mis à jour le 18/03/2025 à 13:55",
+    "unix": 1742302518,
     "shows": [
         {
             "title": "Critique littérature : \"La ligne\" d'Aharon Appelfeld",
@@ -4452,6 +4452,45 @@
                     "score": 88,
                     "start": 72.658,
                     "end": 81.523
+                }
+            ]
+        },
+        {
+            "title": "Eric Elmosnino et Mélodie Richard dans \"Le Misanthrope\" de Molière",
+            "id": "cfe03fb3-bf23-4658-85ba-da81eab55faf",
+            "show": "Les Midis de Culture",
+            "show_id": "32a14af6-fc87-4f4f-a06e-39ccf8587119",
+            "chapo": "Eric Elmosnino et Mélodie Richard sont sur les planches du Théâtre de l'Athénée-Louis Jouvet dans \"Le Misanthrope\" de Molière, une pièce mise en scène par Georges Lavaudant.",
+            "magnetotheque_id": "2025C51852S3077",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/les-midis-de-culture/eric-elmosnino-et-melodie-richard-dans-le-misanthrope-de-moliere-7834249",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/18723-18.03.2025-ITEMA_24062614-2025C51852S3077-NET_MFC_53180E4B-BF19-4B3F-9A4B-24B8E3830F9D-21.mp3",
+            "duration": 1691,
+            "date": 1742300925,
+            "settings": [
+                "interview"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "« La beauté hallucinante de Molière »",
+                    "extrait": "« Ce qui est vertigineux, non, ce n'est pas vertigineux, c'est juste un bonheur insensé de baigner dans ce texte-là qui est quand même inouï. C'est d'une beauté hallucinante. »",
+                    "score": 95,
+                    "start": 114.84,
+                    "end": 129.608
+                },
+                {
+                    "titre": "« Alceste, un homme en souffrance »",
+                    "extrait": "« C'est mince, mais c'est la seule chose qui m'est apparue et avec laquelle je me débat tous les soirs, c'est-à-dire qu'à la fois, c'est toujours paradoxal, mais... Il dit des choses, s'il pouvait faire autrement, s'il pouvait être autrement, je crois qu'il l'accueillerait avec plaisir, mais il ne peut pas. »",
+                    "score": 90,
+                    "start": 987.875,
+                    "end": 1012.818
+                },
+                {
+                    "titre": "« La liberté des femmes à l'époque de Molière »",
+                    "extrait": "« C'est une jeune veuve de 20 ans. Elle a une forme de liberté, mais elle est en sursis, puisqu'on attend d'elle qu'elle se remarie, quand même. »",
+                    "score": 85,
+                    "start": 1400.909,
+                    "end": 1409.173
                 }
             ]
         },
