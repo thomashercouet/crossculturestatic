@@ -1,6 +1,6 @@
 {
-    "date": "Mis à jour le 18/03/2025 à 15:00",
-    "unix": 1742306408,
+    "date": "Mis à jour le 18/03/2025 à 15:15",
+    "unix": 1742307314,
     "shows": [
         {
             "title": "Critique littérature : \"La ligne\" d'Aharon Appelfeld",
@@ -5621,6 +5621,73 @@
                     "score": 90,
                     "start": 339.226,
                     "end": 352.25
+                }
+            ]
+        },
+        {
+            "title": "Gigafactory de Berlin : le modèle Tesla en terre européenne",
+            "id": "4289739c-9f43-4e63-b64e-b29bb2504b7b",
+            "show": "Entendez-vous l'éco ?",
+            "show_id": "ec20bd96-cdfc-44ce-8a1b-85c33cc8b7db",
+            "chapo": "Première usine européenne de Tesla, la Gigafactory de Berlin enchaîne les controverses sur fond de difficultés économiques pour le constructeur. En effet, la baisse de ses ventes sanctionne les connivences politiques d’Elon Musk, mais reflète surtout un enrayement structurel du “modèle Tesla”.",
+            "magnetotheque_id": "2025C29629S0077",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/entendez-vous-l-eco/gigafactory-de-berlin-le-modele-tesla-en-terre-europeenne-2770020",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/10081-18.03.2025-ITEMA_24062618-2025C29629S0077-NET_MFC_07248A83-59D9-4C54-A919-2DD8FD72CA10-21.mp3",
+            "duration": 3525,
+            "date": 1742306325,
+            "settings": [
+                "savoirs"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "Elon Musk, un homme aux multiples visages ?",
+                    "extrait": "\"C'est une marque automobile qui a fini par se confondre avec le nom de son patron, Tesla et Elon Musk. Elon Musk et Tesla, un rapprochement particulièrement problématique alors que l'homme derrière ou devant, la marque c'est selon, emprunte des chemins politiques particulièrement sombres...\"",
+                    "score": 90,
+                    "start": 9.53,
+                    "end": 32.732
+                },
+                {
+                    "titre": "La Gigafactory de Berlin : un symbole de l'industrialisation moderne ?",
+                    "extrait": "\"Oui, alors tout à fait, c'est tout un symbole de s'implanter dans la patrie de l'automobile, le Autoland, donc effectivement. Ce qui est assez intéressant, c'est qu'il ne s'implante pas dans les régions dans lesquelles il y a ces fameux bastions de l'automobile typiques en Allemagne...\"",
+                    "score": 85,
+                    "start": 423.031,
+                    "end": 447.503
+                },
+                {
+                    "titre": "Tesla face à la tempête : un modèle en crise ?",
+                    "extrait": "\"Au-delà de l'homme, c'est tout un modèle industriel, celui de Tesla, qui est aujourd'hui en train de trembler sur ses fondations. La chute des ventes des véhicules en Europe et en Chine, l'effondrement en bourse...\"",
+                    "score": 88,
+                    "start": 80.95,
+                    "end": 96.958
+                },
+                {
+                    "titre": "L'impact environnemental de la Gigafactory : un prix à payer ?",
+                    "extrait": "\"Il y a aussi des inquiétudes qui sont liées aux externalités négatives à l'environnement, à la pollution potentielle puisqu'on se trouve aussi dans une zone protégée avec des bois de pin...\"",
+                    "score": 87,
+                    "start": 976.453,
+                    "end": 999.399
+                },
+                {
+                    "titre": "La stratégie de Musk : un pari risqué sur l'Europe ?",
+                    "extrait": "\"Je crois effectivement que la stratégie, les stratégies d'internationalisation dans l'automobile sont politiques, elles ne peuvent qu'être politiques, il faut absolument être bienvenu pour avoir une chance de réussir...\"",
+                    "score": 89,
+                    "start": 1129.778,
+                    "end": 1145.606
+                },
+                {
+                    "titre": "La bulle Tesla : un mythe en train d'éclater ?",
+                    "extrait": "\"Il y a clairement une bulle Tesla. Quand on regarde effectivement le nombre de voitures qui est vendue et la capitalisation, et même les profits réalisés, le cours de Tesla se justifie difficilement...\"",
+                    "score": 92,
+                    "start": 2901.028,
+                    "end": 2915.015
+                },
+                {
+                    "titre": "Les conséquences du soutien d'Elon Musk à l'extrême droite : un tournant pour Tesla ?",
+                    "extrait": "\"Il y a des voitures qui ont été incendiées, des bornes de recharge Tesla qui sont incendiées. Il y a des autocollants qu'on met sur le capot de la voiture en disant « j'ai acheté cette Tesla avant qu'Elon Musk ne perde la boule »...\"",
+                    "score": 91,
+                    "start": 2447.266,
+                    "end": 2459.996
                 }
             ]
         },
