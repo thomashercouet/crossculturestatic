@@ -1,6 +1,6 @@
 {
-    "date": "Mis à jour le 18/03/2025 à 10:12",
-    "unix": 1742289125,
+    "date": "Mis à jour le 18/03/2025 à 10:26",
+    "unix": 1742290016,
     "shows": [
         {
             "title": "Tribune de Paris - Y a-t-il une crise du couple moderne ? 3/7 -  La révolution sentimentale (1ère diffusion : 10/03/1953 Chaîne Nationale)",
@@ -4686,6 +4686,73 @@
                     "score": 92,
                     "start": 3269.728,
                     "end": 3277.85
+                }
+            ]
+        },
+        {
+            "title": "Quand commence Caen ? Histoire d’une ville comme un very goût de tripes",
+            "id": "7eb6c2bc-3bac-4258-a223-8847d95d8c7c",
+            "show": "Le Cours de l'histoire",
+            "show_id": "0a41bdd2-4a6d-4fb2-b2d1-ca42d2dc5381",
+            "chapo": "Rouen ou Caen ? Au milieu du 11ᵉ siècle, alors que les précédents ducs de Normandie préfèrent gouverner depuis la vallée de la Seine, Guillaume, futur Conquérant de l’Angleterre, porte son choix sur Caen, dont il juge la position centrale particulièrement propice à l’exercice du pouvoir.",
+            "magnetotheque_id": "2025C36128S0077",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/quand-commence-caen-histoire-d-une-ville-comme-un-very-gout-de-tripes-2324883",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/10076-18.03.2025-ITEMA_24062620-2025C36128S0077-NET_MFC_3B74E0DF-FEE4-4098-8217-73CE509D9930-21.mp3",
+            "duration": 3510,
+            "date": 1742288325,
+            "settings": [
+                "savoirs"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "Comment Caen est devenue le choix de Guillaume le Conquérant ?",
+                    "extrait": "Guillaume, futur Conquérant de l’Angleterre, porte son choix sur Caen, dont il juge la position centrale particulièrement propice à l’exercice du pouvoir.",
+                    "score": 90,
+                    "start": 2605.361,
+                    "end": 2624.199
+                },
+                {
+                    "titre": "La première mention de Caen : un tournant historique",
+                    "extrait": "1025, la plus ancienne mention conservée dans les actes du Côte de la ville de Caen, alors qu'à Domousse, en Normandie.",
+                    "score": 85,
+                    "start": 7.986,
+                    "end": 13.811
+                },
+                {
+                    "titre": "Pourquoi Caen est-elle plus chargée d'histoire que Rouen ?",
+                    "extrait": "Les guides touristiques d'avant-guerre présentent Caen comme une ville chargée des traces du passé, sans doute plus que sa rivale Rouen.",
+                    "score": 80,
+                    "start": 13.831,
+                    "end": 24.78
+                },
+                {
+                    "titre": "La ville de Caen : un carrefour d'échanges et de commerce",
+                    "extrait": "Il y avait là diverses espèces de légumes, diverses sortes d'odeurs, ainsi que des vêtements de laine aux teintures variées. On trouvait aussi une abondance de toiles de lin, d'un fin tissage, de la soie souple aux fils innombrables, de la cannelle, de l'encens, du poivre, des fruits, quantité de peaux d'animaux et de dépouilles de bêtes sauvages, ainsi que des carcasses de bœufs débarrassées des viscères.",
+                    "score": 95,
+                    "start": 2650.045,
+                    "end": 2674.499
+                },
+                {
+                    "titre": "Guillaume le Conquérant : un bâtard devenu roi",
+                    "extrait": "Guillaume, quand il devient duc à la mort de son père, donc Robert le Magnifique, ça n'est qu'un enfant. Et il est aussi marqué par cette bâtardise, mais qui ne pose pas véritablement de problème à cette époque-là.",
+                    "score": 88,
+                    "start": 530.389,
+                    "end": 548.3
+                },
+                {
+                    "titre": "La conquête de l'Angleterre : un tournant pour Caen",
+                    "extrait": "La conquête de l'Angleterre renforce sans doute la puissance de Caen. Les abbayes viennent d'être refondées, la Trinité a été dédicacée juste avant la conquête, donc en 1066.",
+                    "score": 92,
+                    "start": 3072.691,
+                    "end": 3093.578
+                },
+                {
+                    "titre": "La ville de Caen : un espace de pouvoir et de rivalités",
+                    "extrait": "Il est nécessaire qu'il ait des relais de pouvoir, il s'appuie effectivement sur ses vassaux, ses barons, et puis il circule dans le duché.",
+                    "score": 87,
+                    "start": 1139.914,
+                    "end": 1150.817
                 }
             ]
         },
