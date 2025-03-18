@@ -1,6 +1,6 @@
 {
-    "date": "Mis à jour le 18/03/2025 à 11:24",
-    "unix": 1742293475,
+    "date": "Mis à jour le 18/03/2025 à 11:38",
+    "unix": 1742294311,
     "shows": [
         {
             "title": "Tribune de Paris - Y a-t-il une crise du couple moderne ? 3/7 -  La révolution sentimentale (1ère diffusion : 10/03/1953 Chaîne Nationale)",
@@ -3877,6 +3877,66 @@
                     "extrait": "Alors, ça il faut que je soulève le lièvre, c'est que pourquoi le restaurant n'était pas ouvert au déjeuner ? Ce qui se faisait quand même très très très peu à l'époque ? À l'époque ça se faisait pas. je n'ouvrais que le soir à partir de 20h, mais en revanche, j'en restais très tard. Et pourquoi je ne voulais pas ouvrir au déjeuner ? Parce que je voulais aller au cinéma. Je me disais, qu'est-ce que je vais m'embêter à travailler toute la journée ? Moi, il faut que je puisse aller au cinéma. Et quand je rentrerai du cinéma, j'irai en cuisine, je commencerai un petit peu à préparer et j'ouvrirai.",
                     "start": 798.441,
                     "end": 832.651
+                }
+            ]
+        },
+        {
+            "title": "Qu'est-ce qu'une société juste ? Hayek et Rawls",
+            "id": "9929cd62-e9d5-4982-a21c-bd1499cf7278",
+            "show": "Avec philosophie",
+            "show_id": "744d0dc6-dacc-4d71-a22c-af97eec7a56e",
+            "chapo": "En quoi Friedrich Hayek et John Rawls, deux philosophes politiques majeurs du XXe siècle, s'opposent-ils sur la question de la justice sociale ? ",
+            "magnetotheque_id": "2025C48904S0077",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/avec-philosophie/qu-est-ce-qu-une-societe-juste-hayek-et-rawls-1333738",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/10467-18.03.2025-ITEMA_24062621-2025C48904S0077-NET_MFC_C0165A15-BC81-4607-BD04-1BE074D2D504-21.mp3",
+            "duration": 3514,
+            "date": 1742291925,
+            "settings": [
+                "savoirs"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "« La justice sociale est un mirage »",
+                    "extrait": "Ce dont nous avons besoin, c'est que les gens soient obligés de faire ce qui est bénéfique pour les autres, indépendamment du mérite qu'il y a derrière ou non. L'idée même que la société peut être amenée à se comporter selon les conceptions humaines de la morale individuelle est complètement erronée. Nous ne pouvons pas accepter le fait que le concept de justice ne peut pas s'appliquer à la société. Mais ne pouvons-nous pas récompenser les gens dans notre société, peut-être pas selon l'échelle de leur vertu, mais en tout cas selon l'échelle de leurs besoins ? Non. Ce que nous pouvons, mais seulement dans une société riche, c'est d'assurer à tous un certain minimum en dessous duquel personne n'a besoin de tomber. Au-delà, nous devons utiliser le système de signification des prix comme indicateur de ce que les gens devraient faire et cela n'a rien à voir avec les mérites ou les besoins individuels. En effet, leurs besoins seront probablement davantage satisfaits s'ils sont constamment dirigés là où leurs efforts apportent le plus grand bénéfice à leurs semblables.",
+                    "start": 180.896,
+                    "end": 249.852
+                },
+                {
+                    "titre": "Comment Hayek voit la justice ?",
+                    "extrait": "L'idée du juste est une chose trop privée, trop singulière, chacun la sienne. Est-ce bien cela le problème Thierry et Marc pour Hayek ? Est-ce que c'est ce problème qui fait qu'il ne faut pas s'aventurer sur ce terrain ? Il faut laisser les gens libres de leurs transactions. Le juste, si on doit l'appeler comme ça, ce sera le résultat.",
+                    "start": 265.317,
+                    "end": 285.996
+                },
+                {
+                    "titre": "« La procédure est plus importante que le résultat »",
+                    "extrait": "Le juste pour Hayek c'est plutôt la procédure que le résultat. Donc vous avez raison, et la citation de Hayek, son interview le montre bien, l'idée de base c'est que si la société obéit à un ordre spontané, dirigé par aucune autorité précise, qu'elle soit centralisée ou même décentralisée, on ne peut pas effectivement attribuer les résultats de cette société à une responsabilité de qui que ce soit.",
+                    "start": 287.674,
+                    "end": 314.449
+                },
+                {
+                    "titre": "Pourquoi Hayek défend-il l'ordre spontané ?",
+                    "extrait": "Il n'y aurait aucune exagération à dire que le point de départ de la théorie sociale – et sa seule raison d'être – est la découverte qu'il existe des structures ordonnées qui sont le résultat de l'action d'hommes nombreux mais d'aucun dessin humain. Dans certains domaines, cela est maintenant universellement accepté.",
+                    "start": 1153.746,
+                    "end": 1174.901
+                },
+                {
+                    "titre": "« Les inégalités doivent profiter aux plus défavorisés »",
+                    "extrait": "Rawls considère qu'il faut favoriser l'égalité des chances. Donc là, il y a probablement une intervention en termes de politique publique pour favoriser justement le fait que chacun puisse avoir autant d'horizons ouverts que l'autre. Et deuxièmement, il faut toujours avoir en tête la situation du plus défavorisé. Et si on peut avoir autant de croissance et d'harmonie dans le tout social en favorisant davantage le plus défavorisé, on doit choisir cette option.",
+                    "start": 1685.76,
+                    "end": 1714.489
+                },
+                {
+                    "titre": "Comment Hayek et Rawls se rejoignent-ils ?",
+                    "extrait": "Les deux vont s'accorder pour dire que ces inégalités, en fait, permettent, non pas au plus grand nombre, mais permettent un maximum de chance pour chacun d'avoir un maximum d'opportunités de pouvoir les exploiter.",
+                    "start": 2435.942,
+                    "end": 2454.378
+                },
+                {
+                    "titre": "« La démocratie doit être délibérative »",
+                    "extrait": "Ce qui est intéressant chez Rawls, c'est qu'à l'arrivée, quand il nous dit quels sont les régimes qui peuvent respecter ces principes de justice, il nous dit, c'est dans une reformulation de la théorie de la justice en 2000, il nous dit, moi je m'appuie beaucoup dessus, il y a trois régimes qui ne respectent pas et qui ne peuvent pas respecter le principe de justice.",
+                    "start": 2088.189,
+                    "end": 2110.517
                 }
             ]
         },
