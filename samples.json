@@ -1,6 +1,6 @@
 {
-    "date": "Mis à jour le 18/03/2025 à 16:57",
-    "unix": 1742313479,
+    "date": "Mis à jour le 18/03/2025 à 17:25",
+    "unix": 1742315124,
     "shows": [
         {
             "title": "La mort comme élan",
@@ -3368,6 +3368,73 @@
                     "score": 89,
                     "start": 1771.191,
                     "end": 1794.457
+                }
+            ]
+        },
+        {
+            "title": "Castors, les dents de la rivière",
+            "id": "efa7e3b5-8030-4e8b-8eb1-7aabbeafcaa9",
+            "show": "La Science, CQFD",
+            "show_id": "dc59bf2c-a3f5-48b0-bd13-f7258761d52c",
+            "chapo": "En tant qu’espèce ingénieur, le castor joue depuis des millions d’années un rôle majeur dans la formation de très nombreuses zones humides, contribuant à façonner les paysages. Longtemps considéré comme nuisible, les bienfaits de sa présence sont désormais reconnus. Quelles sont ses spécificités ?",
+            "magnetotheque_id": "2025C48906S0077",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/la-science-cqfd/castors-les-dents-de-la-riviere-4527204",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/14312-18.03.2025-ITEMA_24062636-2025C48906S0077-NET_MFC_187A85D6-F949-4F73-9D26-AF129AC5C7A6-21.mp3",
+            "duration": 3514,
+            "date": 1742313525,
+            "settings": [
+                "savoirs"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "Comment le castor façonne la biodiversité des rivières ?",
+                    "extrait": "La liste des bienfaits de ce gros rongeur semi-aquatique est impressionnante. Ces barrages jouent un rôle bénéfique sur la biodiversité, la qualité de l'eau, le cycle du carbone et les nappes phréatiques, dont on connaît l'importance cruciale. Animal architecte et ingénieur, expert en bûcheronnage, il façonne les paysages, fabrique des zones humides. Cette espèce clé de voûte, longtemps chassée et considérée comme nuisible, a bien failli disparaître de la planète.",
+                    "score": 95,
+                    "start": 25.547,
+                    "end": 49.115
+                },
+                {
+                    "titre": "Les chiffres incroyables de l'impact du castor sur la biodiversité !",
+                    "extrait": "On a étudié plusieurs groupes, donc les amphibiens, les poissons et les écrevisses, les zodenates, les macrophytes et les macrosoobintos. Et dans cette étude, on a vu que si on considère deux tronçons de rivière qui sont rigoureusement identiques, à l'exception près qu'il y en a un qui abrite des barrages de castors, on voit qu'on a une diversité spécifique, donc le nombre d'espèces, qui va être multiplié par 3 dans le territoire des castors, là où il y a des barrages, où il y a des canaux, où il y a des activités du castor. Et on a aussi une abondance, donc un nombre d'individus, multiplié par 14.",
+                    "score": 90,
+                    "start": 936.583,
+                    "end": 979.646
+                },
+                {
+                    "titre": "Le castor, un ingénieur des écosystèmes !",
+                    "extrait": "C'est vraiment un formidable ingénieur des écosystèmes. Le barrage le plus long du monde a été construit par des castors canadiens. Il fait 850 mètres de long et il est visible depuis l'espace. Généralement, ça ne dépasse pas les 100 mètres. Quel est l'impact écologique de ces barrages et du castor ?",
+                    "score": 88,
+                    "start": 865.982,
+                    "end": 882.393
+                },
+                {
+                    "titre": "Pourquoi le castor est-il essentiel pour la qualité de l'eau ?",
+                    "extrait": "On a aussi regardé divers paramètres, notamment le carbone organique dissous et les nitrates. Ce qu'on a pu observer, c'est que dans les territoires où il y a le castor qui est présent, il y a une augmentation de ce DOC. Et une diminution des nitrates. Il y a une étude de 2021 qui a même montré qu'il y avait une réduction de 20% des nitrates grâce au barrage de Castor. Ce qui est quand même assez important quand on sait que nos cours d'eau sont quasiment tous très fortement pollués malheureusement.",
+                    "score": 92,
+                    "start": 1115.847,
+                    "end": 1160.636
+                },
+                {
+                    "titre": "Le castor, un allié inattendu contre le changement climatique !",
+                    "extrait": "Quand il fait des barrages sur des petits cours d'eau, il va retenir l'eau, retenir l'eau, ça veut dire la faire pénétrer le sol, ça veut dire recréer des zones humides. Et cette eau va pouvoir être restituée en période de sécheresse ou elle va pouvoir être conservée en période de forte pluie et donc limiter les effets des inondations. Et ça, c'est des bonnes nouvelles aussi pour les humains.",
+                    "score": 94,
+                    "start": 1287.707,
+                    "end": 1327.369
+                },
+                {
+                    "titre": "Une histoire de cohabitation entre humains et castors !",
+                    "extrait": "L'histoire des relations entre les castors et les humains, c'est une histoire de très longue durée. Et pour notre espèce, sapiens, elle remonte à quelques dizaines de milliers d'années. Les castors étaient présents en Europe, ils avaient façonné depuis plusieurs millions d'années l'ensemble des cours d'eau. Et quand nos ancêtres, chasseurs-cueilleurs, se promenaient dans le territoire européen, eh bien, ils profitaient des travaux des castors, ils profitaient de leurs barrages, ils profitaient des zones ainsi créées et des bois coupés.",
+                    "score": 89,
+                    "start": 1690.71,
+                    "end": 1723.723
+                },
+                {
+                    "titre": "Le castor, un symbole de résilience et d'ingéniosité !",
+                    "extrait": "C'est que je constate, et le reportage le montrait bien, que les castors, comme beaucoup d'êtres vivants, font énormément d'efforts pour s'adapter à un monde que les humains ont façonné énormément et minutieusement. Vraiment, il faut beaucoup d'efforts pour continuer à vivre dans ce monde-là. Moi, je trouverais intéressant que nous, humains, on réfléchisse un petit peu à notre action sur le monde et qu'on comprenne qu'on n'est pas les seuls à habiter la planète.",
+                    "score": 91,
+                    "start": 3098.395,
+                    "end": 3136.192
                 }
             ]
         },
