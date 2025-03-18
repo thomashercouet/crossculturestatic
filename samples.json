@@ -1,6 +1,6 @@
 {
-    "date": "Mis à jour le 18/03/2025 à 13:55",
-    "unix": 1742302518,
+    "date": "Mis à jour le 18/03/2025 à 14:08",
+    "unix": 1742303306,
     "shows": [
         {
             "title": "Critique littérature : \"La ligne\" d'Aharon Appelfeld",
@@ -5154,6 +5154,45 @@
                     "score": 90,
                     "start": 488.416,
                     "end": 503.104
+                }
+            ]
+        },
+        {
+            "title": "Dans la tête des officières de protection de l’OFPRA",
+            "id": "13368379-f38c-4a47-91eb-5b955dbf1995",
+            "show": "Les Pieds sur terre",
+            "show_id": "beb83c10-402c-11e5-8314-005056a87c89",
+            "chapo": "Aude et C. entrent à l’OFPRA en tant qu’officières de protection. L'une se retrouve face à des récits achetés par les demandeurs d’asile auprès de « dealers d’histoire », l'autre peine à jouer les « détecteurs de mensonge » et formuler des rejets d’asile.\n",
+            "magnetotheque_id": "2025C6612S0077",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/les-pieds-sur-terre/dans-la-tete-des-officieres-de-protection-de-l-ofpra-5993314",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/10078-18.03.2025-ITEMA_24062632-2025C6612S0077-NET_MFC_6C8A1569-BF94-4BA7-8E4B-E6D603EA5537-21.mp3",
+            "duration": 1722,
+            "date": 1742302725,
+            "settings": [
+                "temoignage"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "Comment les récits de demandeurs d'asile sont-ils fabriqués ?",
+                    "extrait": "\"Les réseaux de passeurs sont très bien organisés depuis le pays de départ jusqu'à chez nous. Donc tout est calibré jusqu'à l'arrivée en France, tu vas dormir chez XYZ, il faut que tu ailles dans tel bureau de traduction, et j'ai mis des guillemets à traduction, on va t'expliquer comment faire pour avoir des papiers. Et donc globalement, on va dans ce bureau de traduction, on dit je veux des papiers, ok tu vas faire ça, ça, ça, tu veux faire quoi comme récit, ce que tu veux...\"",
+                    "score": 95,
+                    "start": 386.665,
+                    "end": 414.859
+                },
+                {
+                    "titre": "La réalité des officiers de protection : entre empathie et désillusion",
+                    "extrait": "\"C'est vrai que si dans la même semaine, on a fait des dossiers tchétchènes, russes, afghans, iraniens, on a clairement envie d'aller boire des coups le soir en rentrant. Et on les boit avec les copains de l'OFPRA, c'est vrai que c'est un petit entre-soi quand même, on a tous le même profil, on a tous la même tranche d'âge, on a tous les mêmes centres d'intérêt parce qu'on est tous hyper investis dans notre taf...\"",
+                    "score": 90,
+                    "start": 693.545,
+                    "end": 732.992
+                },
+                {
+                    "titre": "Pourquoi l'empathie est-elle un luxe pour les officiers de protection ?",
+                    "extrait": "\"Je me souviens que le directeur de l'OFPRA, dans son discours de cette formation, il nous avait aussi dit qu'on avait le droit d'être empathique avec les demandeurs d'asile en entretien, mais pas sympathique, qu'il fallait bien faire la différence, qu'il y avait quand même des limites sur notre comportement à avoir. Pour moi, c'était quand même assez particulier qu'on nous dise qu'on n'avait pas le droit d'être sympa avec les demandeurs d'asile.\"",
+                    "score": 92,
+                    "start": 1050.706,
+                    "end": 1071.203
                 }
             ]
         },
