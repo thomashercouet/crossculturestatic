@@ -1,6 +1,6 @@
 {
-    "date": "Mis à jour le 18/03/2025 à 10:51",
-    "unix": 1742291465,
+    "date": "Mis à jour le 18/03/2025 à 11:11",
+    "unix": 1742292710,
     "shows": [
         {
             "title": "Tribune de Paris - Y a-t-il une crise du couple moderne ? 3/7 -  La révolution sentimentale (1ère diffusion : 10/03/1953 Chaîne Nationale)",
@@ -2531,6 +2531,59 @@
                     "score": 88,
                     "start": 1655.441,
                     "end": 1667.752
+                }
+            ]
+        },
+        {
+            "title": "Pourquoi parle-t-on de sciences exactes ?",
+            "id": "876ea804-b2cf-40e0-8d5c-f4d56f46eefd",
+            "show": "Le Pourquoi du comment : philo  ",
+            "show_id": "b6bd068b-da10-4d88-8d15-f0e1c87ed34b",
+            "chapo": "Quelle est la place de la précision dans nos connaissances ? L'exactitude repose-t-elle uniquement sur les mathématiques ? Peut-on être précis sans être exact ? Y a-t-il une rigueur propre à la philosophie ? Comment distinguer la science exacte de la pensée rigoureuse ?",
+            "magnetotheque_id": "2025C45539E0042",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/le-pourquoi-du-comment-philo/pourquoi-parle-t-on-de-sciences-exactes-6362952",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/22838-18.03.2025-ITEMA_24062651-2025C45539E0042-NET_MFC_57632F8D-9A2A-445D-A8E4-BD701CBA3F67-21.mp3",
+            "duration": 230,
+            "date": 1742291928,
+            "settings": [
+                "savoirs"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "Pourquoi la précision est-elle essentielle dans nos connaissances ?",
+                    "extrait": "L'exigence de précision est une exigence qui traverse toutes les pratiques des êtres humains dans leur rapport au monde, c'est-à-dire un monde où il n'y a pas d'ailleurs de généralité qui existe, mais seulement des êtres individuels qu'il faut parvenir à distinguer les uns des autres de la manière en effet la plus précise possible. La précision désignant le degré de singularité de nos actions et de nos connaissances.",
+                    "score": 90,
+                    "start": 9.281,
+                    "end": 34.28
+                },
+                {
+                    "titre": "Les mathématiques : le fondement de l'exactitude !",
+                    "extrait": "L'exactitude des sciences est une manière de fonder la précision de nos connaissances sur cet outil bien précis qu'on appelle tout simplement les mathématiques. Les mathématiques sont une... techniques de la précision dans la mesure où elles ne sont pas seulement un ordre de connaissances elles-mêmes, avec leurs définitions, leurs axiomes qui permettent la plus grande rigueur, la plus grande précision, et où elles sont applicables au monde.",
+                    "score": 85,
+                    "start": 80.827,
+                    "end": 105.517
+                },
+                {
+                    "titre": "Peut-on être précis sans être exact ?",
+                    "extrait": "Mais l'exactitude est-elle le seul principe de la précision ? Elle est déjà très importante. Et ceux qui doutent de la vérité doutent moins de la précision. Ceux qui doutent des sciences douteront moins des sciences exactes. Car ils savent qu'on peut exiger l'exactitude.",
+                    "score": 80,
+                    "start": 145.145,
+                    "end": 161.137
+                },
+                {
+                    "titre": "La philosophie : une science rigoureuse au-delà des mathématiques !",
+                    "extrait": "Certains ont voulu, comme Husserl, fondateur de la phénoménologie, distinguer les sciences de l'univers comme sciences exactes et la philosophie comme sciences rigoureuses. Que voulait-il dire par là ? Il voulait dire que tout n'est pas mathématique et que pourtant il faut de la précision, même en dehors des mathématiques.",
+                    "score": 88,
+                    "start": 170.644,
+                    "end": 188.578
+                },
+                {
+                    "titre": "La perception : un monde au-delà des chiffres !",
+                    "extrait": "Prenons par exemple la perception d'un objet, comme Merleau-Ponty parlait de la phénoménologie de la perception. Elle n'est pas entièrement calculable. Vous ne pouvez pas réduire ma perception du monde à des sensations calculables. Merleau-Ponty disait que c'était l'apparition d'un objet sur le fond d'un monde.",
+                    "score": 87,
+                    "start": 188.958,
+                    "end": 205.365
                 }
             ]
         },
