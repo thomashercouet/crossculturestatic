@@ -1,6 +1,6 @@
 {
-    "date": "Mis à jour le 19/03/2025 à 14:05",
-    "unix": 1742389534,
+    "date": "Mis à jour le 19/03/2025 à 14:18",
+    "unix": 1742390327,
     "shows": [
         {
             "title": "Néolithique : comment les peuples du Maghreb ont-ils adopté le pastoralisme ?",
@@ -3623,6 +3623,45 @@
                     "extrait": "C'est essentiellement les outils de la biologie moléculaire et du séquençage des génomes. Donc en fait, ce qui s'est passé, c'est qu'ils ont repris un certain nombre de prélèvements qui avaient été faits à différents endroits sur le marché. Donc ils ont constaté que les endroits où on a pu retrouver des éléments qui correspondaient au génome du SARS-CoV-2, eh bien, cohabitaient en fait avec des éléments, cette fois-ci, de génomes animaux.",
                     "start": 1180.205,
                     "end": 1209.338
+                }
+            ]
+        },
+        {
+            "title": "Deux papas, deux mamans ",
+            "id": "4f6217ed-4be3-4c80-ad2a-c64f0c894d88",
+            "show": "Les Pieds sur terre",
+            "show_id": "beb83c10-402c-11e5-8314-005056a87c89",
+            "chapo": "Loïc et Johan ont deux fils avec un couple d'amies, tous les quatre ont réussi à faire reconnaître leur autorité parentale devant la Justice, une première en France. Marc et Fabien ont eu des jumelles avec deux amies. Tout se passait bien, jusqu'à ce que la mère biologique fasse machine arrière.",
+            "magnetotheque_id": "2025C6612S0078",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/les-pieds-sur-terre/deux-papas-deux-mamans-3617093",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/18722-19.03.2025-ITEMA_24064140-2025C6612S0078-NET_MFC_8F71FA36-EDD9-483D-A43C-D8739FE5CA42-21.mp3",
+            "duration": 1786,
+            "date": 1742389125,
+            "settings": [
+                "temoignage"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "Comment une famille de quatre parents a changé la donne en France ?",
+                    "extrait": "\"Concrètement, c'était la première fois qu'un tel jugement reconnaissait l'existence d'une famille de quatre parents en France. Je pense qu'en cas de séparation, ça a une valeur évidemment bien plus forte que la charte que l'on avait déposée nous au tout début devant notaire. Parce qu'un juge a validé cette configuration-là. Donc je pense qu'aucun parent ne pourrait être mis de côté ou oublié dans son rapport à ses enfants et notamment à son enfance sociale en cas de séparation d'un des couples.\"",
+                    "score": 95,
+                    "start": 777.092,
+                    "end": 812.397
+                },
+                {
+                    "titre": "Pourquoi la coparentalité peut-elle devenir un véritable parcours du combattant ?",
+                    "extrait": "\"La coparentalité a commencé à être compliquée parce que déjà, entre les mamans, un coup ça se séparait, un coup ça revenait ensemble, ça a duré plus de deux ans comme ça en fait. Il y en avait une qui voulait continuer un peu sa vie d'avant tout en ayant des enfants et l'autre qui était maintenant maman et donc elle pensait à 100% pour les filles et ne voyait pas les accoter en fait.\"",
+                    "score": 90,
+                    "start": 1190.887,
+                    "end": 1218.317
+                },
+                {
+                    "titre": "\"Je pense que la coparentalité, donc il faut l'établir entre avocats\"",
+                    "extrait": "\"Je pense que la coparentalité, donc il faut l'établir entre avocats, il faut pallier à tout ce qui est de l'avenir des enfants, il faut qu'il y ait une réglementation en fait. Sinon effectivement ça peut partir dans tous les sens et c'est pas une décision à prendre à la légère parce que ça peut avoir un impact dans la vie de tous les jours.\"",
+                    "score": 85,
+                    "start": 1541.477,
+                    "end": 1559.552
                 }
             ]
         },
