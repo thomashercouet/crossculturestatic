@@ -1,6 +1,6 @@
 {
-    "date": "Mis à jour le 19/03/2025 à 08:27",
-    "unix": 1742369249,
+    "date": "Mis à jour le 19/03/2025 à 08:40",
+    "unix": 1742370036,
     "shows": [
         {
             "title": "Néolithique : comment les peuples du Maghreb ont-ils adopté le pastoralisme ?",
@@ -3317,6 +3317,59 @@
                     "score": 84,
                     "start": 398.515,
                     "end": 408.301
+                }
+            ]
+        },
+        {
+            "title": "François Bayrou peut-il faire ses valises ? ",
+            "id": "4675a4cc-a6d4-4d09-8bd5-46413368668d",
+            "show": "Le Billet politique",
+            "show_id": "7656aae3-b20b-11e5-8e9e-005056a87c89",
+            "chapo": "Menaces de censure, menaces de démission au sein du gouvernement, attaques de ses propres alliés... Le Premier ministre est à nouveau fragilisé. Au point de chuter ? ",
+            "magnetotheque_id": "2025C22191S0078",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/le-billet-politique/francois-bayrou-peut-il-faire-ses-valises-6145994",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/13917-19.03.2025-ITEMA_24064166-2025C22191S0078-NET_MFC_698CF90C-45C8-4650-8384-BF1EB0ACC930-21.mp3",
+            "duration": 277,
+            "date": 1742368800,
+            "settings": [
+                "actu"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "« Retenez-moi où je fais un malheur » : la tension au sein du gouvernement",
+                    "extrait": "« Si on me demandait de céder sur ce sujet majeur pour la sécurité des Français, évidemment, je refuserais. » Chez Gérald Darmanin ensuite, le garde des Sceaux joue sa partition. Là, c'est sur le port du voile dans les compétitions sportives. Les ministres ne sont pas d'accord entre eux. Gérald Darmanin en a fait une question de principe, une question d'affichage surtout, menace à l'appui. « On ne peut pas rester dans un gouvernement qui cède sur ces questions-là ». Bruno Retailleau, Gérald Darmanin, même refrain « Retenez-moi où je fais un malheur ». Du pur rapport de force au sein même du gouvernement.",
+                    "score": 90,
+                    "start": 97.77,
+                    "end": 130.554
+                },
+                {
+                    "titre": "François Bayrou face à l'instabilité : un gouvernement en danger ?",
+                    "extrait": "« Un gouvernement minoritaire face à une assemblée fragmentée. Et un gouvernement sans assise politique. Il n'y a pas eu d'accord de coalition, pas d'accord de fonds entre les partis qui soutiennent le gouvernement. Donc chacun avance à reculons en fonction de ses convictions ou de ses intérêts. »",
+                    "score": 85,
+                    "start": 155.366,
+                    "end": 171.229
+                },
+                {
+                    "titre": "« Les ambitions personnelles s'affirment » : la course à l'Élysée",
+                    "extrait": "« Plus on approche de la présidentielle, plus c'est évident. Édouard Philippe ne retient plus ses coups. Pourquoi ? Parce qu'il veut entrer à l'Elysée. Il clame qu'avec lui, tout serait différent. »",
+                    "score": 88,
+                    "start": 187.627,
+                    "end": 196.914
+                },
+                {
+                    "titre": "Censure imminente ? Les alliés de Bayrou en embuscade !",
+                    "extrait": "« Les socialistes crient à la trahison. L'ombre d'une censure plane sur le gouvernement, à nouveau. Une censure venue de la gauche et que Marine Le Pen pourrait soutenir une éventualité pour le RN. »",
+                    "score": 92,
+                    "start": 40.471,
+                    "end": 52.217
+                },
+                {
+                    "titre": "« Qui écoute François Bayrou ? » : l'isolement du Premier ministre",
+                    "extrait": "« Sur la forme, il se fâche, ce qu'il ne fait pas souvent, il exige la solidarité entre les ministres. Mais qui l'écoute ? Chez les poids lourds du gouvernement, c'est chacun pour soi. »",
+                    "score": 87,
+                    "start": 141.019,
+                    "end": 149.856
                 }
             ]
         },
