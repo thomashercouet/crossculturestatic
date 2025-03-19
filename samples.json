@@ -1,6 +1,6 @@
 {
-    "date": "Mis à jour le 19/03/2025 à 14:18",
-    "unix": 1742390327,
+    "date": "Mis à jour le 19/03/2025 à 15:24",
+    "unix": 1742394243,
     "shows": [
         {
             "title": "Néolithique : comment les peuples du Maghreb ont-ils adopté le pastoralisme ?",
@@ -1863,6 +1863,36 @@
                     "extrait": "Alors, ça il faut que je soulève le lièvre, c'est que pourquoi le restaurant n'était pas ouvert au déjeuner ? Ce qui se faisait quand même très très très peu à l'époque ? À l'époque ça se faisait pas. je n'ouvrais que le soir à partir de 20h, mais en revanche, j'en restais très tard. Et pourquoi je ne voulais pas ouvrir au déjeuner ? Parce que je voulais aller au cinéma. Je me disais, qu'est-ce que je vais m'embêter à travailler toute la journée ? Moi, il faut que je puisse aller au cinéma. Et quand je rentrerai du cinéma, j'irai en cuisine, je commencerai un petit peu à préparer et j'ouvrirai.",
                     "start": 798.441,
                     "end": 832.651
+                }
+            ]
+        },
+        {
+            "title": "La ville de Caen fête ses mille ans",
+            "id": "4d42bdc5-0a92-4309-8c36-4e09bebd27a5",
+            "show": "Le Point culture",
+            "show_id": "25d4eded-ef3f-4106-9cca-09a53f4794dc",
+            "chapo": "La ville de Caen qui fête ses mille ans cette année apparaît dans les archives pour la première fois en 1025. Quelles sont les premières traces qu'a laissées cette ville normande ? ",
+            "magnetotheque_id": "2025C41196S0078",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/le-point-culture/les-midis-de-culture-le-point-culture-emission-du-mercredi-19-mars-2025-7619085",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/21829-19.03.2025-ITEMA_24064190-2025C41196S0078-NET_MFC_EBDDF0D6-9DC2-4AE8-82D8-9C8D1A453539-21.mp3",
+            "duration": 609,
+            "date": 1742385600,
+            "settings": [
+                "actu"
+            ],
+            "limit": 2,
+            "extraits": [
+                {
+                    "titre": "Comment Caen a vu le jour ?",
+                    "extrait": "On commémore la première fois où le mot cadomus, qui est le terme latin qui désigne la ville de Caen, on commémore la première fois où ce mot apparaît dans un texte, dans une charte du duc de Normandie, qui évoque ce site, cette localité qui est en train de naître. C'est un des rares exemples où on a un document du 11e siècle, du début du 11e siècle, à l'époque où les sources sont rares, qui nous décrit une situation en train d'advenir. Pour asseoir son pouvoir, le duc fait une sorte de distribution de biens, et parmi les biens qui sont distribués et qui apparaissent dans ce texte, on voit une localité qui s'appelle Cadmus, et dans cette localité, le Duc donne des parts de la fiscalité, des parts des revenus sur le port, donc il y a un port, sur des marchés, sur une foire, donc il y a une activité économique, sur un grand domaine, donc il y a une implantation du pouvoir sur le site de la ville de Caen.",
+                    "start": 50.437,
+                    "end": 117.373
+                },
+                {
+                    "titre": "Pourquoi Caen a-t-elle su préserver son histoire ?",
+                    "extrait": "Caen a été détruit, mais pas rasé. C'est vraiment un des lieux communs, pardon d'employer cette expression, sur l'histoire de la ville de Caen. La destruction des bombardements est importante. Elle concerne le centre-ville, donc elle est d'autant plus sensible dans le paysage. Mais il y a eu de nombreux vestiges qui ont été épargnés. Et surtout, il y a eu un travail de la reconstruction qui était un travail de mise en valeur du patrimoine préservé et de restauration des vestiges. Ce qui fait que tous les grands bâtiments historiques de la ville se dressent mis en valeur dans l'urbanisme de la reconstruction.",
+                    "start": 378.473,
+                    "end": 419.837
                 }
             ]
         },
@@ -4316,6 +4346,73 @@
                     "extrait": "C'est un remake carrément du parrain, mais inversé, c'est-à-dire une sorte de buvard inversé, c'est-à-dire qu'au lieu de faire un grand film romanesque sur quelqu'un qui prie dans le poids criminel de la famille et va finir par remplacer son père, c'est un tout petit film fabriqué, bricolé, qui raconte justement quelqu'un qui va refuser le poids familial et qui va s'en émanciper.",
                     "start": 341.572,
                     "end": 362.321
+                }
+            ]
+        },
+        {
+            "title": "Mercantilisme : les marchands (re)font la loi ",
+            "id": "97026afd-d2c3-4c7c-8b95-2bce9b12ea63",
+            "show": "Entendez-vous l'éco ?",
+            "show_id": "ec20bd96-cdfc-44ce-8a1b-85c33cc8b7db",
+            "chapo": "Relocalisations d'industries ; surproduction ; préférence pour les monopoles que pour la concurrence... Les techniques anciennes du mercantilisme semblent être remises au goût du jour par les grandes puissances économiques. Quels sont alors les contours et ressorts de ce “nouveau” mercantilisme ?",
+            "magnetotheque_id": "2025C29629S0078",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/entendez-vous-l-eco/mercantilisme-les-marchands-re-font-la-loi-4545561",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/23118-19.03.2025-ITEMA_24064175-2025C29629S0078-NET_MFC_BB64648F-357B-41EA-B724-C2F4FD09930B-21.mp3",
+            "duration": 3518,
+            "date": 1742392725,
+            "settings": [
+                "savoirs"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "Le commerce comme une bataille : un état de siège permanent ?",
+                    "extrait": "\"Le commerce se vit en état de siège, c'est ainsi que notre invité du jour analyse la façon dont les relations économiques entre nations se tendent à échéance régulière depuis le XVe siècle jusqu'à aujourd'hui.\"",
+                    "score": 90,
+                    "start": 9.589,
+                    "end": 21.193
+                },
+                {
+                    "titre": "Le capitalisme de la finitude : une promesse d'enrichissement ou une illusion ?",
+                    "extrait": "\"Et de l'autre côté, le capitalisme de la finitude qui est pensé comme un jeu à somme nulle, pour les individus, pour les firmes et pour les états.\"",
+                    "score": 85,
+                    "start": 245.087,
+                    "end": 252.837
+                },
+                {
+                    "titre": "Pourquoi le mercantilisme n'est pas mort ?",
+                    "extrait": "\"Le mercantilisme n'est pas mort, il bouge encore, mais sous une forme spécifique, celle du capitalisme de la finitude.\"",
+                    "score": 88,
+                    "start": 87.864,
+                    "end": 94.386
+                },
+                {
+                    "titre": "Le lien entre commerce et guerre : une réalité historique ?",
+                    "extrait": "\"Cet horizon, c'est celui de la guerre, ça c'est un point fondamental. Pourquoi Turgot fait ce rapprochement entre mercantilisme et conflits potentiellement armés ?\"",
+                    "score": 92,
+                    "start": 658.563,
+                    "end": 667.145
+                },
+                {
+                    "titre": "Le libéralisme face à ses propres contradictions : un cycle sans fin ?",
+                    "extrait": "\"Le libéralisme va produire, donc, il va produire en partie, finalement, cet enrichissement qu'il promet, partiellement, en tout cas.\"",
+                    "score": 87,
+                    "start": 1503.92,
+                    "end": 1511.726
+                },
+                {
+                    "titre": "La montée des puissances émergentes : une menace pour le commerce mondial ?",
+                    "extrait": "\"Il y a trop de compétiteurs. Le libéralisme va produire, donc, il va produire en partie, finalement, cet enrichissement qu'il promet, partiellement, en tout cas.\"",
+                    "score": 89,
+                    "start": 1500.777,
+                    "end": 1511.726
+                },
+                {
+                    "titre": "Le contrôle des mers : un enjeu stratégique majeur ?",
+                    "extrait": "\"Le problème, c'est que cette liberté des mers, aujourd'hui, elle est mise à mal par deux éléments. D'abord, des proto-États qui s'enhardissent.\"",
+                    "score": 90,
+                    "start": 2147.094,
+                    "end": 2155.846
                 }
             ]
         },
