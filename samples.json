@@ -1,6 +1,6 @@
 {
-    "date": "Mis à jour le 19/03/2025 à 11:16",
-    "unix": 1742379395,
+    "date": "Mis à jour le 19/03/2025 à 11:29",
+    "unix": 1742380176,
     "shows": [
         {
             "title": "Néolithique : comment les peuples du Maghreb ont-ils adopté le pastoralisme ?",
@@ -585,6 +585,66 @@
                     "score": 86,
                     "start": 964.939,
                     "end": 978.667
+                }
+            ]
+        },
+        {
+            "title": "La mouvance libertarienne : des penseurs qui séduisent de plus en plus ? ",
+            "id": "bb65b520-8750-4189-8673-9e3fcf90b32a",
+            "show": "Avec philosophie",
+            "show_id": "744d0dc6-dacc-4d71-a22c-af97eec7a56e",
+            "chapo": "Loin d'être homogène, la mouvance libertarienne oppose depuis son origine les \"minarchistes\", qui soutiennent un État minimal limité à la justice et à la sécurité, et les \"anarcho-capitalistes\", qui rejettent quant à eux l'État. Mais aujourd'hui, être \"libertarien\", qu'est-ce que cela veut dire ? ",
+            "magnetotheque_id": "2025C48904S0078",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/avec-philosophie/la-mouvance-libertarienne-des-penseurs-qui-seduisent-de-plus-en-plus-6259671",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/23118-19.03.2025-ITEMA_24064175-2025C48904S0078-NET_MFC_BF00B551-B42F-4B4B-832E-B84C96337A76-21.mp3",
+            "duration": 3479,
+            "date": 1742378325,
+            "settings": [
+                "savoirs"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "Pourquoi Javier Milei est-il un libertarien à temps partiel ?",
+                    "extrait": "« Pour ce qui est de Milley, au maximum, il serait un libertarien, comment dire, à temps partiel, parce qu'il ne faut pas oublier qu'il était un admirateur du leader populiste brésilien Bolsonaro, qui n'est certainement pas un libertarien. Mais là, il y a quelqu'un qui est opposé, par exemple, à la liberté de l'avortement, ce qui est très peu libertarien. Donc, je crains qu'il soit relativement incohérent et qu'il ne soit libertarien qu'en ce qui concerne l'économie, les dépenses publiques, la bureaucratie. »",
+                    "score": 85,
+                    "start": 351.2,
+                    "end": 389.505
+                },
+                {
+                    "titre": "Ayn Rand : l'égoïsme comme valeur morale",
+                    "extrait": "« Aider autrui, pour elle, c'est un sacrifice ? À partir du moment où vous avez un État qui vient confisquer une partie de ce fruit-là, il est déjà en train d'attaquer la nature des hommes, il est déjà en train de les rendre demi-hommes. »",
+                    "score": 90,
+                    "start": 2056.716,
+                    "end": 2071.78
+                },
+                {
+                    "titre": "Libertarisme : une utopie déconnectée de la réalité ?",
+                    "extrait": "« Tout à fait, il y a une part de rêvasserie fumeuse et totalement déconnectée de la réalité qui peut aussi les caractériser. »",
+                    "score": 80,
+                    "start": 2939.37,
+                    "end": 2947.734
+                },
+                {
+                    "titre": "Comment les libertariens voient-ils l'État ?",
+                    "extrait": "« Les libertariens ne font pas du tout partie de la mouvance conservatrice et la détestent en général. »",
+                    "score": 75,
+                    "start": 770.138,
+                    "end": 775.6
+                },
+                {
+                    "titre": "La liberté, valeur suprême des libertariens ?",
+                    "extrait": "« Pour lui, c'est « Vive la liberté, bordel ». C'est la façon de traduire un petit peu. C'est-à-dire que la valeur suprême, c'est la liberté. »",
+                    "score": 85,
+                    "start": 268.791,
+                    "end": 274.675
+                },
+                {
+                    "titre": "Libertarisme et anarchisme : quelle différence ?",
+                    "extrait": "« Les libertaires sont au fond des collectivistes qui refusent le droit de propriété privé, alors que pour les libertariens, toute sensibilité confondue, c'est-à-dire aussi bien les anarcho-capitalistes que les minarchistes, la propriété est quelque chose de central. »",
+                    "score": 88,
+                    "start": 889.873,
+                    "end": 905.445
                 }
             ]
         },
