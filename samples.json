@@ -1,6 +1,6 @@
 {
-    "date": "Mis à jour le 19/03/2025 à 09:06",
-    "unix": 1742371595,
+    "date": "Mis à jour le 19/03/2025 à 09:19",
+    "unix": 1742372384,
     "shows": [
         {
             "title": "Néolithique : comment les peuples du Maghreb ont-ils adopté le pastoralisme ?",
@@ -1092,6 +1092,53 @@
                     "score": 86,
                     "start": 2688.507,
                     "end": 2697.158
+                }
+            ]
+        },
+        {
+            "title": "En France, le savoir scientifique est-il menacé ? ",
+            "id": "a467c854-90d7-4ed4-8c47-b0de2bd5fffb",
+            "show": "France Culture va plus loin (l'Invité(e) des Matins)",
+            "show_id": "7431a6a7-481b-11e5-9fe0-005056a87c89",
+            "chapo": "Alors qu'outre-atlantique, l'administration Trump assume pleinement son virage anti-science, que reste-t-il en France des fractures et de la méfiance rendues visibles par la pandémie ? ",
+            "magnetotheque_id": "2025C16450S0078",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/france-culture-va-plus-loin-l-invite-e-des-matins/en-france-le-savoir-scientifique-est-il-menace-7445942",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/25479-19.03.2025-ITEMA_24064178-2025C16450S0078-NET_MFC_02C6E6C7-74AA-4322-B10C-913775F2C09A-21.mp3",
+            "duration": 2207,
+            "date": 1742370300,
+            "settings": [
+                "actu",
+                "interview"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "Pourquoi la science est-elle essentielle à notre démocratie ?",
+                    "extrait": "Il m'a semblé absolument nécessaire de rappeler que la science est émancipatrice pour une société, qu'elle est au fondement de nos démocraties. Nous sommes en plus issus des Lumières et que nous ne pouvons pas avoir un désintérêt, notamment politique, des questions scientifiques et de la place des sciences dans la société. Donc l'idée, c'est vraiment de remettre la science au cœur du débat public.",
+                    "score": 95,
+                    "start": 47.862,
+                    "end": 69.538
+                },
+                {
+                    "titre": "Comment la pandémie a-t-elle révélé notre fragilité ?",
+                    "extrait": "D'abord, ça a été un moment inouï de prise en... d'identification que nous sommes fragiles et que nous sommes mortels. Et dans une société comme la société occidentale, on avait l'impression en fait que la technologie, la médecine pouvaient nous protéger de tout. Et c'est ce qui a expliqué quelque part que beaucoup est minimisé au début... L'impact du Covid, en parlant de grippettes, en expliquant que le système de santé français allait très bien gérer cette épidémie, beaucoup mieux que l'Italie, etc.",
+                    "score": 90,
+                    "start": 216.493,
+                    "end": 249.353
+                },
+                {
+                    "titre": "Pourquoi la préparation à une pandémie n'a-t-elle pas fonctionné ?",
+                    "extrait": "En réalité, cela faisait 20 ans que tous les pays occidentaux se préparaient activement à une pandémie avec un virus respiratoire. Il y avait des millions d'euros dépensés dans des exercices de crise. même dans la gestion des stocks, dans des audits entre les pays pour savoir si on était bien préparé ou pas, des rapports qui étaient faits. En réalité, la préparation était intense dans les pays occidentaux. Il y avait par exemple un classement des pays de l'OCDE pour la préparation aux pandémies. Je pense que la question est mal posée. La question est pourquoi, alors qu'on se préparait activement depuis 20 ans, pourquoi rien n'a fonctionné comme prévu ?",
+                    "score": 92,
+                    "start": 312.552,
+                    "end": 352.97
+                },
+                {
+                    "titre": "La science est-elle menacée par le bon sens ?",
+                    "extrait": "Le bon sens, c'est la chose la mieux partagée au monde. Personne ne doute qu'il a du bon sens. Et donc c'est très égalitaire le bon sens. On est tous... Vraiment fourni de ce bon sens dont Trump, aujourd'hui, fait la publicité. Et c'est une raison de sa politique. Il prône le bon sens contre les scientifiques qui seraient, entre guillemets, élitistes et ne prendraient pas en compte ce bon sens populaire. Or, en réalité... Le monde est complexe. Il faut admettre que, effectivement, beaucoup de lois de la physique sont contre-intuitives.",
+                    "score": 88,
+                    "start": 1544.451,
+                    "end": 1579.329
                 }
             ]
         },
