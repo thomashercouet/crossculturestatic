@@ -1,6 +1,6 @@
 {
-    "date": "Mis à jour le 19/03/2025 à 09:32",
-    "unix": 1742373142,
+    "date": "Mis à jour le 19/03/2025 à 10:37",
+    "unix": 1742377075,
     "shows": [
         {
             "title": "Néolithique : comment les peuples du Maghreb ont-ils adopté le pastoralisme ?",
@@ -892,39 +892,6 @@
             ]
         },
         {
-            "title": "Les pèlerins de Jérusalem, avec Philippe Martin",
-            "id": "191195ed-f963-4110-90ea-48de83f003a7",
-            "show": "Chrétiens d'Orient",
-            "show_id": "b443e1a7-458a-11e5-9fe0-005056a87c89",
-            "chapo": "Philippe Martin nous présente Jérusalem par le regard des pèlerins qui depuis des siècles parcourent la ville et parfois en ont écrit une relation de voyage, une porte ouverte vers l'imagination. ",
-            "magnetotheque_id": "2025C21363E0005",
-            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/chretiens-d-orient/les-pelerins-de-jerusalem-avec-philippe-martin-6089474",
-            "mp3": "https://media.radiofrance-podcast.net/podcast09/10492-16.03.2025-ITEMA_24060564-2025C21363E0005-ITE_00148478_RSCE-21.mp3",
-            "duration": 1398,
-            "date": 1742110212,
-            "settings": [
-                "savoirs",
-                "interview"
-            ],
-            "limit": 0,
-            "extraits": [
-                {
-                    "titre": "Comment Jérusalem transforme les pèlerins ?",
-                    "extrait": "\"Moi ce qui m'a amené en Terre Sainte c'est la vallée de la Meuse. Alors ça peut paraître un peu curieux mais il se trouve que fut un temps j'ai été en Lorraine et on a découvert avec un collègue un manuscrit d'un moine qui s'appelle Don Louvent qui était parti à Jérusalem en 1530. On a été fascinés par ce texte, et du coup, j'ai voulu refaire le voyage de Don Louvent. Et c'est ainsi que je suis arrivé à Jérusalem. J'ai découvert surtout que le voyage à Jérusalem, c'était un voyage individuel. C'est-à-dire que chacun y apportait un peu ce qu'il voulait, et repartait avec ce qu'il voulait.\"",
-                    "score": 95,
-                    "start": 125.176,
-                    "end": 159.388
-                },
-                {
-                    "titre": "La leçon d'ouverture de Don Louvent : un pèlerinage au-delà des frontières",
-                    "extrait": "\"Mais il a découvert qu'il y a tant de manières d'honorer Dieu. Il a vu que d'autres pourront être sauvés, que tous peuvent prier ensemble pour s'élever. De manière particulièrement humaniste, il note « Chacun étant persuadé néanmoins que sa propre manière de faire est la bonne et la seule valable. Dieu, lui, sait.\"",
-                    "score": 90,
-                    "start": 991.669,
-                    "end": 1013.728
-                }
-            ]
-        },
-        {
             "title": "L'autre scène ou les vivants et les dieux - La métaphysique d'Aristote 1/2 (1ère diffusion : 13/07/1981)",
             "id": "8d6dd625-82ea-48fc-91cc-7775f0882d90",
             "show": "Les Nuits de France Culture",
@@ -1092,6 +1059,39 @@
                     "score": 86,
                     "start": 2688.507,
                     "end": 2697.158
+                }
+            ]
+        },
+        {
+            "title": "Les pèlerins de Jérusalem, avec Philippe Martin",
+            "id": "191195ed-f963-4110-90ea-48de83f003a7",
+            "show": "Chrétiens d'Orient",
+            "show_id": "b443e1a7-458a-11e5-9fe0-005056a87c89",
+            "chapo": "Philippe Martin nous présente Jérusalem par le regard des pèlerins qui depuis des siècles parcourent la ville et parfois en ont écrit une relation de voyage, une porte ouverte vers l'imagination. ",
+            "magnetotheque_id": "2025C21363E0005",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/chretiens-d-orient/les-pelerins-de-jerusalem-avec-philippe-martin-6089474",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/10492-16.03.2025-ITEMA_24060564-2025C21363E0005-ITE_00148478_RSCE-21.mp3",
+            "duration": 1398,
+            "date": 1742110212,
+            "settings": [
+                "savoirs",
+                "interview"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "Comment Jérusalem transforme les pèlerins ?",
+                    "extrait": "\"Moi ce qui m'a amené en Terre Sainte c'est la vallée de la Meuse. Alors ça peut paraître un peu curieux mais il se trouve que fut un temps j'ai été en Lorraine et on a découvert avec un collègue un manuscrit d'un moine qui s'appelle Don Louvent qui était parti à Jérusalem en 1530. On a été fascinés par ce texte, et du coup, j'ai voulu refaire le voyage de Don Louvent. Et c'est ainsi que je suis arrivé à Jérusalem. J'ai découvert surtout que le voyage à Jérusalem, c'était un voyage individuel. C'est-à-dire que chacun y apportait un peu ce qu'il voulait, et repartait avec ce qu'il voulait.\"",
+                    "score": 95,
+                    "start": 125.176,
+                    "end": 159.388
+                },
+                {
+                    "titre": "La leçon d'ouverture de Don Louvent : un pèlerinage au-delà des frontières",
+                    "extrait": "\"Mais il a découvert qu'il y a tant de manières d'honorer Dieu. Il a vu que d'autres pourront être sauvés, que tous peuvent prier ensemble pour s'élever. De manière particulièrement humaniste, il note « Chacun étant persuadé néanmoins que sa propre manière de faire est la bonne et la seule valable. Dieu, lui, sait.\"",
+                    "score": 90,
+                    "start": 991.669,
+                    "end": 1013.728
                 }
             ]
         },
@@ -1750,6 +1750,73 @@
                     "extrait": "Mais même l'arrivée de ce ptérodactyle... qui est une espèce de la bête qui arrive et qui surgit et où on comprend le drame qui s'est joué mais se joue dans l'ellipse et surtout dans une espèce de confrontation, le fantastique c'est ce qu'on comprend pas quoi.",
                     "start": 268.555,
                     "end": 287.468
+                }
+            ]
+        },
+        {
+            "title": "1639, révolte des Nu-pieds. Antifiscal, tu perds tes souliers",
+            "id": "3cf6a432-9213-44f1-8975-bc503be2cd89",
+            "show": "Le Cours de l'histoire",
+            "show_id": "0a41bdd2-4a6d-4fb2-b2d1-ca42d2dc5381",
+            "chapo": "16 juillet 1639. Les Nu-pieds se révoltent contre l’instauration de la gabelle, impôt sur le sel, à Avranches en Normandie. De la prise des armes aux poèmes séditieux, les insurgés normands se mobilisent pour défendre leur territoire face aux empiétements du pouvoir royal.",
+            "magnetotheque_id": "2025C36128S0078",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/1639-revolte-des-nu-pieds-antifiscal-tu-perds-tes-souliers-7240129",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/10076-19.03.2025-ITEMA_24064151-2025C36128S0078-NET_MFC_BE47C260-499A-4998-9E87-BA6BB6EFE19C-21.mp3",
+            "duration": 3536,
+            "date": 1742374725,
+            "settings": [
+                "savoirs"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "« La vérité est que tout au long de ces 18 années de gouvernement, Richelieu a rencontré des obstacles de plus en plus grands. »",
+                    "extrait": "« La vérité est que tout au long de ces 18 années de gouvernement, Richelieu a rencontré des obstacles de plus en plus grands. »",
+                    "score": 85,
+                    "start": 32.622,
+                    "end": 42.645
+                },
+                {
+                    "titre": "Pourquoi la Normandie est-elle le premier gisement fiscal de la France ?",
+                    "extrait": "« Oui, un quart a priori des recettes du Royaume de France, effectivement une des provinces qui participe le plus à l'impôt royal, un historien qui s'appelle Philippe Goujard avait parlé de premier gisement fiscal de la France pour évoquer la Normandie, pactole fiscal du Royaume effectivement, c'est dans cela une province tout à fait essentielle. »",
+                    "score": 90,
+                    "start": 154.972,
+                    "end": 173.964
+                },
+                {
+                    "titre": "Comment la gabelle a-t-elle provoqué la révolte des Nupiers ?",
+                    "extrait": "« Donc concrètement, ça veut dire pour les populations une multiplication par 4 du prix du sel, c'est ce que dit Mireille Touzry qui a travaillé là-dessus dans son livre Payé pour le Roi. Donc c'est pas rien, multiplication par 4 du prix d'un produit qui vous l'avez dit est de première nécessité, une ressource précieuse parce que en particulier ça permet de conserver les aliments. »",
+                    "score": 95,
+                    "start": 590.892,
+                    "end": 607.081
+                },
+                {
+                    "titre": "« C'est une révolte antifiscale, point. »",
+                    "extrait": "« Alors oui, notre maître à tous, Pierre Goubert, s'exprime avec brio, comme toujours. Alors, il faut bien distinguer quand même, peut-être plus précisément dans le cas de la révolte des Nupiers que ce que Pierre Goubert évoquait ici, la révolte des Nupiers est une révolte antifiscale, point, si j'ose dire. Elle ne s'attaque pas aux seigneurs locaux, elle menace, Brice et Vigne a fait allusion à certains moments, les désurbains à Avranche ou ailleurs, mais elle ne s'attaque pas du tout aux riches. Ce n'est pas une révolte sociale non plus. »",
+                    "score": 88,
+                    "start": 2435.91,
+                    "end": 2467.234
+                },
+                {
+                    "titre": "Comment la poésie a-t-elle joué un rôle dans la révolte des Nupiers ?",
+                    "extrait": "« La particularité de la révolte des Nupiés, c'est sans doute le fait qu'il y a eu des poèmes écrits par les révoltés directement. Alors, on ne sait pas exactement qui les a écrits. »",
+                    "score": 92,
+                    "start": 1922.225,
+                    "end": 1932.974
+                },
+                {
+                    "titre": "« C'est une révolte du petit pays contre l'État. »",
+                    "extrait": "« Il ne s'agit pas du tout dans la révolte normande de marginaux. Il s'agit de catégories bien précises et d'un milieu d'ailleurs bien précis qui va rester absolument même replié sur lui-même finalement. Parce que quand on regarde la cartographie, de la révolte des Nupiers, proprement dite, j'entends la révolte, n'est-ce pas, qui part de la région d'Avranches, on s'aperçoit que cette sédition, n'est-ce pas, n'a pas débordé une région qui est définie essentiellement par la fabrication du sel et les communes voisines de ces paroisses où l'on fabrique le sel. »",
+                    "score": 87,
+                    "start": 1496.761,
+                    "end": 1535.723
+                },
+                {
+                    "titre": "Pourquoi la révolte des Nupiers est-elle un symbole de résistance ?",
+                    "extrait": "« Et c'est en ce sens, là encore, qu'elle manifestera son sens de la justice et son respect des sujets qui, en contrepartie, lui donneront l'argent qu'ils lui doivent légitimement et l'obéissance qu'ils lui doivent tout aussi légitimement. »",
+                    "score": 90,
+                    "start": 3257.454,
+                    "end": 3269.438
                 }
             ]
         },
