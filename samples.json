@@ -1,6 +1,6 @@
 {
-    "date": "Mis à jour le 19/03/2025 à 16:15",
-    "unix": 1742397353,
+    "date": "Mis à jour le 19/03/2025 à 16:28",
+    "unix": 1742398119,
     "shows": [
         {
             "title": "Néolithique : comment les peuples du Maghreb ont-ils adopté le pastoralisme ?",
@@ -3514,6 +3514,73 @@
                     "score": 89,
                     "start": 3440.465,
                     "end": 3469.991
+                }
+            ]
+        },
+        {
+            "title": "Plaidoyer pour la fiction, avec Juan Gabriel Vásquez",
+            "id": "079ffa61-da20-4688-a1ac-2324dab73f9c",
+            "show": "Le Book Club",
+            "show_id": "9919a6d4-3da2-4dd9-8103-77cef065f78d",
+            "chapo": "Dans son dernier essai, Juan Gabriel Vásquez défend la capacité du genre romanesque à “traduire” la complexité des vies humaines et à éclairer les zones d’ombre de l’Histoire. En convoquant Zadie Smith, Garcia Marquez, Yourcenar et d’autres, l’auteur colombien livre un plaidoyer pour la fiction.",
+            "magnetotheque_id": "2025C49162S0078",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/le-book-club/plaidoyer-pour-la-fiction-avec-juan-gabriel-vasquez-8029344",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/23875-19.03.2025-ITEMA_24064176-2025C49162S0078-NET_MFC_754A3A3D-1F21-4708-A698-E99E588B4FBE-21.mp3",
+            "duration": 3557,
+            "date": 1742396325,
+            "settings": [
+                "interview"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "Pourquoi la fiction est-elle essentielle à notre compréhension du monde ?",
+                    "extrait": "« Sans la fiction, notre compréhension du monde serait incomplète. »",
+                    "score": 95,
+                    "start": 1359.871,
+                    "end": 1381.225
+                },
+                {
+                    "titre": "La puissance de l'imagination : un acte politique ?",
+                    "extrait": "« La fiction existe pour ça, existe à partir de ça. »",
+                    "score": 90,
+                    "start": 1835.405,
+                    "end": 1839.57
+                },
+                {
+                    "titre": "Comment la littérature peut-elle éclairer notre passé ?",
+                    "extrait": "« Le passé n'existe pas. Le passé existe seulement en tant que récit. »",
+                    "score": 92,
+                    "start": 2676.4,
+                    "end": 2687.608
+                },
+                {
+                    "titre": "La responsabilité des narrateurs : qui raconte l'histoire ?",
+                    "extrait": "« Les narrateurs du passé ont une énorme responsabilité. »",
+                    "score": 88,
+                    "start": 2691.951,
+                    "end": 2699.136
+                },
+                {
+                    "titre": "Peut-on vraiment s'approprier la voix des autres ?",
+                    "extrait": "« Si on interdit la fiction romanesque, est-ce que ça s'arrête là ? »",
+                    "score": 93,
+                    "start": 2329.836,
+                    "end": 2335.7
+                },
+                {
+                    "titre": "La fiction comme outil de connaissance : une vision nuancée ?",
+                    "extrait": "« C'est une connaissance qui n'est pas... Jamais totale. »",
+                    "score": 89,
+                    "start": 1499.178,
+                    "end": 1507.96
+                },
+                {
+                    "titre": "L'importance de la diversité des récits dans la fiction",
+                    "extrait": "« La vie est une guerre entre des versions de la vie. »",
+                    "score": 91,
+                    "start": 2471.366,
+                    "end": 2474.47
                 }
             ]
         },
