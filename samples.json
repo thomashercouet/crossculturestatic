@@ -1,6 +1,6 @@
 {
-    "date": "Mis à jour le 19/03/2025 à 13:54",
-    "unix": 1742388844,
+    "date": "Mis à jour le 19/03/2025 à 14:05",
+    "unix": 1742389534,
     "shows": [
         {
             "title": "Néolithique : comment les peuples du Maghreb ont-ils adopté le pastoralisme ?",
@@ -2149,6 +2149,45 @@
                     "score": 86,
                     "start": 123.792,
                     "end": 134.238
+                }
+            ]
+        },
+        {
+            "title": "Le réalisateur Albert Serra a filmé la solitude du torero",
+            "id": "07a0741b-85a3-4158-b664-1dd153d9711b",
+            "show": "Les Midis de Culture",
+            "show_id": "32a14af6-fc87-4f4f-a06e-39ccf8587119",
+            "chapo": "Dans son premier documentaire, \"Tardes de Soledad\", Albert Serra filme le torero péruvien Andres Roca Rey, et cherche à montrer la solitude de l'homme et de l'animal dans ce face à face mortel. ",
+            "magnetotheque_id": "2025C51852S3078",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/les-midis-de-culture/le-realisateur-albert-serra-a-filme-la-solitude-du-torero-8204499",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/24613-19.03.2025-ITEMA_24064540-2025C51852S3078-NET_MFC_77E693B3-6C43-4A5F-9217-BCCC4D2ECBE9-21.mp3",
+            "duration": 1728,
+            "date": 1742387325,
+            "settings": [
+                "interview"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "« La vie ne pèse rien » : une réflexion sur la condition humaine",
+                    "extrait": "« C'est ça, la vida no vale nada, la vida no vale nada », c'est-à-dire « La vie ne pèse rien, ne pèse rien ». C'est-à-dire, il faut mépriser la vie, il faut jeter la vie, pour en faire quelque chose de grand, pour l'utiliser pour faire quelque chose avec elle. C'est pour ça qu'on ne peut pas être obsédé pour la conservation de la vie. »",
+                    "score": 95,
+                    "start": 1244.063,
+                    "end": 1272.73
+                },
+                {
+                    "titre": "Comment la corrida révèle la mélancolie de l'animal ?",
+                    "extrait": "« Il y a un côté mélancolique, une tristesse vraiment prémonitoire de cette condition. de cette innocence de la bête, malgré tout, d'une bête puissante, d'une bête qui a toujours été symbole de ça, de la puissance, de la force, etc. Mais qui, en même temps, il y a un côté qu'on dirait... Voici une bête condamnée, de toute façon, on le sait. »",
+                    "score": 90,
+                    "start": 1333.002,
+                    "end": 1365.377
+                },
+                {
+                    "titre": "Pourquoi la corrida est-elle un miroir de notre société ?",
+                    "extrait": "« La corrida, pour les toreros, symbolise quelque chose qui est une espèce de métaphore du monde, du monde actuel même, de la violence dans le monde, de la vie et la mort. Comme dire, cet combat éternel. »",
+                    "score": 92,
+                    "start": 1228.613,
+                    "end": 1244.003
                 }
             ]
         },
