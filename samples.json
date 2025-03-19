@@ -1,6 +1,6 @@
 {
-    "date": "Mis à jour le 19/03/2025 à 15:24",
-    "unix": 1742394243,
+    "date": "Mis à jour le 19/03/2025 à 16:15",
+    "unix": 1742397353,
     "shows": [
         {
             "title": "Néolithique : comment les peuples du Maghreb ont-ils adopté le pastoralisme ?",
@@ -5865,6 +5865,59 @@
                     "score": 85,
                     "start": 582.589,
                     "end": 597.925
+                }
+            ]
+        },
+        {
+            "title": "Dans l’atelier de Dick Bruna : une monographie, une exposition, des albums à découvrir",
+            "id": "137ab090-3653-4abb-8cb1-5ffcf8ac80e9",
+            "show": "Lectures jeunesse",
+            "show_id": "87557573-3bf0-43a2-a469-756ba2d4e324",
+            "chapo": "Gros plan sur l'oeuvre de l'artiste néerlandais Dick Bruna (1927-2017), créateur de l'un des plus célèbres personnages de la littérature jeunesse : Miffy, qui célèbre cette année ces 70 ans.",
+            "magnetotheque_id": "2025C52120S0078",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/lectures-jeunesse/lectures-jeunesse-chronique-du-mercredi-19-mars-2025-5453388",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/23875-19.03.2025-ITEMA_24064176-2025C52120S0078-NET_MFC_6BB98354-0086-47D2-9606-B887129B6080-21.mp3",
+            "duration": 341,
+            "date": 1742396342,
+            "settings": [
+                "interview"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "Comment Dick Bruna a redéfini la littérature jeunesse ?",
+                    "extrait": "\"Il voulait créer un dessin qui agisse comme un souvenir. Et de fait, le personnage imprime notre mémoire très profondément, si bien que quand on se trouve face à elle, on a l'impression de l'avoir toujours connue.\"",
+                    "score": 95,
+                    "start": 204.173,
+                    "end": 216.756
+                },
+                {
+                    "titre": "La méthode unique de création de Dick Bruna",
+                    "extrait": "\"L'une des dimensions les plus passionnantes de la monographie comme de l'exposition est celle qui donne à voir la méthode de création des albums singulière, à savoir le dessin au ciseau.\"",
+                    "score": 90,
+                    "start": 245.804,
+                    "end": 262.355
+                },
+                {
+                    "titre": "Pourquoi Miffy est-elle devenue une icône mondiale ?",
+                    "extrait": "\"Traduit dans 50 langues, vendus à quelque 85 millions d'exemplaires, ils ont fait de Dick Bruna l'auteur néerlandais le plus traduit dans le monde après Anne Frank.\"",
+                    "score": 92,
+                    "start": 78.707,
+                    "end": 87.779
+                },
+                {
+                    "titre": "L'impact de Dick Bruna sur l'art et la littérature",
+                    "extrait": "\"Tout cela permet de mesurer l'importance de l'œuvre de Dick Bruna, non seulement dans l'histoire de la littérature jeunesse, mais aussi tout simplement dans l'histoire de l'art.\"",
+                    "score": 88,
+                    "start": 323.972,
+                    "end": 332.931
+                },
+                {
+                    "titre": "La simplicité au cœur de l'art de Dick Bruna",
+                    "extrait": "\"Les histoires mettent en scène le personnage, ses parents, ses amis, dans des scènes de vie quotidiennes. La chose était très originale dans les années 50 où les albums jeunesse reposaient souvent sur des récits denses et des dessins chargés.\"",
+                    "score": 85,
+                    "start": 241.22,
+                    "end": 252.709
                 }
             ]
         },
