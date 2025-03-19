@@ -1,6 +1,6 @@
 {
-    "date": "Mis à jour le 19/03/2025 à 10:37",
-    "unix": 1742377075,
+    "date": "Mis à jour le 19/03/2025 à 11:16",
+    "unix": 1742379395,
     "shows": [
         {
             "title": "Néolithique : comment les peuples du Maghreb ont-ils adopté le pastoralisme ?",
@@ -91,6 +91,48 @@
                     "score": 91,
                     "start": 714.359,
                     "end": 728.644
+                }
+            ]
+        },
+        {
+            "title": "Pourquoi faut-il s'exprimer avec précision ?",
+            "id": "fabec566-1606-4fa5-9745-40b5bd992d4d",
+            "show": "Le Pourquoi du comment : philo  ",
+            "show_id": "b6bd068b-da10-4d88-8d15-f0e1c87ed34b",
+            "chapo": "Pourquoi la précision est-elle essentielle dans le langage ? Socrate, par son exigence de définition, énerve ses interlocuteurs mais évite la confusion. Peut-on définir la justice sans tomber dans le droit du plus fort ? Une pensée précise permet-elle d'échapper au chaos ?",
+            "magnetotheque_id": "2025C45539E0043",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/le-pourquoi-du-comment-philo/pourquoi-faut-il-s-exprimer-avec-precision-7746661",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/22788-19.03.2025-ITEMA_24064184-2025C45539E0043-NET_MFC_52B94929-EAF6-4120-BEDE-461A599B8301-21.mp3",
+            "duration": 227,
+            "date": 1742378325,
+            "settings": [
+                "savoirs"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "Pourquoi Socrate est-il le personnage le plus exaspérant de la philosophie ?",
+                    "extrait": "Le personnage le plus irritant de l'histoire de la philosophie, celui d'ailleurs qui est resté dans l'histoire de la philosophie parce qu'il était exaspérant, insupportable et irritant au sens le plus physique du mot presque, c'est bien entendu Socrate. Socrate dans les dialogues de Platon. Socrate qui se décrit lui-même comme une torpille, comme celui qui vous injecte un peu d'électricité, qui vous réveille et qui vous énerve, qui vous exaspère. Et pourquoi Socrate est-il exaspérant dans les dialogues de Platon ? Socrate est exaspérant pour une raison précise. Et c'est justement parce qu'il demande de la précision.",
+                    "start": 9.476,
+                    "end": 44.236
+                },
+                {
+                    "titre": "Peut-on vraiment définir la justice sans tomber dans le droit du plus fort ?",
+                    "extrait": "Et par exemple, qu'est-ce qui va définir la justice ? C'est la grande question de la République de Platon ou du Gorgias où Socrate pousse Calicles, l'interlocuteur qui va résister à cette demande de précision de la manière la plus violente possible. Il lui demande de justifier sa définition implicite de la justice par la force. Peut-on aller jusqu'au bout et vraiment définir la justice par la force ? C'est peut-être possible. Il y a des auteurs qui ont prétendu réduire la justice à la force, au droit du plus fort, mais la plupart des philosophes leur ont objecté que la force... ne font d'aucun droit puisqu'elle est toujours menacée par une force plus grande.",
+                    "start": 121.269,
+                    "end": 168.08
+                },
+                {
+                    "titre": "La guerre est-elle la seule définition de la justice ?",
+                    "extrait": "Alors on peut définir la guerre... La justice par la guerre, mais on arrivera toujours au contraire à normer la guerre par la justice, du moins faut-il l'espérer. S'exprimer avec précision, c'est donc savoir distinguer dans la confusion du monde.",
+                    "start": 189.495,
+                    "end": 204.825
+                },
+                {
+                    "titre": "La précision : clé de la philosophie et de la vie humaine ?",
+                    "extrait": "Oui, il faut découper le poulet avec précision, oui, il faut connaître le monde avec précision... Oui, la philosophie comme la science, comme la vie humaine ont besoin de la précision. Sinon, tout simplement, ce sera la guerre.",
+                    "start": 212.61,
+                    "end": 224.689
                 }
             ]
         },
@@ -2158,6 +2200,32 @@
             ]
         },
         {
+            "title": "Yémen : que sait-on des capacités militaires des Houthis ?",
+            "id": "bb79dad8-504c-44b9-84d9-c3a4f4805097",
+            "show": "Les Enjeux internationaux",
+            "show_id": "481f078d-4810-11e5-9fe0-005056a87c89",
+            "chapo": ". Le week-end dernier, les Houthis ont annoncé avoir repris leurs attaques ciblées contre les navires en mer Rouge, dont un porte-avion américain. ",
+            "magnetotheque_id": "2025C3305S0078",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/les-enjeux-internationaux/yemen-que-sait-on-des-capacites-militaires-des-houthis-2319128",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/13305-19.03.2025-ITEMA_24064146-2025C3305S0078-NET_MFC_9ACA65B2-DC4B-4A1D-996A-B2C87F18B412-21.mp3",
+            "duration": 777,
+            "date": 1742363520,
+            "settings": [
+                "actu",
+                "interview"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "Comment les Houthis transforment la mer Rouge en champ de bataille ?",
+                    "extrait": "\"En ciblant depuis quasiment 18 mois aujourd'hui environ 150 bateaux commerciaux, ils ont réussi à détourner environ 50% de ce commerce-là, qui concentre environ 15% de l'ensemble du commerce par exemple. Donc c'est pas mal !\"",
+                    "score": 95,
+                    "start": 627.115,
+                    "end": 645.44
+                }
+            ]
+        },
+        {
             "title": "\"Zone libre\" de Louis Aragon, la douleur sans souvenir",
             "id": "7095bc58-aaa6-4681-ab76-2e18fb53eb9d",
             "show": "L'Instant poésie",
@@ -2207,32 +2275,6 @@
                     "score": 80,
                     "start": 316.794,
                     "end": 323.737
-                }
-            ]
-        },
-        {
-            "title": "Yémen : que sait-on des capacités militaires des Houthis ?",
-            "id": "bb79dad8-504c-44b9-84d9-c3a4f4805097",
-            "show": "Les Enjeux internationaux",
-            "show_id": "481f078d-4810-11e5-9fe0-005056a87c89",
-            "chapo": ". Le week-end dernier, les Houthis ont annoncé avoir repris leurs attaques ciblées contre les navires en mer Rouge, dont un porte-avion américain. ",
-            "magnetotheque_id": "2025C3305S0078",
-            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/les-enjeux-internationaux/yemen-que-sait-on-des-capacites-militaires-des-houthis-2319128",
-            "mp3": "https://media.radiofrance-podcast.net/podcast09/13305-19.03.2025-ITEMA_24064146-2025C3305S0078-NET_MFC_9ACA65B2-DC4B-4A1D-996A-B2C87F18B412-21.mp3",
-            "duration": 777,
-            "date": 1742363520,
-            "settings": [
-                "actu",
-                "interview"
-            ],
-            "limit": 0,
-            "extraits": [
-                {
-                    "titre": "Comment les Houthis transforment la mer Rouge en champ de bataille ?",
-                    "extrait": "\"En ciblant depuis quasiment 18 mois aujourd'hui environ 150 bateaux commerciaux, ils ont réussi à détourner environ 50% de ce commerce-là, qui concentre environ 15% de l'ensemble du commerce par exemple. Donc c'est pas mal !\"",
-                    "score": 95,
-                    "start": 627.115,
-                    "end": 645.44
                 }
             ]
         },
