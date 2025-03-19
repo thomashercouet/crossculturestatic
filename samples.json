@@ -1,6 +1,6 @@
 {
-    "date": "Mis à jour le 19/03/2025 à 11:29",
-    "unix": 1742380176,
+    "date": "Mis à jour le 19/03/2025 à 12:21",
+    "unix": 1742383307,
     "shows": [
         {
             "title": "Néolithique : comment les peuples du Maghreb ont-ils adopté le pastoralisme ?",
@@ -990,6 +990,66 @@
                     "score": 90,
                     "start": 3112.734,
                     "end": 3133.252
+                }
+            ]
+        },
+        {
+            "title": "En quête d’une souveraineté technologique",
+            "id": "ade593cf-d200-4551-8436-e5a212f1346a",
+            "show": "Cultures Monde",
+            "show_id": "2358bc00-3f62-11e5-8314-005056a87c89",
+            "chapo": "À l'image de Mark Zuckerberg ou d'Elon Musk, les géants de la tech américaine apparaissent désormais aux côtés de Donald Trump. Ce bouleversement renforce l'affrontement entre les visions américaine et européenne de la tech, où un rapport de force économique et idéologique se joue.",
+            "magnetotheque_id": "2025C16756S0078",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/cultures-monde/en-quete-d-une-souverainete-technologique-2770639",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/11701-19.03.2025-ITEMA_24064165-2025C16756S0078-NET_MFC_4C6724C7-94BF-47D9-B7BA-7906BE8142C5-21.mp3",
+            "duration": 3477,
+            "date": 1742381925,
+            "settings": [
+                "savoirs"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "Comment l'Europe défend-elle ses valeurs face aux géants de la tech ?",
+                    "extrait": "\"Internet est né comme un instrument de partage des connaissances, d'ouverture d'esprit et de connexion entre les gens. Il l'est toujours. Mais il a également donné lieu à de sérieux défis. La désinformation, la diffusion de contenus préjudiciables, les risques pour la confidentialité de nos données. Tout cela a conduit à un manque de confiance, et parfois à une violation des droits fondamentaux des personnes. En réponse, l'Europe est devenue le pionnier mondial des droits des citoyens dans le monde numérique. Le DSA et le DMA créent un espace numérique plus sûr, où les droits fondamentaux sont protégés. Et ces lois garantissent l'équité et une responsabilité claire pour les grandes entreprises technologiques. Il s'agit d'une réalisation historique, et je pense que nous pouvons en être fiers.\"",
+                    "score": 95,
+                    "start": 638.999,
+                    "end": 695.997
+                },
+                {
+                    "titre": "Pourquoi l'Europe est-elle perçue comme une menace par les géants américains ?",
+                    "extrait": "\"Tous les outils mis en place par l'Union Européenne pour réguler les contenus des plateformes, bannir la désinformation et les contenus haineux, contrôler l'utilisation de l'IA, éviter les positions dominantes sur le marché, tous ces instruments sont donc considérés par Donald Trump et son équipe comme au mieux des droits de douane qui ne disent pas leur nom, au pire des actes de censure.\"",
+                    "score": 90,
+                    "start": 174.096,
+                    "end": 194.618
+                },
+                {
+                    "titre": "L'impact du RGPD : une régulation qui inspire le monde entier ?",
+                    "extrait": "\"On a par exemple une collègue américaine qui a développé le concept du Brussels Effect, l'effet de Bruxelles, dans lequel on voit que les réglementations qui viennent de Bruxelles ont un impact dans le monde entier. C'est-à-dire que les pays en dehors de l'Europe vont s'inspirer des règles qu'on crée en Europe parce que justement ces règles trouvent un juste équilibre entre ces différents intérêts en présence, innovation, protection des droits fondamentaux, économie, etc.\"",
+                    "score": 88,
+                    "start": 352.842,
+                    "end": 382.577
+                },
+                {
+                    "titre": "La régulation numérique : un équilibre entre innovation et protection ?",
+                    "extrait": "\"Il n'y a pas une vision uniforme du fait que l'Europe régule trop. On a beaucoup de collègues américains qui travaillent sur les lois européennes, qui travaillent sur les réglementations européennes et qui disent justement que ce sont des textes qui visent à trouver un équilibre entre innovation et protection, entre une vision politique des droits fondamentaux et une vision plus régulatrice.\"",
+                    "score": 85,
+                    "start": 318.961,
+                    "end": 343.934
+                },
+                {
+                    "titre": "Comment l'Europe se positionne-t-elle face à la domination américaine ?",
+                    "extrait": "\"Ces textes, ils n'ont pas été créés afin de cibler spécifiquement les entreprises américaines. Ils ont été créés afin de protéger les valeurs et les objectifs qui sont au sein de l'Union européenne communs entre les États membres. Et effectivement, comme on a de nombreuses entreprises américaines qui ont leurs services en Europe, évidemment, ces entreprises qui proposent leurs services et qui ont un grand nombre d'utilisateurs en Europe, elles vont être concernées par cette régulation.\"",
+                    "score": 87,
+                    "start": 594.692,
+                    "end": 629.001
+                },
+                {
+                    "titre": "La souveraineté numérique : un enjeu crucial pour l'Europe ?",
+                    "extrait": "\"Dans quelle mesure ces big tech américaines représentent une menace pour la souveraineté numérique, voire pour les démocraties européennes ? Que peut donner la contre-attaque de l'Union ? Et jusqu'où peut-elle aller ?\"",
+                    "score": 92,
+                    "start": 212.083,
+                    "end": 223.389
                 }
             ]
         },
