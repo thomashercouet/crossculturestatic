@@ -1,6 +1,6 @@
 {
-    "date": "Mis à jour le 19/03/2025 à 07:51",
-    "unix": 1742367073,
+    "date": "Mis à jour le 19/03/2025 à 08:27",
+    "unix": 1742369249,
     "shows": [
         {
             "title": "Néolithique : comment les peuples du Maghreb ont-ils adopté le pastoralisme ?",
@@ -3395,6 +3395,48 @@
                     "score": 92,
                     "start": 1057.812,
                     "end": 1074.906
+                }
+            ]
+        },
+        {
+            "title": "La revue de presse internationale, émission du mercredi 19 mars 2025",
+            "id": "889398c2-c6f4-46b0-ae10-d92ce93877ee",
+            "show": "La Revue de presse internationale",
+            "show_id": "bd43a733-4811-11e5-9fe0-005056a87c89",
+            "chapo": "",
+            "magnetotheque_id": "2025C22811S0078",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/la-revue-de-presse-internationale/la-revue-de-presse-internationale-emission-du-mercredi-19-mars-2025-8093132",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/18720-19.03.2025-ITEMA_24064141-2025C22811S0078-NET_MFC_4DF15898-8593-472A-9420-427A42DCA079-21.mp3",
+            "duration": 417,
+            "date": 1742366520,
+            "settings": [
+                "actu"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "« Ces coupes budgétaires sont un acte de cruauté »",
+                    "extrait": "L'ancien chef du parti travailliste, Jérémy Corbyn, cité par The National en Écosse et par le Financial Times, estime aussi que ces coupes budgétaires constituent un acte de cruauté de la part de la gauche politique. pire encore que l'austérité précédemment imposée par les conservateurs, avec donc la révision d'un système de points, comme l'explique sur la radio LBC le journaliste politique Androu Mar, qui a lui-même été victime d'un AVC en 2013.",
+                    "start": 150.567,
+                    "end": 176.074
+                },
+                {
+                    "titre": "Comment le Royaume-Uni fait face à une crise sociale ?",
+                    "extrait": "Ces maladies de l'ère victorienne sont de retour et ça en dit long sur la crise sociale qui traverse le Royaume-Uni, souligne le Guardian.",
+                    "start": 309.074,
+                    "end": 316.261
+                },
+                {
+                    "titre": "« Nous craignons que les niveaux de pauvreté des enfants n'augmentent »",
+                    "extrait": "De son côté, l'ONG Save the Children avertit « Nous craignons que les niveaux de pauvreté des enfants n'augmentent dans les familles dont l'un des membres est handicapé » en conséquence directe donc de ces réformes proposées par les travaillistes.",
+                    "start": 283.648,
+                    "end": 296.611
+                },
+                {
+                    "titre": "Le gouvernement brésilien face à une injustice fiscale",
+                    "extrait": "Le Brésil a un système fiscal profondément injuste avec des impôts directs payés par tout le monde, quel que soit le revenu, qui prédomine au Brésil. Les pauvres contribuent donc proportionnellement beaucoup plus aux caisses publiques que les plus riches.",
+                    "start": 392.831,
+                    "end": 415.116
                 }
             ]
         },
