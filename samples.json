@@ -1,6 +1,6 @@
 {
-    "date": "Mis à jour le 19/03/2025 à 08:40",
-    "unix": 1742370036,
+    "date": "Mis à jour le 19/03/2025 à 09:06",
+    "unix": 1742371595,
     "shows": [
         {
             "title": "Néolithique : comment les peuples du Maghreb ont-ils adopté le pastoralisme ?",
@@ -2752,6 +2752,36 @@
                     "score": 88,
                     "start": 68.273,
                     "end": 87.404
+                }
+            ]
+        },
+        {
+            "title": "Narendra Modi débarque sur Truth et ouvre son ciel à Starlink ",
+            "id": "cbc3343c-f608-4f3b-bfa7-cc532b7e097e",
+            "show": "Un monde connecté",
+            "show_id": "274c0b2b-c347-4748-8989-eb3f08ae5273",
+            "chapo": "En quelques jour le Premier ministre indien a donné des gages à l'administration Trump, le signe d'un rapprochement économique entre les deux nations sous fond de reconfiguration des forces géopolitiques. ",
+            "magnetotheque_id": "2025C52117S0078",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/un-monde-connecte/narendra-modi-debarque-sur-truth-et-ouvre-son-ciel-a-starlink-1113262",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/24399-19.03.2025-ITEMA_24064172-2025C52117S0078-NET_MFC_1434E9C8-4901-463C-A444-C76570D8B1B3-21.mp3",
+            "duration": 190,
+            "date": 1742370900,
+            "settings": [
+                "actu"
+            ],
+            "limit": 2,
+            "extraits": [
+                {
+                    "titre": "Comment Narendra Modi redéfinit les alliances géopolitiques ?",
+                    "extrait": "L'Inde, qui adopte pourtant, et depuis longtemps, une stratégie ultra-protectionniste en souhaitant conserver son autonomie technologique, donne une clé à Elon Musk. Cela a été considéré comme dangereux par l'opposition. Il est vrai que nous avons pu observer depuis trois ans sur le terrain ukrainien son influence et sa capacité de nuisance. Il peut couper à son bon vouloir le signal de Starlink. Cette concession de Narendra Modi s'inscrit sans doute dans le cadre de négociations sur les droits de douane avec les Etats-Unis. Ce geste américain est également une manière pour Narendra Modi de mettre la pression sur l'Union Européenne, car si l'Europe souhaite rester le premier partenaire commercial de l'Inde, elle devra peut-être assouplir sa réglementation.",
+                    "start": 137.255,
+                    "end": 180.04
+                },
+                {
+                    "titre": "\"Truth, une machine à mensonges : l'arrivée de Modi sur le réseau de Trump\"",
+                    "extrait": "Truth, contrairement à son nom, est une machine à mensonges. Ici, la modération est inexistante et circule sans entrave les théories du complot et les propos climato-sceptiques. Le réseau est vite devenu un repère de l'alt-right américaine où chacun rivalise avec des prises de position extrêmes. 700 000 visiteurs uniques quotidiens y naviguent. Alors ce n'est pas à l'énorme, mais suffisant pour être une caisse de résonance et séduire des annonceurs patriotes.",
+                    "start": 44.408,
+                    "end": 67.893
                 }
             ]
         },
