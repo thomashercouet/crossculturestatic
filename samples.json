@@ -1,6 +1,6 @@
 {
-    "date": "Mis à jour le 19/03/2025 à 13:13",
-    "unix": 1742386403,
+    "date": "Mis à jour le 19/03/2025 à 13:54",
+    "unix": 1742388844,
     "shows": [
         {
             "title": "Néolithique : comment les peuples du Maghreb ont-ils adopté le pastoralisme ?",
@@ -133,6 +133,45 @@
                     "extrait": "Oui, il faut découper le poulet avec précision, oui, il faut connaître le monde avec précision... Oui, la philosophie comme la science, comme la vie humaine ont besoin de la précision. Sinon, tout simplement, ce sera la guerre.",
                     "start": 212.61,
                     "end": 224.689
+                }
+            ]
+        },
+        {
+            "title": "Critique ciné : \"The Alto Knights\" & \"Quelque chose de vieux, quelque chose de neuf, quelque chose d'emprunté\"",
+            "id": "37bdefcf-7226-480e-930b-9bfd8beb8824",
+            "show": "Les Midis de Culture",
+            "show_id": "32a14af6-fc87-4f4f-a06e-39ccf8587119",
+            "chapo": "Au programme du débat critique, du cinéma, avec \"The Alto Knights\" de Barry Levinson et \"Quelque chose de vieux, quelque chose de neuf, quelque chose d'emprunté\" de Hernán Rosselli",
+            "magnetotheque_id": "2025C51852S0078",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/les-midis-de-culture/critique-cine-the-alto-knights-quelque-chose-de-vieux-quelque-chose-de-neuf-quelque-chose-d-emprunte-5006853",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/12360-19.03.2025-ITEMA_24064162-2025C51852S0078-NET_MFC_3D8841EB-A305-4190-B05D-55EAC1FD37DC-21.mp3",
+            "duration": 1628,
+            "date": 1742383725,
+            "settings": [
+                "interview"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "« De Niro, un acteur s'enterrant dans des couches de numérique »",
+                    "extrait": "« C'est vraiment triste à voir. Et sur l'image de Levinson, on se souvient d'Arenman notamment, ce clinquant des années 80, qu'est-ce qu'on retrouve là ? Moi, je trouve ça très grossier. Je trouve le découpage mauvais. J'ai vraiment l'impression d'être devant un mauvais objet aussi du point de vue de la mise en scène. Parce qu'à la limite, un film de mafia très classique refait selon les codes des années 70 ou des années 80, pourquoi pas ? Ça peut être divertissant. Là, en plus, moi, je trouve ça assez laid. Et il y a une scène qui me marque de ce point de vue et qui, en plus, rejoint la question de l'enterrement. C'est une scène où, parce qu'il y en a trois ou quatre, je crois, qui évidemment sont les grandes scènes attendues du film, où les deux De Niro, donc les deux personnages interprétés par De Niro, se retrouvent. Et il y en a une dans un funérarium où ils veulent être à l'écart. Donc ils vont dans l'endroit où il y a des cercueils. Et c'est une salle octogonale avec des cercueils tout autour. Ils sont au milieu, c'est éclairé au néon. C'est filmé dans une espèce de plongée vraiment lait. Et je trouve que dans la laideur de ce plan-là, il y a tout le film. C'est-à-dire, vraiment, on rate l'enterrement de De Niro. On le rate, vraiment. Y compris d'un point de vue de l'image. »",
+                    "score": 95,
+                    "start": 739.635,
+                    "end": 804.299
+                },
+                {
+                    "titre": "« Un film de mafia au premier degré, c'est fini »",
+                    "extrait": "« C'est incroyable à refaire ce genre de film aujourd'hui sans aucun second degré. Parce que je ne crois pas qu'il y en ait. Ou alors... C'est une ironie qui est presque malsaine. C'est-à-dire que si le film de mafia est en train de s'entélérer lui-même au premier degré, alors là, moi, je ne sais plus, Hollywood, c'est fini. Enfin, on arrête, quoi. »",
+                    "score": 90,
+                    "start": 354.17,
+                    "end": 376.365
+                },
+                {
+                    "titre": "« La mélancolie, une émotion intéressante au cinéma »",
+                    "extrait": "« La mélancolie, c'est une émotion intéressante au cinéma. Et là, je trouve que justement, mais il faut quand même le faire, le film parvient même à nous refuser ça. C'est-à-dire qu'il y a une telle artificialité, le film surjoue tellement son propre fétichisme, qu'on n'arrive même pas à éprouver ni la pitié, ni la mélancolie, ni la terreur devant la monstruosité de ce double acteur. Pour moi, De Niro, là, il n'est rien. Je ne sais pas comment dire autrement. »",
+                    "score": 92,
+                    "start": 647.918,
+                    "end": 673.102
                 }
             ]
         },
@@ -2320,6 +2359,31 @@
             ]
         },
         {
+            "title": "Critique ciné : avec \"The Alto Knights\", Barry Levinson enterre le film de mafia dans une croûte numérique ",
+            "id": "92f84bcd-7c1d-4626-a357-79162dc223df",
+            "show": "Les Midis de Culture",
+            "show_id": "32a14af6-fc87-4f4f-a06e-39ccf8587119",
+            "chapo": "Les critiques discutent de \"The Alto Knights\" de Barry Levinson, un film sur la mafia américaine inspiré de faits réels, avec deux Robert de Niro pour le prix d'un !",
+            "magnetotheque_id": "2025C51852S1078",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/les-midis-de-culture/critique-cine-the-alto-knights-de-barry-levinson-2263903",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/12360-19.03.2025-ITEMA_24064162-2025C51852S1078-NET_MFC_C0FE9CDD-0E7F-4B9A-866C-63368834611A-21.mp3",
+            "duration": 886,
+            "date": 1742382901,
+            "settings": [
+                "interview"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "« De Niro, il n'est rien » : la triste réalité d'un acteur en déclin",
+                    "extrait": "« Pour moi, De Niro, là, il n'est rien. Je ne sais pas comment dire autrement. »",
+                    "score": 95,
+                    "start": 669.394,
+                    "end": 673.119
+                }
+            ]
+        },
+        {
             "title": "Yémen : que sait-on des capacités militaires des Houthis ?",
             "id": "bb79dad8-504c-44b9-84d9-c3a4f4805097",
             "show": "Les Enjeux internationaux",
@@ -4138,6 +4202,42 @@
                     "score": 87,
                     "start": 188.958,
                     "end": 205.365
+                }
+            ]
+        },
+        {
+            "title": "Critique ciné : \"Quelque chose de vieux, quelque chose de neuf, quelque chose d'emprunté\" de Hernán Rosselli ",
+            "id": "98d303e3-298d-428a-b158-1806a2ba43cf",
+            "show": "Les Midis de Culture",
+            "show_id": "32a14af6-fc87-4f4f-a06e-39ccf8587119",
+            "chapo": "Les critiques discutent de \"Quelque chose de vieux, quelque chose de neuf, quelque chose d'emprunté\", premier film de l'argentin de Hernán Rosselli à la forme très intrigante. ",
+            "magnetotheque_id": "2025C51852S2078",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/les-midis-de-culture/critique-cine-quelque-chose-de-vieux-quelque-chose-de-neuf-quelque-chose-d-emprunte-de-hernan-rosselli-1317719",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/12360-19.03.2025-ITEMA_24064162-2025C51852S2078-NET_MFC_EB0ACA57-4CDF-4E76-83B3-B34616E7DFED-21.mp3",
+            "duration": 743,
+            "date": 1742383800,
+            "settings": [
+                "interview"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "Comment un film de mafia peut-il être aussi prosaïque ?",
+                    "extrait": "C'est que, en fait, tout l'aspect romanesque, tout l'aspect imaginaire repose finalement sur ces images d'archives, alors que les images qu'il tourne, les images fictives qu'il tourne, finalement ressemblent à des images documentaires. Et cette espèce de paradoxe, de renversement... fait que le récit de films de mafieux devient une sorte de récit très prosaïque, très du quotidien. C'est-à-dire, c'est la routine de la mafia. On compte, on a des situations, on compte les billets, on discute, on rencontre des concurrents. Et même quand il y a le surgissement de la violence, c'est toujours un peu lointain ou alors un peu grotesque.",
+                    "start": 236.648,
+                    "end": 272.703
+                },
+                {
+                    "titre": "Le poids des traditions : une quête d'émancipation",
+                    "extrait": "Et du coup, il y a une intrigue sur le roman familial. Et du coup, le personnage féminin devient une sorte d'enquêtrice à la manière de ce que disait Roberto Bolaño des romanciers. Ce sont tous des détectives sauvages. Elle est une détective sauvage sur sa propre histoire, sur sa propre origine. Et cette espèce de renversement va progressivement dessiner souterrainement dans le film un portrait féminin, un portrait de ce personnage-là qui, on va comprendre, est enfermé dans la routine, dans ce poids familial, ce poids des traditions, de la routine criminelle. Et elle va essayer de s'en échapper.",
+                    "start": 287.932,
+                    "end": 325.687
+                },
+                {
+                    "titre": "Un film de mafia inversé : l'émancipation au cœur du récit",
+                    "extrait": "C'est un remake carrément du parrain, mais inversé, c'est-à-dire une sorte de buvard inversé, c'est-à-dire qu'au lieu de faire un grand film romanesque sur quelqu'un qui prie dans le poids criminel de la famille et va finir par remplacer son père, c'est un tout petit film fabriqué, bricolé, qui raconte justement quelqu'un qui va refuser le poids familial et qui va s'en émanciper.",
+                    "start": 341.572,
+                    "end": 362.321
                 }
             ]
         },
