@@ -1,6 +1,6 @@
 {
-    "date": "Mis à jour le 20/03/2025 à 09:49",
-    "unix": 1742460596,
+    "date": "Mis à jour le 20/03/2025 à 11:10",
+    "unix": 1742465437,
     "shows": [
         {
             "title": "Quand Pavel Durov est \"libre\" de s'envoler vers Dubaï  ",
@@ -5127,6 +5127,59 @@
                     "reponse": "Enfin, ici, ce sont des adultes qui sont étudiés, mais il ne faut pas oublier les adolescents, très exposés aussi aux réseaux sociaux. et qu'il serait très intéressant de pouvoir former à la détection des fausses informations. D'autant plus qu'on possède en France un outil absolument formidable pour diffuser des formations à très grande échelle et de manière très efficace, c'est l'école.",
                     "start": 285.047,
                     "end": 304.278
+                }
+            ]
+        },
+        {
+            "title": "Pourquoi la précision peut-elle sauver le monde ?",
+            "id": "b7a9f941-e522-48a2-8bfc-47396c767f5e",
+            "show": "Le Pourquoi du comment : philo  ",
+            "show_id": "b6bd068b-da10-4d88-8d15-f0e1c87ed34b",
+            "chapo": " ",
+            "magnetotheque_id": "2025C45539E0044",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/le-pourquoi-du-comment-philo/pourquoi-la-precision-peut-elle-sauver-le-monde-1333941",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/22788-20.03.2025-ITEMA_24065891-2025C45539E0044-NET_MFC_A11A49C9-6C5D-4A7F-83FA-9AB001E2D5D1-21.mp3",
+            "duration": 262,
+            "date": 1742464760,
+            "settings": [
+                "savoirs"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "Pourquoi la précision est-elle notre meilleure alliée face à la panique ?",
+                    "extrait": "La seule réponse à la folie aujourd'hui, à la panique, à la totalisation, à la généralisation absolue, c'est justement la précision. Ne paniquez pas ! « Répondez avec précision à vos interlocuteurs affolés, dites-leur que non, ceci n'est pas cela, que non, nous ne sommes pas encore à la fin du monde, qu'il y a encore des dangers précis que nous pouvons éviter avec des techniques précises et avec des institutions précises adéquates aux dangers qui nous menacent tous. »",
+                    "score": 95,
+                    "start": 194.476,
+                    "end": 221.134
+                },
+                {
+                    "titre": "Comment la précision peut-elle sauver la planète ?",
+                    "extrait": "Il faut sortir du tout ou rien. Ce sont précisément les degrés de précision qui peuvent sauver le monde. La précision est donc, d'une certaine façon, elle fait preuve pour les êtres humains, bien sûr de manière toujours imparfaite, bien sûr avec des marges d'erreur. Mais justement, le grand savant mathématicien, celui qui parle avec rigueur, inclut la probabilité dans son exigence de précision. Il prédit la marge d'erreur avec précision.",
+                    "score": 90,
+                    "start": 129.925,
+                    "end": 178.005
+                },
+                {
+                    "titre": "La science peut-elle restaurer notre confiance ?",
+                    "extrait": "Nous avons confiance dans la précision, dans la précision de la science, par exemple. Des études récentes montrent qu'il y a un doute entretenu sur la science en général, sur la médecine, mais que les êtres humains font confiance aux machines qui fonctionnent bien, et qui fonctionnent avec précision. Nous montons dans des voitures, nous montons dans des avions, nous avions confiance dans nos montres et dans nos téléphones. Pourquoi ? Parce qu'ils ne nous trompent pas et nous pouvons vérifier l'exactitude de tel ou tel renseignement.",
+                    "score": 88,
+                    "start": 90.845,
+                    "end": 128.684
+                },
+                {
+                    "titre": "La précision : un antidote à la peur collective ?",
+                    "extrait": "Il y a aussi des grandes peurs, paniques et des doutes très profonds qui traversent nos sociétés. Et peut-être que la réponse la plus simple à ces dangers les plus graves, c'est cette petite notion que Bergson avait remise à l'ordre du jour au seuil de son dernier livre, cette petite notion de précision.",
+                    "score": 85,
+                    "start": 15.424,
+                    "end": 38.717
+                },
+                {
+                    "titre": "Peut-on vraiment faire confiance aux prédictions scientifiques ?",
+                    "extrait": "Certains voudraient douter des sciences du climat, des géosciences, des prédictions scientifiques, mais quand arrive le grand incendie qu'avait prévu avec précision celui qui avait critiqué la déforestation, qui avait critiqué la continuation du forage et des entreprises fossiles, de l'exploitation de la terre qui entraînera des dangers précis, quand arrive le danger prévu par le savant ?",
+                    "score": 87,
+                    "start": 129.925,
+                    "end": 154.318
                 }
             ]
         },
