@@ -1,7 +1,37 @@
 {
-    "date": "Mis à jour le 20/03/2025 à 14:28",
-    "unix": 1742477319,
+    "date": "Mis à jour le 20/03/2025 à 22:03",
+    "unix": 1742504596,
     "shows": [
+        {
+            "title": "Me croiras-tu si j’écris : je n’ai jamais connu aucune déception ? ",
+            "id": "fe6dd04e-5d13-4646-9ff8-067d0b4a2d31",
+            "show": "Lectures du soir",
+            "show_id": "ee7280ad-40f6-11e5-9fe0-005056a87c89",
+            "chapo": "\"Le soleil brille au dessus des justes et des injustes. Comprends-tu que je ne fus jamais déçue, que je ne pouvais jamais l’être ? Non que j’ai uniquement connu et éprouvé de grandes et belles choses, non, mais après coup, je disais toujours : ce qui a été, était bon.\"",
+            "magnetotheque_id": "2025C17591E0039",
+            "seo_url": "",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/12024-20.03.2025-ITEMA_24065350-2025C17591E0039-ITE_00147638_RSCE-21.mp3",
+            "duration": 1203,
+            "date": 1742504121,
+            "settings": [
+                "interview"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "« Je n’ai jamais connu aucune déception »",
+                    "extrait": "« Vois-tu, chère sœur, il y a un point sur lequel nous différons totalement l'une de l'autre, moins par ce que nous pensons que par ce que nous sentons. Si je n'avais pas vécu moi-même ce que j'ai vécu un jour, j'aurais probablement à prouver tes mots sur la déception qui guette à l'arrière-plan, sur l'illusion et la réalité. Et ce que tu dis s'applique certainement à bien des femmes, peut-être à la plupart des femmes sensibles, dotées d'une puissante émotivité psychique. Mais moi, me croiras-tu si j'écris ? Je n'ai jamais connu aucune déception. Et la réalité a toujours été d'une beauté plus inconcevable que toutes les illusions. Me crois-tu ? C'était ainsi pour moi. Non que je n'ai jamais été malheureuse, que je n'ai jamais éprouvé de souffrance, non. J'ai été très très malheureuse. J'ai souffert de grandes et profondes douleurs que j'ai cependant aimées. Comme une femme, sur le point d'être mère, peut aimer les tourments dont son enfant la bénit. Mais j'avais pressenti tout cela à l'avance. Je l'avais vu venir, et je l'avais déjà pris sur moi avant l'heure. Je connaissais le prix élevé qu'il me faudrait payer. Il n'y eut aucune déception. Dès le début, j'ai biffé de mon vocabulaire les mots éternels, durables, fidèles, si tant est qu'ils dussent s'appliquer à mon partenaire. Et les circonstances elles-mêmes ont suffi à ce que je ne sois jamais l'unique, mais toujours l'autre. Tu me trouveras bien dépourvue d'exigence, je ne l'étais pas. J'étais faiblement inflammable, je ne prenais pas feu facilement, un feu qui venait rapidement alors à s'éteindre, mais se mettait-il à brûler, si rarement ? Il le faisait alors avec une ardeur forte et durable. Mon sentiment possédait le pouvoir du roi Midas qui transformait en or tout ce qu'il touchait de ses mains. C'était comme le lever d'un grand soleil qui eut déposé son or jusque dans le moindre recoin, sur la plus petite flaque, la moindre mare. Et pour finir, il n'importait plus de savoir ce que faisait, comment se comportait celui à qui il devait son apparition, sa chaleur et son éclat. Le soleil brille au-dessus des justes et des injustes. Comprends-tu que je ne fus jamais déçue, que je ne pouvais jamais l'être ? Non, que j'ai uniquement connu et prouvé de grandes et belles choses. J'ai connu aussi la petitesse, la mesquinerie, la laideur. J'ai dû patauger dans toutes sortes de saletés. Mais après coup, je disais toujours, et je dis encore aujourd'hui, ce qui a été, était bon.",
+                    "start": 868.832,
+                    "end": 1045.625
+                },
+                {
+                    "titre": "Comment transformer la douleur en beauté ?",
+                    "extrait": "« J'ai souffert de grandes et profondes douleurs que j'ai cependant aimées. Comme une femme, sur le point d'être mère, peut aimer les tourments dont son enfant la bénit. Mais j'avais pressenti tout cela à l'avance. Je l'avais vu venir, et je l'avais déjà pris sur moi avant l'heure. Je connaissais le prix élevé qu'il me faudrait payer. Il n'y eut aucune déception. »",
+                    "start": 924.04,
+                    "end": 952.475
+                }
+            ]
+        },
         {
             "title": "La revue de presse internationale, émission du mercredi 19 mars 2025",
             "id": "889398c2-c6f4-46b0-ae10-d92ce93877ee",
