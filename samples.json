@@ -1,6 +1,6 @@
 {
-    "date": "Mis à jour le 24/03/2025 à 16:28",
-    "unix": 1742830126,
+    "date": "Mis à jour le 24/03/2025 à 16:41",
+    "unix": 1742830906,
     "shows": [
         {
             "title": "Les jeunes sont-ils plus exposés que les autres aux fausses nouvelles ?",
@@ -88,45 +88,6 @@
             ]
         },
         {
-            "title": "La revanche des artistes « dégénérés » ",
-            "id": "401d9710-3210-4b06-8933-87895152425f",
-            "show": "Questions du soir : l'idée",
-            "show_id": "18d2d677-e679-453c-aec9-76ddef22ddb4",
-            "chapo": "En 1937, l’exposition « Art dégénéré » par le régime nazi visait à discréditer l’art moderne. Peintres, sculpteurs, mouvements entiers furent bannis, leurs œuvres confisquées, vendues ou détruites. Aujourd’hui, une exposition au Musée Picasso revient sur cette persécution et sur ces artistes.",
-            "magnetotheque_id": "2025C53458E0003",
-            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-l-idee/la-revanche-des-artistes-degeneres-9912500",
-            "mp3": "https://media.radiofrance-podcast.net/podcast09/25343-20.03.2025-ITEMA_24065887-2025C53458E0003-NET_MFC_C8E3248B-88C5-4810-BB6F-ADF54DE843AF-21.mp3",
-            "duration": 1648,
-            "date": 1742581725,
-            "settings": [
-                "savoirs"
-            ],
-            "limit": 0,
-            "extraits": [
-                {
-                    "titre": "« L'art, c'est la possibilité d'avoir des partages »",
-                    "extrait": "« Au contraire, on les condamne. Ce que l'on voit bien ici, c'est qu'on reproche le cosmopolitisme, l'universalité. J'ai envie de dire, je vais jusqu'à l'humanité. Il faut que ça soit très traditionnel, il faut que ça soit... rattaché à une région, il faut qu'il y ait une particularité régionale. Non. L'art, c'est beaucoup plus que ça. L'art, c'est la possibilité d'avoir des partages, d'avoir le métissage, d'avoir toute représentation universelle. Ce qui nous émeut. »",
-                    "score": 95,
-                    "start": 203.478,
-                    "end": 230.282
-                },
-                {
-                    "titre": "Comment les nazis ont-ils défini l'art dégénéré ?",
-                    "extrait": "« L'art dégénéré trahit la nature parce que... Il est l'expression d'une biologie qui est elle-même dénaturée, qui est elle-même malade, alors que l'art allemand, lui, traduit la nature. Les proportions sont respectées, le corps grec est parfaitement harmonieux, la symétrie des temples et de l'architecture germanique depuis la Grèce est parfaitement respectée. »",
-                    "score": 90,
-                    "start": 369.576,
-                    "end": 394.664
-                },
-                {
-                    "titre": "« La revanche des dégénérés »",
-                    "extrait": "« Mais pour nous, aujourd'hui, il y a une énorme revanche des dégénérés. Parce que rien ne peut produire une plus grande émotion que de se trouver face à un tableau de Chagall ou face à un tableau de Picasso. Donc, moi, j'aurais peut-être intitulé cette exposition « La revanche des dégénérés ». »",
-                    "score": 92,
-                    "start": 540.196,
-                    "end": 558.383
-                }
-            ]
-        },
-        {
             "title": "Explorer les interdits",
             "id": "4fdf18d3-9474-4c85-9e8c-de1766b05047",
             "show": "Salle des archives",
@@ -166,6 +127,45 @@
                     "score": 88,
                     "start": 1666.927,
                     "end": 1678.133
+                }
+            ]
+        },
+        {
+            "title": "La revanche des artistes « dégénérés » ",
+            "id": "401d9710-3210-4b06-8933-87895152425f",
+            "show": "Questions du soir : l'idée",
+            "show_id": "18d2d677-e679-453c-aec9-76ddef22ddb4",
+            "chapo": "En 1937, l’exposition « Art dégénéré » par le régime nazi visait à discréditer l’art moderne. Peintres, sculpteurs, mouvements entiers furent bannis, leurs œuvres confisquées, vendues ou détruites. Aujourd’hui, une exposition au Musée Picasso revient sur cette persécution et sur ces artistes.",
+            "magnetotheque_id": "2025C53458E0003",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-l-idee/la-revanche-des-artistes-degeneres-9912500",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/25343-20.03.2025-ITEMA_24065887-2025C53458E0003-NET_MFC_C8E3248B-88C5-4810-BB6F-ADF54DE843AF-21.mp3",
+            "duration": 1648,
+            "date": 1742581725,
+            "settings": [
+                "savoirs"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "« L'art, c'est la possibilité d'avoir des partages »",
+                    "extrait": "« Au contraire, on les condamne. Ce que l'on voit bien ici, c'est qu'on reproche le cosmopolitisme, l'universalité. J'ai envie de dire, je vais jusqu'à l'humanité. Il faut que ça soit très traditionnel, il faut que ça soit... rattaché à une région, il faut qu'il y ait une particularité régionale. Non. L'art, c'est beaucoup plus que ça. L'art, c'est la possibilité d'avoir des partages, d'avoir le métissage, d'avoir toute représentation universelle. Ce qui nous émeut. »",
+                    "score": 95,
+                    "start": 203.478,
+                    "end": 230.282
+                },
+                {
+                    "titre": "Comment les nazis ont-ils défini l'art dégénéré ?",
+                    "extrait": "« L'art dégénéré trahit la nature parce que... Il est l'expression d'une biologie qui est elle-même dénaturée, qui est elle-même malade, alors que l'art allemand, lui, traduit la nature. Les proportions sont respectées, le corps grec est parfaitement harmonieux, la symétrie des temples et de l'architecture germanique depuis la Grèce est parfaitement respectée. »",
+                    "score": 90,
+                    "start": 369.576,
+                    "end": 394.664
+                },
+                {
+                    "titre": "« La revanche des dégénérés »",
+                    "extrait": "« Mais pour nous, aujourd'hui, il y a une énorme revanche des dégénérés. Parce que rien ne peut produire une plus grande émotion que de se trouver face à un tableau de Chagall ou face à un tableau de Picasso. Donc, moi, j'aurais peut-être intitulé cette exposition « La revanche des dégénérés ». »",
+                    "score": 92,
+                    "start": 540.196,
+                    "end": 558.383
                 }
             ]
         },
