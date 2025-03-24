@@ -1,6 +1,6 @@
 {
-    "date": "Mis à jour le 24/03/2025 à 15:10",
-    "unix": 1742825448,
+    "date": "Mis à jour le 24/03/2025 à 15:24",
+    "unix": 1742826269,
     "shows": [
         {
             "title": "Les jeunes sont-ils plus exposés que les autres aux fausses nouvelles ?",
@@ -1333,6 +1333,73 @@
                     "score": 92,
                     "start": 1636.158,
                     "end": 1664.534
+                }
+            ]
+        },
+        {
+            "title": "Les actionnaires veulent-ils le bien de l'entreprise ? ",
+            "id": "1e30db82-e27f-4541-aca5-31a50e5effd4",
+            "show": "Entendez-vous l'éco ?",
+            "show_id": "ec20bd96-cdfc-44ce-8a1b-85c33cc8b7db",
+            "chapo": "Depuis les années 1980, les actionnaires ont pris une place croissante au sein des entreprises, influençant les stratégies de celle-ci entre entre rentabilité immédiate et vision de long terme. Les actionnaires servent-ils l’intérêt de l’entreprise ou privilégient-ils avant tout leurs profits ?",
+            "magnetotheque_id": "2025C29629S0083",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/entendez-vous-l-eco/les-actionnaires-veulent-ils-le-bien-de-l-entreprise-3807917",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/23118-24.03.2025-ITEMA_24069733-2025C29629S0083-NET_MFC_BDAA7080-22C2-4A1D-BB55-766E87B2D394-21.mp3",
+            "duration": 3529,
+            "date": 1742824725,
+            "settings": [
+                "savoirs"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "Pourquoi les dividendes sont-ils le baromètre de la santé des entreprises ?",
+                    "extrait": "\"Un dividende, c'est en gros la part du gâteau qui a été créé, qui arrive dans la poche de l'actionnaire directement. Donc, une entreprise qui distribue des dividendes, a priori, je dis bien a priori, c'est une entreprise qui a créé la richesse, et qui décide de donner cette richesse à ceux qui lui ont donné du capital, donc qui lui ont permis de créer cette richesse, en partie.\"",
+                    "score": 85,
+                    "start": 340.923,
+                    "end": 372.631
+                },
+                {
+                    "titre": "Les actionnaires sont-ils vraiment les propriétaires de l'entreprise ?",
+                    "extrait": "\"Juridiquement, on a entendu que l'actionnaire possède l'entreprise. C'est totalement faux, évidemment. Il ne possède que ses actions qui lui donnent des droits, néanmoins. Et ce sont ces droits-là de vote en assemblée générale qui vont leur permettre d'avoir une influence assez considérable sur la gouvernance des entreprises et la réorienter vers le profit.\"",
+                    "score": 90,
+                    "start": 1639.468,
+                    "end": 1658.696
+                },
+                {
+                    "titre": "Comment la financiarisation a-t-elle transformé les entreprises ?",
+                    "extrait": "\"Ce qu'on constate quand même, de manière tendancielle depuis les années 2000, un petit peu partout dans le monde, c'est que la répartition elle se déforme de plus en plus en faveur des dividendes. Donc, plus le gâteau grossit, plus on verse de dividendes, mais moins on va faire d'investissements relativement.\"",
+                    "score": 88,
+                    "start": 519.729,
+                    "end": 536.899
+                },
+                {
+                    "titre": "Les dividendes, un choix stratégique ou une obligation ?",
+                    "extrait": "\"Quand une entreprise fait des bénéfices, elle a le choix entre le réinvestir directement, dans l'entreprise, donc sous forme d'autofinancement, soit de fait le distribuer aux actionnaires sous forme de dividendes ou de rachats d'actions.\"",
+                    "score": 87,
+                    "start": 441.823,
+                    "end": 452.332
+                },
+                {
+                    "titre": "La financiarisation, un mal nécessaire ?",
+                    "extrait": "\"Les exemples multiples des crises financières à travers l'histoire, des bulles spéculatives, de l'argent qui a investi dans des endroits où il n'aurait pas dû être investi aussi massivement et qui finissent par éclater et provoquer des graves crises économiques, montrent que l'efficacité des actionnaires dans l'allocation du capital n'est pas vraiment optimale.\"",
+                    "score": 92,
+                    "start": 586.304,
+                    "end": 604.973
+                },
+                {
+                    "titre": "Les actionnaires, agents du changement ou freins à l'innovation ?",
+                    "extrait": "\"La question véritable, c'est comment on utilise ce profit ? Et là où on parle de financier sur l'entreprise, c'est quand, justement, la distribution de ce profit ne permet plus d'améliorer la création de la richesse ?\"",
+                    "score": 89,
+                    "start": 1728.364,
+                    "end": 1739.632
+                },
+                {
+                    "titre": "Milton Friedman et la responsabilité sociale des entreprises : un débat toujours d'actualité !",
+                    "extrait": "\"Dans un système de libre entreprise et propriété privée, un dirigeant d'entreprise est l'employé des propriétaires de l'entreprise. Il est directement responsable devant ses employeurs. Cette responsabilité est de mener l'entreprise en accord avec leurs désirs, qui en général doivent être de gagner autant d'argent que possible.\"",
+                    "score": 91,
+                    "start": 1300.325,
+                    "end": 1328.868
                 }
             ]
         },
