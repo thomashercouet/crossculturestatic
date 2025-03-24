@@ -1,6 +1,6 @@
 {
-    "date": "Mis à jour le 24/03/2025 à 11:04",
-    "unix": 1742810659,
+    "date": "Mis à jour le 24/03/2025 à 11:17",
+    "unix": 1742811447,
     "shows": [
         {
             "title": "Les jeunes sont-ils plus exposés que les autres aux fausses nouvelles ?",
@@ -692,6 +692,59 @@
                     "score": 94,
                     "start": 2830.928,
                     "end": 2867.752
+                }
+            ]
+        },
+        {
+            "title": "Pourquoi les humains ont-ils besoin de l'Histoire ?",
+            "id": "5d92ee27-20ed-4843-8763-05dd111cae9c",
+            "show": "Le Pourquoi du comment : philo  ",
+            "show_id": "b6bd068b-da10-4d88-8d15-f0e1c87ed34b",
+            "chapo": "Face aux événements qui nous sidèrent, l’histoire éclaire leurs causes et leurs enchaînements. Mais au-delà des faits, elle révèle aussi les représentations que les humains se font de leur place dans le temps et dans le monde. En tant qu’objet de connaissance, peut-elle prévenir la guerre ?",
+            "magnetotheque_id": "2025C45539E0045",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/le-pourquoi-du-comment-philo/pourquoi-les-humains-ont-ils-besoin-de-l-histoire-4661937",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/22788-24.03.2025-ITEMA_24069742-2025C45539E0045-NET_MFC_A1EF7C0C-5093-4F15-A746-3E437BFF2926-21.mp3",
+            "duration": 230,
+            "date": 1742810328,
+            "settings": [
+                "savoirs"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "Pourquoi avons-nous besoin de l'Histoire pour comprendre le présent ?",
+                    "extrait": "Lorsque survient en particulier un acte humain qui nous sidère à un coup d'État, à une guerre, à une prise de pouvoir, à l'échelle nationale ou internationale, voire mondiale, nous sommes tellement sidérés que nous avons besoin de comprendre et nous avons besoin de ce que nous appelons l'histoire. Nous avons besoin de situer ces actes dans l'histoire. Mais qu'est-ce qu'on entend exactement par là ?",
+                    "score": 90,
+                    "start": 9.094,
+                    "end": 31.047
+                },
+                {
+                    "titre": "L'Histoire : un miroir de nos représentations et de notre identité",
+                    "extrait": "Nous avons besoin de comprendre quelle signification les humains ont donné à leurs actes et si possible de le comprendre d'une manière aussi objective qu'un fait qui nous paraît naturel comme la foudre qui tombe sur un arbre. Nous avons besoin de comprendre le sens que les humains donnent à leur vie dans le temps pour comprendre leurs actes.",
+                    "score": 85,
+                    "start": 166.221,
+                    "end": 185.413
+                },
+                {
+                    "titre": "Peut-on éviter la guerre grâce à une meilleure compréhension de l'Histoire ?",
+                    "extrait": "Les représentations que les humains se font de l'histoire, doivent-elles même être un objet de connaissances, de connaissances factuelles, historiques, de compréhensions objectives et mutuelles pour éviter la guerre ?",
+                    "score": 88,
+                    "start": 195.939,
+                    "end": 227.522
+                },
+                {
+                    "titre": "L'Histoire, clé de notre orientation dans le monde",
+                    "extrait": "Nous avons besoin de l'histoire pour nous orienter dans le monde, dans le temps, à travers les représentations que nous nous faisons de nous-mêmes, nous-mêmes chaque individu, car notre identité dépend peut-être de ce sentiment de l'histoire.",
+                    "score": 92,
+                    "start": 195.939,
+                    "end": 218.772
+                },
+                {
+                    "titre": "Comment l'Histoire façonne-t-elle notre identité collective ?",
+                    "extrait": "Notre place dans l'histoire du monde, mais aussi nous-mêmes collectivement et parfois conflictuellement, les représentations que les humains se font de l'histoire.",
+                    "score": 87,
+                    "start": 195.939,
+                    "end": 218.772
                 }
             ]
         },
