@@ -1,6 +1,6 @@
 {
-    "date": "Mis à jour le 24/03/2025 à 08:56",
-    "unix": 1742802986,
+    "date": "Mis à jour le 24/03/2025 à 09:06",
+    "unix": 1742803589,
     "shows": [
         {
             "title": "Les jeunes sont-ils plus exposés que les autres aux fausses nouvelles ?",
@@ -5934,6 +5934,53 @@
                     "score": 92,
                     "start": 221.393,
                     "end": 246.333
+                }
+            ]
+        },
+        {
+            "title": "Pratiques diplomatiques : à la table des négociateurs",
+            "id": "99a8f811-ef03-413c-84c2-c77e110fc828",
+            "show": "France Culture va plus loin (l'Invité(e) des Matins)",
+            "show_id": "7431a6a7-481b-11e5-9fe0-005056a87c89",
+            "chapo": "L'accumulation des tensions mondiales a mis au centre des préoccupations la question de la diplomatie. En compagnie d'anciens ambassadeurs, nous tenterons aujourd'hui de comprendre les pratiques et les ressorts de l'action diplomatique. ",
+            "magnetotheque_id": "2025C16450S0083",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/france-culture-va-plus-loin-l-invite-e-des-matins/pratiques-diplomatiques-a-la-table-des-negociateurs-9830953",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/25479-24.03.2025-ITEMA_24069736-2025C16450S0083-NET_MFC_BD6D325B-CDC3-4341-84F3-0D784F69451C-21.mp3",
+            "duration": 2271,
+            "date": 1742802300,
+            "settings": [
+                "actu",
+                "interview"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "« La diplomatie est faite pour régler les différents, mais ce n'était pas l'intention russe »",
+                    "extrait": "« Je vois aussi que parfois la négociation, c'est-à-dire la discussion diplomatique, peut être, comme on dit, pas de bonne foi et peut être utilisée pour gagner du temps militairement. On l'a vu, les Russes pratiquent cela et ce que Pierre rappelait sur décembre 2021 est extrêmement juste. Les Russes ont développé tout un discours consistant à dire qu'il fallait discuter avec l'Europe. On parle de notre sécurité là, on parle de celle de l'Ukraine mais on parle aussi de la nôtre et bien évidemment comme nous, nous négocions de bonne foi. Nous avions accepté ces discussions. Or, on a vu très clairement que la Russie ne voulait pas discuter. La diplomatie est faite pour régler les différents, mais ce n'était pas l'intention russe. »",
+                    "score": 95,
+                    "start": 277.842,
+                    "end": 317.243
+                },
+                {
+                    "titre": "Comment la Russie utilise-t-elle la négociation comme un outil de guerre ?",
+                    "extrait": "« Ce que je constate pour l'instant, c'est qu'effectivement les conditions un peu léonines posées par la Russie à l'Ukraine, en l'espèce le fait de ne pas être soutenue militairement, et donc concrètement ça rejoint une demande de longue date des Russes, la démilitarisation de l'Ukraine, est évidemment pas acceptable, donc c'est une difficulté majeure qui va être de devoir traiter dans les négociations. »",
+                    "score": 90,
+                    "start": 347.573,
+                    "end": 369.639
+                },
+                {
+                    "titre": "« L'usage de la force sans objectif politique est vain »",
+                    "extrait": "« L'usage de la force, de l'action militaire sans objectif politique est vain. Les dernières années sont pleines d'exemples de ce type. »",
+                    "score": 85,
+                    "start": 2081.681,
+                    "end": 2092.266
+                },
+                {
+                    "titre": "Pourquoi la personnalité des chefs d'État influence-t-elle les négociations ?",
+                    "extrait": "« La personnalité, quand même, des chefs d'État compte. Comme le disait Pierre Levy dans la discussion qu'on avait, il y a une différence entre la manière dont s'organise un système diplomatique pour négocier et ce qu'en fait le chef d'État. Il y a une marge. Le cauchemar de n'importe quel diplomate, c'est ce qui s'est passé dans le bureau ovale. C'est comme ça, parce que ce n'est pas scripté, ça ne maîtrise pas. »",
+                    "score": 88,
+                    "start": 977.749,
+                    "end": 999.378
                 }
             ]
         },
