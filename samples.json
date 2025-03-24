@@ -1,6 +1,6 @@
 {
-    "date": "Mis à jour le 24/03/2025 à 08:45",
-    "unix": 1742802316,
+    "date": "Mis à jour le 24/03/2025 à 08:53",
+    "unix": 1742802832,
     "shows": [
         {
             "title": "Les jeunes sont-ils plus exposés que les autres aux fausses nouvelles ?",
@@ -6582,46 +6582,46 @@
                     "end": 366.086
                 },
                 {
-                    "titre": "La demande mondiale de cocaïne : un facteur clé de la violence en Équateur ?",
-                    "extrait": "« En France, dans les dix dernières années, la consommation de cocaïne, elle a doublé. On ne peut pas faire litière de la responsabilité des consommateurs, c'est ce que vous nous dites. »",
-                    "score": 85,
-                    "start": 408.784,
-                    "end": 417.731
-                },
-                {
-                    "titre": "L'Équateur : un pays écartelé entre ses régions et ses traditions",
+                    "titre": "Pourquoi l'Équateur est-il écartelé entre ses régions ?",
                     "extrait": "« C'est le cœur du problème équatorien, c'est-à-dire écartelé. Écartelé entre ces régions qui n'ont pas les mêmes intérêts, les mêmes traditions, et qui doivent composer, et pendant 200 ans, elles vont composer. »",
-                    "score": 88,
+                    "score": 85,
                     "start": 2590.013,
                     "end": 2604.159
                 },
                 {
-                    "titre": "Pourquoi l'Équateur est-il un pays méconnu ?",
-                    "extrait": "« Nous allons parler de l'Équateur, afin de tâcher de comprendre cette nation méconnue. »",
+                    "titre": "L'Équateur, un pays aux richesses naturelles inégalement réparties",
+                    "extrait": "« Les richesses naturelles du pays échappent ainsi largement à la majorité de la population, non sans risque d'explosions diverses. »",
                     "score": 80,
-                    "start": 150.643,
-                    "end": 157.007
+                    "start": 179.1,
+                    "end": 187.302
                 },
                 {
-                    "titre": "La violence en Équateur : un mal-être historique ?",
-                    "extrait": "« Les composantes en sont tout à la fois politiques, écologiques, ethniques, économiques, culturelles et religieuses, selon un déséquilibre qui favorise l'insécurité et le commerce des narcotrafiquants. »",
-                    "score": 87,
-                    "start": 165.352,
-                    "end": 178.58
+                    "titre": "Comment la violence a-t-elle explosé en Équateur ?",
+                    "extrait": "« Aujourd'hui, elle atteint presque 50 homicides pour 100 000 habitants. C'est-à-dire 8 ou 9 fois plus qu'il y a moins de 10 ans. »",
+                    "score": 88,
+                    "start": 488.203,
+                    "end": 502.75
                 },
                 {
-                    "titre": "L'impact de la géographie sur l'identité équatorienne",
+                    "titre": "L'Équateur, un pays aux multiples facettes",
                     "extrait": "« C'est un petit pays en Amérique latine. La moitié de la France. Il y a 5 fois moins que ses deux voisins, 4 à 5 fois moins que la Colombie et le Pérou. »",
-                    "score": 82,
+                    "score": 75,
                     "start": 563.185,
                     "end": 574.412
                 },
                 {
-                    "titre": "L'Équateur face à la nature : une lutte constante",
-                    "extrait": "« La nature est très dure parce qu'il y a beaucoup de tremblements de terre. Et d'ailleurs, les villes, les grandes villes équatoriennes ont été détruites régulièrement. »",
-                    "score": 84,
-                    "start": 974.3,
-                    "end": 983.906
+                    "titre": "Pourquoi l'histoire de l'Équateur est-elle si complexe ?",
+                    "extrait": "« Ce qui s'est produit, c'est qu'une fois les Espagnols victorieux, ayant vaincu l'Inca, l'ensemble de cette région andine a été organisé par l'Espagne et a été créée une vice-royauté à Lima. »",
+                    "score": 82,
+                    "start": 1605.591,
+                    "end": 1630.016
+                },
+                {
+                    "titre": "L'Équateur, un pays marqué par la violence et le narcotrafic",
+                    "extrait": "« Le président équatorien, élu en octobre dernier, a juré d'éradiquer les bandes criminelles. »",
+                    "score": 87,
+                    "start": 330.812,
+                    "end": 335.738
                 }
             ]
         },
@@ -6650,32 +6650,32 @@
                     "end": 650.517
                 },
                 {
-                    "titre": "« La suppression du service militaire fut une erreur » : Ciotti s'exprime sur la défense nationale",
+                    "titre": "« La suppression du service militaire fut une erreur » : Eric Ciotti s'exprime sur la défense nationale",
                     "extrait": "\"Je crois que la suppression du service militaire fut une erreur. Aujourd'hui, il serait très compliqué parce que notre modèle de défense n'est plus organisé sur la conscription. Nos armées ne pourraient plus accueillir, compte tenu de leur format des conscrits, comme on les appelait. Mais je crois que la suppression du service militaire fut une erreur. Le service militaire, c'était tout à la fois un engagement pour la nation, mais c'était aussi un brassage social de différentes personnalités, c'était un vecteur d'intégration, c'était aussi le lieu de la transmission de repères pour quelquefois ceux qui n'en disposaient pas par ailleurs.\"",
                     "score": 90,
                     "start": 113.183,
                     "end": 159.111
                 },
                 {
-                    "titre": "« Nous avons besoin d'un grand plan de liberté » : Ciotti appelle à la simplification administrative",
+                    "titre": "« Nous avons besoin d'un grand plan de liberté » : Eric Ciotti sur la bureaucratie en France",
                     "extrait": "\"Je crois qu'il faut un grand plan de liberté, moins de bureaucratie, moins de normes, moins de contraintes, et au final, moins de dépenses, et donc moins d'impôts. C'est cette logique qui m'a inspiré. Nous sommes dans un pays, aujourd'hui, qui est assommé par une bureaucratie. 1200 agences. Dès qu'il y a un problème, et malheureusement il se multiplie, on crée une structure, on crée une institution, qui elles-mêmes vont créer des normes, parce qu'elles vont justifier leur présence et leur activité et leurs dépenses par la création de normes, qui vont empêcher l'activité économique.\"",
                     "score": 92,
                     "start": 1371.906,
                     "end": 1413.426
                 },
                 {
-                    "titre": "« La France est un État collectiviste » : Ciotti dénonce la gestion actuelle",
+                    "titre": "« La France est un État collectiviste » : Eric Ciotti dénonce la situation économique",
                     "extrait": "\"Quand on est dans l'État aujourd'hui de la France, 58% de dépenses publiques par an. Record d'Europe. Quand on est dans l'État de la France en matière de prélèvement obligatoire... 46% de prélèvements obligatoires, record du monde. Quand on voit que nous sommes asphyxiés par ces institutions, que notre croissance est annoncée à 0,8%, c'est-à-dire presque 10 fois moins qu'en Argentine et presque 5 fois moins qu'aux Etats-Unis... On se dit qu'il y a quelque chose qui ne fonctionne plus. On est un État qui est collectiviste, qui est presque un État socialiste.\"",
                     "score": 94,
                     "start": 1544.451,
                     "end": 1587.457
                 },
                 {
-                    "titre": "« Les 11 millions de Français qui ont voté pour notre coalition ne sont ni des nazis, ni des fascistes »",
-                    "extrait": "\"Au premier tour de l'élection législative, 11 millions de Français ont voté pour notre coalition. Ces 11 millions de Français, ce ne sont ni des nazis, ni des fascistes, ce sont des Français qui ne supportent plus l'état de leur pays. Et vous avez une classe politique qui a à peu près tout échoué, tout échoué, qui a conduit le pays dans le mur, qui a affaibli nos services publics, l'éducation, la santé, qui a ruiné nos comptes, qui a laissé prospérer l'insécurité dans nos rues et qui vient donner des leçons à ces Français.\"",
+                    "titre": "« Je ne rêve pas d'être dans ce gouvernement » : Eric Ciotti critique l'impuissance politique actuelle",
+                    "extrait": "\"Moi, je considère aujourd'hui que ceux qui occupent un poste gouvernemental... quelque part sont des intérimaires. Nous sommes dans une période de transition où il ne se passe pas grand chose quand vous regardez les textes qui se déroulent à l'Assemblée Nationale. C'est des textes qui ne vont pas changer la France alors que la France a besoin de réformes puissantes. J'ai rien contre le ministre de l'Intérieur, c'est plutôt un ami, on partage le même constat et les mêmes convictions. Mais il est prisonnier d'une coalition, d'une coalition de l'impuissance.\"",
                     "score": 93,
-                    "start": 998.842,
-                    "end": 1033.472
+                    "start": 340.227,
+                    "end": 383.045
                 }
             ]
         },
@@ -6704,14 +6704,14 @@
                     "end": 117.135
                 },
                 {
-                    "titre": "L'art contemporain : une passion ou une mission ?",
+                    "titre": "L'art contemporain : une passion et une mission",
                     "extrait": "« C'est une passion et aujourd'hui c'est une mission passionnante avec des esprits passionnés que sont les artistes, les collectionneurs, les curateurs. »",
                     "score": 80,
                     "start": 154.094,
                     "end": 165.377
                 },
                 {
-                    "titre": "Le Grand Palais : un espace culturel accessible à tous !",
+                    "titre": "Le Grand Palais : un espace culturel accessible à tous",
                     "extrait": "« Nous aurons 7000 m² gratuits. Et ça, avant, pour rentrer au Grand Palais, il fallait un ticket. »",
                     "score": 90,
                     "start": 4573.312,
@@ -6725,60 +6725,60 @@
                     "end": 4325.783
                 },
                 {
-                    "titre": "Le Grand Palais : un lieu de fête et d'expérimentation !",
-                    "extrait": "« Je crois beaucoup aussi au contexte dans lequel sont les musées les Champs-Élysées, ça tait toujours un monde de la nuit. »",
+                    "titre": "L'impact des Jeux Olympiques sur le Grand Palais",
+                    "extrait": "« Nous avons beaucoup... Bon, déjà, on n'a plus aucun créneau, on a même du mal à trouver une date dans l'année, parce qu'on a beaucoup d'événements qui se produisent. »",
                     "score": 85,
+                    "start": 6277.683,
+                    "end": 6288.271
+                },
+                {
+                    "titre": "Le Grand Palais : un lieu de fête et d'expérimentation",
+                    "extrait": "« Je crois beaucoup à ça, parce qu'on a un public qui adore ça mais moi j'adore quand on me propose de venir à 11h du soir parce que vous avez pu manger avant si vous avez des gosses ils sont couchés. »",
+                    "score": 88,
                     "start": 4985.768,
                     "end": 5013.607
                 },
                 {
-                    "titre": "Les défis financiers du Grand Palais : comment s'en sortir ?",
-                    "extrait": "« Il faut dégager 10 millions par an. Donc sur un budget de 110 millions à peu près. »",
-                    "score": 80,
-                    "start": 4838.424,
-                    "end": 4843.766
-                },
-                {
-                    "titre": "Le mécénat : une bouée de sauvetage pour le Grand Palais ?",
+                    "titre": "Le mécénat : un soutien essentiel pour la culture",
                     "extrait": "« Nous avons eu ces deux grands mécènes, comme Chanel... Vélux, AXA qui nous ont apporté aussi près de 30 millions d'euros. »",
-                    "score": 85,
+                    "score": 82,
                     "start": 4814.114,
                     "end": 4838.384
                 },
                 {
-                    "titre": "Le Grand Palais : un modèle économique à réinventer !",
-                    "extrait": "« Nous, on connaît bien le chiffre, parce qu'effectivement, le Grand Palais n'a jamais fait plus de 1,5 million d'euros dans son histoire de résultats nets. »",
-                    "score": 80,
-                    "start": 4802.769,
-                    "end": 4811.853
+                    "titre": "Le Grand Palais : un modèle économique à repenser",
+                    "extrait": "« Il faut dégager 10 millions par an. Donc sur un budget de 110 millions à peu près. »",
+                    "score": 78,
+                    "start": 4838.424,
+                    "end": 4843.766
                 },
                 {
-                    "titre": "Les expositions au Grand Palais : un mélange d'art et de spectacle !",
-                    "extrait": "« Nous allons essayer également de faire en sorte que la nef, en été, pour le tiers de sa superficie, soit également d'accès libre. »",
+                    "titre": "L'art contemporain face à la critique : pourquoi tant de haine ?",
+                    "extrait": "« D'abord, je pense que, finalement, l'art contemporain de chaque époque a toujours été très critiqué quand on regarde le cubisme arriver, ou le surréalisme, ou même l'impressionnisme. »",
                     "score": 90,
-                    "start": 4588.023,
-                    "end": 4599.873
-                },
-                {
-                    "titre": "Le Grand Palais : un lieu de rencontre entre l'art et le public !",
-                    "extrait": "« Le public sait qu'il vit une aventure comme ça. »",
-                    "score": 85,
-                    "start": 5130.414,
-                    "end": 5136.056
-                },
-                {
-                    "titre": "Les enjeux de l'art contemporain : pourquoi tant de critiques ?",
-                    "extrait": "« L'art contemporain de chaque époque a toujours été très critiqué quand on regarde le cubisme arriver, ou le surréalisme, ou même l'impressionnisme. »",
-                    "score": 80,
                     "start": 3655.25,
                     "end": 3664.837
                 },
                 {
-                    "titre": "Le Grand Palais : un espace pour tous les événements !",
-                    "extrait": "« C'est ça la magie du Grand Palais, c'est qu'on peut avoir Niki de Saint-Fal, on peut avoir Duchamp, on peut avoir une patinante, on peut avoir Art Basel. »",
-                    "score": 90,
+                    "titre": "Le Grand Palais : un espace pour tous les événements",
+                    "extrait": "« C'est ça la magie du Grand Palais, c'est qu'on peut avoir Niki de Saint-Fal, on peut avoir Duchamp, on peut avoir une patinante, on peut avoir Art Basel, et on peut avoir le saut Hermès. »",
+                    "score": 85,
                     "start": 5892.424,
                     "end": 5901.273
+                },
+                {
+                    "titre": "Comment le Grand Palais s'adapte aux nouvelles technologies ?",
+                    "extrait": "« On va les développer à terme d'une façon assez étonnante. »",
+                    "score": 80,
+                    "start": 6428.399,
+                    "end": 6431.82
+                },
+                {
+                    "titre": "Le Grand Palais : un lieu de culture en constante évolution",
+                    "extrait": "« C'est un bâtiment qui a connu beaucoup de choses. En 1944, il a été incendié. On a attendu 20 ans pour refaire toute la partie sur les Champs-Élysées. »",
+                    "score": 75,
+                    "start": 4378.423,
+                    "end": 4386.87
                 }
             ]
         },
@@ -6806,18 +6806,18 @@
                     "end": 25.675
                 },
                 {
-                    "titre": "« L'enfance, un personnage qui s'est fondu dans l'air du temps »",
-                    "extrait": "Dans ces souvenirs, je ne dirai de moi ni mal ni bien. Ce n'est pas de moi que je parle, mais de l'enfant que je ne suis plus. C'est un petit personnage que j'ai connu et qui s'est fondu dans l'air du temps, à la manière des moineaux qui disparaissent sans laisser de squelette.",
+                    "titre": "« L'expérience désenchante les collines »",
+                    "extrait": "L'expérience, la précieuse expérience, avait désenchanté mes collines et dépeuplé les noirs pinèdes. Plus de lions, plus d'ours griselits, pas même un loup solitaire. Ils avaient tous réintégré les pages illustrées de mon histoire naturelle, et je savais bien qu'ils n'en sortiraient jamais plus.",
                     "score": 90,
-                    "start": 36.911,
-                    "end": 55.414
+                    "start": 642.443,
+                    "end": 659.812
                 },
                 {
-                    "titre": "« La magie des petites choses »",
-                    "extrait": "Je serrais le tronc dans mes bras, sous le bourdonnement des abeilles qui suçaient le miel des figues ridées, et je baisais sa peau d'éléphant en murmurant des mots d'amitié.",
+                    "titre": "« La beauté peut faire rougir »",
+                    "extrait": "C'est plutôt parce que je vous impressionne. C'est ma beauté. C'est comme ça avec tous les garçons. Je les fais rougir quand je veux.",
                     "score": 85,
-                    "start": 209.882,
-                    "end": 218.326
+                    "start": 1430.347,
+                    "end": 1439.429
                 }
             ]
         },
@@ -6839,24 +6839,24 @@
             "extraits": [
                 {
                     "titre": "Comment la mort façonne notre rapport à la terre ?",
-                    "extrait": "« Le lieu où on enterre les morts est plein de signification. De nos jours, le lieu où reposeront la dépouille ou les cendres des personnes qui nous sont chères est généralement investi de beaucoup de sens par les familles en deuil et même par les défunts du temps de leur vivant. »",
-                    "score": 90,
+                    "extrait": "« Le lieu où on enterrent les morts est plein de signification. De nos jours, le lieu où reposeront la dépouille ou les cendres des personnes qui nous sont chères est généralement investi de beaucoup de sens par les familles en deuil et même par les défunts du temps de leur vivant. »",
+                    "score": 85,
                     "start": 184.603,
                     "end": 201.632
                 },
                 {
-                    "titre": "Ruth, l'étrangère qui défie les conventions !",
-                    "extrait": "« Ruth, la moabite, dit à Naomi « Je voudrais bien aller au champ et glaner dans les épis derrière celui aux yeux duquel je trouverai grâce. » Elle entra et glana dans le champ derrière les moissonneurs. Sa chance fut que ce soit la parcelle de Boaz, lequel était de la famille d'Élimélech. »",
-                    "score": 85,
+                    "titre": "Pourquoi Ruth est-elle la véritable héroïne de cette histoire ?",
+                    "extrait": "« Ruth, la moabite, dit à Naomi « Je voudrais bien aller au champ et glaner dans les épis derrière celui aux yeux duquel je trouverai grâce. »... Ruth, la suiveuse, qui dans un premier temps, dans le premier chapitre, était derrière Naomi, se retrouve maintenant derrière les moissonneurs. »",
+                    "score": 90,
                     "start": 611.428,
                     "end": 642.561
                 },
                 {
-                    "titre": "L'accueil radical : un acte de générosité inouï !",
-                    "extrait": "« Boaz a ici une attitude pleine de générosité, pour qu'elle n'ait pas à chercher un champ accueillant, Boaz, officialiste pourrait-on dire, sa position de glaneuse dans son champ, et met tout en place pour qu'elle puisse glaner sans risque d'être agressée. »",
+                    "titre": "La rencontre miraculeuse : un acte de générosité inattendu",
+                    "extrait": "« Boaz a ici une attitude pleine de générosité... Il la sort ainsi de sa précarité, lui donnant un statut et la sécurité. »",
                     "score": 88,
-                    "start": 1314.037,
-                    "end": 1331.722
+                    "start": 1319.298,
+                    "end": 1337.383
                 }
             ]
         },
@@ -6878,14 +6878,14 @@
             "extraits": [
                 {
                     "titre": "« Je suis décidée à ne plus m’en tenir désormais qu’à l’essentiel »",
-                    "extrait": "« Je suis décidée à ne plus m’en tenir désormais qu’à l’essentiel et à me défaire de tout le reste comme d’une guenille. »",
+                    "extrait": "Je suis décidée à ne plus m’en tenir désormais qu’à l’essentiel, et à me défaire de tout le reste comme d’une guenille.",
                     "score": 95,
                     "start": 387.845,
                     "end": 395.848
                 },
                 {
                     "titre": "« Sais-tu quand j’ai prié le plus intensément ? »",
-                    "extrait": "« Sais-tu quand j’ai prié le plus intensément ? Pas quand je me sentais malheureuse. Mais un jour où je fus heureuse, infiniment heureuse, j'écoutais la respiration d'un homme qui dormait dans la nuit. »",
+                    "extrait": "Sais-tu quand j’ai prié le plus intensément ? Pas quand je me sentais malheureuse. Mais un jour où je fus heureuse, infiniment heureuse, j’écoutais la respiration d’un homme qui dormait dans la nuit.",
                     "score": 90,
                     "start": 498.644,
                     "end": 511.429
@@ -6916,18 +6916,18 @@
                     "end": 190.712
                 },
                 {
-                    "titre": "Pourquoi les enfants cherchent-ils un abri dans la nature ?",
-                    "extrait": "Il est certain que la collectivité crée chez certains enfants un sentiment d'insécurité. Alors, le grand défi de l'école de plein air, c'est un paradoxe qui consiste à dire qu'on va construire un bâtiment pour que les enfants soient en plein air. Anne-Marie Châtelet. Donc, en principe, un bâtiment n'est pas pour être en plein air, à l'inverse. Donc, comment concevoir une architecture qui soit faite pour le plein air ?",
+                    "titre": "Une école sans murs : un rêve devenu réalité !",
+                    "extrait": "Alors, le grand défi de l'école de plein air, c'est un paradoxe qui consiste à dire qu'on va construire un bâtiment pour que les enfants soient en plein air. Anne-Marie Châtelet. Donc, en principe, un bâtiment n'est pas pour être en plein air, à l'inverse. Donc, comment concevoir une architecture qui soit faite pour le plein air ?",
                     "score": 90,
-                    "start": 385.132,
+                    "start": 397.588,
                     "end": 419.158
                 },
                 {
-                    "titre": "Une école sans murs : un rêve devenu réalité !",
-                    "extrait": "Dans dix ans, les enfants de Suren ne comprendront pas notre répugnance à quitter le passé. Leur école n'a pas de mur. Enfin, presque pas. De cela, ils se trouvent bien. Nous n'avons pas à en douter en les voyant rire.",
-                    "score": 92,
-                    "start": 1471.031,
-                    "end": 1487.686
+                    "titre": "Pourquoi les enfants cherchent-ils un abri dans la nature ?",
+                    "extrait": "Il est certain que la collectivité crée chez certains enfants un sentiment d'insécurité. Alors, le grand défi de l'école de plein air, c'est un paradoxe qui consiste à dire qu'on va construire un bâtiment pour que les enfants soient en plein air.",
+                    "score": 85,
+                    "start": 385.132,
+                    "end": 407.833
                 }
             ]
         },
@@ -6978,95 +6978,76 @@
             "limit": 0,
             "extraits": [
                 {
-                    "titre": "« Nous aussi, nous avons le droit d'écrire »",
-                    "extrait": "« Cet homme, sans le savoir peut-être, mais lui qui nous faisait découvrir les poésies de Rimbaud, de Verlaine, d'Hugo, etc., nous disait implicitement, mais vous aussi, vos gamins de cette petite ville ouvrière, vous aussi vous avez le droit d'écrire de la poésie. Ce n'est pas réservé à des morts, ce n'est pas réservé à des grands poètes, chacun a le droit d'écrire. »",
-                    "score": 95,
-                    "start": 271.337,
+                    "titre": "Comment un instituteur a changé la vie de Philippe Claudel ?",
+                    "extrait": "Il y a eu un instituteur en fait qui a été très important pour moi, je devais être en CM1 peut-être ou CM2, je ne sais plus, et c'est un instituteur très vieille école, c'est-à-dire que c'était encore la blouse grise, il avait commencé dans les années 30, mais chaque jeudi, il nous demandait de venir avec quelques vers de poésie qu'on aurait écrit nous-mêmes. Alors ça a été une torture pour la plupart de mes camarades, mais moi ça a été un miracle parce que cet homme, sans le savoir peut-être, mais lui qui nous faisait découvrir les poésies de Rimbaud, de Verlaine, d'Hugo, etc., nous disait implicitement, mais vous aussi, vos gamins de cette petite ville ouvrière, vous aussi vous avez le droit d'écrire de la poésie. Ce n'est pas réservé à des morts, ce n'est pas réservé à des grands poètes, chacun a le droit d'écrire.",
+                    "start": 250.322,
                     "end": 296.568
                 },
                 {
-                    "titre": "Comment la musique influence l'écriture ?",
-                    "extrait": "« Pour le cinéma, oui. Pas pour les livres ? Non, non, pas pour les livres. Le seul souvenir que j'ai, c'est un livre que vous avez cité, J'abandonne, où là, j'ai écouté en boucle un petit morceau de Bach du clavier bien tempéré, mais c'est le seul exemple, autrement, j'ai besoin de silence quand j'écris. »",
-                    "score": 90,
+                    "titre": "Pourquoi Philippe Claudel a-t-il voulu devenir guide de haute montagne ?",
+                    "extrait": "Il se trouve qu'on partait très peu en vacances, mais quand on partait quelques jours, c'était toujours dans des zones de montagne, en Autriche, dans le Tirol, parce que c'était pas cher... Et je regardais ces montagnes, cette démesure au-dessus de moi, le sentiment d'être rien en fait, d'être microscopique et à la jumelle de voir des hommes et des femmes qui étaient là-haut. Et ça, ça me fascinait. Donc c'est devenu quelque chose de très important dans ma vie. J'allais dire même plus que la littérature, le cinéma ou tout le reste.",
+                    "start": 476.865,
+                    "end": 502.376
+                },
+                {
+                    "titre": "La révélation d'un amour pour la littérature : comment une rencontre a changé la vie de Bertrand Belin ?",
+                    "extrait": "C'est une jeune femme qui était lycéenne à cette époque-là. Et quand je suis arrivé à Paris, j'ai rencontré toute sa bande, enfin, des amis qui sont encore mes amis aujourd'hui, parmi lesquels des gens qui s'intéressaient au théâtre, d'autres à la musique, d'autres à la littérature... Et qui ont poursuivi leurs études. Et moi, je sortais d'un CAP, d'un VEP d'électricien à cette époque-là. Je reconnais que je me sentais à l'aise avec cette bande parce que j'étais déjà musicien et que j'avais pour moi quand même cette aisance à la guitare qui me permettait d'intégrer une communauté d'amitié comme ça.",
+                    "start": 824.966,
+                    "end": 863.074
+                },
+                {
+                    "titre": "Philippe Claudel : \"La poésie, c'est le nucléaire de la littérature\"",
+                    "extrait": "J'ai besoin de cette liberté en fait. Et moi je l'ai souvent considéré, enfin il me semble que la poésie, je ne parle pas de ce que j'essaie de faire, mais c'est vraiment le nucléaire de la littérature, c'est-à-dire que c'est le noyau dur la poésie, c'est quelque chose qui est vraiment comme... Comme la pierre, quoi. Moi, je suis toujours frappé de ce que peut contenir un poème en très peu de mots, de contenir cet univers.",
+                    "start": 4902.572,
+                    "end": 4943.6
+                },
+                {
+                    "titre": "Comment la musique influence-t-elle l'écriture de Philippe Claudel ?",
+                    "extrait": "Curieusement, pour le cinéma, oui. Pas pour les livres ? Non, non, pas pour les livres. Le seul souvenir que j'ai, c'est un livre que vous avez cité, J'abandonne, où là, j'ai écouté en boucle un petit morceau de Bach du clavier bien tempéré, mais c'est le seul exemple, autrement, j'ai besoin de silence quand j'écris.",
                     "start": 1915.741,
                     "end": 1931.151
                 },
                 {
-                    "titre": "« La poésie, c'est le nucléaire de la littérature »",
-                    "extrait": "« J'ai besoin de cette liberté en fait. Et moi je l'ai souvent considéré, enfin il me semble que la poésie, je ne parle pas de ce que j'essaie de faire, mais c'est vraiment le nucléaire de la littérature, c'est-à-dire que c'est le noyau dur la poésie, c'est quelque chose qui est vraiment comme... Comme la pierre, quoi. »",
-                    "score": 92,
-                    "start": 4902.572,
-                    "end": 4933.89
-                },
-                {
-                    "titre": "Pourquoi Philippe Claudel a-t-il commencé à écrire tard ?",
-                    "extrait": "« 37 ans, c'est pas jeune. Il y a eu quelques petits textes avant dans des revues. On a la chance en France quand même d'avoir un vivier de revues littéraires qui... qui naissent et qui meurent rapidement, mais qui sont quand même des laboratoires comme ça pour des jeunes auteurs et autrices. »",
-                    "score": 88,
-                    "start": 1330.195,
-                    "end": 1347.623
-                },
-                {
-                    "titre": "« La vie, la vie, la vie. Mauvais garçon, mauvaise fille. »",
-                    "extrait": "« La vie jamais ne donne d'extra balle, ni de partie gratuite. Il faut toujours les lui voler, lui faire les poches, la détrousser, la mettre à terre à coups de boule et de satan, lui écraser la tronche. Mauvais garçon. Mauvaise fille, la vie, la vie, la vie. Mauvais garçon, mauvaise fille. »",
-                    "score": 94,
-                    "start": 4831.856,
-                    "end": 4857.937
-                },
-                {
-                    "titre": "Comment la montagne a façonné Philippe Claudel ?",
-                    "extrait": "« Moi, très tôt, comme tout gamin, j'ai été fasciné par les récits d'explorateurs et peu à peu, j'en suis venu aux récits de montagne. Donc, soit des récits d'alpinistes, soit des romans inspirés de la montagne, comme la trilogie de Frison-Roche. »",
-                    "score": 89,
-                    "start": 464.396,
-                    "end": 476.785
-                },
-                {
-                    "titre": "« Nous buvions, trop, marchant au tout petit matin dans les rues de la ville. »",
-                    "extrait": "« Nous nous sentions tellement vivants. Nous titubions vers nos sommeils de draps tièdes et ne désirions que baiser, baiser un peu saouls, car nous aimions tellement boire et baiser, et tellement baiser quand nous avions trop bu, nous caresser improbablement et vivre à rebours du temps des hommes. »",
-                    "score": 93,
-                    "start": 4758.038,
-                    "end": 4777.878
-                },
-                {
-                    "titre": "Pourquoi la prison est-elle un sujet récurrent dans l'œuvre de Philippe Claudel ?",
-                    "extrait": "« J'ai beaucoup écrit là-dessus, j'ai beaucoup rencontré nos dirigeants même pour leur en parler. Et tout le monde convient de ça, mais rien ne se fait. C'est comme l'éducation artistique à l'école, tout le monde est d'accord, personne n'en fait. »",
-                    "score": 91,
-                    "start": 1802.002,
-                    "end": 1829.661
-                },
-                {
-                    "titre": "« C'est un miracle de rencontrer la personne qui va pouvoir vous aider »",
-                    "extrait": "« Et donc voilà, le miracle, ça a été de rencontrer une jeune fille qui est devenue ma femme, qui l'est toujours... Et qui m'a mis, mais littéralement, un gros coup de pied au cul, quoi, pour me dire, mais tu es en train de gâcher ta vie. »",
-                    "score": 90,
-                    "start": 997.527,
-                    "end": 1020.446
-                },
-                {
-                    "titre": "Comment la musique a-t-elle façonné l'œuvre de Bertrand Belin ?",
-                    "extrait": "« La chanson est un fait social, c'est quelque chose qui existait avant ma naissance, qui continuera bien longtemps après ma mort. Et il ne s'agit pas d'essayer d'arriver et puis de lui tordre le cou à cette façon de faire en disant « tout est nul, maintenant je vais vous montrer ce que c'est qu'une vraie chanson ». »",
-                    "score": 87,
-                    "start": 2398.963,
-                    "end": 2415.358
-                },
-                {
-                    "titre": "« La prison est une machine formidable pour fabriquer de la récidive »",
-                    "extrait": "« La prison est une machine formidable pour fabriquer de la récidive. Donc ça, on le sait. Tout le monde le sait. Les politiques, l'administration pénitentiaire, les psychiatres, les juges, etc. Mais on continue quand même à y croire. »",
-                    "score": 95,
+                    "titre": "Philippe Claudel : \"La prison est une machine formidable pour fabriquer de la récidive\"",
+                    "extrait": "La prison est une machine formidable pour fabriquer de la récidive. Donc ça, on le sait. Tout le monde le sait. Les politiques, l'administration pénitentiaire, les psychiatres, les juges, etc. Mais on continue quand même à y croire.",
                     "start": 1844.312,
                     "end": 1857.456
                 },
                 {
-                    "titre": "Pourquoi Philippe Claudel considère-t-il l'enseignement comme essentiel ?",
-                    "extrait": "« Moi, j'ai toujours considéré que c'est un métier formidable. Le métier d'enseigner, c'est-à-dire essayer de transmettre le peu qu'on a acquis. Et je prends l'enseignement au sens très, très large. »",
-                    "score": 89,
+                    "titre": "Pourquoi Philippe Claudel considère-t-il l'enseignement comme un métier fondamental ?",
+                    "extrait": "Moi, j'ai toujours considéré que c'est un métier formidable. Le métier d'enseigner, c'est-à-dire essayer de transmettre le peu qu'on a acquis. Et je prends l'enseignement au sens très, très large. Ça peut être la musique, le cinéma. Enfin, voilà. On a acquis... certaines choses, et on se met en demeure de les transmettre à plus jeunes ou à celles et ceux qui en savent moins que nous.",
                     "start": 1052.955,
-                    "end": 1062.307
+                    "end": 1075.938
                 },
                 {
-                    "titre": "« C'était le temps des heures liquides »",
-                    "extrait": "« C'était le temps des heures liquides. Nous voulions aussi fort ressembler au maquillage de nos idoles Bowie, Laurie, Jagger, Iggy, Sid, Jostromer. »",
-                    "score": 92,
-                    "start": 4680.328,
-                    "end": 4689.67
+                    "titre": "Comment la rencontre avec sa femme a-t-elle changé la vie de Philippe Claudel ?",
+                    "extrait": "Le miracle, ça a été de rencontrer une jeune fille qui est devenue ma femme, qui l'est toujours... Et qui m'a mis, mais littéralement, un gros coup de pied au cul, quoi, pour me dire, mais tu es en train de gâcher ta vie, si tu veux écrire ou faire des films, d'accord, mais enfin, essaye de sortir la tête de l'eau, de reprendre des études sérieusement.",
+                    "start": 997.527,
+                    "end": 1020.446
+                },
+                {
+                    "titre": "Philippe Claudel : \"Il faut toujours voler la vie\"",
+                    "extrait": "La vie jamais ne donne d'extra balle, ni de partie gratuite. Il faut toujours les lui voler, lui faire les poches, la détrousser, la mettre à terre à coups de boule et de satan, lui écraser la tronche. Mauvais garçon. Mauvaise fille, la vie, la vie, la vie.",
+                    "start": 4831.856,
+                    "end": 4855.351
+                },
+                {
+                    "titre": "Comment la musique de Bertrand Belin influence-t-elle son écriture ?",
+                    "extrait": "Il y a une dimension qui nous échappe quand même. La chanson est un fait social, c'est quelque chose qui existait avant ma naissance, qui continuera bien longtemps après ma mort. Et il ne s'agit pas d'essayer d'arriver et puis de lui tordre le cou à cette façon de faire en disant « tout est nul, maintenant je vais vous montrer ce que c'est qu'une vraie chanson ».",
+                    "start": 2392.877,
+                    "end": 2415.358
+                },
+                {
+                    "titre": "Pourquoi Philippe Claudel pense-t-il que l'écriture littéraire nécessite de la maturité ?",
+                    "extrait": "Il y a eu quelques petits textes avant dans des revues. On a la chance en France quand même d'avoir un vivier de revues littéraires qui... qui naissent et qui meurent rapidement, mais qui sont quand même des laboratoires comme ça pour des jeunes auteurs et autrices. Donc il y a eu quelques textes, et puis un jour, comme je l'avais écrit dans un texte plus tard, mon premier roman n'est pas le vôtre. Enfin, ce n'était pas mon premier roman écrit, mais celui-là m'a paru peut-être digne d'être donné à un éditeur.",
+                    "start": 1333.658,
+                    "end": 1360.789
+                },
+                {
+                    "titre": "Philippe Claudel : \"L'écriture, c'est percer le mystère de l'existence\"",
+                    "extrait": "L'écriture, pour moi, c'est ça, c'est percer ce mystère de l'existence paradoxale de cette mémoire, qui est pourtant dans la matérialité de mon corps, dans ce que c'est que le viscère, la tête, c'est quoi ? C'est l'électricité ? C'est quoi ? C'est des synapses, des neurones ? Je ne sais pas s'il faudrait demander à un spécialiste, un scientifique, mais enfin, en tout cas... Ils sont morts, les gens, les protagonistes. Et pourtant, ils continuent de façonner le monde à travers leurs fantômes.",
+                    "start": 1498.89,
+                    "end": 1530.474
                 }
             ]
         },
@@ -7163,32 +7144,32 @@
                     "end": 296.806
                 },
                 {
-                    "titre": "La génération Z : sacrifiée sur l'autel de la pandémie ?",
+                    "titre": "La génération Z : sacrifiée pour sauver les plus âgés ?",
                     "extrait": "« Nous avons assisté pendant ce confinement à effectivement quelque chose de très simple, c'est-à-dire le sacrifice de la jeunesse pour sauver les plus âgés, qui étaient aussi les plus faibles et les plus sensibles au virus. »",
                     "score": 90,
                     "start": 601.72,
                     "end": 613.322
                 },
                 {
-                    "titre": "Les conséquences inattendues du confinement sur le langage des enfants",
-                    "extrait": "« Une étude irlandaise d'octobre 2022 citée par le Washington Post, que vous mentionnez dans votre livre aussi, montre que 76% des enfants nés pendant le premier confinement savaient parler avant un an contre 90% avant la pandémie. Donc il y a eu une baisse nette des capacités du langage. »",
-                    "score": 92,
-                    "start": 373.348,
-                    "end": 391.672
-                },
-                {
-                    "titre": "Le nudge : manipulation ou protection ?",
+                    "titre": "Le nudge : manipulation ou liberté ?",
                     "extrait": "« Le nudge, c'est ça. Vous citez Marie-Estelle Dupont, vous citez Roland Gory, le professeur émérite de psychopathologie, qui dans son livre « La fabrique des servitudes » définit le Nudge comme ça. Il s'agit de conduire les individus à décider de faire par eux-mêmes le choix que l'on attend d'eux, la perversion sociale à laquelle parvient le nudge, et de faire croire aux gens qu'ils sont libres pour mieux les manipuler. »",
-                    "score": 88,
+                    "score": 85,
                     "start": 1131.441,
                     "end": 1155.281
                 },
                 {
-                    "titre": "La défiance envers la science : un héritage de la pandémie ?",
+                    "titre": "La science au service de la politique : un danger pour la démocratie ?",
                     "extrait": "« Je crois que ce à quoi on a assisté pendant cette période très intense, c'est une espèce de conflit entre le savant et le politique. C'est-à-dire qu'on a eu à la fois une politisation de la science et une scientificisation des décisions publiques. »",
-                    "score": 91,
+                    "score": 92,
                     "start": 1245.4,
                     "end": 1260.631
+                },
+                {
+                    "titre": "La crise de la confiance : un héritage du Covid ?",
+                    "extrait": "« La gestion technocratique de la pandémie a semé les graines, en fait, d'une espèce de dégradation totalement profonde et durable de la confiance envers les institutions. »",
+                    "score": 88,
+                    "start": 2438.791,
+                    "end": 2474.7
                 }
             ]
         },
@@ -7215,16 +7196,16 @@
                     "end": 100.542
                 },
                 {
-                    "titre": "Pourquoi l'architecture scolaire moderne doit tout à l'école de plein air ?",
-                    "extrait": "En revanche, les architectes ont trouvé cette opération tout à fait remarquable et elle a été citée comme un des modèles possibles pour l'architecture du futur. Donc elle a eu un impact tout à fait considérable sur l'architecture scolaire ultérieure.",
-                    "start": 793.243,
-                    "end": 810.294
+                    "titre": "« Le soleil comme tableau noir » : une pédagogie innovante",
+                    "extrait": "Le but, c'était que les enfants prennent le soleil. C'est toujours l'idée de sortir l'enfant de l'ombre et de le mettre au soleil. On va leur donner le maximum d'énergie, de nourriture, de cadre. Les lyothérapies, on va mettre les enfants au soleil.",
+                    "start": 462.245,
+                    "end": 486.678
                 },
                 {
-                    "titre": "\"Il veut sortir les élèves de l'ombre et les mettre à la lumière\"",
-                    "extrait": "Célier, Henri Célier, quand il fait l'école, il veut lutter contre la tuberculose, donc il va faire de la prévention, c'est une école de la prévention. Et puis il veut lutter contre les maladies liées au manque d'hygiène. Donc quand ils vont rentrer à l'école, ils vont déjà se laver les mains. Il y a de l'eau partout. Il y a de l'eau partout. Célier, il sort les élèves de l'ombre. Il les met à la lumière et... Il veut protéger ses enfants, voilà.",
-                    "start": 1053.48,
-                    "end": 1083.905
+                    "titre": "Pourquoi l'école de plein air a-t-elle disparu en France ?",
+                    "extrait": "Les écoles de plein air avaient été créées à l'origine pour accueillir des enfants qui étaient de santé fragile et qui étaient menacés par la tuberculose. Comme vous le savez, c'est vrai que pendant la Seconde Guerre mondiale, les antibiotiques ont constitué un traitement qui était médicamenteux et qui a été utilisé avec succès contre la tuberculose. Ce qui fait que peu à peu, les écoles de plein air ont connu à peu près le même sort que les sanatoriums, mais elles ont fermé les unes après les autres.",
+                    "start": 1369.223,
+                    "end": 1402.19
                 }
             ]
         },
@@ -7245,16 +7226,16 @@
             "limit": 0,
             "extraits": [
                 {
-                    "titre": "« L'État de droit n'est pas intangible »",
+                    "titre": "L'État de droit en péril : une réalité inquiétante ?",
                     "extrait": "« La montée en puissance d'un anti-élitisme, voire d'un anti-intellectualisme qui se traduit parfois en populisme, est objet d'inquiétude. La tentation de replacer le peuple souverain au-dessus de l'état de droit ? menace la démocratie de délitement. »",
-                    "score": 90,
+                    "score": 95,
                     "start": 137.408,
                     "end": 157.189
                 },
                 {
                     "titre": "« La démocratie est un luxe que nous ne pouvons plus nous offrir »",
                     "extrait": "« J'ai entendu récemment Nicolas Baverez parler des « trente piteuses » et son discours consistait grosso modo à dire que la démocratie est un luxe qu'on ne peut plus s'offrir aujourd'hui. »",
-                    "score": 95,
+                    "score": 90,
                     "start": 935.028,
                     "end": 946.758
                 }
@@ -7444,11 +7425,11 @@
                     "end": 983.263
                 },
                 {
-                    "titre": "Pourquoi la cuisine est-elle essentielle à nos souvenirs ?",
-                    "extrait": "« Et quelqu'un qui n'a pas de souvenir de cuisine, je me demande si ça existe, de souvenir lié à la cuisine, c'est inquiétant quand même. »",
+                    "titre": "Comment une simple fraise peut changer une vie ?",
+                    "extrait": "« J'ai très peu de fraises en fait, j'en ai 3000 pieds. [...] Alors moi, lorsque les autres ont terminé, moi je commence. J'arrive à ma fraise remontante, c'est-à-dire elle a des cycles. Cette fraise elle va commencer début juin. [...] C'est pour ça que Marie-Claude m'a demandé. »",
                     "score": 90,
-                    "start": 1145.406,
-                    "end": 1155.053
+                    "start": 222.822,
+                    "end": 240.85
                 }
             ]
         },
