@@ -1,6 +1,6 @@
 {
-    "date": "Mis à jour le 24/03/2025 à 17:20",
-    "unix": 1742833248,
+    "date": "Mis à jour le 24/03/2025 à 17:34",
+    "unix": 1742834054,
     "shows": [
         {
             "title": "Les jeunes sont-ils plus exposés que les autres aux fausses nouvelles ?",
@@ -1174,6 +1174,38 @@
                     "score": 90,
                     "start": 611.755,
                     "end": 649.19
+                }
+            ]
+        },
+        {
+            "title": "Critique théâtre : \"Taire\" de Tamara Al Saadi, un spectacle ambitieux qui tente de réactualiser le mythe d'Antigone",
+            "id": "f66f29e8-34bf-4b2e-a3b7-f693cf1d622e",
+            "show": "Les Midis de Culture",
+            "show_id": "32a14af6-fc87-4f4f-a06e-39ccf8587119",
+            "chapo": "Les critiques discutent de \"Taire\" de Tamara Al Saadi, une variation autour du mythe d'Antigone qui prend la forme d'un conte dystopique.",
+            "magnetotheque_id": "2025C51852S1083",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/les-midis-de-culture/critique-theatre-taire-de-tamara-al-saadi-2949062",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/12360-24.03.2025-ITEMA_24069720-2025C51852S1083-NET_MFC_5B35CD3F-3AE0-484B-8C88-8B17BE7B6C0D-21.mp3",
+            "duration": 1037,
+            "date": 1742814901,
+            "settings": [
+                "interview"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "Comment le mythe d'Antigone résonne-t-il avec notre époque ?",
+                    "extrait": "« Je trouve que pour le coup, le mythe antique et celui d'aujourd'hui résonnent quand même parce que ce sont deux personnages qui subissent des choses qui se sont passées avant elle et qui cherchent à récupérer à reprendre un peu la main sur leur destin. »",
+                    "score": 85,
+                    "start": 225.735,
+                    "end": 261.41
+                },
+                {
+                    "titre": "La tragédie moderne : un récit qui interroge notre responsabilité",
+                    "extrait": "« Il y a un côté un petit peu victimaire. C'est de la faute à ceux qui étaient avant nous. Et donc, ça m’a dérangée pendant le spectacle. Mais j'ai aimé la façon dont elle torsa dans la dernière partie du spectacle le fait que la jeune Eden interroge Antigone et qu'elle lui dise alors peut-être qu'il ne faut pas que je dise la phrase pas trop, pas tout. »",
+                    "score": 90,
+                    "start": 866.087,
+                    "end": 911.513
                 }
             ]
         },
@@ -4926,6 +4958,38 @@
             ]
         },
         {
+            "title": "La Fondation Simone et Cino Del Duca a cinquante ans",
+            "id": "dbac9f4c-ad2a-4de7-9453-295b18d8ed29",
+            "show": "Le Point culture",
+            "show_id": "25d4eded-ef3f-4106-9cca-09a53f4794dc",
+            "chapo": "La Fondation Del Duca fête ses cinquante ans. Pour la première fois cette année, elle va remettre un prix consacré à la jeunesse. Dans un contexte de restrictions du financement de la culture, quel doit être le rôle de ce type d'organisation ? ",
+            "magnetotheque_id": "2025C41196S0083",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/le-point-culture/la-fondation-simone-et-cino-del-duca-a-cinquante-ans-5669628",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/21829-24.03.2025-ITEMA_24069746-2025C41196S0083-NET_MFC_03E11AAA-D45B-4208-9083-783CEAF90CB1-21.mp3",
+            "duration": 620,
+            "date": 1742817600,
+            "settings": [
+                "actu"
+            ],
+            "limit": 2,
+            "extraits": [
+                {
+                    "titre": "Comment la culture peut-elle survivre aux coupes budgétaires ?",
+                    "extrait": "« Il est indéniable que le mécénat a conscience que lorsqu'on fait des économies budgétaires, on touche toujours à ce qui ne fait pas défiler les gens dans la rue. La culture, les choses de cet ordre, il est tout à fait engagé. »",
+                    "score": 90,
+                    "start": 318.398,
+                    "end": 336.034
+                },
+                {
+                    "titre": "La Fondation Del Duca : un phare pour la jeunesse en difficulté",
+                    "extrait": "« C'est une nouveauté que j'ai souhaitée parce qu'il y a de plus en plus de jeunes écrivains, de jeunes chercheurs qui sont un peu en difficulté pour commencer leur carrière. Et nous avons pensé qu'il fallait ajouter un prix destiné à la jeunesse. »",
+                    "score": 85,
+                    "start": 268.184,
+                    "end": 282.15
+                }
+            ]
+        },
+        {
             "title": "\"Le parfum très fin de l’adieu\" d’Arthur Teboul : écrire comme ça vient",
             "id": "3c420ce5-b5e3-4529-9d09-5cd72d40b4cb",
             "show": "L'Instant poésie",
@@ -5066,6 +5130,31 @@
                     "score": 95,
                     "start": 67.363,
                     "end": 74.488
+                }
+            ]
+        },
+        {
+            "title": "Critique théâtre : \"Les Moments Doux\" d'Elise Chatauret et Thomas Pondevie, un théâtre documentaire un peu trop littéral",
+            "id": "58705b64-bea3-4b00-8070-8349a51483ec",
+            "show": "Les Midis de Culture",
+            "show_id": "32a14af6-fc87-4f4f-a06e-39ccf8587119",
+            "chapo": "Les critiques discutent des \"Moments Doux\", une pièce mise en scène par Elise Chatauret et coécrite avec Thomas Pondevie qui propose une réflexion sur la violence. ",
+            "magnetotheque_id": "2025C51852S2083",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/les-midis-de-culture/critique-theatre-les-moments-doux-d-elise-chatauret-et-thomas-pondevie-5070854",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/24613-24.03.2025-ITEMA_24070090-2025C51852S2083-NET_MFC_2282C33B-E313-4015-8DF4-1C92B2783E0A-21.mp3",
+            "duration": 644,
+            "date": 1742815800,
+            "settings": [
+                "interview"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "« La violence légitime, est-ce qu'elle existe vraiment ? »",
+                    "extrait": "« Est-ce qu'il existe des violences justes ? Une heure et demie de spectacle pour nous dire à la fin est-ce qu'il existe des violences justes, je trouve ça très très court. »",
+                    "score": 95,
+                    "start": 582.744,
+                    "end": 596.427
                 }
             ]
         },
