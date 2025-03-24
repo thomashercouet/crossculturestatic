@@ -1,6 +1,6 @@
 {
-    "date": "Mis à jour le 24/03/2025 à 18:00",
-    "unix": 1742835655,
+    "date": "Mis à jour le 24/03/2025 à 18:13",
+    "unix": 1742836406,
     "shows": [
         {
             "title": "Les jeunes sont-ils plus exposés que les autres aux fausses nouvelles ?",
@@ -7918,6 +7918,66 @@
                     "extrait": "Les écoles de plein air avaient été créées à l'origine pour accueillir des enfants qui étaient de santé fragile et qui étaient menacés par la tuberculose. Comme vous le savez, c'est vrai que pendant la Seconde Guerre mondiale, les antibiotiques ont constitué un traitement qui était médicamenteux et qui a été utilisé avec succès contre la tuberculose. Ce qui fait que peu à peu, les écoles de plein air ont connu à peu près le même sort que les sanatoriums, mais elles ont fermé les unes après les autres.",
                     "start": 1369.223,
                     "end": 1402.19
+                }
+            ]
+        },
+        {
+            "title": "\"Le Cahier de Douai\" d’Arthur Rimbaud ",
+            "id": "59b76e74-2bfc-40cc-ae81-3b0a70eb4202",
+            "show": "Le Book Club",
+            "show_id": "9919a6d4-3da2-4dd9-8103-77cef065f78d",
+            "chapo": "Cette saison, le Book Club accompagne les élèves de lycée dans la préparation du bac français. Aujourd'hui, nous explorons « Le cahier de Douai » de Rimbaud, l'une des œuvres au programme en compagnie de deux professeurs. Analyse du texte et conseils méthodologiques pour réussir l’épreuve le jour J.",
+            "magnetotheque_id": "2025C49162S0083",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/le-book-club/le-cahier-de-douai-d-arthur-rimbaud-7049534",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/23875-24.03.2025-ITEMA_24069734-2025C49162S0083-NET_MFC_BCF11A34-7776-40A5-A584-E7240740B434-21.mp3",
+            "duration": 3498,
+            "date": 1742828325,
+            "settings": [
+                "interview"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "Pourquoi Rimbaud résonne-t-il encore chez les adolescents d'aujourd'hui ?",
+                    "extrait": "« Il y a tellement de thèmes d'adolescents tels que la découverte de l'amour, cet éveil au monde des sensations, cette envie de se révolter contre tout. Donc j'ai vraiment trouvé que c'était un recueil où il était facile de s'identifier. »",
+                    "score": 90,
+                    "start": 9.432,
+                    "end": 22.957
+                },
+                {
+                    "titre": "Rimbaud, un poète de la révolte et de l'émancipation !",
+                    "extrait": "« C'est un poète adolescent et ce sont des élèves adolescents qui le découvrent, qui suivent sa route, ses fugues, son voyage en poésie et qui découvrent la poésie parfois aussi avec lui. »",
+                    "score": 85,
+                    "start": 255.292,
+                    "end": 269.495
+                },
+                {
+                    "titre": "Comment Rimbaud défie-t-il les normes établies ?",
+                    "extrait": "« Une forme de révolte ou d'interrogation. Peut-être que le mot de révolte doit être tout de même nuancé, réfléchi par les élèves. »",
+                    "score": 80,
+                    "start": 994.667,
+                    "end": 1003.176
+                },
+                {
+                    "titre": "Rimbaud, un poète qui parle aux jeunes d'aujourd'hui !",
+                    "extrait": "« Il existe dans l'imaginaire collectif autrement que par des textes. C'est-à-dire que Rimbaud, c'est une grande œuvre en vers, en prose, mais c'est aussi une image. »",
+                    "score": 88,
+                    "start": 391.962,
+                    "end": 405.046
+                },
+                {
+                    "titre": "La poésie de Rimbaud : un voyage entre révolte et douceur !",
+                    "extrait": "« Il y a beaucoup de moments heureux. Mais puisque vous les prêtez, ou plutôt que Arthur Rimbaud les prête aux femmes, ou cette sonorité-là aux femmes, est-ce que c'est pas aussi un jeune homme qui regarde ou qui écoute comme ça, presque étonné ? »",
+                    "score": 82,
+                    "start": 2091.774,
+                    "end": 2119.867
+                },
+                {
+                    "titre": "Rimbaud, un héritier de la tradition poétique !",
+                    "extrait": "« C'est à la fois « je sais que ça existe, je connais comment ça fonctionne, je vous ai lu et j'aspire à vous rejoindre », mais aussi... « J'ai l'intention d'être Arthur Rimbaud ». »",
+                    "score": 87,
+                    "start": 1350.679,
+                    "end": 1358.523
                 }
             ]
         },
