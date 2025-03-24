@@ -1,6 +1,6 @@
 {
-    "date": "Mis à jour le 24/03/2025 à 16:02",
-    "unix": 1742828571,
+    "date": "Mis à jour le 24/03/2025 à 16:16",
+    "unix": 1742829395,
     "shows": [
         {
             "title": "Les jeunes sont-ils plus exposés que les autres aux fausses nouvelles ?",
@@ -7204,6 +7204,66 @@
                     "score": 75,
                     "start": 4378.423,
                     "end": 4386.87
+                }
+            ]
+        },
+        {
+            "title": "Une nouvelle ligne",
+            "id": "f325f27e-3010-4a36-a5b3-99f0a7dfbd28",
+            "show": "LSD, la série documentaire",
+            "show_id": "fb8db8c6-20b0-4189-977e-07f112c3de79",
+            "chapo": "1849, la ligne Paris Strasbourg est ouverte. En 1883, l’Orient Express atteint Istanbul. Élites européennes vont et viennent. Des premières vagues d’exilés affluent vers Paris, capitale des arts et de la liberté. ",
+            "magnetotheque_id": "2024C26362E0225",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/lsd-la-serie-documentaire/une-nouvelle-ligne-3934017",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/10177-24.03.2025-ITEMA_24069703-2024C26362E0225-ITE_00148696_RSCE-21.mp3",
+            "duration": 3455,
+            "date": 1742835410,
+            "settings": [
+                "temoignage"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "Comment la gare de l'Est incarne la mémoire du temps ?",
+                    "extrait": "Il est impossible d'arrêter le temps. Beaucoup de monuments se veulent des temps arrêtés, des temps coulés dans du bronze ou du marbre. Alors que dans la gare, le temps reste fluide. Et la mémoire dans ces lieux fonctionne beaucoup aussi par analogie. C'est-à-dire, j'entends le bruit d'un train et je peux imaginer le bruit d'un train d'il y a 50 ou 60 ou 100 ans. C'est une atmosphère, c'est quelque chose d'insaisissable, c'est quelque chose d'impalpable que cette mémoire ferroviaire...",
+                    "score": 90,
+                    "start": 22.938,
+                    "end": 71.692
+                },
+                {
+                    "titre": "Pourquoi la gare de l'Est évoque-t-elle un malheur ?",
+                    "extrait": "C'est une gare qui semble porter déjà en elle une forme de malheur. Je pense que ce ressenti remonte à l'enfance. Je n'avais pas encore conscience de tous ceux qui sont passés Gare de l'Est. D'où ils venaient et quelles étaient leurs histoires. C'est plutôt un ressenti de l'enfant qui vit à Paris. Et qui pourtant ressent peut-être des choses. Gare de l'Est, aller et retour.",
+                    "score": 85,
+                    "start": 106.696,
+                    "end": 137.938
+                },
+                {
+                    "titre": "Le rêve d'un voyage en train à travers l'Europe",
+                    "extrait": "Ces dernières années, chaque fois que je retournais à Bucarest, c'était plutôt en avion. Je rêve de faire ce prochain voyage en train, un vrai voyage de quelques jours en train, en passant par Vienne, en traversant l'Allemagne, en m'arrêtant pour vérifier quelques... Quelques petits rêves de mon enfance, puisqu'on mangeait à l'époque beaucoup de schnitzels et de sacertortes à Bucarest.",
+                    "score": 88,
+                    "start": 158.253,
+                    "end": 182.671
+                },
+                {
+                    "titre": "Comment la gare de l'Est a façonné des destins ?",
+                    "extrait": "La gare de l'Est, c'est une porte ouverte vers le centre et l'est de l'Europe. C'est là où on mange des gâteaux au pavot. Alors, il y en a d'autres qui vont dire que c'est là où on mange des gâteaux à la pomme, que ce soit le strudel, le reitesch, la charlotte caporonaise. Mais je préfère le pavot à cause de poltzelane, en fait. Je crois qu'on se fait tous nos définitions de cœur.",
+                    "score": 92,
+                    "start": 3210.753,
+                    "end": 3253.527
+                },
+                {
+                    "titre": "Pourquoi Paris est-elle le rêve de tant d'exilés ?",
+                    "extrait": "Tout le monde pensait que Paris, la France, représentaient la liberté et l'avenir. Et donc, il y avait un dicton qui se reprenait parmi les immigrés et qui disait « On est heureux comme Dieu en France ».",
+                    "score": 95,
+                    "start": 2916.815,
+                    "end": 2941.072
+                },
+                {
+                    "titre": "La gare de l'Est : un symbole de l'exil et de l'espoir",
+                    "extrait": "La gare de l'Est a été un prélude à Auschwitz. Ça a été aussi une gare de départ, la gare de l'Est. Pour moi, c'est plus une gare de départ que d'arrivée.",
+                    "score": 93,
+                    "start": 3001.363,
+                    "end": 3014.658
                 }
             ]
         },
