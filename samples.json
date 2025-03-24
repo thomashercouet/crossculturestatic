@@ -1,6 +1,6 @@
 {
-    "date": "Mis à jour le 24/03/2025 à 12:09",
-    "unix": 1742814559,
+    "date": "Mis à jour le 24/03/2025 à 12:35",
+    "unix": 1742816135,
     "shows": [
         {
             "title": "Les jeunes sont-ils plus exposés que les autres aux fausses nouvelles ?",
@@ -1623,6 +1623,66 @@
                     "score": 88,
                     "start": 1517.337,
                     "end": 1544.679
+                }
+            ]
+        },
+        {
+            "title": "Dissolution du PKK : un pari incertain",
+            "id": "cfc63682-ca0b-485e-8695-676f547962cf",
+            "show": "Cultures Monde",
+            "show_id": "2358bc00-3f62-11e5-8314-005056a87c89",
+            "chapo": "Le 27 février, le leader historique du Parti des travailleurs du Kurdistan (PKK), Abdullah Öcalan, a appelé à déposer les armes et dissoudre l'organisation. Une déclaration historique alors que le mouvement kurde est en guerre depuis plus de 40 ans avec l'État turc. ",
+            "magnetotheque_id": "2025C16756S0083",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/cultures-monde/dissolution-du-pkk-un-pari-incertain-4381843",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/18720-24.03.2025-ITEMA_24069696-2025C16756S0083-NET_MFC_095C61F0-5AB1-43C6-9584-814763DD4873-21.mp3",
+            "duration": 3491,
+            "date": 1742813925,
+            "settings": [
+                "savoirs"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "Pourquoi Abdullah Öcalan appelle-t-il à la dissolution du PKK ?",
+                    "extrait": "« Organisez votre congrès et prenez la décision de vous intégrer à l'État et à la société. Tous les groupes doivent déposer les armes et le PKK doit se dissoudre. » Abdullah Öcalan",
+                    "score": 90,
+                    "start": 75.621,
+                    "end": 89.31
+                },
+                {
+                    "titre": "La fin de la lutte armée : un nouveau départ pour le PKK ?",
+                    "extrait": "« Renoncer à la lutte armée, est-ce pour le PKK une fin ou un nouveau départ ? »",
+                    "score": 85,
+                    "start": 213.442,
+                    "end": 217.985
+                },
+                {
+                    "titre": "Abdullah Öcalan : un leader toujours influent malgré l'isolement",
+                    "extrait": "« Malgré 26 années passées derrière les barreaux, dont 4 à l'isolement, Abdullah Öcalan reste le chef des Kurdes de Turquie. »",
+                    "score": 88,
+                    "start": 160.08,
+                    "end": 167.405
+                },
+                {
+                    "titre": "La démocratie comme clé de la résolution du conflit kurde",
+                    "extrait": "« Il n'y a pas de voie en dehors de la démocratie pour construire et mettre en œuvre un système pour les Kurdes. »",
+                    "score": 92,
+                    "start": 364.73,
+                    "end": 391.972
+                },
+                {
+                    "titre": "Le PKK face à un dilemme : abandonner les armes ou se transformer ?",
+                    "extrait": "« Ocalan, il dit, c'est du passé. Et il dit, nous n'avons plus de revendication d'indépendance, pas de revendication d'autonomie, et le plus surprenant, il dit même, pas de revendication culturelle. »",
+                    "score": 87,
+                    "start": 841.531,
+                    "end": 866.993
+                },
+                {
+                    "titre": "Comment le charisme d'Öcalan façonne-t-il le mouvement kurde ?",
+                    "extrait": "« Au Moyen-Orient, les prophètes ont toujours guidé les peuples. Ils ont une mission de messager, une mission très difficile car il n'est pas simple de maîtriser ce rôle de prophète. »",
+                    "score": 90,
+                    "start": 1076.047,
+                    "end": 1088.132
                 }
             ]
         },
