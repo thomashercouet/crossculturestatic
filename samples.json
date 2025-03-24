@@ -1,6 +1,6 @@
 {
-    "date": "Mis à jour le 24/03/2025 à 09:06",
-    "unix": 1742803589,
+    "date": "Mis à jour le 24/03/2025 à 09:19",
+    "unix": 1742804357,
     "shows": [
         {
             "title": "Les jeunes sont-ils plus exposés que les autres aux fausses nouvelles ?",
@@ -774,6 +774,38 @@
                     "score": 85,
                     "start": 1831.618,
                     "end": 1835.9
+                }
+            ]
+        },
+        {
+            "title": "Quand Meta lance son agent conversationnel en Europe ! ",
+            "id": "ec55d71a-88eb-4f66-b762-833bd54a24ca",
+            "show": "Un monde connecté",
+            "show_id": "274c0b2b-c347-4748-8989-eb3f08ae5273",
+            "chapo": "Meta AI, l'agent conversationnel du GAFAM se déploie en France et en Europe, un an après son déploiement aux États-Unis. ",
+            "magnetotheque_id": "2025C52117S0083",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/un-monde-connecte/quand-meta-lance-son-agent-conversationnel-en-europe-5632424",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/24399-24.03.2025-ITEMA_24069729-2025C52117S0083-NET_MFC_C8352553-5BDB-4038-ABB1-AC8DB6FE79F8-21.mp3",
+            "duration": 182,
+            "date": 1742802900,
+            "settings": [
+                "actu"
+            ],
+            "limit": 2,
+            "extraits": [
+                {
+                    "titre": "Meta AI : Un enjeu colossal pour l'Europe !",
+                    "extrait": "L'outil est déjà en fonction sur le territoire américain depuis l'an dernier. Jusqu'ici, le groupe META butait sur la régulation européenne qu'il jugeait floue et contraignante. Il avait donc refusé d'investir le vieux continent. Mais ce serait tout de même dommage de se priver d'un marché de 450 millions d'habitants. Il a donc changé d'avis et tout cela dans un contexte où Bruxelles est moins en position de force qu'à l'époque pré-Trump.",
+                    "score": 90,
+                    "start": 55.641,
+                    "end": 77.727
+                },
+                {
+                    "titre": "« Meta est victime de l'effet stressant »",
+                    "extrait": "Meta est victime de l'effet stressant, un effet pervers qui consiste à donner plus de visibilité à un sujet que l'on souhaite étouffer. Un phénomène pourtant bien connu sur Internet, mais semble-t-il pas encore compris du côté de Facebook.",
+                    "score": 85,
+                    "start": 163.803,
+                    "end": 177.689
                 }
             ]
         },
