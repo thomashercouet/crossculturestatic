@@ -1,6 +1,6 @@
 {
-    "date": "Mis à jour le 24/03/2025 à 11:17",
-    "unix": 1742811447,
+    "date": "Mis à jour le 24/03/2025 à 11:32",
+    "unix": 1742812321,
     "shows": [
         {
             "title": "Les jeunes sont-ils plus exposés que les autres aux fausses nouvelles ?",
@@ -5150,6 +5150,66 @@
                     "extrait": "La première chose que ça nous apporte, c'est une réflexion sur ce qu'est la monnaie. En fait, derrière Bitcoin, qui est quand même la première des cryptomonnaies, il y avait cette envie de créer une monnaie d'Internet qui soit indépendante des institutions privées comme publiques. et qui permettent à tout un chacun de posséder réellement son argent numérique.",
                     "start": 1606.517,
                     "end": 1630.971
+                }
+            ]
+        },
+        {
+            "title": "La prise d'otages : que faire, que dire ? ",
+            "id": "94baec2c-d678-4049-bda6-b7eba48027e7",
+            "show": "Avec philosophie",
+            "show_id": "744d0dc6-dacc-4d71-a22c-af97eec7a56e",
+            "chapo": "Comment négocier dans une situation de crise telle qu'une prise d'otages ? C'est le \"négociateur de situation de crise\" qu'on appelle. Ce métier de la police utilise la parole et transforme la confrontation en dialogue pour désamorcer la violence. Avec des mots, il tente d'éviter l'irréparable.",
+            "magnetotheque_id": "2025C48904S0083",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/avec-philosophie/la-prise-d-otages-que-faire-que-dire-4489423",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/23118-24.03.2025-ITEMA_24069733-2025C48904S0083-NET_MFC_2F35F760-FF7A-45DE-975E-4CF71FC8721F-21.mp3",
+            "duration": 3489,
+            "date": 1742810325,
+            "settings": [
+                "savoirs"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "Comment la parole peut-elle désamorcer une crise ?",
+                    "extrait": "\"Il faut établir avec les preneurs d'otages un contact par le langage et gagner du temps. Mais jusqu'où la parole est-elle efficace ? Peut-elle vraiment produire une négociation avec de part et d'autre des gagnants ? Ou bien s'agit-il avant tout de le faire croire aux preneurs d'otages pour qu'ils ne tuent personne et se rendent en croyant qu'ils seront traités avec clémence ?\"",
+                    "score": 90,
+                    "start": 48.563,
+                    "end": 74.717
+                },
+                {
+                    "titre": "Le syndrome de Stockholm : un lien inattendu entre otages et preneurs d'otages",
+                    "extrait": "\"Il y a eu un lien qui s'est noué alors, il y a plusieurs choses qui peuvent l'expliquer d'une part, le fait que la police n'a pas été très habile... les otages ont eu le sentiment que leur vie était plutôt sauvegardée, en quelque sorte, par les preneurs d'otages.\"",
+                    "score": 85,
+                    "start": 280.329,
+                    "end": 315.016
+                },
+                {
+                    "titre": "Pourquoi la négociation est-elle souvent plus efficace qu'un assaut ?",
+                    "extrait": "\"80% des affaires du RAID se soldent, non pas par un assaut, mais par une négociation. La vocation pour les négociateurs, c'est d'être au service de la résolution de la crise, quelle que soit, au fond, la méthode.\"",
+                    "score": 88,
+                    "start": 743.493,
+                    "end": 763.736
+                },
+                {
+                    "titre": "Peut-on vraiment négocier avec des terroristes ?",
+                    "extrait": "\"Y a-t-il des cas, par exemple lorsqu'on a affaire à des terroristes, où la négociation est une illusion ? Car lorsque les preneurs d'otages ne craignent pas la mort, ni celle de leurs otages, ni la leur, que reste-t-il à négocier ?\"",
+                    "score": 92,
+                    "start": 75.477,
+                    "end": 88.607
+                },
+                {
+                    "titre": "Comment créer un lien avec un preneur d'otages ?",
+                    "extrait": "\"Pour arriver à sortir de cette espèce de nœud gordien qu'ils ont, eh bien, il faut être, à ce moment-là, en opposition vis-à-vis de l'État et de la police. Parce qu'il faut donner du sens au fait qu'on est encore enfermé, alors qu'il suffirait, au fond, d'amener une voiture, que tout le monde parte avec, qu'on soit libéré plus tard.\"",
+                    "score": 87,
+                    "start": 468.525,
+                    "end": 486.57
+                },
+                {
+                    "titre": "La négociation : un art de l'écoute et de la patience",
+                    "extrait": "\"Il faut bien comprendre que la résignation, c'est toujours la vitesse du preneur d'otage. Donc, je lui ai dit « Écoute, va l'habiller. Quand tu es prêt, tu ressors, etc. Et puis, on va continuer à discuter ensemble dehors.\"",
+                    "score": 89,
+                    "start": 1468.138,
+                    "end": 1478.49
                 }
             ]
         },
