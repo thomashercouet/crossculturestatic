@@ -1,6 +1,6 @@
 {
-    "date": "Mis à jour le 24/03/2025 à 08:44",
-    "unix": 1742802295,
+    "date": "Mis à jour le 24/03/2025 à 08:45",
+    "unix": 1742802316,
     "shows": [
         {
             "title": "Les jeunes sont-ils plus exposés que les autres aux fausses nouvelles ?",
@@ -7803,25 +7803,25 @@
                     "end": 472.786
                 },
                 {
-                    "titre": "« La démographie fait que l'aversion au risque augmente »",
-                    "extrait": "« On constate, et beaucoup d'économistes le disent dans le monde, que plus un pays vieillit, plus la démographie fait que le placement... L'aversion au risque augmente. »",
+                    "titre": "« Cinq ans, c'est long, non ? »",
+                    "extrait": "« Cinq ans, c'est long, non ? Pour immobiliser du capital. Est-ce que c'est lié aux contraintes du financement des entreprises ? Oui, exactement. C'est-à-dire que là, il s'agit encore une fois de prises de participation dans des PME et dans des ETI, du secteur de la défense. »",
                     "score": 80,
-                    "start": 473.567,
-                    "end": 483.801
+                    "start": 90.346,
+                    "end": 103.759
                 },
                 {
-                    "titre": "Pourquoi avons-nous besoin de recapitaliser le secteur de la défense ?",
-                    "extrait": "« Pourquoi est-ce qu'il y a besoin de recapitaliser tout ce secteur ? Pour une raison simple, c'est que jusqu'à 2-3 ans, jusqu'à l'ouverture par les Russes de la guerre en Ukraine, le secteur de la défense en France et même en Europe était un secteur dans lequel la commande publique était beaucoup moins fiable qu'aujourd'hui, beaucoup moins stable... »",
+                    "titre": "Pourquoi la dette américaine attire-t-elle tant d'investisseurs ?",
+                    "extrait": "« En revanche, si on prend l'épargne européenne au sens plus large, les placements en dehors d'Europe sont plus élevés, c'est à peu près la moitié qui est placée en dehors d'Europe. Parce que la dette américaine a non seulement le bonheur d'offrir des garanties extrêmement solides, évidemment, de retrouver son capital, mais en même temps, elle a peut-être un taux de rémunération supérieur aux dettes européennes ? »",
                     "score": 88,
+                    "start": 371.393,
+                    "end": 391.949
+                },
+                {
+                    "titre": "« La commande publique était beaucoup moins fiable qu'aujourd'hui »",
+                    "extrait": "« Pourquoi est-ce qu'il y a besoin de recapitaliser tout ce secteur ? Pour une raison simple, c'est que jusqu'à 2-3 ans, jusqu'à l'ouverture par les Russes de la guerre en Ukraine, le secteur de la défense en France et même en Europe était un secteur dans lequel la commande publique était beaucoup moins fiable qu'aujourd'hui, beaucoup moins stable... »",
+                    "score": 87,
                     "start": 144.243,
                     "end": 166.899
-                },
-                {
-                    "titre": "« Cinq ans, c'est assez court pour immobiliser du capital »",
-                    "extrait": "« Cinq ans, c'est long, non ? Pour immobiliser du capital. Est-ce que c'est lié aux contraintes du financement des entreprises ? Oui, exactement. »",
-                    "score": 82,
-                    "start": 90.346,
-                    "end": 96.812
                 }
             ]
         }
