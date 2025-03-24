@@ -1,6 +1,6 @@
 {
-    "date": "Mis à jour le 24/03/2025 à 17:34",
-    "unix": 1742834054,
+    "date": "Mis à jour le 24/03/2025 à 17:46",
+    "unix": 1742834819,
     "shows": [
         {
             "title": "Les jeunes sont-ils plus exposés que les autres aux fausses nouvelles ?",
@@ -6803,6 +6803,45 @@
             ]
         },
         {
+            "title": "Critique théâtre : \"Taire\" de Tamara Al Saadi & \"Les Moments Doux\" d'Elise Chatauret et Thomas Pondevie",
+            "id": "5d4af6ab-56bb-4487-8ae2-52417175962b",
+            "show": "Les Midis de Culture",
+            "show_id": "32a14af6-fc87-4f4f-a06e-39ccf8587119",
+            "chapo": "Au programme du débat critique, du théâtre, avec \"Taire\" de Tamara Al Saadi et \"Les Moments Doux\" d'Elise Chatauret et Thomas Pondevie.",
+            "magnetotheque_id": "2025C51852S0083",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/les-midis-de-culture/critique-theatre-taire-de-tamara-al-saadi-les-moments-doux-d-elise-chatauret-et-thomas-pondevie-9719080",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/18723-24.03.2025-ITEMA_24069700-2025C51852S0083-NET_MFC_4C369E4E-1834-4AE4-B9D3-EFB48E8AA05C-21.mp3",
+            "duration": 1681,
+            "date": 1742815725,
+            "settings": [
+                "interview"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "« La violence légitime, un sujet brûlant ! »",
+                    "extrait": "« Est-ce qu'il existe des violences justes ? Une heure et demie de spectacle pour nous dire à la fin est-ce qu'il existe des violences justes ? Je trouve ça très très court. »",
+                    "score": 90,
+                    "start": 1620.812,
+                    "end": 1631.521
+                },
+                {
+                    "titre": "« Antigone, l'icône des temps modernes »",
+                    "extrait": "« Antigone ne parle pas et c'est l'étymologie du mot enfant, une fente, celui qui ne parle pas. »",
+                    "score": 85,
+                    "start": 312.931,
+                    "end": 320.056
+                },
+                {
+                    "titre": "« La tragédie moderne : un miroir déformant ? »",
+                    "extrait": "« Je trouve que ce spectacle souffre d'une trop grande ambition dramatique. »",
+                    "score": 80,
+                    "start": 186.631,
+                    "end": 192.896
+                }
+            ]
+        },
+        {
             "title": "\"Espérer l'espérance\". La leçon d'Edmond Fleg avec Haïm Korsia",
             "id": "54a860db-cac2-4894-ab49-35a30feb6fcc",
             "show": "Talmudiques",
@@ -7190,6 +7229,45 @@
                     "score": 93,
                     "start": 340.227,
                     "end": 383.045
+                }
+            ]
+        },
+        {
+            "title": "Dominique Reymond, actrice : \"La dramaturgie m'a toujours fait très peur\"",
+            "id": "1e0660fc-3371-4619-ac12-77d078ac44df",
+            "show": "Les Midis de Culture",
+            "show_id": "32a14af6-fc87-4f4f-a06e-39ccf8587119",
+            "chapo": "Comédienne, héritière d'Antoine Vitez, Dominique Reymond est ce printemps au théâtre et au cinéma : sur les planches dans \"L'Amante anglaise\" de Marguerite Duras mis en scène par Émilie Charriot, à l'écran dans \"La cache\" de Lionel Baier adapté du roman de Christophe Boltanski.  ",
+            "magnetotheque_id": "2025C51852S3083",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/les-midis-de-culture/l-actrice-dominique-reymond-sur-scene-et-a-l-ecran-7614495",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/12360-24.03.2025-ITEMA_24069720-2025C51852S3083-NET_MFC_E01A3CE2-C561-4053-A48E-12BA079CD5B3-21.mp3",
+            "duration": 1739,
+            "date": 1742819325,
+            "settings": [
+                "interview"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "« La dramaturgie m'a toujours fait très peur »",
+                    "extrait": "« La dramaturgie m'a toujours fait très peur et j'ai toujours été complètement bloquée à table, attendant le moment de dire quelque chose d'intelligent... »",
+                    "score": 85,
+                    "start": 245.739,
+                    "end": 253.323
+                },
+                {
+                    "titre": "« Le crime visite le criminel »",
+                    "extrait": "« Elle dit aussi, dans le sublime fatra des religions anciennes, le crime visite le criminel, opère à sa place et s'en va de lui-même. »",
+                    "score": 90,
+                    "start": 603.735,
+                    "end": 610.8
+                },
+                {
+                    "titre": "« On ne cherche pas à se l'approprier »",
+                    "extrait": "« On ne cherche pas à se l'approprier parce qu'effectivement, apparemment, on en est assez loin. »",
+                    "score": 80,
+                    "start": 209.525,
+                    "end": 213.21
                 }
             ]
         },
