@@ -1,6 +1,6 @@
 {
-    "date": "Mis à jour le 24/03/2025 à 10:11",
-    "unix": 1742807469,
+    "date": "Mis à jour le 24/03/2025 à 10:25",
+    "unix": 1742808358,
     "shows": [
         {
             "title": "Les jeunes sont-ils plus exposés que les autres aux fausses nouvelles ?",
@@ -5966,6 +5966,73 @@
                     "score": 92,
                     "start": 221.393,
                     "end": 246.333
+                }
+            ]
+        },
+        {
+            "title": "Frontière Pologne-Russie, histoire d’une ligne sous haute tension",
+            "id": "a38572e5-4cf5-4a35-b472-d15d54cf62f4",
+            "show": "Le Cours de l'histoire",
+            "show_id": "0a41bdd2-4a6d-4fb2-b2d1-ca42d2dc5381",
+            "chapo": "En 1795, la Prusse, l’Autriche et la Russie se partagent la Pologne, totalement rayée de la carte de l'Europe. La disparition des frontières polonaises n’empêche pas l'essor d'un sentiment national en exil. Il faut attendre l’année 1918 pour voir renaître la Pologne, devenue un État indépendant. ",
+            "magnetotheque_id": "2025C36128S0083",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/frontiere-pologne-russie-histoire-d-une-ligne-sous-haute-tension-9524856",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/10076-24.03.2025-ITEMA_24069706-2025C36128S0083-NET_MFC_FE6D5B59-1E00-4F86-B0AB-4FE8B520C8A6-21.mp3",
+            "duration": 3516,
+            "date": 1742806725,
+            "settings": [
+                "savoirs"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "La frontière, une illusion géographique ?",
+                    "extrait": "\"La frontière, vous savez, c'est une ligne imaginaire. Elle ne se voit pas dans le paysage, sauf si elle est matérialisée par un poste frontière, ou par une barrière, ou par un mur. Et encore, ce que nous voyons, c'est une barrière, c'est un mur. Si elle suit le tracé d'un fleuve, ce que nous voyons, c'est tout simplement un fleuve. La frontière existe surtout sur les cartes et dans les imaginaires, où elle marque la limite entre deux États, avec un trait plus ou moins épais, à la fois lieu d'échange et de conflits.\"",
+                    "score": 90,
+                    "start": 7.68,
+                    "end": 32.312
+                },
+                {
+                    "titre": "La Pologne, un peuple sans frontières ?",
+                    "extrait": "\"Car s'il est un peuple sans frontières, c'est bien lui installé dans la grande plaine de l'Europe du Nord qui court sans accident géographique décisif des bouches du Rhin à l'Oural.\"",
+                    "score": 85,
+                    "start": 84.997,
+                    "end": 98.849
+                },
+                {
+                    "titre": "Les frontières mouvantes de l'histoire polonaise",
+                    "extrait": "\"Les frontières ont été mouvantes pratiquement depuis la naissance de la Pologne, à la fin du Xe siècle. Et ça n'a jamais cessé effectivement du fait de cette grande plaine extrêmement facile à traverser d'est en ouest et d'ouest en est.\"",
+                    "score": 88,
+                    "start": 162.792,
+                    "end": 185.861
+                },
+                {
+                    "titre": "La Pologne, victime ou colonisateur ?",
+                    "extrait": "\"Les Polonais aiment beaucoup se présenter en victime, mais ils ont été également des colonisateurs. Avec, les mots sont forts, mais c'est cette très longue histoire de la Pologne qui nous intéresse, parce qu'étudier l'histoire d'une frontière, c'est aussi étudier l'histoire des pays.\"",
+                    "score": 92,
+                    "start": 247.755,
+                    "end": 264.899
+                },
+                {
+                    "titre": "Catherine II et la logique des frontières",
+                    "extrait": "\"Catherine II a un mot, elle écrit à Voltaire une lettre pour expliquer pourquoi, elle dit « mais nous n'avons trouvé de meilleures garanties pour nos frontières que de les étendre ».\"",
+                    "score": 87,
+                    "start": 1334.011,
+                    "end": 1359.343
+                },
+                {
+                    "titre": "L'insurrection, moteur de l'identité polonaise",
+                    "extrait": "\"Les moments de défaite deviennent en fait des... des moments nationaux extrêmement importants, parce que c'est considéré avec le temps comme certes des points d'étiage de la nation, c'est-à-dire que la nation n'a pas été suffisamment unie, n'a pas été suffisamment forte pour vaincre, mais d'une certaine manière ça sert également de sursaut du sentiment patriotique.\"",
+                    "score": 90,
+                    "start": 1708.924,
+                    "end": 1743.091
+                },
+                {
+                    "titre": "La Pologne, un état tampon entre puissances",
+                    "extrait": "\"Les Polonais, dans leur longue histoire, ils se sont, à plusieurs reprises, ils se sont sentis dans un rôle de rempart face aux assauts venus de l'Est.\"",
+                    "score": 89,
+                    "start": 3117.892,
+                    "end": 3131.783
                 }
             ]
         },
