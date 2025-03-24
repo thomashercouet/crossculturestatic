@@ -1,6 +1,6 @@
 {
-    "date": "Mis à jour le 24/03/2025 à 17:46",
-    "unix": 1742834819,
+    "date": "Mis à jour le 24/03/2025 à 18:00",
+    "unix": 1742835655,
     "shows": [
         {
             "title": "Les jeunes sont-ils plus exposés que les autres aux fausses nouvelles ?",
@@ -5252,6 +5252,66 @@
                     "score": 88,
                     "start": 229.361,
                     "end": 247.773
+                }
+            ]
+        },
+        {
+            "title": "Andromède : une perte de masse qui pèse",
+            "id": "8af3e9d6-bc17-4ac8-9bca-39891d336415",
+            "show": "La Science, CQFD",
+            "show_id": "dc59bf2c-a3f5-48b0-bd13-f7258761d52c",
+            "chapo": "La masse de la galaxie Andromède vient d’être ré-estimée à la baisse, soit 450 milliards de masses solaires. En quoi cette nouvelle mesure change-t-elle notre vision de l’évolution de cette galaxie spirale barrée, de sa naissance à sa fin ?",
+            "magnetotheque_id": "2025C48906S0083",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/la-science-cqfd/andromede-une-perte-de-masse-qui-pese-5709584",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/23118-24.03.2025-ITEMA_24069733-2025C48906S0083-NET_MFC_C2E3C7E5-8142-40AA-9B99-356EC652846D-21.mp3",
+            "duration": 3504,
+            "date": 1742831925,
+            "settings": [
+                "savoirs"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "Comment Andromède a-t-elle été redéfinie ?",
+                    "extrait": "La galaxie d'Andromède, notre proche voisine, est au cœur des débats des astronomes. Et plus exactement, l'estimation de sa masse. Pourquoi ce casse-tête est-il si important ? Cette galaxie spirale barrée est située à environ 2,5 millions d'années-lumière de la Terre. Visible à l'œil nu la nuit, elle est étudiée depuis des siècles. Mais il y a une grande incertitude sur sa masse. Selon une récente étude, elle serait bien plus faible que prévu. Environ moitié moins que la dernière estimation. Sa quantité de matière ordinaire représente un tiers de sa masse totale. Problème ! Cela ne colle pas avec ce que l'on estime de la fraction de matière baryonique dans l'univers. Où est donc passée sa matière noire ? Il va falloir faire travailler sa matière grise.",
+                    "start": 8.123,
+                    "end": 56.436
+                },
+                {
+                    "titre": "La découverte des céphéides : un tournant pour l'astronomie",
+                    "extrait": "C'est en observant une céphéide dans la galaxie d'Andromède que Edwin Hubble, en 1923, me semble-t-il, a découvert que la galaxie d'Andromède, ce qu'on appelait à l'époque la nébuleuse d'Andromède, était en fait une autre galaxie comme la Voie lactée située à 2,5 millions d'années-lumière.",
+                    "start": 204.687,
+                    "end": 219.512
+                },
+                {
+                    "titre": "Pourquoi Andromède est-elle si différente de la Voie Lactée ?",
+                    "extrait": "En fait, on a très longtemps cru que c'était des jumelles. Et maintenant, on a tellement observé les deux galaxies, que ce soit la Voie lactée et Andromède, et que c'est ce Andromède, on se rend compte en fait que c'est des sœurs, dans le sens où les deux sont bien des galaxies spirales, mais c'est des sœurs qui sont très éloignées.",
+                    "start": 547.869,
+                    "end": 565.055
+                },
+                {
+                    "titre": "La collision d'Andromède : un événement marquant",
+                    "extrait": "En fait, les objets qui vont se retrouver au-delà d'un certain rayon n'auront même plus le temps de faire une orbite depuis que la collision a eu lieu. C'est-à-dire que vous vous trouvez dans un problème qui est fondamental en physique, le problème de l'équilibre, l'équilibre dynamique.",
+                    "start": 1294.105,
+                    "end": 1309.259
+                },
+                {
+                    "titre": "Andromède : une masse révisée qui change tout",
+                    "extrait": "Depuis le début des années 2000, la masse de la galaxie d'Andromède était estimée à près de 1200 milliards de masses solaires. Mais en 2018, vous publiez une étude et vous développez un nouveau modèle qui étudie sa masse à seulement 825 milliards de masses solaires. Et là, dans l'astronomie et l'astrophysique, vous obtenez une masse de 450 milliards de masses solaires en 2025.",
+                    "start": 1019.955,
+                    "end": 1047.133
+                },
+                {
+                    "titre": "La matière noire : un mystère persistant",
+                    "extrait": "Il reste à savoir laquelle. C'est toujours un grand débat et quelque chose d'inconnu depuis les années 70. On n'a toujours pas trouvé le responsable de cette masse manquante.",
+                    "start": 2605.8,
+                    "end": 2615.948
+                },
+                {
+                    "titre": "Andromède et la Voie Lactée : un futur incertain",
+                    "extrait": "Alors, j'aimerais citer pour ça Karine Babuzio, qui est une des responsables du satellite Gaïa, qui travaille en particulier sur ce qu'on appelle les systématiques dans les observations de cette galaxie.",
+                    "start": 2935.189,
+                    "end": 2946.12
                 }
             ]
         },
