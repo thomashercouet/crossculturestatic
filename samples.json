@@ -1,6 +1,6 @@
 {
-    "date": "Mis à jour le 24/03/2025 à 13:52",
-    "unix": 1742820767,
+    "date": "Mis à jour le 24/03/2025 à 14:06",
+    "unix": 1742821585,
     "shows": [
         {
             "title": "Les jeunes sont-ils plus exposés que les autres aux fausses nouvelles ?",
@@ -1719,6 +1719,45 @@
                     "extrait": "Ce qui est assez intéressant, c'est de se poser la question pourquoi ces animaux sont pigmentés, s'ils vivent la nuit, ils n'en ont pas forcément besoin. Et ces mélanosomes et ces mélanines, elles ont plusieurs rôles. Elles sont utilisées quand on a des couleurs relativement vives pour des questions d'attirer les femelles, pour des questions de communication, mais elles ont aussi d'autres rôles, notamment... de renforcement des organes de la peau pour les rendre plus résistantes au milieu extérieur.",
                     "start": 255.425,
                     "end": 280.99
+                }
+            ]
+        },
+        {
+            "title": "Un tiktokeur vraiment mortel",
+            "id": "e4196502-dd94-469f-8868-290a249b2d23",
+            "show": "Les Pieds sur terre",
+            "show_id": "beb83c10-402c-11e5-8314-005056a87c89",
+            "chapo": "Un jour, Giovanni est tombé gravement malade. Pour témoigner de sa condition et ne plus penser aux douleurs, il s'est lancé sur les réseaux sociaux où il est devenu une petite célébrité. Et puis, Giovanni a voulu se faire euthanasier.",
+            "magnetotheque_id": "2025C6612S0083",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/les-pieds-sur-terre/un-tiktokeur-vraiment-mortel-3130034",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/10078-24.03.2025-ITEMA_24069722-2025C6612S0083-NET_MFC_F7300E52-F7B6-45BD-A8A8-FEAC60008763-21.mp3",
+            "duration": 1724,
+            "date": 1742821125,
+            "settings": [
+                "temoignage"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "« C'est un bouton magique pour ne plus souffrir »",
+                    "extrait": "« Moi, je voyais l'euthanasie comme un bouton magique. C'est un bouton qui me permettra enfin de ne plus passer mes nuits à pleurer, mes nuits à crier. C'est clairement un bouton de sortie de cette souffrance pour partir en toute dignité. »",
+                    "score": 95,
+                    "start": 1015.317,
+                    "end": 1044.433
+                },
+                {
+                    "titre": "« Je refuse d'être un fardeau »",
+                    "extrait": "« Je sais très bien, et ça c'est une certitude, c'est que je refuse d'être un fardeau. Je sais que la maladie prendra au final le dessus à un moment donné de ma vie. Mais à ce moment où elle aura l'impression d'être la plus forte, là je pourrais l'éteindre définitivement. »",
+                    "score": 90,
+                    "start": 1645.086,
+                    "end": 1664.354
+                },
+                {
+                    "titre": "« J'ai apporté quelque chose d'incroyable aux gens »",
+                    "extrait": "« Quand on entend ça, on se dit qu'on apporte quelque chose d'incroyable aux gens et on a juste envie de continuer. »",
+                    "score": 85,
+                    "start": 785.19,
+                    "end": 790.638
                 }
             ]
         },
