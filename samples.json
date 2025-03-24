@@ -1,6 +1,6 @@
 {
-    "date": "Mis à jour le 24/03/2025 à 08:43",
-    "unix": 1742802237,
+    "date": "Mis à jour le 24/03/2025 à 08:44",
+    "unix": 1742802295,
     "shows": [
         {
             "title": "Les jeunes sont-ils plus exposés que les autres aux fausses nouvelles ?",
@@ -6382,46 +6382,40 @@
             "limit": 0,
             "extraits": [
                 {
-                    "titre": "« Décidément, j'ai raté ma vie »",
-                    "extrait": "« Décidément, j'ai raté ma vie. Allons. Ce que j'ai de mieux à faire, soupira M. Follentin, c'est encore de me coucher et de dormir. »",
-                    "score": 90,
-                    "start": 725.187,
-                    "end": 734.871
+                    "titre": "Comment la solitude peut-elle détruire une vie ?",
+                    "extrait": "M. Follentin, penché en avant sur son fauteuil, le front sur le rebord de la cheminée, se mit à parcourir le chemin de croix de ses quarante ans, s'arrêtant, désespéré, à chaque station. Jean Follentin était né dans de désastreuses conditions. Son père décéda très jeune et la boutique de papeterie qu'il exploitait eut du four fut vendue pour liquider les dettes nécessitées par la maladie. La mère et l'enfant se trouvèrent sur le pavé. Madame Follentin se plaça chez les autres et devint demoiselle de magasin, puis caissière dans une lingerie et l'enfant devint pensionnaire dans un lycée. Bien que Mme Follentin fût dans une situation réellement malheureuse, elle obtint une bourse et elle se priva de tout. économisant sur ses maigres mois, afin de pouvoir parer plus tard aux frais des examens et des diplômes.",
+                    "start": 250.331,
+                    "end": 310.802
                 },
                 {
-                    "titre": "La solitude est douloureuse : un constat amer",
-                    "extrait": "« C'est égal, la solitude est douloureuse, pensait-il maintenant. Et il songea à ses anciens camarades. Comme le mariage brisait tout. On s'était tutoyés, on avait vécu de la même existence, l'on ne pouvait se passer les uns des autres et c'est à peine si l'on se saluait à présent lorsqu'on se rencontrait. »",
-                    "score": 85,
+                    "titre": "La mélancolie d'un homme face à ses choix de vie",
+                    "extrait": "Décidément, j'ai raté ma vie. Allons. Ce que j'ai de mieux à faire, soupira M. Follentin, c'est encore de me coucher et de dormir. Et, pendant qu'il ouvrait ses couvertures et disposait ses oreillers, des actions de grâce s'élevèrent dans son âme, célébrant les pacifiants bienfaits du secourable lit.",
+                    "start": 725.187,
+                    "end": 749.169
+                },
+                {
+                    "titre": "Pourquoi la solitude est-elle si douloureuse ?",
+                    "extrait": "C'est égal, la solitude est douloureuse, pensait-il maintenant. Et il songea à ses anciens camarades. Comme le mariage brisait tout. On s'était tutoyés, on avait vécu de la même existence, l'on ne pouvait se passer les uns des autres et c'est à peine si l'on se saluait à présent lorsqu'on se rencontrait.",
                     "start": 442.82,
                     "end": 463.045
                 },
                 {
-                    "titre": "« Je ferais comme les autres » : le regret d'une vie de célibataire",
-                    "extrait": "« Je ferais comme les autres. Je m'attellerais à des copies, le soir, pour que ma femme fût mieux mise. Mais nous mangerions de la viande le matin seulement, et de même que la plupart des petits ménages, nous nous contenterions au dîner d'une assiettée de soupe. »",
-                    "score": 88,
-                    "start": 684.93,
-                    "end": 701.379
+                    "titre": "La quête désespérée d'un homme pour un sens à sa vie",
+                    "extrait": "Il se mit au fer. Mais toutes les préparations martiales qui l'avala lui noircirent sans résultat appréciable les entrailles. Pour se réguiser l'appétit, M. Follentin essaya d'un excitant qui lui réussissait dans son enfance. Tous les deux jours, il se rendit au bain. Cet exercice lui plaisait surtout parce qu'ayant deux heures à tuer entre la sortie de son bureau et son repas, il évitait ainsi de rentrer chez lui, de demeurer tout botté, tout habillé, consultant sa pendule, attendant l'heure du dîner.",
+                    "start": 1070.39,
+                    "end": 1111.638
                 },
                 {
-                    "titre": "Le poids du passé : un chemin de croix",
-                    "extrait": "« M. Follentin, penché en avant sur son fauteuil, le front sur le rebord de la cheminée, se mit à parcourir le chemin de croix de ses quarante ans, s'arrêtant, désespéré, à chaque station. »",
-                    "score": 92,
-                    "start": 250.331,
-                    "end": 267.189
+                    "titre": "Comment un homme peut-il se perdre dans la routine ?",
+                    "extrait": "Mécaniquement, sous le ciel pluvieux, il se rendait à son bureau, le quittait, mangeait et se couchait à 9 heures pour recommencer, le jour suivant, une vie pareille. peu à peu, il glissait à un alourdissement absolu d'esprit.",
+                    "start": 782.325,
+                    "end": 799.575
                 },
                 {
-                    "titre": "« Profitons du temps qui nous reste » : une réflexion sur la vie",
-                    "extrait": "« Profitons du temps qui nous reste avant la définitive invasion de la grande mufflerie du Nouveau Monde ! »",
-                    "score": 87,
-                    "start": 1426.741,
-                    "end": 1440.412
-                },
-                {
-                    "titre": "« La vie de l'homme est comme un pendule » : une philosophie du désespoir",
-                    "extrait": "« La vie de l'homme aussi comme un pendule entre la douleur et l'ennui. Aussi n'est-ce point la peine de tenter d'accélérer ou de retarder la marche du balancier. Il n'y a qu'à se croiser les bras et à tâcher de dormir. »",
-                    "score": 90,
-                    "start": 3304.594,
-                    "end": 3317.621
+                    "titre": "La désillusion d'un homme face à ses rêves de jeunesse",
+                    "extrait": "Ah, si ses appointements avaient été plus élevés ! Dépourvu d'argent comme il l'était, ne pouvant prétendre à lever des filles dans un bal, il s'adressait aux affûts des corridors, aux malheureuses dont le gros ventre bomba au ras du trottoir.",
+                    "start": 543.479,
+                    "end": 561.45
                 }
             ]
         },
@@ -6451,10 +6445,10 @@
                 },
                 {
                     "titre": "« Les femmes américaines, un troisième sexe ? »",
-                    "extrait": "« Les femmes, l'âge ingrat des femmes américaines, c'est, je crois, entre 30 et 35 ans, si tu en le à peu près. C'est-à-dire au moment où elles ont complètement renoncé à faire du mariage l'idéal de leur vie. »",
+                    "extrait": "« Les femmes, l'âge ingrat des femmes américaines, c'est, je crois, entre 30 et 35 ans, si tu en le à peu près. C'est-à-dire au moment où elles ont complètement renoncé à faire du mariage l'idéal de leur vie. C'est le moment où il faut qu'elles choisissent autre chose. Et elles choisissent, généralement. Et alors, elles deviennent des espèces d'êtres à peu près asexuées. Elles deviennent un troisième sexe, très exactement. »",
                     "score": 90,
                     "start": 203.287,
-                    "end": 215.553
+                    "end": 225.218
                 }
             ]
         },
@@ -6515,51 +6509,51 @@
             "extraits": [
                 {
                     "titre": "Comment la musique a changé notre perception du monde ?",
-                    "extrait": "C'est bien parce que le micro a émergé à un moment donné dans les années 30 que la voix des hommes a commencé à changer, à se faire plus douce, enveloppante et basse. Mais l'inverse est vrai aussi, c'est bien parce qu'à un moment donné du XXe siècle, en 64-65 précisément, a surgé dans le monde occidental une génération de jeunes énervés nés pendant la guerre, très trop différents de leurs parents et qui avaient bien des choses à dire, des choses à hurler face à un monde trop violent.",
-                    "score": 90,
+                    "extrait": "\"C'est bien parce que le micro a émergé à un moment donné dans les années 30 que la voix des hommes a commencé à changer, à se faire plus douce, enveloppante et basse.\"",
+                    "score": 85,
                     "start": 206.689,
+                    "end": 214.614
+                },
+                {
+                    "titre": "La révolte d'une génération : qu'est-ce qui a vraiment changé ?",
+                    "extrait": "\"C'est bien parce qu'à un moment donné du XXe siècle, en 64-65 précisément, a surgé dans le monde occidental une génération de jeunes énervés nés pendant la guerre, très trop différents de leurs parents et qui avaient bien des choses à dire, des choses à hurler face à un monde trop violent.\"",
+                    "score": 90,
+                    "start": 215.254,
                     "end": 232.726
                 },
                 {
-                    "titre": "La révolte musicale des baby-boomers : un cri de désespoir ?",
-                    "extrait": "20 ans donc, une génération qui est née pendant la guerre et qui se sent extrêmement différente de celle de ses parents, qui eux étaient déjà adultes pendant la guerre. Ce sont évidemment les baby-boomers qui ont besoin de dire leur révolte, mais aussi leur désir.",
-                    "score": 85,
-                    "start": 730.389,
-                    "end": 744.704
-                },
-                {
-                    "titre": "Pourquoi Bob Dylan a-t-il choqué le monde de la musique ?",
-                    "extrait": "Packer Rolling Stone est qualifié dans ce livre de Thomas Meyer, mais aussi par l'immense majorité du monde musical qui l'écoute en 65 comme un coup d'état musical. Pourquoi ? Parce que celui que vous entendez ici, et qui ordonne à son groupe The Hawks de jouer putain de fort...",
+                    "titre": "Pourquoi Bob Dylan a-t-il été considéré comme un révolutionnaire musical ?",
+                    "extrait": "\"Packer Rolling Stone est qualifié dans ce livre de Thomas Meyer, mais aussi par l'immense majorité du monde musical qui l'écoute en 65 comme un coup d'état musical.\"",
                     "score": 88,
                     "start": 555.551,
-                    "end": 574.782
+                    "end": 567.998
                 },
                 {
-                    "titre": "L'impact des Beatles : un tournant musical inévitable ?",
-                    "extrait": "Ce qui s'est passé entre 62, Blowing in the Wind, et cette chanson, Like a Rolling Stone, en 65, c'est un double choc pour Bob Dylan. Un choc politique, l'assassinat de John F. Kennedy, qui va l'ébranler profondément. Évidemment, lui faire peur, comme au reste de l'Amérique, une Amérique toujours ségrégationniste.",
+                    "titre": "La musique comme cri de révolte : un phénomène universel ?",
+                    "extrait": "\"Les amplis, les guitares, les micros, et donc le son disponible à l'écoute a fait un saut complètement fou en l'espace de seulement 5 ans.\"",
                     "score": 87,
-                    "start": 622.108,
-                    "end": 640.255
-                },
-                {
-                    "titre": "Comment la musique a-t-elle façonné la révolte des jeunes ?",
-                    "extrait": "Les amplis, les guitares, les micros, et donc le son disponible à l'écoute a fait un saut complètement fou en l'espace de seulement 5 ans. Cette histoire incroyable, c'est justement l'historien Thomas Meyer, grand mélomane, qui la raconte dans un livre génial d'une richesse inouïe, paru en ce printemps 2024 aux éditions Le Mot et le Rest.",
-                    "score": 92,
                     "start": 233.426,
-                    "end": 249.899
+                    "end": 240.612
                 },
                 {
-                    "titre": "La naissance du hard rock : un cri de liberté ?",
-                    "extrait": "C'est quoi le hard rock en fait si on y réfléchit ? C'est un blues suramplifié traversé de longues improvisations électriques. Alors on sait qu'ensuite Eric Clapton va être très fatigué du star system et fatigué aussi de ce son, de cette inflation sonore qui en réalité est vraiment le fruit de cette espèce d'émulation.",
+                    "titre": "Comment les Beatles ont-ils redéfini la pop ?",
+                    "extrait": "\"Ce 'yeah, yeah, yeah' traduit quelque chose de simple. On n'a plus tellement besoin de paroles. On a juste besoin de crier, d'exprimer son désir dans sa forme la plus pure.\"",
+                    "score": 92,
+                    "start": 935.17,
+                    "end": 943.594
+                },
+                {
+                    "titre": "La naissance du hard rock : un tournant musical décisif ?",
+                    "extrait": "\"C'est un blues suramplifié traversé de longues improvisations électriques.\"",
+                    "score": 86,
+                    "start": 2659.785,
+                    "end": 2664.408
+                },
+                {
+                    "titre": "La musique peut-elle changer le monde ?",
+                    "extrait": "\"Les musiciens des banlieues industrielles de Birmingham, d'un côté, et de Détroit, de l'autre, ne cherchent, eux, qu'à rejeter le monde dans lequel ils sont, à en punir les responsables, voire à le détruire totalement.\"",
                     "score": 89,
-                    "start": 2657.723,
-                    "end": 2673.674
-                },
-                {
-                    "titre": "La musique comme miroir de la société : un constat amer ?",
-                    "extrait": "Il y a évidemment des intenses éveilleurs de ces quatre premières années qui voulaient remplacer, reconstruire une nouvelle société. Les musiciens des banlieues industrielles de Birmingham, d'un côté, et de Détroit, de l'autre, ne cherchent, eux, qu'à rejeter le monde dans lequel ils sont, à en punir les responsables, voire à le détruire totalement.",
-                    "score": 91,
-                    "start": 3279.84,
+                    "start": 3288.005,
                     "end": 3298.511
                 }
             ]
@@ -7645,52 +7639,100 @@
             "extraits": [
                 {
                     "titre": "« 1 euro investi dans l'adaptation, c'est 8 euros évités pour la réparation »",
-                    "extrait": "\"Les solutions existent pour s'adapter et ces solutions doivent être déployées maintenant. Aujourd'hui, baisser les émissions de gaz à effet de serre et s'adapter au dérèglement climatique, c'est donc agir de manière rationnelle pour économiser de l'argent public, pour protéger la santé des Françaises et des Français, pour protéger leur patrimoine, pour protéger leur emploi. Nombreux experts économiques le démontrent étude après étude, le coût de l'action est bien moins important que celui de l'inaction. 1 euro investi dans l'adaptation, c'est 8 euros évités pour la réparation.\"",
-                    "score": 95,
-                    "start": 21.074,
+                    "extrait": "\"Nombreux experts économiques le démontrent étude après étude, le coût de l'action est bien moins important que celui de l'inaction. 1 euro investi dans l'adaptation, c'est 8 euros évités pour la réparation.\"",
+                    "score": 90,
+                    "start": 29.739,
                     "end": 59.042
                 },
                 {
-                    "titre": "Comment la France perd un milliard de mètres cubes d'eau chaque année ?",
-                    "extrait": "\"Pourtant, la France continue de perdre près d'un milliard de mètres cubes chaque année, soit 20% de sa production annuelle, à cause d'infrastructures hors d'âge. C'est pire encore dans les Outre-mer, où des tours d'eau sont organisées parfois entre les populations.\"",
-                    "score": 90,
+                    "titre": "Comment la France perd près d'un milliard de mètres cubes d'eau chaque année ?",
+                    "extrait": "\"Pourtant, la France continue de perdre près d'un milliard de mètres cubes chaque année, soit 20% de sa production annuelle, à cause d'infrastructures hors d'âge.\"",
+                    "score": 85,
                     "start": 126.503,
-                    "end": 139.374
-                },
-                {
-                    "titre": "« L'eau, c'est un bien commun »",
-                    "extrait": "\"Il faut que l'eau reste un bien commun. Alors, moi, je crois qu'aujourd'hui, ce qu'il nous faut, j'ai envie de dire, c'est d'être à la hauteur de nos anciens qui avaient imaginé cette loi de 64. Il faut qu'on soit capable d'impulser une nouvelle dynamique.\"",
-                    "score": 92,
-                    "start": 1912.478,
-                    "end": 1927.384
-                },
-                {
-                    "titre": "Pourquoi la sobriété est-elle au cœur de la gouvernance de l'eau ?",
-                    "extrait": "\"Ce qui est central, je pense, c'est qu'on est en train de changer complètement de paradigme sur la question de l'eau. Parce que pendant des décennies et des décennies, on était dans une situation où on avait suffisamment d'eau et on ne se posait pas le problème de la pénurie potentielle d'eau. Ça change complètement avec le changement climatique, l'évolution des cycles de l'eau.\"",
-                    "score": 88,
-                    "start": 398.084,
-                    "end": 419.242
+                    "end": 134.129
                 },
                 {
                     "titre": "« On a des problèmes de riches en France »",
                     "extrait": "\"Aujourd'hui, l'eau en France, on en parle pour parler des choses qui ne vont pas. Mais il y a plein de choses qui vont bien. On a la chance d'avoir une eau de qualité et en quantité, ce qui n'est pas le cas dans d'autres pays. Par contre, c'est vrai que du fait de cette eau qui peut nous sembler abondante, les gens ont encore du mal à se projeter sur les infrastructures qui vont devoir être réalisées pour pouvoir adapter les territoires, les départements au manque d'eau à venir.\"",
-                    "score": 87,
+                    "score": 88,
                     "start": 540.306,
                     "end": 572.983
                 },
                 {
-                    "titre": "Comment éviter de « prendre le mur » ?",
-                    "extrait": "\"Les investissements que nous serons obligés de faire au moment où nous aurons frappé le mur coûteront beaucoup plus cher que ceux que l'on peut anticiper dès maintenant.\"",
-                    "score": 89,
-                    "start": 630.287,
-                    "end": 645.535
+                    "titre": "Pourquoi la réutilisation des eaux usées est-elle si faible en France ?",
+                    "extrait": "\"Nous réutilisons seulement 1% des eaux usées, contre 14% en Espagne. Et par ailleurs, il y a des pays dans le monde, je pense notamment à l'Australie, où vous êtes tenu d'avoir des systèmes de récupération d'eau de pluie, tout individu.\"",
+                    "score": 87,
+                    "start": 897.798,
+                    "end": 923.055
                 },
                 {
-                    "titre": "« L'eau, c'est un outil de pouvoir »",
-                    "extrait": "\"L'eau est donc présente partout en creux dans les dystopies qui imaginent sa disparition à l'image du monde dévasté, décrit par l'écrivain James Graham Ballard dans « Sécheresse » en 1964. Et lorsque l'eau ne disparaît pas, elle envahit et détruit le monde tel que nous le connaissons.\"",
+                    "titre": "« Il faut faire confiance aux gens, on est en train tous collectivement de se réapproprier l'eau »",
+                    "extrait": "\"Je pense qu'il faut faire confiance aux gens, on est en train tous collectivement de se réapproprier l'eau, faisons confiance, on met l'imagination au pouvoir et probablement il y a des choses intéressantes qui vont déboucher.\"",
+                    "score": 92,
+                    "start": 3491.099,
+                    "end": 3506.158
+                },
+                {
+                    "titre": "Comment la technologie peut-elle résoudre la crise de l'eau ?",
+                    "extrait": "\"Ce que vous nous dites, c'est que cet enjeu central, aujourd'hui, il implique une prise de conscience. Alors, il faut quand même se souvenir qu'à l'époque, le président de la République est sur le lac de Serpenson, un des plus grands lacs artificiels d'Europe, qui est né d'une retenue et d'un barrage. Un lac qui était quasi complètement asséché. C'était l'été 2022.\"",
+                    "score": 89,
+                    "start": 471.798,
+                    "end": 492.593
+                },
+                {
+                    "titre": "« L'eau, c'est un bien commun »",
+                    "extrait": "\"Il faut que l'eau reste un bien commun. Alors, moi, je crois qu'aujourd'hui, ce qu'il nous faut, j'ai envie de dire, c'est d'être à la hauteur de nos anciens qui avaient imaginé cette loi de 64. Il faut qu'on soit capable d'impulser une nouvelle dynamique.\"",
                     "score": 91,
-                    "start": 3088.095,
-                    "end": 3103.763
+                    "start": 1912.478,
+                    "end": 1927.384
+                }
+            ]
+        },
+        {
+            "title": "Narcotrafic : y a-t-il deux camps  ? ",
+            "id": "2aa220b4-8f15-4e72-8775-446d36883434",
+            "show": "Le Billet politique",
+            "show_id": "7656aae3-b20b-11e5-8e9e-005056a87c89",
+            "chapo": "La proposition de loi sur la lutte contre le trafic de drogue divise les députés. Comment un texte si consensuel est-il devenu si clivant ? ",
+            "magnetotheque_id": "2025C22191S0083",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/le-billet-politique/narcotrafic-y-a-t-il-deux-camps-3891090",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/13917-24.03.2025-ITEMA_24069725-2025C22191S0083-NET_MFC_597BEF13-C250-4B4E-8354-D0A242C42EC6-21.mp3",
+            "duration": 259,
+            "date": 1742800800,
+            "settings": [
+                "actu"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "Comment le narcotrafic a-t-il explosé en France ?",
+                    "extrait": "En un an, 300 assassinats ou tentatives d'assassinats. Et l'affaire Mohamed Amra, comme une prise de conscience, le narcotrafic en France est devenu ultra-puissant et ultra-violent. Sur le constat, je crois que tout le monde est d'accord. Si vous interrogez des élus locaux, des maires de tous bords politiques, vous aurez les mêmes récits. Et pas seulement dans les métropoles, dans des villes moyennes aussi, ce trafic est devenu un fléau. L'État, les élus locaux sont souvent dépassés. Il faut, oui, une réponse massive.",
+                    "start": 16.996,
+                    "end": 46.082
+                },
+                {
+                    "titre": "La loi sur le narcotrafic : un consensus qui s'effondre ?",
+                    "extrait": "Voilà comment est née cette proposition de loi, proposition bipartisane d'ailleurs. Un élu socialiste, Jérôme Durin, et un élu des Républicains, Étienne Blanc, l'ont défendu ensemble au Sénat et ils ont su convaincre leurs collègues. Leur proposition, le mois dernier, au Sénat, donc, a été adoptée à l'unanimité, c'est rare. Et puis le texte a continué son chemin, il est arrivé à l'Assemblée, en commission, puis en séance, et là, tout est devenu beaucoup plus tendu.",
+                    "start": 46.122,
+                    "end": 71.981
+                },
+                {
+                    "titre": "Deux camps s'affrontent : fermeté ou libertés publiques ?",
+                    "extrait": "Depuis quelques jours, effectivement, il n'y a plus un camp, mais deux. Les députés se battent, article par article, en tout cas ceux qui viennent en séance, ils ne sont pas très nombreux, Deux positions face à face, d'un côté la fermeté à tout prix ou ce qui y ressemble, de l'autre les libertés publiques, souvent la droite contre la gauche, l'unanimité du Sénat a disparu.",
+                    "start": 72.001,
+                    "end": 93.031
+                },
+                {
+                    "titre": "La faim justifie-t-elle les moyens dans la lutte contre le narcotrafic ?",
+                    "extrait": "Les valeurs ? La faim justifie-t-elle les moyens ? Pour lutter contre le trafic, faut-il s'affranchir du droit commun ? Je vous donne un exemple. Les messageries écriptées comme WhatsApp ou Signal, très utilisées par les délinquants. Le texte prévoyait que les enquêteurs puissent y accéder, dans certains cas exceptionnellement. Finalement, les députés ont refusé.",
+                    "start": 177.117,
+                    "end": 197.545
+                },
+                {
+                    "titre": "Comment renforcer les enquêtes sans perdre l'état de droit ?",
+                    "extrait": "Les vraies questions sont là et elles sont majeures. Comment être plus efficace ? Et il le faut ! Mais sans effacer nos principes, comment renforcer les enquêtes sans perdre l'état de droit ? Autrement dit, comment être sûr que l'exception, un jour aussi, ne deviendra pas la règle ? Police, justice et démocratie.",
+                    "start": 230.745,
+                    "end": 248.213
                 }
             ]
         },
@@ -7717,16 +7759,16 @@
                     "end": 35.944
                 },
                 {
-                    "titre": "Comment la stigmatisation aggrave-t-elle l'obésité ?",
-                    "extrait": "Il y a un sur-risque de maladies cardiovasculaires, de diabète, de cancer, mais il y a un risque qu'on ne peut pas négliger, ce qui est vraiment problématique. En tout cas, on s'est raconté largement en France, les personnes obèses et notamment les femmes subissent une stigmatisation de la part de certains soignants, il faut le dire, ce qui peut entraîner des retards de consultation avec des vraies conséquences.",
-                    "start": 480.395,
-                    "end": 499.295
+                    "titre": "L'obésité : une maladie chronique méconnue",
+                    "extrait": "Il faut tout de même rappeler que ces molécules, elles ont d'abord été développées en diabétologie et qu'elles sont aujourd'hui prescrites à large volume et remboursées dans ce cadre-là pour les patients qui ont un diabète. Dans le cadre de l'obésité, aujourd'hui, ces molécules ne sont pas prises en charge. Et donc, elles ont un cadre de prescription, une autorisation de mise sur le marché en France, en Europe et dans le monde.",
+                    "start": 1359.669,
+                    "end": 1382.315
                 },
                 {
-                    "titre": "L'obésité : une maladie chronique mal comprise",
-                    "extrait": "Il n'y a pas de solution miracle. Donc ça, c'est peut-être la grande déception du jour, mais on est samedi, il y a du soleil, donc on peut se permettre. Ce n'est pas une solution magique. Pourquoi ? Parce qu'en fait, l'obésité, c'est une maladie chronique. Et comme toutes les maladies chroniques, il y a des phases de succès, il y a des phases d'échec, il y a des phases de rebond de poids.",
-                    "start": 1582.863,
-                    "end": 1605.733
+                    "titre": "Comment la stigmatisation aggrave-t-elle l'obésité ?",
+                    "extrait": "On s'est raconté largement en France, les personnes obèses et notamment les femmes subissent une stigmatisation de la part de certains soignants, il faut le dire, ce qui peut entraîner des retards de consultation avec des vraies conséquences. Oui, alors ce qui est vraiment décrit dans la littérature scientifique, notamment par l'épidémiologie, c'est de dire que quand l'indice de masse corporelle augmente, on peut prendre l'exemple du dépistage des cancers, on sait que dans les campagnes de dépistage, notamment pour les cancers gynécologiques, les personnes en situation d'obésité, donc les femmes en situation d'obésité sévère, ont 20 à 30% de chances en moins d'avoir eu un frottis cervico-vaginal ou une mammographie dans l'année.",
+                    "start": 488.924,
+                    "end": 526.266
                 }
             ]
         },
@@ -7761,25 +7803,25 @@
                     "end": 472.786
                 },
                 {
-                    "titre": "« Cinq ans, c'est long, non ? »",
-                    "extrait": "« Cinq ans, c'est long, non ? Pour immobiliser du capital. Est-ce que c'est lié aux contraintes du financement des entreprises ? Oui, exactement. »",
+                    "titre": "« La démographie fait que l'aversion au risque augmente »",
+                    "extrait": "« On constate, et beaucoup d'économistes le disent dans le monde, que plus un pays vieillit, plus la démographie fait que le placement... L'aversion au risque augmente. »",
                     "score": 80,
+                    "start": 473.567,
+                    "end": 483.801
+                },
+                {
+                    "titre": "Pourquoi avons-nous besoin de recapitaliser le secteur de la défense ?",
+                    "extrait": "« Pourquoi est-ce qu'il y a besoin de recapitaliser tout ce secteur ? Pour une raison simple, c'est que jusqu'à 2-3 ans, jusqu'à l'ouverture par les Russes de la guerre en Ukraine, le secteur de la défense en France et même en Europe était un secteur dans lequel la commande publique était beaucoup moins fiable qu'aujourd'hui, beaucoup moins stable... »",
+                    "score": 88,
+                    "start": 144.243,
+                    "end": 166.899
+                },
+                {
+                    "titre": "« Cinq ans, c'est assez court pour immobiliser du capital »",
+                    "extrait": "« Cinq ans, c'est long, non ? Pour immobiliser du capital. Est-ce que c'est lié aux contraintes du financement des entreprises ? Oui, exactement. »",
+                    "score": 82,
                     "start": 90.346,
                     "end": 96.812
-                },
-                {
-                    "titre": "« La dette publique de l'État fédéral américain est effectivement mieux rémunérée que la dette publique en Europe. »",
-                    "extrait": "« Et donc, la dette publique de l'État fédéral américain est effectivement mieux rémunérée que la dette publique en Europe. »",
-                    "score": 75,
-                    "start": 435.181,
-                    "end": 441.546
-                },
-                {
-                    "titre": "Pourquoi l'épargne des Français est-elle si conservatrice ?",
-                    "extrait": "« Les épargnants ont plutôt tendance à privilégier le capital garanti, et la liquidité, ce qui est important aussi, c'est-à-dire la possibilité de récupérer son argent à tout moment. »",
-                    "score": 85,
-                    "start": 301.069,
-                    "end": 312.517
                 }
             ]
         }
