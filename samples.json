@@ -1,6 +1,6 @@
 {
-    "date": "Mis à jour le 26/03/2025 à 12:53",
-    "unix": 1742990012,
+    "date": "Mis à jour le 26/03/2025 à 13:06",
+    "unix": 1742990799,
     "shows": [
         {
             "title": "Andromède : une perte de masse qui pèse",
@@ -775,6 +775,45 @@
                     "reponse": "Il y a une sorte, justement, d'euphémisme qui était...  Aussi très liée à ce qu'elle écrivait, elle. Elle a trouvé refuge dans les brins des femmes. Elle était déçue par Willy qui l'avait maltraitée. Elle l'a écrit, Colette, mais il faut voir l'époque à laquelle elle écrit aussi.",
                     "start": 363.07,
                     "end": 384.099
+                }
+            ]
+        },
+        {
+            "title": "Critique ciné : \"Je le jure\" de Samuel Theis et \"Manas\" de Marianna Brennand Fortes",
+            "id": "019b9994-3898-465c-84cd-a1b24fe558f6",
+            "show": "Les Midis de Culture",
+            "show_id": "32a14af6-fc87-4f4f-a06e-39ccf8587119",
+            "chapo": "Au programme du débat critique, du cinéma, avec deux films en salle ce jour : \"Je le jure\" de Samuel Theis et \"Manas\" de Marianna Brennand Fortes.",
+            "magnetotheque_id": "2025C51852S0085",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/les-midis-de-culture/critique-cine-je-le-jure-de-samuel-theis-et-manas-de-marianna-brennand-fortes-2385032",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/24613-26.03.2025-ITEMA_24072869-2025C51852S0085-NET_MFC_96E35ABA-445B-4406-8210-0895DA4995C0-21.mp3",
+            "duration": 1655,
+            "date": 1742988525,
+            "settings": [
+                "interview"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "Comment la justice peut-elle changer une vie ?",
+                    "extrait": "\"Le réalisateur, ce qui est le sujet du film, c'est en fait plus précisément la question de cette démocratie qui s'exerce dans les prétoires et de comment est-ce qu'en fait un tribunal s'est devenu le dernier endroit dans la société où toutes les couches sociales peuvent dialoguer à égalité ?\"",
+                    "score": 90,
+                    "start": 564.183,
+                    "end": 585.153
+                },
+                {
+                    "titre": "La beauté peut-elle cacher la violence ?",
+                    "extrait": "\"Je ne suis pas sûr qu'elle ait... En tout cas, le film soulève des questions. Je ne suis pas sûr qu'elles aient toutes les réponses, mais au moins, Marina Brunan s'interroge sur la façon de représenter, vous disiez, le traumatisme, en tout cas la violence, c'est-à-dire à la fois la dénoncer... la transmettre sans la montrer.\"",
+                    "score": 85,
+                    "start": 1477.487,
+                    "end": 1496.122
+                },
+                {
+                    "titre": "L'amour peut-il transcender les âges ?",
+                    "extrait": "\"C'est-à-dire à la fois de filmer une région qui est très peu représentée au cinéma, qui est la Moselle, un milieu qui est carrément absent quasiment de tout un pan majeur du cinéma français. C'est-à-dire là, on est vraiment sur le prolétariat, sous-prolétariat, des gens qui sont souvent manutentionnaires, qui travaillent sur des chantiers. Et en plus, à l'intérieur de ça, une relation... D'amour, parce que c'est ça dont il s'agit, vraiment d'un amour profond, respectueux et assez beau entre cet homme qui a une trentaine d'années et cette femme qui est, je ne sais pas... Presque 70, on a l'impression, non ?\"",
+                    "score": 88,
+                    "start": 640.217,
+                    "end": 671.302
                 }
             ]
         },
