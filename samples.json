@@ -1,6 +1,6 @@
 {
     "date": "Mis à jour le 26/03/2025 à 12:53",
-    "unix": 1742989991,
+    "unix": 1742990012,
     "shows": [
         {
             "title": "Andromède : une perte de masse qui pèse",
@@ -3427,6 +3427,31 @@
             ]
         },
         {
+            "title": "Critique ciné : \"Manas\" de Marianna Brennand Fortes ",
+            "id": "c7e515f0-1496-487b-9f85-c37364496c99",
+            "show": "Les Midis de Culture",
+            "show_id": "32a14af6-fc87-4f4f-a06e-39ccf8587119",
+            "chapo": "Les critiques discutent de \"Manas\", premier film de fiction de Marianna Brennand Fortes qui montre les rêves d'émancipation d'une jeune fille vivant dans un village reculé d'Amazonie et dénonce par le hors-champ les abus sexuels dont elle est victime. ",
+            "magnetotheque_id": "2025C51852S2085",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/les-midis-de-culture/critique-cine-manas-de-marianna-brennand-fortes-4446881",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/24613-26.03.2025-ITEMA_24072869-2025C51852S2085-NET_MFC_764F89FF-CA67-418D-8AEE-C96736A41CDF-21.mp3",
+            "duration": 650,
+            "date": 1742988600,
+            "settings": [
+                "interview"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "Comment la fiction révèle l'horreur des abus ?",
+                    "extrait": "\"La fiction lui permet de nous raconter la façon dont les abus sexuels et l'exploitation sexuelle sont omniprésents pour toutes les filles, pour toutes les femmes de cette région-là et ça permet de nous le raconter sans nous le dire, jamais, ça n'est presque pas mentionné, très peu, voilà.\"",
+                    "score": 95,
+                    "start": 336.994,
+                    "end": 363.877
+                }
+            ]
+        },
+        {
             "title": "Affaire Émile Soleil : comment mène-t-on des enquêtes sur le temps long ? ",
             "id": "6e3dc732-f048-48d7-b650-89b28bfb79d7",
             "show": "La Question du jour",
@@ -4476,6 +4501,38 @@
                     "reponse": "La Pologne existe de nouveau, mais alors justement, qu'est-ce que vous avez à ce moment-là en novembre 1918 ? Vous avez un État polonais, mais vous n'avez pas les frontières. Et donc tout reste à faire de ce point de vue-ci, avec deux projets qui s'opposent. D'un côté, un projet qui serait celui d'une Pologne, je dirais, nationale, c'est-à-dire un territoire polonais plutôt étendu vers l'ouest et pas tellement vers l'est, parce que ce serait une vision ethnique de la Pologne, qui était plutôt celle de la droite polonaise.",
                     "start": 3344.795,
                     "end": 3375.675
+                }
+            ]
+        },
+        {
+            "title": "Critique ciné : \"Je le jure\" de Samuel Theis ",
+            "id": "1d23fa37-a7a7-4348-b93a-6a7a7a7b7269",
+            "show": "Les Midis de Culture",
+            "show_id": "32a14af6-fc87-4f4f-a06e-39ccf8587119",
+            "chapo": "Les critiques discutent de \"Je le jure\", le nouveau film de Samuel Theis, qui questionne les responsabilités du jury populaire de Metz.",
+            "magnetotheque_id": "2025C51852S1085",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/les-midis-de-culture/critique-cine-je-le-jure-de-samuel-theis-9604210",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/12360-26.03.2025-ITEMA_24072492-2025C51852S1085-NET_MFC_BADA3BF7-759D-49DB-A323-849579290D4B-21.mp3",
+            "duration": 1015,
+            "date": 1742987701,
+            "settings": [
+                "interview"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "Comment un film peut-il questionner la justice et la responsabilité ?",
+                    "extrait": "« Ce qui intéresse le réalisateur, ce qui est le sujet du film, c'est en fait plus précisément la question de cette démocratie qui s'exerce dans les prétoires et de comment est-ce qu'en fait un tribunal s'est devenu le dernier endroit dans la société où toutes les couches sociales peuvent dialoguer à égalité. »",
+                    "score": 95,
+                    "start": 561.257,
+                    "end": 585.147
+                },
+                {
+                    "titre": "« La prison, c'est pas humain ! »",
+                    "extrait": "« La prison, c'est pas humain ! Il est accusé d'être pyroman, pas terroriste. Si vous vous en êtes sûr, très bien. Moi, j'ai le droit de me poser des questions. Faut pas comprendre que les faits, faut comprendre les gens. »",
+                    "score": 90,
+                    "start": 142.776,
+                    "end": 151.962
                 }
             ]
         },
