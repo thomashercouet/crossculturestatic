@@ -1,6 +1,6 @@
 {
-    "date": "Mis à jour le 27/03/2025 à 10:57",
-    "unix": 1743069457,
+    "date": "Mis à jour le 27/03/2025 à 11:10",
+    "unix": 1743070248,
     "shows": [
         {
             "title": "Frontière Pologne-Russie, histoire d’une ligne sous haute tension",
@@ -1053,6 +1053,59 @@
                     "score": 75,
                     "start": 242.395,
                     "end": 256.95
+                }
+            ]
+        },
+        {
+            "title": "Comment penser l'Histoire universelle ?",
+            "id": "859a6c50-a642-4709-9652-c463ccd0e98b",
+            "show": "Le Pourquoi du comment : philo  ",
+            "show_id": "b6bd068b-da10-4d88-8d15-f0e1c87ed34b",
+            "chapo": "Une histoire universelle est-elle possible ? Comment concilier la diversité des récits individuels afin de construire un sens commun ? Tandis que les grands récits semblent vaciller, comment penser l’histoire humaine à l’échelle du vivant et des conflits de représentations ?",
+            "magnetotheque_id": "2025C45539E0048",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/le-pourquoi-du-comment-philo/comment-penser-l-histoire-universelle-5737863",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/21713-27.03.2025-ITEMA_24073831-2025C45539E0048-NET_MFC_55E2EBA6-889A-43D9-BD32-62D5141F8FDF-21.mp3",
+            "duration": 235,
+            "date": 1743069535,
+            "settings": [
+                "savoirs"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "L'Histoire universelle : un rêve brisé ou une réalité renouvelée ?",
+                    "extrait": "Comment penser l'histoire universelle aujourd'hui ? Comment penser l'histoire universelle à un moment historique où, très paradoxalement, d'un côté, cette idée d'une histoire universelle semble s'être écroulée, ou d'un autre côté, où elle semble s'être aussi renforcée aujourd'hui ?",
+                    "score": 85,
+                    "start": 8.178,
+                    "end": 22.927
+                },
+                {
+                    "titre": "L'anthropocène : quand l'humanité redéfinit l'Histoire",
+                    "extrait": "L'historien Dipech Chakrabarty nous montre que l'histoire du climat est deux fois humaine. Les humains ont transformé la planète, c'est l'anthropocène. Et d'un autre côté, les humains se situent désormais dans l'histoire de la vie.",
+                    "score": 90,
+                    "start": 95.254,
+                    "end": 107.004
+                },
+                {
+                    "titre": "Peut-on vraiment construire une histoire commune ?",
+                    "extrait": "Il y a la négativité des catastrophes écologiques qui nous situent dans une histoire commune, mais il y a aussi les conflits entre les histoires qu'il faut surmonter pour arriver à une histoire commune qui n'est pas immédiatement universelle, mais qui est un dialogue.",
+                    "score": 88,
+                    "start": 157.181,
+                    "end": 170.929
+                },
+                {
+                    "titre": "L'Europe : une histoire plurielle à redécouvrir",
+                    "extrait": "L'histoire de l'Europe a prétendu être l'histoire universelle. Il y a pourtant bien aujourd'hui une Europe. Et il faut faire l'histoire de l'Europe pour comprendre aussi comment elle réagit, par exemple à des agressions extérieures.",
+                    "score": 87,
+                    "start": 173.011,
+                    "end": 185.522
+                },
+                {
+                    "titre": "La diversité des récits : clé d'une histoire commune ?",
+                    "extrait": "Cet espace commun qui se crée entre des points de vue différents, assumés, connus comme tels, avec l'importance des sciences historiques, des faits objectifs, des traces, des effets de ces représentations des humains dans l'histoire concrète de l'univers.",
+                    "score": 89,
+                    "start": 200.275,
+                    "end": 221.935
                 }
             ]
         },
