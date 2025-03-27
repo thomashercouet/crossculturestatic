@@ -1,6 +1,6 @@
 {
-    "date": "Mis à jour le 27/03/2025 à 12:02",
-    "unix": 1743073357,
+    "date": "Mis à jour le 27/03/2025 à 12:16",
+    "unix": 1743074180,
     "shows": [
         {
             "title": "Frontière Pologne-Russie, histoire d’une ligne sous haute tension",
@@ -1106,6 +1106,66 @@
                     "score": 89,
                     "start": 200.275,
                     "end": 221.935
+                }
+            ]
+        },
+        {
+            "title": "Irlande du nord : de l’IRA au Sinn Féin, la reconversion politique ? ",
+            "id": "51076ffe-8e4f-4035-b70d-dcbf616f3d23",
+            "show": "Cultures Monde",
+            "show_id": "2358bc00-3f62-11e5-8314-005056a87c89",
+            "chapo": "Plus de 25 ans après la fin du conflit, la paix semble stable en Irlande du Nord malgré des tensions dues au Brexit. La majorité des vétérans de l'Armée républicaine irlandaise (IRA) ont accepté le jeu démocratique en adhérant massivement au parti du Sinn Féin.",
+            "magnetotheque_id": "2025C16756S0086",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/cultures-monde/irlande-du-nord-de-l-ira-au-sinn-fein-la-reconversion-politique-9562284",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/11701-27.03.2025-ITEMA_24074362-2025C16756S0086-NET_MFC_E9F59972-998F-456E-9E4F-BA7F69F7ECF6-21.mp3",
+            "duration": 3474,
+            "date": 1743073125,
+            "settings": [
+                "savoirs"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "« Je ne veux pas que la nouvelle génération soit condamnée à connaître le même destin que moi »",
+                    "extrait": "« Je ne veux surtout pas que la nouvelle génération soit condamnée à connaître le même destin que moi. Je ne veux pas que la jeunesse soit confrontée à la guerre. Le contexte d'aujourd'hui n'a plus rien à voir avec celui que j'ai connu lorsque j'étais adolescent. Et je pense qu'il faut désormais nous donner les moyens de trouver une issue politique. »",
+                    "score": 95,
+                    "start": 108.985,
+                    "end": 123.122
+                },
+                {
+                    "titre": "Comment l'IRA a-t-elle transformé son héritage en politique ?",
+                    "extrait": "« Alors, qu'est-ce qu'ils sont devenus ? Vaste question. Il y a une partie, effectivement, comme on l'a dit, qui rentre dans le Sinn Féin, qui va devenir élue. Ils vont se faire élire au conseil municipaux, ils vont se faire élire à l'Assemblée d'Irlande du Nord, au Parlement européen, etc. »",
+                    "score": 90,
+                    "start": 841.962,
+                    "end": 856.547
+                },
+                {
+                    "titre": "« La première chose qu'on te disait lorsque tu rejoignais l'IRA, c'est que deux options se présentaient à toi dans la vie, la mort ou la prison »",
+                    "extrait": "« La première chose qu'on te disait lorsque tu rejoignais l'IRA, c'est que deux options se présentaient à toi dans la vie, la mort ou la prison. Moi j'ai été chanceux, beaucoup de mes camarades ont perdu la vie avant leurs 17 ou 18 ans. Ça n'a pas empêché toute ma génération d'avoir un seul rêve, s'engager dans l'IRA. »",
+                    "score": 92,
+                    "start": 802.901,
+                    "end": 820.507
+                },
+                {
+                    "titre": "Pourquoi l'IRA a-t-elle choisi de déposer les armes en 2005 ?",
+                    "extrait": "« Ce n'est qu'en 2005, sept ans après les accords de paix, que l'armée républicaine irlandaise a appelé tous ses membres à déposer les armes. Pas de les rendre, comme écrivaient alors les journaux. À qui l'IRA pouvait-elle rendre les armes ? Elles n'étaient ni vaincues, ni exsangues. »",
+                    "score": 88,
+                    "start": 124.754,
+                    "end": 139.342
+                },
+                {
+                    "titre": "« Les gens comme moi ont la responsabilité de reconstruire la société »",
+                    "extrait": "« Les personnes qui, comme moi, ont très clairement participé à la guerre et au conflit pendant toutes ces années ont la responsabilité, une fois la guerre terminée, d'essayer de reconstruire la société et de veiller à ce que l'avenir de nos enfants ne soit pas notre passé. »",
+                    "score": 94,
+                    "start": 2325.218,
+                    "end": 2339.027
+                },
+                {
+                    "titre": "Comment le Sinn Féin jongle-t-il avec son héritage militant ?",
+                    "extrait": "« Ce qui est intéressant, c'est que c'est un peu ni l'un ni l'autre. C'est-à-dire que ce qu'essaye le Sinn Féin, c'est de se construire comme un parti moderne du XXIe siècle qui a des liens historiques avec l'IRA qu'il ne renie pas, et non seulement qu'il ne renie pas, mais qu'il justifie dans un cadre bien spécifique. »",
+                    "score": 89,
+                    "start": 1347.106,
+                    "end": 1370.072
                 }
             ]
         },
