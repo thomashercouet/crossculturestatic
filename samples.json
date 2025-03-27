@@ -1,6 +1,6 @@
 {
-    "date": "Mis à jour le 27/03/2025 à 13:20",
-    "unix": 1743078038,
+    "date": "Mis à jour le 27/03/2025 à 13:33",
+    "unix": 1743078826,
     "shows": [
         {
             "title": "Frontière Pologne-Russie, histoire d’une ligne sous haute tension",
@@ -4071,6 +4071,38 @@
                     "score": 95,
                     "start": 409.238,
                     "end": 419.887
+                }
+            ]
+        },
+        {
+            "title": "Reparution de la Trilogie de l'éveil de Robert J. Sawyer",
+            "id": "810fde29-d695-4d22-8a67-008d22217ac4",
+            "show": "Le Point culture",
+            "show_id": "25d4eded-ef3f-4106-9cca-09a53f4794dc",
+            "chapo": "Quinze ans après leur première parution, les trois tomes de la Trilogie de l'éveil sont à nouveau disponibles en format poche. Issus de l'imagination de Robert J. Sawyer, écrivain SF reconnu, ils interrogent la conscience et l'intelligence artificielle en s'appuyant sur de véritables travaux.",
+            "magnetotheque_id": "2025C41196S0086",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/le-point-culture/reparution-de-la-trilogie-de-l-eveil-de-robert-j-sawyer-3519880",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/21829-27.03.2025-ITEMA_24074383-2025C41196S0086-NET_MFC_EE6B05C5-3B5F-4EB7-BC78-C58A70914EF3-21.mp3",
+            "duration": 630,
+            "date": 1743076800,
+            "settings": [
+                "actu"
+            ],
+            "limit": 2,
+            "extraits": [
+                {
+                    "titre": "La science-fiction, miroir de notre présent incertain",
+                    "extrait": "« Justement, parce que ce qui était impossible hier devient possible, parce que plus la technologie progresse et plus on a le sentiment d'entrer dans un monde d'incertitude, plus on a besoin, en quelque sorte, du regard d'auteurs qui vont utiliser le SI, qui vont spéculer, qui vont extrapoler, qui vont imaginer d'autres univers, d'autres situations, quelque part. »",
+                    "score": 95,
+                    "start": 412.011,
+                    "end": 437.415
+                },
+                {
+                    "titre": "L'éveil de la conscience artificielle : un enjeu toujours d'actualité",
+                    "extrait": "« Ce qu'il faut bien comprendre, c'est que c'est beaucoup plus un livre sur la conscience et sur l'altérité que sur l'intelligence artificielle en tant que telle. »",
+                    "score": 90,
+                    "start": 242.042,
+                    "end": 250.529
                 }
             ]
         },
