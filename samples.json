@@ -1,6 +1,6 @@
 {
-    "date": "Mis à jour le 27/03/2025 à 10:18",
-    "unix": 1743067116,
+    "date": "Mis à jour le 27/03/2025 à 10:34",
+    "unix": 1743068091,
     "shows": [
         {
             "title": "Frontière Pologne-Russie, histoire d’une ligne sous haute tension",
@@ -1246,6 +1246,73 @@
                     "score": 92,
                     "start": 976.702,
                     "end": 998.777
+                }
+            ]
+        },
+        {
+            "title": "Entre Finlande et Russie, des siècles de tensions frontalières",
+            "id": "a8b2f172-c045-4b69-97c5-cddcb636eaf6",
+            "show": "Le Cours de l'histoire",
+            "show_id": "0a41bdd2-4a6d-4fb2-b2d1-ca42d2dc5381",
+            "chapo": "Du grand-duché de Finlande, créé en 1809 par le tsar Alexandre 1er, à l’État indépendant en 1917, les frontières finlandaises sont en mouvement constant. Il faut attendre la fin de la guerre froide pour que la Finlande s’émancipe de la tutelle russe. \n",
+            "magnetotheque_id": "2025C36128S0086",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/entre-finlande-et-russie-des-siecles-de-tensions-frontalieres-9225156",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/23118-27.03.2025-ITEMA_24074371-2025C36128S0086-NET_MFC_FE80BA10-B9CC-4919-9610-4F21CA9D199A-21.mp3",
+            "duration": 3527,
+            "date": 1743065925,
+            "settings": [
+                "savoirs"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "Comment la Finlande a défié la Russie ?",
+                    "extrait": "« Tous les pays d'Europe ayant une frontière commune avec l'Union soviétique ont un régime de démocratie populaire, sauf un, la Finlande. Malgré ces 2500 kilomètres de frontières communes, la Finlande est restée en dehors de la zone d'influence soviétique en Europe. La Finlande est neutre, mais d'une neutralité qui ne ressemble à aucune autre. »",
+                    "score": 95,
+                    "start": 39.127,
+                    "end": 61.695
+                },
+                {
+                    "titre": "La Finlande, un modèle de compromis face à la menace russe",
+                    "extrait": "« La Finlande réussit aussi, grâce à ses élites politiques, à finalement jouer une carte qui est une carte du compromis à l'égard du grand voisin menaçant. Un compromis qui lui permet de garder son système économique et politique. »",
+                    "score": 90,
+                    "start": 170.221,
+                    "end": 189.347
+                },
+                {
+                    "titre": "La guerre d'hiver : un symbole de courage finlandais",
+                    "extrait": "« Depuis la guerre de 1939, le nom de Finlande évoque le courage. Parce que la disproportion entre les forces de celui qui attaquait et celle de celui qui faisait front était criante, cette guerre d'hiver, menée par des froids de moins quarante, classait la Finlande parmi les pays dont l'histoire récente peut encore revêtir la forme d'image d'épinac. »",
+                    "score": 92,
+                    "start": 2239.649,
+                    "end": 2260.842
+                },
+                {
+                    "titre": "La Finlande, un bastion de démocratie dans l'Empire russe",
+                    "extrait": "« C'est l'endroit le plus démocratique de l'Empire russe. En 1906, il va y avoir une réforme constitutionnelle en Finlande qui introduit un parlement unique avec un suffrage universel pour les hommes et les femmes. »",
+                    "score": 88,
+                    "start": 1871.129,
+                    "end": 1885.914
+                },
+                {
+                    "titre": "La Finlande face à l'URSS : un équilibre délicat",
+                    "extrait": "« Les Finlandais réussissent à éviter ce qui se passe pour tout le reste des États à la frontière de l'URSS à l'ouest, c'est-à-dire la satellisation de leur pays, la soviétisation de leur pays. »",
+                    "score": 89,
+                    "start": 2829.582,
+                    "end": 2852.547
+                },
+                {
+                    "titre": "La Kareli, berceau de l'identité finlandaise",
+                    "extrait": "« La Kareli, c'est une région de forêts et de lacs qui est justement entre au nord Mourmansk d'un côté et le nord de la Finlande de l'autre et au sud l'isme de Kareli, le golfe de Finlande. C'est un immense pays, en fait, de forêts et de lacs, très peu peuplés, mais qui est, du point de vue de la Finlande, le berceau national de l'identité finlandaise. »",
+                    "score": 91,
+                    "start": 1457.702,
+                    "end": 1494.198
+                },
+                {
+                    "titre": "Pourquoi la Finlande a-t-elle refusé l'influence soviétique ?",
+                    "extrait": "« La Finlande refuse et évidemment ce n'était pas dans les calculs de l'Union soviétique. Et c'est pour ça qu'à un moment donné, ça débouche sur donc une volonté de prendre ces gages de sécurité par la guerre à partir de novembre 1939. »",
+                    "score": 94,
+                    "start": 2416.41,
+                    "end": 2432.945
                 }
             ]
         },
