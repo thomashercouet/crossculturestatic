@@ -1,6 +1,6 @@
 {
-    "date": "Mis à jour le 27/03/2025 à 12:28",
-    "unix": 1743074916,
+    "date": "Mis à jour le 27/03/2025 à 12:41",
+    "unix": 1743075705,
     "shows": [
         {
             "title": "Frontière Pologne-Russie, histoire d’une ligne sous haute tension",
@@ -606,6 +606,31 @@
                     "score": 85,
                     "start": 785.19,
                     "end": 790.638
+                }
+            ]
+        },
+        {
+            "title": "Critique manga : \"Dementia 21\" de Shintaro Kago",
+            "id": "55b5babc-dfb8-436e-8cd7-28867d37a23f",
+            "show": "Les Midis de Culture",
+            "show_id": "32a14af6-fc87-4f4f-a06e-39ccf8587119",
+            "chapo": "Les critiques discutent des tomes 1 et 2 de “Dementia 21” de Shintaro Kago, qui nous propulsent dans un troisième âge absurde et terrifiant.",
+            "magnetotheque_id": "2025C51852S1086",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/les-midis-de-culture/critique-manga-dementia-21-de-shintaro-kago-3987393",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/12360-27.03.2025-ITEMA_24074359-2025C51852S1086-NET_MFC_AD1C899C-33E5-4D6F-A0C0-8CEBE213D8F5-21.mp3",
+            "duration": 791,
+            "date": 1743074101,
+            "settings": [
+                "interview"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "\"Une apocalypse gériatrique, c'est exactement ce que nous propose Shintaro Kago\"",
+                    "extrait": "\"Écoutez, quoi de plus terrifiant, j'ai envie de dire, qu'une apocalypse gériatrique, puisque c'est exactement ce que nous propose Shintaro Kago, avec son ironie habituelle, avec son talent graphique, évidemment, et puis avec ce goût très prononcé pour le brisage en règle des tabous de la société japonaise, et notamment celui du troisième âge.\"",
+                    "score": 95,
+                    "start": 109.989,
+                    "end": 128.877
                 }
             ]
         },
@@ -3108,6 +3133,31 @@
                     "score": 93,
                     "start": 3001.363,
                     "end": 3014.658
+                }
+            ]
+        },
+        {
+            "title": "Critique manga : \"The Song about Green\" de Gao Yan",
+            "id": "539bc27f-f1d2-4ad6-bcff-d7b171eecd1c",
+            "show": "Les Midis de Culture",
+            "show_id": "32a14af6-fc87-4f4f-a06e-39ccf8587119",
+            "chapo": "Les critiques discutent des volumes 1 et 2 de \"The Song about green\" de Gao Yan, qui nous emmènent à Taiwan et à Tokyo, dans la nostalgie et la douceur. ",
+            "magnetotheque_id": "2025C51852S2086",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/les-midis-de-culture/critique-manga-the-song-about-green-de-gao-yan-5674574",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/12360-27.03.2025-ITEMA_24074359-2025C51852S2086-NET_MFC_C2A0862C-AB4E-4D8B-8F45-FBF80DE8A7E9-21.mp3",
+            "duration": 870,
+            "date": 1743075000,
+            "settings": [
+                "interview"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "\"La chair, toujours la chair\" : L'essence de Tsutomuniai",
+                    "extrait": "\"Il ne dévie pas de ces singulières lubies et imprime sa vision avec ce vrai faux manga de fantaisie, celle d'un artiste incapable de brader sa personnalité et toujours rivé à cette question d'incarnation. La chair, toujours la chair, car nous sommes chez Tsutomuniai.\"",
+                    "score": 95,
+                    "start": 81.727,
+                    "end": 102.258
                 }
             ]
         },
