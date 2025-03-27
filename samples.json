@@ -1,6 +1,6 @@
 {
-    "date": "Mis à jour le 27/03/2025 à 12:41",
-    "unix": 1743075705,
+    "date": "Mis à jour le 27/03/2025 à 12:54",
+    "unix": 1743076491,
     "shows": [
         {
             "title": "Frontière Pologne-Russie, histoire d’une ligne sous haute tension",
@@ -3770,6 +3770,45 @@
                     "score": 94,
                     "start": 3417.733,
                     "end": 3454.182
+                }
+            ]
+        },
+        {
+            "title": "Critique mangas : \"Dementia 21\" de Shintaro Kago & \"The Song about Green\" de Gao Yan",
+            "id": "eec25545-b20b-47e4-9950-8bbe70fa5bee",
+            "show": "Les Midis de Culture",
+            "show_id": "32a14af6-fc87-4f4f-a06e-39ccf8587119",
+            "chapo": "Au programme du débat critique, des mangas : \"Dementia 21\" de Shintaro Kago et \"The Song about Green\" de Gao Yan.",
+            "magnetotheque_id": "2025C51852S0086",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/les-midis-de-culture/critique-mangas-dementia-21-de-shintaro-kago-the-song-about-green-de-gao-yan-1409901",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/12360-27.03.2025-ITEMA_24074359-2025C51852S0086-NET_MFC_220DA69D-4086-41E7-87BF-EC891EC4475E-21.mp3",
+            "duration": 1660,
+            "date": 1743074925,
+            "settings": [
+                "interview"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "« Une apocalypse gériatrique » : la vision troublante de Shintaro Kago",
+                    "extrait": "Écoutez, quoi de plus terrifiant, j'ai envie de dire, qu'une apocalypse gériatrique, puisque c'est exactement ce que nous propose Shintaro Kago, avec son ironie habituelle, avec son talent graphique, évidemment, et puis avec ce goût très prononcé pour le brisage en règle des tabous de la société japonaise, et notamment celui du troisième âge. Donc c'est une œuvre qui est à la fois extrêmement ludique et en même temps terriblement consciente.",
+                    "score": 95,
+                    "start": 109.989,
+                    "end": 132.959
+                },
+                {
+                    "titre": "« La terreur ludique » : Shintaro Kago et l'horreur qui fait sourire",
+                    "extrait": "C'est quelqu'un que je qualifie souvent de travailleur de la terreur ludique, c'est-à-dire que c'est de l'horreur, on peut avoir des mutilations, des corps démembrés, on peut avoir plein de concepts poussés à... Pousser jusqu'au bout graphiquement, mais là ça se prête terriblement au sujet puisqu'il explore, on a toutes les itérations graphiques et conceptuelles sur un même sujet, donc je trouve ça très intéressant.",
+                    "score": 90,
+                    "start": 143.548,
+                    "end": 170.204
+                },
+                {
+                    "titre": "« Une démence collective » : le message caché de Dementia 21",
+                    "extrait": "Pour moi c'est une démence très clairement collective, c'est vraiment ce dont parle le manga. Dementia 21 de Kagoshintaro apparue aux éditions Uber et je signale aussi l'apparution récente de Dommages cérébrals du même auteur, toujours chez Uber Éditions.",
+                    "score": 85,
+                    "start": 775.53,
+                    "end": 789.559
                 }
             ]
         },
