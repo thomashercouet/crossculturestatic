@@ -1,6 +1,6 @@
 {
-    "date": "Mis à jour le 27/03/2025 à 11:36",
-    "unix": 1743071797,
+    "date": "Mis à jour le 27/03/2025 à 11:49",
+    "unix": 1743072599,
     "shows": [
         {
             "title": "Frontière Pologne-Russie, histoire d’une ligne sous haute tension",
@@ -3132,6 +3132,66 @@
                     "extrait": "Pour étudier cette énergie noire, une collaboration internationale a été mise en place. Elle s'appelle DESI et nous révèle ses derniers résultats dans une nouvelle publication. Pauline Zarouk est cosmologiste au CNRS, au laboratoire de physique nucléaire des hautes énergies à Sorbonne Université. Elle a participé à ces recherches. La collaboration DESI, pour Dark Energy Spectroscopic Instrument, un instrument spectroscopique pour sonder l'énergie noire, est une collaboration internationale qui rassemble plus de 900 chercheurs, répartis dans 70 institutions du monde entier.",
                     "start": 82.947,
                     "end": 118.19
+                }
+            ]
+        },
+        {
+            "title": "Le negotium : un art de fuir le temps libre ?",
+            "id": "ba6a7a5d-7299-415a-afd8-8932eaae41c3",
+            "show": "Avec philosophie",
+            "show_id": "744d0dc6-dacc-4d71-a22c-af97eec7a56e",
+            "chapo": "L'otium est un terme latin désignant un loisir studieux, propice à la vie de la pensée. Le negotium, qui est la négation de l'otium, renvoie quant à lui à la vie politique et aux affaires. Quel regard la philosophie a-t-elle porté sur le negotium ?",
+            "magnetotheque_id": "2025C48904S0086",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/avec-philosophie/le-negotium-un-art-de-fuir-le-temps-libre-5219504",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/10467-27.03.2025-ITEMA_24074348-2025C48904S0086-NET_MFC_A9088E9F-9898-4269-A0E0-D075910B61B0-21.mp3",
+            "duration": 3493,
+            "date": 1743069525,
+            "settings": [
+                "savoirs"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "Pourquoi le temps libre est-il si mal compris ?",
+                    "extrait": "La question se pose de savoir si l'importance de l'otium n'a pas fragilisé l'appréciation de tout ce qui n'est pas l'otium.",
+                    "score": 85,
+                    "start": 98.164,
+                    "end": 105.868
+                },
+                {
+                    "titre": "Le négotium : un mal nécessaire ?",
+                    "extrait": "La question de la valorisation ou de la dévalorisation du négotium ou de l'otium est une question qui se pose essentiellement pour les philosophes.",
+                    "score": 80,
+                    "start": 362.719,
+                    "end": 374.321
+                },
+                {
+                    "titre": "Cicéron et la tension entre otium et negotium",
+                    "extrait": "Il ne faut abandonner à l'étude de la philosophie que le temps laissé libre par les fonctions et les charges publiques.",
+                    "score": 90,
+                    "start": 1689.243,
+                    "end": 1695.646
+                },
+                {
+                    "titre": "Petrarch : l'homme affairé est-il vraiment heureux ?",
+                    "extrait": "L'homme affairé est repu de soucis, repu de nourriture et de vin, repu de terreur, repu d'envie.",
+                    "score": 95,
+                    "start": 2051.14,
+                    "end": 2059.784
+                },
+                {
+                    "titre": "Machiavel : l'otium est-il un luxe ?",
+                    "extrait": "Machiavel considère que pour ce qui le concerne, lui, il n'y a pas d'otium qui soit bon.",
+                    "score": 88,
+                    "start": 2933.504,
+                    "end": 2941.286
+                },
+                {
+                    "titre": "Le profit : un mal nécessaire dans le christianisme ?",
+                    "extrait": "Le désir d'argent, le désir des richesses, des richesses, disons du profit, est mis en avant comme quelque chose de très positif.",
+                    "score": 92,
+                    "start": 879.422,
+                    "end": 893.806
                 }
             ]
         },
