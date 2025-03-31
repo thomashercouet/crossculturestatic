@@ -1,6 +1,6 @@
 {
     "date": "Mis à jour le 31/03/2025 à 12:49",
-    "unix": 1743418159,
+    "unix": 1743418186,
     "shows": [
         {
             "title": "Marc Chagall, du shtetl de Vitebsk au soleil de Provence 9/10 : \"Les Litvaks\", l'héritage universel d'un monde juif disparu",
@@ -3805,32 +3805,32 @@
                     "end": 72.887
                 },
                 {
-                    "titre": "Un procès qui ternit l'héritage de Nicolas Sarkozy : quel impact ?",
+                    "titre": "Un procès qui ternit l'image de la politique sous Sarkozy",
                     "extrait": "Mais après ce tableau, une chose est certaine, ce procès a donné une image désastreuse de la politique sous Nicolas Sarkozy. Surtout qu'il y a quand même d'autres affaires. Et des condamnations déjà autour de l'ancien président, l'ancien Premier ministre François Fillon, bien sûr, dans l'affaire des emplois fictifs de son épouse, Pénélope.",
                     "score": 90,
                     "start": 188.288,
                     "end": 207.546
                 },
                 {
-                    "titre": "Nicolas Sarkozy : un ancien président ou un délinquant ?",
+                    "titre": "Un ancien président ou un délinquant ?",
                     "extrait": "Emmanuel Macron aussi le consulte régulièrement. D'autres encore, ils viennent chercher conseil. Pour combien de temps ? Qui vont-ils voir ? Un président ou un délinquant ?",
                     "score": 88,
                     "start": 242.237,
                     "end": 252.685
                 },
                 {
-                    "titre": "La corruption au sommet de l'État : un système bien rodé ?",
+                    "titre": "La corruption au sommet de l'État : un pacte faustien révélé",
                     "extrait": "Une corruption de haute intensité, attisée par l'ambition, la soif de pouvoir, la cupidité, et qui a tissé sa toile jusqu'aux plus hautes sphères de l'État.",
                     "score": 92,
                     "start": 74.228,
                     "end": 84.097
                 },
                 {
-                    "titre": "Le procès de Nicolas Sarkozy : un coup de tonnerre judiciaire !",
-                    "extrait": "Mais impossible de faire comme si ce procès n'avait pas eu lieu et comme s'il n'était pas déjà un coup de tonnerre politique et judiciaire.",
-                    "score": 93,
-                    "start": 120.028,
-                    "end": 128.731
+                    "titre": "Le coup de tonnerre judiciaire : 7 ans de prison pour Sarkozy",
+                    "extrait": "Il veut se battre, oui, encore, mais il est sonné. Il y a de quoi. Contre Nicolas Sarkozy, hier, le parquet financier a réclamé 7 ans de prison. 7 ans. Contre un ancien chef d'État dans notre pays, c'est du jamais vu.",
+                    "score": 94,
+                    "start": 32.588,
+                    "end": 46.907
                 }
             ]
         },
@@ -3851,25 +3851,25 @@
             "limit": 0,
             "extraits": [
                 {
-                    "titre": "Comment le Covid a révélé l'absurdité de certaines théories médicales ?",
-                    "extrait": "« On a commencé notre collection avec mes deux patrons. On a commencé à s'échanger des pépites, des trésors, qu'on a appelés des doxés, en référence pour les personnes qui connaissent à l'album de Lucky Luke, l'élixir du docteur Doxé, qui est un médecin charlatan du Far West, qui vend des remèdes miraculeux aux Indiens. Parce que pour les médecins diaphores russes, le Covid a été un vrai âge d'or. »",
+                    "titre": "« La science, c'est aussi penser en dehors des sentiers battus »",
+                    "extrait": "Je me suis dit qu'après tout, c'est ça aussi la science. Penser en dehors de ce qu'on connaît, tester, expérimenter, sans avoir peur de se tromper. Même les brocolis.",
                     "score": 95,
-                    "start": 299.523,
-                    "end": 324.597
+                    "start": 559.472,
+                    "end": 570.077
                 },
                 {
-                    "titre": "Pourquoi les soignants ont-ils dû faire face à l'angoisse de la solitude des patients ?",
-                    "extrait": "« Ce qui m'a le plus éprouvé, je crois, c'est l'absence des familles. En temps normal, les visites sont autorisées 24 heures sur 24. Les familles restent de nombreuses heures dans les chambres, ils parlent et à force j'apprends des choses sur les patients. Mais là, personne n'avait le droit de venir. Donc je me suis retrouvée avec des patients intubés pendant des semaines que je n'avais jamais vus conscients. »",
+                    "titre": "Comment le Covid a révélé la solitude des soignants ?",
+                    "extrait": "Ce qui m'a le plus éprouvé, je crois, c'est l'absence des familles. En temps normal, les visites sont autorisées 24 heures sur 24. Les familles restent de nombreuses heures dans les chambres, ils parlent et à force j'apprends des choses sur les patients. Mais là, personne n'avait le droit de venir.",
                     "score": 90,
                     "start": 1364.731,
-                    "end": 1388.844
+                    "end": 1381.82
                 },
                 {
-                    "titre": "« Je ne pouvais plus m'arrêter. J'étais galvanisée. »",
-                    "extrait": "« J'ai eu du mal à le supporter. Et donc, je me suis mise en mode mission. Je voulais tout donner. Je ne pouvais plus m'arrêter. J'étais galvanisée. Je me souviens que notre cadre de santé faisait tout ce qu'elle pouvait pour nous donner des jours de repos, pour qu'on arrive à tenir sur la durée. »",
+                    "titre": "« On ne savait pas à ce moment-là » : la fierté et l'ignorance des soignants face au Covid",
+                    "extrait": "On était tellement fiers de notre quart d’heure de gloire qu'on s’est joyeusement rapprochés pour la photo. Évidemment, on était comme tout le monde, on ne savait pas à ce moment-là.",
                     "score": 85,
-                    "start": 1290.767,
-                    "end": 1305.89
+                    "start": 190.863,
+                    "end": 200.65
                 }
             ]
         },
@@ -3945,21 +3945,21 @@
             "limit": 0,
             "extraits": [
                 {
-                    "titre": "« Les souvenirs sont plus proches que jamais »",
+                    "titre": "« Le temps des secrets, c'est aussi le temps des souvenirs »",
                     "extrait": "Il y a une chose remarquable, quand on vieillit, on perd la mémoire. Mais ça ne veut pas dire qu'on perd les souvenirs. Au contraire, on perd la capacité d'acquérir de nouveaux souvenirs. Mais ceux qui sont inscrits, ils sont bien plus proches que jamais.",
                     "score": 95,
                     "start": 0.424,
                     "end": 25.554
                 },
                 {
-                    "titre": "Comment la peur de l'échec façonne notre jeunesse ?",
+                    "titre": "Comment la peur de l'échec peut-elle façonner notre identité ?",
                     "extrait": "Cette situation me parut soudain intolérable et je décidai de faire un coup d'éclat pour en sortir. Si par malheur j'étais frappé d'une retenue, j'expliquerai à mon père que j'avais été forcé de prendre des risques pour l'honneur du nom.",
                     "score": 90,
                     "start": 500.695,
                     "end": 513.105
                 },
                 {
-                    "titre": "« Je n'ai qu'une parole » : l'honneur à l'épreuve de la bravoure",
+                    "titre": "« Je n'ai qu'une parole » : l'honneur au cœur de l'adolescence",
                     "extrait": "Je répondis gravement « Je n'ai qu'une parole. »",
                     "score": 85,
                     "start": 856.993,
