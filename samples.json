@@ -1,6 +1,6 @@
 {
-    "date": "Mis à jour le 31/03/2025 à 16:04",
-    "unix": 1743429887,
+    "date": "Mis à jour le 31/03/2025 à 16:18",
+    "unix": 1743430692,
     "shows": [
         {
             "title": "Marc Chagall, du shtetl de Vitebsk au soleil de Provence 9/10 : \"Les Litvaks\", l'héritage universel d'un monde juif disparu",
@@ -145,6 +145,66 @@
                     "score": 95,
                     "start": 358.631,
                     "end": 392.042
+                }
+            ]
+        },
+        {
+            "title": "Et si mon enfant était autiste",
+            "id": "770618fd-a7e0-43be-9ff5-cf6b44b5d774",
+            "show": "LSD, la série documentaire",
+            "show_id": "fb8db8c6-20b0-4189-977e-07f112c3de79",
+            "chapo": "Théo et Gabin ont été diagnostiqués autistes sévères dans l’enfance. Entre errance médicale, incompréhension sociale et luttes acharnées des parents, ce premier épisode met en lumière les réalités contrastées de la prise en charge de leur handicap.",
+            "magnetotheque_id": "2025C26362E0021",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/lsd-la-serie-documentaire/et-si-mon-enfant-etait-autiste-8102957",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/23117-31.03.2025-ITEMA_24081845-2025C26362E0021-ITE_00148130_RSCE-21.mp3",
+            "duration": 3499,
+            "date": 1743436695,
+            "settings": [
+                "temoignage"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "« Tu es, et cela me suffit » : Une déclaration d'amour inconditionnel",
+                    "extrait": "16 janvier 2004, hôpital de Chambéry, âge un jour. Mon Théo, tu es né il y a quelques heures à peine, petit être si précieux, déjà plein de ton importance, de ton unicité. Tu n'es pas seulement mon fils, tu n'es pas seulement le petit dernier de la fratrie, tu n'es pas seulement le fruit d'une rencontre, ni même le résultat de notre désir, non, tu es toi, seulement toi, entièrement toi, un tout petit être affublé de notre amour, de notre bonheur, de nos espoirs sans frontières précises. Tu es, et cela me suffit. Dors, petit ange blond, dors. Tu auras bien assez du reste de ta vie pour exister. Et moi, pour te soutenir. Dors.",
+                    "score": 95,
+                    "start": 0.652,
+                    "end": 47.549
+                },
+                {
+                    "titre": "Comment un diagnostic peut changer la vie d'une famille ?",
+                    "extrait": "Valérie Guay-Corajou, vous êtes la maman d'un jeune garçon qui a aujourd'hui 20 ans, qui s'appelle Théo. Et l'extrait que vous venez de nous lire, en fait, il est issu d'un livre que vous avez écrit il y a 6 ans, en 2018, « Nos mondes entremêlés, l'autisme au cœur de la famille ». Pour être plus exacte, ce petit passage est issu d'abord d'un carnet que j'ai écrit à Théo, comme j'avais fait auparavant avec ses frères et sœurs. J'ai toujours eu besoin d'écrire à mes enfants avant qu'ils accèdent au langage. Et ensuite, j'ai trouvé intéressant de me servir de ce carnet pour qu'il y ait une double temporalité, c'est-à-dire la découverte, la peur, tous les sentiments sur le moment et ensuite l'écriture plus apaisée avec la compréhension et la connaissance de l'autisme et donc une explication de ce qui nous troublait.",
+                    "score": 90,
+                    "start": 115.793,
+                    "end": 168.194
+                },
+                {
+                    "titre": "« Il repoussait le monde » : La douleur d'un parent face à l'autisme",
+                    "extrait": "J'ai envie de dire, dès le premier jour, en tous les cas, dès le lendemain, ça c'est certain, j'ai senti une mise à distance, comme une volonté de garder de la distance avec moi, de refuser le contact, en tous les cas, que je déborde dans sa bulle. Déjà très tôt, même si je ne parvenais pas à mettre les mots, bien sûr, il y avait un malaise, quelque chose, j'ai l'impression de le déranger. D'ailleurs, vous dites, Théo me repoussait, tout comme il repoussait le biberon, ma main, le drap, il repoussait le monde.",
+                    "score": 92,
+                    "start": 271.988,
+                    "end": 299.824
+                },
+                {
+                    "titre": "Pourquoi l'autisme est-il si mal compris ?",
+                    "extrait": "De l'autisme, on ne retient souvent que la part la plus spectaculaire, immortalisée au cinéma par Dustin Hoffman dans « Rain Man ». Des personnages réels ou imaginaires, aux compétences hors normes, capables de mémoriser l'annuaire ou le plan d'une ville en un clin d'œil, ou d'accomplir des calculs dignes d'un ordinateur. Mais derrière ces exploits qu'on qualifie de « syndrome savant », se cache souvent une réalité plus douloureuse et complexe à appréhender.",
+                    "score": 88,
+                    "start": 191.205,
+                    "end": 217.9
+                },
+                {
+                    "titre": "« C'est comme si quelqu'un l'avait débranché » : Le choc du diagnostic",
+                    "extrait": "Il s'est brûlé la main sur un chauffage à pétrole. Et là, il a eu une réaction tellement disproportionnée. On aurait dit un petit animal, il s'est mis à hurler, à se mordre, à se taper. Ça a duré, on n'arrivait plus à le traper, des hurlements, des hurlements. Donc, on était, nous, figés, quoi, parce que, quand bien même il avait mal, c'était vraiment un comportement qu'on ne parvenait pas, non seulement à arrêter, mais à comprendre. On a fini par le prendre, ce qu'on ne faisait pas, parce qu'il n'aimait pas être pris, il n'aimait pas être porté, il n'aimait pas être touché, mais là, il n'avait pas le choix, et maintenir sa main sous l'eau froide. Et il y a quelque chose qui s'est brisé en lui, comme une poupée de chiffon. C'est comme si quelqu'un l'avait débranché.",
+                    "score": 94,
+                    "start": 357.392,
+                    "end": 401.254
+                },
+                {
+                    "titre": "« J'ai trouvé ma place en tant que mère particulière » : L'acceptation d'un parcours unique",
+                    "extrait": "Et quand j'ai réalisé à vivre auprès de lui, à rester des heures dans son silence... un silence habité, et non pas un silence vide, comme je l'avais cru au départ, j'ai arrêté de vouloir le changer. Je ne trouvais plus aucune raison valable de le perturber et de le forcer à être ce qu'il n'était pas. Et j'avais toujours en mémoire cette main sous l'eau froide qu'il avait débranchée, en quelque sorte. Et j'ai trouvé ma place en tant que mère particulière, mère de Théo. Je me sentais forte, j'étais fière de moi, d'avoir réussi à passer par-dessus mon affect pour être cette mère particulière de cet enfant particulier. J'avais beaucoup de fierté, beaucoup. Je le suis encore.",
+                    "score": 96,
+                    "start": 1764.927,
+                    "end": 1815.148
                 }
             ]
         },
