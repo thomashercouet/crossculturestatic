@@ -1,6 +1,6 @@
 {
-    "date": "Mis à jour le 31/03/2025 à 13:54",
-    "unix": 1743422088,
+    "date": "Mis à jour le 31/03/2025 à 14:08",
+    "unix": 1743422889,
     "shows": [
         {
             "title": "Marc Chagall, du shtetl de Vitebsk au soleil de Provence 9/10 : \"Les Litvaks\", l'héritage universel d'un monde juif disparu",
@@ -3277,6 +3277,45 @@
                     "score": 89,
                     "start": 2390.306,
                     "end": 2397.556
+                }
+            ]
+        },
+        {
+            "title": "Les bagnards de Kerhors, un autre Betharram",
+            "id": "c6fd7984-69a8-492a-a27a-4a8a45fc56ad",
+            "show": "Les Pieds sur terre",
+            "show_id": "beb83c10-402c-11e5-8314-005056a87c89",
+            "chapo": "François et Joël ont été scolarisés dans les années 70 au collège Saint-Pierre du Relecq-Kerhuon dans le Finistère. Coups, humiliations, tympans percés, coups de pied dans la gorge… ils racontent ce climat de terreur permanente de la part des professeurs.",
+            "magnetotheque_id": "2025C6612S0090",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/les-pieds-sur-terre/les-bagnards-de-kerhors-un-autre-betharram-1723924",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/18722-31.03.2025-ITEMA_24081807-2025C6612S0090-NET_MFC_CA789270-0D13-4985-965E-E5E3503DB70A-21.mp3",
+            "duration": 1786,
+            "date": 1743422325,
+            "settings": [
+                "temoignage"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "Comment la peur a façonné une génération d'élèves ?",
+                    "extrait": "« J'ai toujours cette peur au ventre, quand vous savez que vous allez presque à 100% prendre des coups, je peux vous dire que là, c'est quelque chose... De toute façon, si on ramasse des baffes et on se fait cogner, c'est parce qu'on ne travaille pas assez. Or, moi, je travaillais beaucoup, mais pour rien, je n'y arrivais pas. Une injustice incroyable. »",
+                    "score": 95,
+                    "start": 1079.761,
+                    "end": 1116.086
+                },
+                {
+                    "titre": "« C'était l'époque qu'il voulait ça. »",
+                    "extrait": "« Aucun remords, aucune compassion, aucune... La seule chose qu'il a su me dire... Bon, on a peut-être un peu exagéré, mais c'était l'époque qu'il voulait ça. Voilà. »",
+                    "score": 90,
+                    "start": 1457.853,
+                    "end": 1469.537
+                },
+                {
+                    "titre": "Le besoin de revanche face à la violence scolaire",
+                    "extrait": "« J'avais un besoin de revanche et de rendre une partie des coups qu'on m'avait donné. J'en ai repris, mais j'en ai donné plus que j'ai reçu. Et un de mes fantasmes, quand j'avais 17-18 ans, c'était qu'on me donne deux minutes par tête de pipe dans une pièce fermée à clé, que je puisse les rencontrer un par un. »",
+                    "score": 92,
+                    "start": 524.863,
+                    "end": 550.129
                 }
             ]
         },
