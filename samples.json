@@ -1,6 +1,6 @@
 {
-    "date": "Mis à jour le 01/04/2025 à 14:05",
-    "unix": 1743509123,
+    "date": "Mis à jour le 01/04/2025 à 14:18",
+    "unix": 1743509928,
     "shows": [
         {
             "title": " \"Lire Lolita à Téhéran”, ou la littérature comme résistance",
@@ -444,6 +444,42 @@
                     "score": 90,
                     "start": 1094.603,
                     "end": 1118.165
+                }
+            ]
+        },
+        {
+            "title": "LES PIEDS SUR TERRE, émission du mardi 01 avril 2025",
+            "id": "8c3d852b-57bb-45d7-af4e-ddef637cc51c",
+            "show": "Les Pieds sur terre",
+            "show_id": "beb83c10-402c-11e5-8314-005056a87c89",
+            "chapo": "",
+            "magnetotheque_id": "2025C6612S0091",
+            "seo_url": "",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/10078-01.04.2025-ITEMA_24084231-2025C6612S0091-NET_MFC_B63374C8-8435-436F-B202-DB24001EE12F-21.mp3",
+            "duration": 1724,
+            "date": 1743508725,
+            "settings": [
+                "temoignage"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "Comment la taille du sexe influence notre perception de la virilité ?",
+                    "extrait": "« La taille du sexe fait l'homme. C'est là peut-être, je ne dis pas la première, mais une des premières confrontations avec la notion de performance de normes sexuelles. Même si, personnellement, moi je ne crois pas à des normes sexuelles. J'ai toujours eu du mal à détacher la chose sexuelle de... De la sensualité, ça semblait un peu cucu, mais de la romance, je suis quelqu'un d'assez cérébral, donc pour moi l'aspect purement mécanique, purement animal de la chose ne me convient pas, je n'y trouve pas mon compte, je ne m'y reconnais pas, et donc quelque part vous aviez sur ces présentoirs des choses. C'est la chosification de l'homme, le fait d'être ramené rien qu'à son sexe et à la taille de son sexe. Pour moi, je trouvais ça excessivement réducteur.",
+                    "start": 276.675,
+                    "end": 335.702
+                },
+                {
+                    "titre": "Pourquoi la taille du sexe n'est pas synonyme de plaisir ?",
+                    "extrait": "« Toutes les femmes n'ont pas forcément envie de se faire littéralement exploser parce que, désolé, un gros sexe, ça peut être excessivement douloureux. Alors, certaines femmes détestent ça, je pense. C'est une question d'alchimie, ça colle, ça colle pas. D'un point de vue technique, ça ne change pas grand-chose. Dans les rapports, bien entendu, toutes les positions ne sont pas accessibles de la même manière, mais bon, ça permet de varier les plaisirs. On réduit l'acte sexuel à une ou deux dimensions, et c'est vraiment... c'est pathétique.",
+                    "start": 737.423,
+                    "end": 770.031
+                },
+                {
+                    "titre": "Comment la communication a transformé ma vie sexuelle ?",
+                    "extrait": "« Et en fait, quand tu commences à réfléchir à ça, je pense que, pour moi, c'est lié à toute l'attitude masculine. Donc, la libération de la parole qui arrive maintenant et c'est incroyable. Moi, je suis super excité pour les générations à venir et je suis super excité pour moi-même d'ailleurs. Moi, la plus aiguë d'éducation sexuelle que j'ai pu avoir, c'est en volant les gradias et les L de ma sœur. Et en lisant les pages sexo pour comprendre un peu. J'espère que les jeunes ados de mon âge, ils écoutent les couilles sur la table et ils ont des conversations un peu plus intelligentes entre eux.",
+                    "start": 1490.114,
+                    "end": 1542.109
                 }
             ]
         },
