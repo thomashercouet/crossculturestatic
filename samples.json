@@ -1,6 +1,6 @@
 {
-    "date": "Mis à jour le 01/04/2025 à 10:13",
-    "unix": 1743495224,
+    "date": "Mis à jour le 01/04/2025 à 10:27",
+    "unix": 1743496036,
     "shows": [
         {
             "title": " \"Lire Lolita à Téhéran”, ou la littérature comme résistance",
@@ -4351,6 +4351,45 @@
                     "score": 94,
                     "start": 287.183,
                     "end": 322.535
+                }
+            ]
+        },
+        {
+            "title": "Pas d'émission ce jour",
+            "id": "73fdf4cc-81c3-43f2-83a6-8749cedb2ddb",
+            "show": "Le Cours de l'histoire",
+            "show_id": "0a41bdd2-4a6d-4fb2-b2d1-ca42d2dc5381",
+            "chapo": "En raison d’un appel à la grève déposé par les syndicats CFDT, CGT, FO, SNJ, SUD et UNSA de Radio France contre le projet de holding de l’Audiovisuel Public, nous ne sommes pas en mesure de diffuser l’intégralité de nos programmes habituels. Nous vous prions de nous en excuser.",
+            "magnetotheque_id": "2025C36128S0091",
+            "seo_url": "",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/10076-01.04.2025-ITEMA_24084218-2025C36128S0091-NET_MFC_6C2D7046-478C-4366-9E60-0412638CF601-21.mp3",
+            "duration": 1750,
+            "date": 1743494325,
+            "settings": [
+                "savoirs"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "« Mon cœur se brise en mille morceaux »",
+                    "extrait": "Et mon cœur se brise en mille En mille morceaux de toi Toujours dans un flot d'épreuves Autour de mots que j'effleure Des pulsations qui pleurent et qui ralentissent chaque heure Tout est froid sans ta chaleur Et mon cœur est un lâcheur Il se bat plus comme pacifiste Les blessures s'effacent pas si vite",
+                    "score": 85,
+                    "start": 7.675,
+                    "end": 33.359
+                },
+                {
+                    "titre": "« Qui a le droit de juger notre amour ? »",
+                    "extrait": "Qui a le droit de juger notre amour ce seront nos enfants qui briseront vos discours qui a le droit de souffler son mépris Si ma tête a un prix Tu es comparaison Qui a le droit De me priver de toi Lorsque la mort a tort Ou va l'âme qui s'endort",
+                    "score": 90,
+                    "start": 1687.683,
+                    "end": 1745.462
+                },
+                {
+                    "titre": "« Il est urgent de renaître quand tout est détruit »",
+                    "extrait": "urgent de naître, comprenez aussi, qu'il est urgent de renaître quand tout est détruit, merci. Merci. Notre survie c'est là que j'ai poussé mon premier coup",
+                    "score": 80,
+                    "start": 464.277,
+                    "end": 500.082
                 }
             ]
         },
