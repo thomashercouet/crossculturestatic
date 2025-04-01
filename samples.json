@@ -1,6 +1,6 @@
 {
-    "date": "Mis à jour le 01/04/2025 à 10:52",
-    "unix": 1743497564,
+    "date": "Mis à jour le 01/04/2025 à 11:05",
+    "unix": 1743498354,
     "shows": [
         {
             "title": " \"Lire Lolita à Téhéran”, ou la littérature comme résistance",
@@ -6125,6 +6125,59 @@
                     "extrait": "Or, quelle a été la posture de l'Europe lorsque la connivence russo-américaine s'est exprimée ? au Conseil de sécurité, le 24 février 2025, autour d'une résolution scélérate à l'encontre de l'Ukraine, puisque niait son droit à l'autodétermination et niait également le principe de l'intégrité territoriale, les Européens se sont abstenus. Alors, un assureur qui s'abstient, c'est quand même bizarre, n'est-ce pas ? C'est-à-dire, quelle crédibilité de protection peut-on trouver chez quelqu'un qui... la vaut manus, quoi.",
                     "start": 749.652,
                     "end": 783.135
+                }
+            ]
+        },
+        {
+            "title": "Pourquoi doit-on respecter des obligations ?",
+            "id": "97c29d47-ca30-41e7-af1b-a473440e7fc4",
+            "show": "Le Pourquoi du comment : philo  ",
+            "show_id": "b6bd068b-da10-4d88-8d15-f0e1c87ed34b",
+            "chapo": " ",
+            "magnetotheque_id": "2025C45539E0050",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/le-pourquoi-du-comment-philo/pourquoi-doit-on-respecter-des-obligations-8155742",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/22838-01.04.2025-ITEMA_24084255-2025C45539E0050-NET_MFC_252EB095-4EA1-4D3B-AABE-779C34379C47-21.mp3",
+            "duration": 197,
+            "date": 1743497895,
+            "settings": [
+                "savoirs"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "Pourquoi l'obligation est-elle essentielle à notre société ?",
+                    "extrait": "La société ne peut pas se passer d'obligation. L'obligation est un phénomène que Durkheim, le grand sociologue français, avait pensé comme fondateur du social. Toute société a des obligations, comme l'a redit Bergson après Durkheim. Elles peuvent varier, mais il est nécessaire qu'il y ait des obligations.",
+                    "score": 85,
+                    "start": 32.726,
+                    "end": 50.476
+                },
+                {
+                    "titre": "Le respect : une obligation morale ou une simple règle sociale ?",
+                    "extrait": "Le respect, nous le savons, le respect c'est l'obéissance à quelque chose qui s'impose à nous, par-dessus nous-mêmes, même au détriment de nos propres intérêts parfois. Une obligation, bien sûr, doit être respectée même si j'ai le sentiment qu'elle nuit à mon intérêt.",
+                    "score": 90,
+                    "start": 63.584,
+                    "end": 78.476
+                },
+                {
+                    "titre": "L'égalité humaine : un regard vers le haut ?",
+                    "extrait": "Paradoxalement, l'égalité entre les humains ne se traduit pas par une horizontalité, mais par le respect d'une double verticalité. Je te respecte et tu me respectes. C'est cela la forme véritable de l'égalité, un croisement des regards vers le haut, chacun regardant l'autre en réalité comme supérieur à soi, par principe.",
+                    "score": 95,
+                    "start": 131.842,
+                    "end": 152.81
+                },
+                {
+                    "titre": "Comment la dignité humaine façonne nos obligations ?",
+                    "extrait": "Les obligations sont plutôt quelque chose qui est lié à l'essence même de l'être humain, à quelque chose comme sa dignité, comme disait Kant, à quelque chose comme sa valeur morale en soi. Il faut respecter en l'autre une personne égale à moi-même et je dois la traiter comme supérieure pour lui manifester sa priorité sur mes propres besoins.",
+                    "score": 92,
+                    "start": 111.393,
+                    "end": 131.802
+                },
+                {
+                    "titre": "La première obligation : répondre aux besoins vitaux !",
+                    "extrait": "Simone Veil montrait bien qu'on ne peut pas respecter une personne et la laisser mourir de faim. La première obligation, c'est de répondre à des besoins vitaux quand on peut le faire. Cela devient une obligation morale.",
+                    "score": 88,
+                    "start": 160.994,
+                    "end": 172.479
                 }
             ]
         },
