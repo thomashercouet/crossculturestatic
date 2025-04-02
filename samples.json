@@ -1,6 +1,6 @@
 {
-    "date": "Mis à jour le 02/04/2025 à 10:15",
-    "unix": 1743581723,
+    "date": "Mis à jour le 02/04/2025 à 11:09",
+    "unix": 1743584978,
     "shows": [
         {
             "title": "Les nourrissons créent-ils de nouveaux souvenirs ?",
@@ -5234,6 +5234,52 @@
             ]
         },
         {
+            "title": "Comment le respect peut-il être mutuel ?",
+            "id": "c7948abf-e4e2-4a9e-b279-2ee2cdbab43f",
+            "show": "Le Pourquoi du comment : philo  ",
+            "show_id": "b6bd068b-da10-4d88-8d15-f0e1c87ed34b",
+            "chapo": "Le respect repose-t-il sur l'égalité ou sur la hiérarchie ? Le respect implique une reconnaissance de l'autre, mais oscille entre une exigence de mutualité et une verticalité imposée par les hiérarchies sociales. Comment concilier ces deux dimensions sans tomber dans la tyrannie ou la domination ?",
+            "magnetotheque_id": "2025C45539E0051",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/le-pourquoi-du-comment-philo/comment-le-respect-peut-il-etre-mutuel-9021920",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/22788-02.04.2025-ITEMA_24086606-2025C45539E0051-NET_MFC_D547A4A2-1063-480A-B7B8-A4E488E73175-21.mp3",
+            "duration": 242,
+            "date": 1743584340,
+            "settings": [
+                "savoirs"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "Comment concilier respect mutuel et hiérarchie ?",
+                    "extrait": "Le respect est donc dissymétrique. Le respect est vertical. Le respect est fondé parfois sur l'autorité et dans certaines traditions sur une autorité donnée par la nature ou par Dieu. Ainsi on dit tu respecteras père et mère, tu respecteras le roi, tu respecteras celui qui est investi d'un pouvoir et d'une... Autorité d'une hiérarchie absolue. Encore une fois, dans les démocraties, on part d'un respect mutuel entre les êtres humains et on est obligé de construire de la verticalité, de construire de l'autorité pour que la société fonctionne. Le grand problème du respect, c'est de concilier. Le respect que les humains se doivent mutuellement les uns aux autres en raison de leur dignité irréductible, comme le disait Emmanuel Kant, chacun doit traiter la personne de l'autre comme une valeur absolue supérieure à ses propres intérêts et d'un autre côté, l'organisation de la hiérarchie, du respect dissymétrique, de la verticalité.",
+                    "score": 85,
+                    "start": 44.898,
+                    "end": 100.302
+                },
+                {
+                    "titre": "Le respect mutuel : clé de la paix civile ?",
+                    "extrait": "Seul le respect des obligations permet la paix civile et le respect mutuel des êtres humains. Les chefs d'État eux-mêmes, en principe, doivent respecter la loi. On appelle tyran celui qui, justement, s'affranchit du respect de l'obligation commune. Le mépris, la brutalité, la vulgarité, la violence sont des formes de transgression que les responsables politiques devraient s'interdire encore plus que les autres. On peut donc considérer de manière très claire que plus on a d'autorité, plus on doit respecter les obligations communes. Ce qui ramènera le respect mutuel entre les humains, c'est le fait que dans la dissymétrie, tout le monde respecte malgré tout les mêmes principes communs.",
+                    "score": 90,
+                    "start": 197.33,
+                    "end": 239.961
+                },
+                {
+                    "titre": "Le respect : entre autorité et dignité humaine",
+                    "extrait": "Le respect que les humains se doivent mutuellement les uns aux autres en raison de leur dignité irréductible, comme le disait Emmanuel Kant, chacun doit traiter la personne de l'autre comme une valeur absolue supérieure à ses propres intérêts et d'un autre côté, l'organisation de la hiérarchie, du respect dissymétrique, de la verticalité. On peut appeler tyrannie, celui qui demande un respect absolu aux autres en s'interdisant ou en se dispensant lui-même de tout respect à l'égard des autres.",
+                    "score": 88,
+                    "start": 80.883,
+                    "end": 109.954
+                },
+                {
+                    "titre": "Pourquoi le respect est-il essentiel dans nos sociétés ?",
+                    "extrait": "Le respect repose-t-il sur l'égalité ou sur la hiérarchie ? Le respect implique une reconnaissance de l'autre, mais oscille entre une exigence de mutualité et une verticalité imposée par les hiérarchies sociales. Comment concilier ces deux dimensions sans tomber dans la tyrannie ou la domination ?",
+                    "score": 92,
+                    "start": 80.883,
+                    "end": 105.007
+                }
+            ]
+        },
+        {
             "title": "Qui sauvera l'industrie chimique en France ? ",
             "id": "acbc83d5-62e0-43af-9fd3-26c905f769a2",
             "show": "Le Grand Reportage",
@@ -5819,6 +5865,73 @@
                     "score": 95,
                     "start": 921.705,
                     "end": 935.215
+                }
+            ]
+        },
+        {
+            "title": "La micro-histoire : Carlo Ginzburg en quête d'indices",
+            "id": "c8b63149-c6ab-41a0-ad66-ba1ab5f0dd73",
+            "show": "Avec philosophie",
+            "show_id": "744d0dc6-dacc-4d71-a22c-af97eec7a56e",
+            "chapo": "Un courant historique s’est attaché à dévoiler les structures sociales à partir d'indices laissés par des objets, des communautés et des individus. Appelée micro-histoire, celle-ci s’incarne en Italie depuis les années 70 avec Carlo Ginzburg. Il en retrace ici l’itinéraire et sa pensée.",
+            "magnetotheque_id": "2025C48904E0009",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/avec-philosophie/la-micro-histoire-carlo-ginzburg-en-quete-d-indices-5713444",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/10467-02.04.2025-ITEMA_24086573-2025C48904E0009-NET_MFC_A7BD71ED-039A-474D-9645-15CF1AB3BFC3-21.mp3",
+            "duration": 3528,
+            "date": 1743584325,
+            "settings": [
+                "savoirs"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "Comment la micro-histoire change notre regard sur le passé ?",
+                    "extrait": "Au XXe siècle s'est exprimé au sein des historiens une lassitude majeure envers l'histoire événementielle classique qui sélectionne les événements immédiatement visibles dans la vie institutionnelle et politique. Beaucoup ont désiré creuser plus profond dans la vie des peuples pour comprendre les représentations qui sous-tendent les phénomènes de domination mais aussi les brèches, voire les imaginaires de résistance.",
+                    "score": 85,
+                    "start": 24.84,
+                    "end": 49.057
+                },
+                {
+                    "titre": "La surprise, clé de l'historien : pourquoi est-ce essentiel ?",
+                    "extrait": "Oui, c'est-à-dire que je pense qu'on peut aussi produire l'inattendu. Et c'est quelque chose que j'ai essayé de faire avec les documents d'archives. Alors, j'étais à Venise, dans l'archive d'État de Venise, et j'avais déjà choisi un sujet au sens large du mot, c'est-à-dire... Pas seulement, disons, le procès des sorcelleries, mais aussi l'idée de saisir les voix, les attitudes des femmes et des hommes accusés des sorcelleries.",
+                    "score": 90,
+                    "start": 331.81,
+                    "end": 373.406
+                },
+                {
+                    "titre": "Les révélations involontaires : qu'est-ce que cela signifie pour l'histoire ?",
+                    "extrait": "L'idée de « révélation involontaire », c'est quelque chose qui est surgi dans ma mémoire beaucoup plus tard. Et j'ai un essai ici, dans ce livre qui vient de sortir, « La lettre à tu », qui, justement, a ce titre « révélation involontaire ». Disons, une expression utilisée par Marc Bloch, mais aussi par Alessandro Manzoni.",
+                    "score": 88,
+                    "start": 1338.79,
+                    "end": 1365.143
+                },
+                {
+                    "titre": "Pourquoi les détails cachés sont-ils cruciaux pour comprendre l'histoire ?",
+                    "extrait": "Il y avait là quelque chose de double. Et d'une façon rétrospective, je pense que ça m'a marqué dans la longue durée. Derrière l'idée de choisir le sujet de procès de socialerie, il y avait en fait un film, un autre film. Un autre film, oui. Oui, ce grand film de Dreyer, d'Yessire. Et ce qui m'avait frappé dans ce film en noir et blanc, c'est le fait que, d'un côté, il y a une vieille femme accusée d'être sorcière, et de l'autre côté, il y a de... de jeunes hommes, disons, habillés et d'une façon très élégante, etc.",
+                    "score": 87,
+                    "start": 508.14,
+                    "end": 549.259
+                },
+                {
+                    "titre": "Comment l'historien peut-il être à la fois témoin et acteur ?",
+                    "extrait": "Il y avait des attitudes, des filtres, Conscient et inconscient. Alors, par exemple, au début, il y avait certainement une proximité potentielle, émotive, émotionnelle, avec les victimes. Pour les raisons que... Que vous avez dites et qui sont importantes. Oui, exactement. Mais ce que j'ai appris ensuite, mais ensuite, après des décennies, c'était quelque chose de troublant. C'est-à-dire une contiguïté intellectuelle entre moi et les inquisiteurs.",
+                    "score": 89,
+                    "start": 1183.18,
+                    "end": 1217.187
+                },
+                {
+                    "titre": "La science historique face aux fake news : quel rôle pour l'historien ?",
+                    "extrait": "Je pense que, disons, tout ça a contribué, comme je disais, à une, disons, faiblesse à l'égard des fake news. Alors ça, c'est vraiment quelque chose qui nous touche tous aujourd'hui. Et j'aimerais bien qu'Étienne Hannaim, avec son expérience, dans sa génération, aujourd'hui en histoire, nous dise comment vous vivez cette époque où on croit si mal et si peu.",
+                    "score": 92,
+                    "start": 2623.248,
+                    "end": 2677.937
+                },
+                {
+                    "titre": "Pourquoi la vérité est-elle devenue si difficile à croire ?",
+                    "extrait": "Alors, bon, il y a eu, disons, un débat, disons, lorsque Hayden White est venu à UCLA et il a présenté ses thèses. J'étais dans le public, alors j'ai commencé, j'ai posé une question, j'ai des objections, etc. Ça a été, disons, un débat. Très dur, très poli, mais ça a laissé des traces. Je crois qu'il y a deux livres sur ce débat, ce qui est insolite.",
+                    "score": 91,
+                    "start": 2514.022,
+                    "end": 2545.9
                 }
             ]
         }
