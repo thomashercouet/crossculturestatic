@@ -1,6 +1,6 @@
 {
-    "date": "Mis à jour le 02/04/2025 à 13:42",
-    "unix": 1743594164,
+    "date": "Mis à jour le 02/04/2025 à 13:55",
+    "unix": 1743594944,
     "shows": [
         {
             "title": "Les nourrissons créent-ils de nouveaux souvenirs ?",
@@ -1888,6 +1888,38 @@
                     "score": 95,
                     "start": 229.72,
                     "end": 248.713
+                }
+            ]
+        },
+        {
+            "title": "Villa Antipode : quatre résidences françaises pour les artistes en Nouvelle-Zélande",
+            "id": "c5d2853b-c539-4c78-8ee0-7abe905b1402",
+            "show": "Le Point culture",
+            "show_id": "25d4eded-ef3f-4106-9cca-09a53f4794dc",
+            "chapo": "En Nouvelle-Zélande, la nouvelle résidence Villa Antipode regroupe quatre programmes de résidences sur tout le territoire néo-zélandais autour de l'écriture, des arts visuels, du cinéma et de la technologie.\n",
+            "magnetotheque_id": "2025C41196S0092",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/le-point-culture/villa-antipode-quatre-residences-francaises-pour-les-artistes-en-nouvelle-zelande-8256197",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/21829-02.04.2025-ITEMA_24086613-2025C41196S0092-NET_MFC_2F66E9FD-8E6C-4906-91D9-4D2569382874-21.mp3",
+            "duration": 631,
+            "date": 1743591600,
+            "settings": [
+                "actu"
+            ],
+            "limit": 2,
+            "extraits": [
+                {
+                    "titre": "Comment la Villa Antipode rapproche la France et la Nouvelle-Zélande ?",
+                    "extrait": "\"Complètement, oui, c'est exactement l'idée. De la rapprocher, évidemment, on a 18 000 kilomètres de distance, donc... Dès le départ, mes prédécesseurs ont eu cette intuition et qui est une évidence, c'est que le temps long permet de créer ces liens entre artistes, le temps long de la résidence et le temps long de l'après-résidence. Puisqu'on ne vient pas en Nouvelle-Zélande par hasard, ce n'est pas un pays de passage, c'est un pays de destination. Donc, c'était important justement d'avoir ces lieux, ces moments d'échange et cette capacité pour tous ces artistes dans ces médiums différents de travailler avec d'autres artistes, la communauté, comme on aime ici le dire, la communauté artistique, la communauté locale de la ville, du territoire, pour pouvoir créer ces moments d'échange.\"",
+                    "score": 90,
+                    "start": 391.796,
+                    "end": 459.49
+                },
+                {
+                    "titre": "Pourquoi la Villa Antipode est-elle unique en son genre ?",
+                    "extrait": "\"Eh bien, je vous réponds à vos questions depuis les antipodes, depuis Wellington. À quoi la villa antipode sans S ressemble ? Un petit peu à la villa Albertine aux Etats-Unis ? Mais c'est complètement différent parce qu'on est en Nouvelle-Zélande, donc c'est le regroupement de quatre programmes de résidence sur tout le territoire néo-zélandais. Très concrètement, ça veut dire qu'il n'y a pas de maison mère comme on peut le voir par exemple à Rome avec la Villa Médicis, mais qu'il y a quatre résidences réparties sur un territoire assez large dans le Pacifique ?\"",
+                    "score": 85,
+                    "start": 61.235,
+                    "end": 93.513
                 }
             ]
         },
