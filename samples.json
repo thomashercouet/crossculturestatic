@@ -1,6 +1,6 @@
 {
-    "date": "Mis à jour le 02/04/2025 à 12:35",
-    "unix": 1743590100,
+    "date": "Mis à jour le 02/04/2025 à 12:47",
+    "unix": 1743590863,
     "shows": [
         {
             "title": "Les nourrissons créent-ils de nouveaux souvenirs ?",
@@ -1066,6 +1066,31 @@
                     "score": 91,
                     "start": 1136.956,
                     "end": 1163.79
+                }
+            ]
+        },
+        {
+            "title": "Critique ciné : \"Jeunesse (les tourments)\" de Wang Bing",
+            "id": "2d806345-5933-46aa-8885-3c6a6161acb2",
+            "show": "Les Midis de Culture",
+            "show_id": "32a14af6-fc87-4f4f-a06e-39ccf8587119",
+            "chapo": "Les critiques discutent de \"Jeunesse (les tourments)\" de Wang Bing, deuxième volet d'une trilogie documentaire sur les jeunes ouvriers de l'industrie textile chinoise.",
+            "magnetotheque_id": "2025C51852S2092",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/les-midis-de-culture/critique-cine-jeunesse-les-tourments-de-wang-bing-7866231",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/12360-02.04.2025-ITEMA_24086584-2025C51852S2092-NET_MFC_674D2137-6225-428B-AE32-B2B2A226B4CD-21.mp3",
+            "duration": 662,
+            "date": 1743589800,
+            "settings": [
+                "interview"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "« À quoi ça sert l'argent si tu n'as aucun droit ? »",
+                    "extrait": "« A quoi ça sert l'argent si tu n'as aucun droit ? » se demande-t-il. Il y a quelqu'un qui raconte la répression d'une émeute qui dit « à cause d'une histoire d'impôts collectés par des agents un peu douteux qui sont mis à tabasser des femmes enceintes, enfin vraiment une histoire abominable », il va dire « cette histoire nous a ouvert les yeux ». Et on se dit que malgré tout, cette fréquentation entre ces batailles sans cesse pour obtenir des micro-droits, ils vont rentrer dans leur campagne avec cette conscience-là. Et que peut-être cette génération arrivera un jour, peu d'espoir mais quand même, à faire bouger les choses parce qu'ils ne sont plus du tout dupes. Ils ne sont plus du tout dupes, mais ils ont compris ce que c'était qu'une lutte de classe, tout simplement, pour reprendre vraiment des mots importants, galvaudés par le régime même dans lequel ils sont.",
+                    "score": 95,
+                    "start": 547.174,
+                    "end": 602.973
                 }
             ]
         },
