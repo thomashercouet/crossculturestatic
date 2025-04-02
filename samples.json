@@ -1,6 +1,6 @@
 {
-    "date": "Mis à jour le 02/04/2025 à 21:20",
-    "unix": 1743621642,
+    "date": "Mis à jour le 02/04/2025 à 22:09",
+    "unix": 1743624572,
     "shows": [
         {
             "title": "Les nourrissons créent-ils de nouveaux souvenirs ?",
@@ -77,6 +77,38 @@
                     "score": 84,
                     "start": 70.223,
                     "end": 90.618
+                }
+            ]
+        },
+        {
+            "title": "Il y en a qui se battront jusqu’au bout",
+            "id": "a229baa9-a534-435a-aff0-e58762b3fb8b",
+            "show": "Lectures du soir",
+            "show_id": "ee7280ad-40f6-11e5-9fe0-005056a87c89",
+            "chapo": "\"Je supporte plus facilement de me battre si je t’imagine écrivant au calme, cela justifie le chaos et l’horreur qui m’entoure. Fais en sorte que rien ne te détourne de ce que tu veux faire, de ce que tu dois faire.\"",
+            "magnetotheque_id": "2025C17591E0062",
+            "seo_url": "",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/13026-02.04.2025-ITEMA_24086012-2025C17591E0062-ITE_00147985_RSCE-21.mp3",
+            "duration": 1144,
+            "date": 1743623663,
+            "settings": [
+                "interview"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "« Fais en sorte que rien ne te détourne de ce que tu veux faire »",
+                    "extrait": "\"Je supporte plus facilement de me battre si je t’imagine écrivant au calme. Cela justifie le chaos et l’horreur qui m’entourent. Fais en sorte que rien ne te détourne de ce que tu veux faire, de ce que tu dois faire.\"",
+                    "score": 95,
+                    "start": 338.518,
+                    "end": 350.566
+                },
+                {
+                    "titre": "« Aie confiance, ma chérie, aie confiance en moi, en nous »",
+                    "extrait": "\"Aie confiance, ma chérie, aie confiance en moi, en nous, en mon retour, en notre avenir. Je te reviendrai et nous partagerons de nombreuses années de bonheur.\"",
+                    "score": 90,
+                    "start": 487.157,
+                    "end": 497.781
                 }
             ]
         },
