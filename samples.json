@@ -1,6 +1,6 @@
 {
-    "date": "Mis à jour le 02/04/2025 à 09:35",
-    "unix": 1743579345,
+    "date": "Mis à jour le 02/04/2025 à 10:15",
+    "unix": 1743581723,
     "shows": [
         {
             "title": "Les nourrissons créent-ils de nouveaux souvenirs ?",
@@ -1607,6 +1607,66 @@
                     "extrait": "Or, quelle a été la posture de l'Europe lorsque la connivence russo-américaine s'est exprimée ? au Conseil de sécurité, le 24 février 2025, autour d'une résolution scélérate à l'encontre de l'Ukraine, puisque niait son droit à l'autodétermination et niait également le principe de l'intégrité territoriale, les Européens se sont abstenus. Alors, un assureur qui s'abstient, c'est quand même bizarre, n'est-ce pas ? C'est-à-dire, quelle crédibilité de protection peut-on trouver chez quelqu'un qui... la vaut manus, quoi.",
                     "start": 749.652,
                     "end": 783.135
+                }
+            ]
+        },
+        {
+            "title": "De la monarchie à la République, quand la musique est souveraine",
+            "id": "e16267b0-42ce-4cc1-89f5-710cc391e667",
+            "show": "Le Cours de l'histoire",
+            "show_id": "0a41bdd2-4a6d-4fb2-b2d1-ca42d2dc5381",
+            "chapo": "Du 17ᵉ au 20ᵉ siècle, le pouvoir en France entretient un lien puissant avec la musique. De Louis XIV à Georges Pompidou, les souverains interviennent sur les institutions musicales, choisissent leur musicien officiel et encouragent les créations pour faire résonner leur pouvoir.",
+            "magnetotheque_id": "2025C36128S0092",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/de-la-monarchie-a-la-republique-quand-la-musique-est-souveraine-6623442",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/10076-02.04.2025-ITEMA_24086572-2025C36128S0092-NET_MFC_02F89233-99E0-4EDF-BB13-4BB39528B96C-21.mp3",
+            "duration": 3524,
+            "date": 1743580725,
+            "settings": [
+                "savoirs"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "Comment Louis XIV a utilisé la musique pour asseoir son pouvoir ?",
+                    "extrait": "L'objectif c'est de créer l'opéra français. Alors au départ il pense d'ailleurs que le genre français c'est le ballet de cour qui est pratiqué à la cour depuis, sous Henri II, etc. Sous les Médicis. Et Louis XIV est un Médicis et un disciple de Machiavel. Il pense que la politique du divertissement est une politique fondamentale. Elle sert à distraire le peuple de penser à critiquer la monarchie. Elle sert à domestiquer la noblesse. Et elle sert aussi à impressionner les adversaires extérieurs. Donc c'est vraiment un grand projet politique majeur. Et il va créer pour ça l'Académie royale de danse.",
+                    "start": 237.225,
+                    "end": 273.373
+                },
+                {
+                    "titre": "La musique, un outil de propagande révolutionnaire ?",
+                    "extrait": "Pour les révolutionnaires, la musique parle, et elle permet même, pour un peuple illettré, de faire passer des messages qu'il ne pourrait pas facilement lire. Et la musique permet de mémoriser les slogans. Donc il va y avoir une musique à deux formes, d'ailleurs, une forme savante, chantée et exécutée par les professionnels, et une forme populaire simplifiée pour le peuple, afin que le peuple puisse le chanter en chœur.",
+                    "start": 493.528,
+                    "end": 516.344
+                },
+                {
+                    "titre": "La Marseillaise : hymne de la Révolution ou chant de guerre ?",
+                    "extrait": "Alors la Marseillaise, effectivement, elle a été écrite en tant que champ de guerre pour l'armée du Rhin par Rouget de Lille, qui était un franc-maçon, lui aussi d'ailleurs. Et qui s'est inspirée d'un prologue d'opéra. Comme quoi tout est dans tout. Et alors la Marseillaise, tout de suite, a eu un immense succès.",
+                    "start": 1160.797,
+                    "end": 1181.289
+                },
+                {
+                    "titre": "La musique comme arme politique : un héritage révolutionnaire",
+                    "extrait": "La musique, ça sert aussi à ça. Ça sert à véhiculer des idéaux, à exprimer des positions très très fortes. Et ça sert à soutenir les énergies, y compris dans la bataille. Et ça sert également à rapporter, après, une fois que la bataille est finie, ça sert à rapporter... à Paris et dans les autres villes, le souvenir de ces batailles, ce qui s'est passé, etc.",
+                    "start": 1082.753,
+                    "end": 1101.327
+                },
+                {
+                    "titre": "Pourquoi la musique a-t-elle disparu des luttes politiques modernes ?",
+                    "extrait": "On chante en fait, on transmet les nouvelles en chantant, c'est plus facile en fait d'ailleurs pour apprendre ce qui se passe, c'est plus facile de le dire sur un air de musique que juste comme ça en récitant un discours.",
+                    "start": 627.222,
+                    "end": 637.447
+                },
+                {
+                    "titre": "La musique, un vecteur d'éducation patriotique sous la Troisième République",
+                    "extrait": "L'idée, c'est qu'on diffuse un corpus de chansons qui va entraîner notamment la revendication du retour de l'Alsace-Lorraine. Et c'est en fait un enseignement propagandiste, celui de la revanche.",
+                    "start": 2710.749,
+                    "end": 2724.198
+                },
+                {
+                    "titre": "Comment la musique a façonné l'identité nationale française ?",
+                    "extrait": "La République, au-delà d'être un régime en tant que tel, avec un certain nombre de principes, c'est aussi une philosophie, c'est aussi une façon de se vivre en tant que nation.",
+                    "start": 1897.032,
+                    "end": 1907.418
                 }
             ]
         },
