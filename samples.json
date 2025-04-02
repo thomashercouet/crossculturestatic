@@ -1,6 +1,6 @@
 {
-    "date": "Mis à jour le 02/04/2025 à 16:47",
-    "unix": 1743605262,
+    "date": "Mis à jour le 02/04/2025 à 17:25",
+    "unix": 1743607525,
     "shows": [
         {
             "title": "Les nourrissons créent-ils de nouveaux souvenirs ?",
@@ -505,6 +505,66 @@
                     "extrait": "En fait, on a assez de données pour dire que le réchauffement climatique aggrave le risque d'allergie par le biais de l'augmentation des allergènes. On a des plantes invasives, de plus en plus allergisantes. Par exemple, prenez le cas de l'ambroisie, qui venait du Rhône. Et bien maintenant, on la retrouve en Bretagne, et puis même en Belgique. Et donc, il y a vraiment une augmentation de ces plantes-là. On a les graminées aussi qui produisent davantage de pollen à cause du CO2 qui augmente dans l'atmosphère, les températures plus douces, on a un allongement des saisons et puis des pics beaucoup plus forts.",
                     "start": 714.213,
                     "end": 744.434
+                }
+            ]
+        },
+        {
+            "title": "Marie Tharp et la tectonique des plaques : une recherche sans faille",
+            "id": "47860839-a593-4ce1-b4f7-a79f8ab5d063",
+            "show": "La Science, CQFD",
+            "show_id": "dc59bf2c-a3f5-48b0-bd13-f7258761d52c",
+            "chapo": "On connaît mieux la surface de Mars que nos fonds marins. Pourtant, à la fin du XXe siècle, l’océanographe Marie Tharp a fait des découvertes majeures. Malgré les obstacles liés à son statut de femme, ses travaux ont bouleversé la géologie. Quelles furent ses découvertes et leur impact ?",
+            "magnetotheque_id": "2025C48906S0092",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/la-science-cqfd/marie-tharp-7457387",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/14312-02.04.2025-ITEMA_24086590-2025C48906S0092-NET_MFC_731C90CF-69D8-4461-B4EF-A64A82A60634-21.mp3",
+            "duration": 3513,
+            "date": 1743605925,
+            "settings": [
+                "savoirs"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "Comment Marie Tharp a révolutionné notre compréhension des océans ?",
+                    "extrait": "En 1959, l'américaine Marie Tarp publie les toutes premières cartes des fonds océaniques. Pourquoi peut-on parler d'un séisme dans l'histoire des géosciences ? Cette géologue et spécialiste des océans a façonné la géologie moderne. Pourtant, pendant une grande partie de sa carrière, en raison des stéréotypes de l'époque, elle n'a pas été autorisée à embarquer sur des navires. Lorsqu'elle publie ses cartes des dorsales médiaux aux océaniques de l'Atlantique Nord, elle révèle au monde un paysage inconnu. Une véritable chaîne volcanique sous-marine, faite de rifts et de canyons.",
+                    "start": 10.437,
+                    "end": 45.768
+                },
+                {
+                    "titre": "Pourquoi la tectonique des plaques est-elle si essentielle ?",
+                    "extrait": "Pour saisir les processus géologiques, comprendre ce qui se cache sous les eaux est essentiel. Marie Tarpe a ainsi posé une pierre angulaire à l'élaboration de la théorie de la tectonique des plaques.",
+                    "start": 45.808,
+                    "end": 55.554
+                },
+                {
+                    "titre": "Les femmes dans la science : un combat pour la reconnaissance",
+                    "extrait": "Marie Tarpe, une recherche sans faille. Pourtant, elle n'a pas été autorisée à embarquer sur des navires. C'était la période des années 40-50, et c'est donc Bruce Kizen qui avait ramené toutes les données océanographiques au labo où travaillait Marie Tharap.",
+                    "start": 865.465,
+                    "end": 903.303
+                },
+                {
+                    "titre": "L'impact des découvertes de Marie Tharp sur la géologie moderne",
+                    "extrait": "Il faut bien considérer que ses chefs à l'époque... Maurice Ewing, dont il a été question juste avant, et Bruce Eason, n'ont jamais accepté la tectonique des plaques. Alors que leur collaboratrice, Mary Tharp, est à la source d'une des découvertes les plus importantes qui a conduit à cette découverte.",
+                    "start": 1115.417,
+                    "end": 1144.636
+                },
+                {
+                    "titre": "Comment la cartographie des fonds marins a changé notre vision du monde ?",
+                    "extrait": "Marie Tarpe a amené justement cette analyse au niveau océan, parce que le but c'était d'enlever cette pellicule d'océan au-dessus qui nous cachait tous ces reliefs.",
+                    "start": 469.306,
+                    "end": 485.905
+                },
+                {
+                    "titre": "La science au féminin : l'héritage de Marie Tharp",
+                    "extrait": "Marie Tarpe, c'est encore un bel exemple de l'effet Mathilda, ou comment les hommes s'attribuaient des pensées de femmes intellectuelles.",
+                    "start": 1028.397,
+                    "end": 1035.161
+                },
+                {
+                    "titre": "Pourquoi la tectonique des plaques est-elle encore un sujet d'étude aujourd'hui ?",
+                    "extrait": "Aujourd'hui, la théorie de la tectonique des plaques apparaît actuellement comme évidente depuis la découverte de Marie Tarpe, comme on l'a vu sur la cartographie des reliefs des fonds océaniques.",
+                    "start": 1957.183,
+                    "end": 1980.897
                 }
             ]
         },
