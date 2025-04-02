@@ -1,6 +1,6 @@
 {
-    "date": "Mis à jour le 02/04/2025 à 19:20",
-    "unix": 1743614434,
+    "date": "Mis à jour le 02/04/2025 à 19:46",
+    "unix": 1743616019,
     "shows": [
         {
             "title": "Les nourrissons créent-ils de nouveaux souvenirs ?",
@@ -6491,6 +6491,42 @@
                     "score": 91,
                     "start": 2438.478,
                     "end": 2447.462
+                }
+            ]
+        },
+        {
+            "title": "Plantes, animaux : comment nouer de nouvelles alliances politiques ?",
+            "id": "e1855c00-4c75-45ff-83f0-7fc920a2f692",
+            "show": "Questions du soir : l'idée",
+            "show_id": "18d2d677-e679-453c-aec9-76ddef22ddb4",
+            "chapo": "Et si nos liens avec le vivant étaient plus politiques qu’on ne le pense ? Alessandro Pignocchi, chercheur en philosophie et auteur de bande dessinée, invite à repenser notre rapport au vivant, non plus comme ressource ou décor, mais comme partenaire de sociabilité.",
+            "magnetotheque_id": "2025C53458S0092",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-l-idee/plantes-animaux-comment-nouer-de-nouvelles-alliances-politiques-4182618",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/25343-02.04.2025-ITEMA_24086602-2025C53458S0092-NET_MFC_243DB257-5165-4FD9-85AA-B3A478A24E74-21.mp3",
+            "duration": 1524,
+            "date": 1743614925,
+            "settings": [
+                "savoirs"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "Comment les luttes territoriales redéfinissent notre rapport à l'écologie ?",
+                    "extrait": "Les luttes territoriales sont un des moteurs principaux de la reconfiguration des antagonismes politiques qui nous travaillent et, à mon avis, pour le mieux. C'est la façon la plus efficace de saisir la question écologique parce que les luttes territoriales permettent de saisir les problèmes écologiques par les affects, par les attachements au territoire, par une série de Désir d'envie d'habiter le monde extrêmement concret et donc beaucoup plus efficace politiquement que si on essaye de l'attraper par le haut, par le CO2, l'effet de serre et des questions plus abstraites qui sont évidemment tout aussi fondamentales mais qui tapent dans nos affects humains de façon beaucoup moins efficace que le territoire, l'attachement au territoire, l'attachement aux vivants.",
+                    "start": 148.102,
+                    "end": 197.857
+                },
+                {
+                    "titre": "Pourquoi l'attachement au territoire est-il essentiel pour l'avenir de l'humanité ?",
+                    "extrait": "C'est quasiment deux visions de l'humain et de à quoi devrait ressembler, à quoi on a envie que l'humanité ressemble dans les... dans les décennies à venir. Les luttes territoriales ont cette vertu de clarifier les antagonismes politiques. On sort des enjeux abstraits, des antagonismes qui se sont construits petit à petit les uns sur les autres au fil de l'histoire des affrontements politiques pour revenir à des questions vraiment très fondamentales de comment on a envie d'habiter en commun, un territoire. Et là, du coup, c'est vraiment deux mondes, deux visions de l'avenir, deux régimes de désirs, deux ensembles d'envie pour l'avenir qui s'affrontent de façon très épurée.",
+                    "start": 219.585,
+                    "end": 261.348
+                },
+                {
+                    "titre": "Les affects : la clé d'une alternative politique face au capitalisme et au fascisme ?",
+                    "extrait": "Mon hypothèse, c'est que le secret, la clé, la trappe affective qu'il s'agit d'ouvrir, tient à nos attachements aux vivants et aux territoires, au tissu de liens affectifs, d'attachements qu'on peut tisser avec un milieu de vie, un territoire vivant. Et en fait, un des arguments, c'est dire que ces attachements-là ont été fondamentaux dans l'histoire de l'humanité. C'est ce que montre, par exemple, le dernier livre de Charles Stepanov, qui s'appelle basiquement « Attachements ». Et vraiment, l'humanité, depuis des centaines de milliers d'années, s'est construite autour de ces liens d'attachement et la modernité les a effacés.",
+                    "start": 520.604,
+                    "end": 557.805
                 }
             ]
         }
