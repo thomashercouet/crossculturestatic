@@ -1,6 +1,6 @@
 {
-    "date": "Mis à jour le 02/04/2025 à 11:09",
-    "unix": 1743584978,
+    "date": "Mis à jour le 02/04/2025 à 12:22",
+    "unix": 1743589346,
     "shows": [
         {
             "title": "Les nourrissons créent-ils de nouveaux souvenirs ?",
@@ -5865,6 +5865,73 @@
                     "score": 95,
                     "start": 921.705,
                     "end": 935.215
+                }
+            ]
+        },
+        {
+            "title": "Humanitaire : soigner les corps et les âmes",
+            "id": "0238c2c6-49db-4679-aa2c-86d772c0c2f9",
+            "show": "Cultures Monde",
+            "show_id": "2358bc00-3f62-11e5-8314-005056a87c89",
+            "chapo": "La psychiatrie humanitaire s’est beaucoup développée au sein des ONG ces vingt dernières années. Les catastrophes naturelles ou les conflits créent des souffrances psychiques nécessitant une prise en charge, mais cela se heurte à plusieurs difficultés comme la demande de soin sur le temps long. ",
+            "magnetotheque_id": "2025C16756S0092",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/cultures-monde/humanitaire-soigner-les-corps-et-les-ames-6344589",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/11701-02.04.2025-ITEMA_24086587-2025C16756S0092-NET_MFC_80B0866E-ECF4-4452-AF07-1BAB5C02C286-21.mp3",
+            "duration": 3520,
+            "date": 1743587925,
+            "settings": [
+                "savoirs"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "« Les enfants vont bien » : un mensonge courant en humanitaire ?",
+                    "extrait": "« Souvent, ça nous arrive d'avoir un discours où les parents ou même les communautés, la population en général a un regard envers les enfants, où les enfants vont bien parce qu'ils sont en train de jouer, les enfants continuent à sourire. Et ça s'accache par contre en grande souffrance, très souvent sous-estimée, aussi quand ils sont tout petits, aussi quand ils sont bébés. »",
+                    "score": 90,
+                    "start": 193.412,
+                    "end": 227.989
+                },
+                {
+                    "titre": "La santé mentale : un enjeu ignoré dans l'humanitaire ?",
+                    "extrait": "« Partout, et surtout dans ces pays en difficulté, les malades mentaux sont oubliés. Je suis psychiatre et un de mes devoirs de citoyen et de professionnel, c'est de promouvoir le soin aux malades mentaux. »",
+                    "score": 85,
+                    "start": 109.101,
+                    "end": 124.055
+                },
+                {
+                    "titre": "Comment la psychiatrie humanitaire a-t-elle évolué ?",
+                    "extrait": "« Pour les organisations humanitaires qui accourent sur les terrains de guerre ou de calamité, il n'était pas une évidence il y a encore 30 ans de s'occuper de santé mentale. D'ailleurs, la notion de stress post-traumatique n'a pas toujours existé. »",
+                    "score": 88,
+                    "start": 157.089,
+                    "end": 169.296
+                },
+                {
+                    "titre": "« On ne fait pas de santé mentale à MSF » : un tabou brisé ?",
+                    "extrait": "« Dans la revue Alternatives Humanitaires, on ne fait pas de santé mentale. On ne fait pas de santé mentale à MSF. Jusqu'à quand cette phrase a-t-elle été martelée dans cette ONG en particulier et dans les grandes organisations humanitaires en général ? »",
+                    "score": 92,
+                    "start": 284.793,
+                    "end": 297.156
+                },
+                {
+                    "titre": "Le traumatisme psychique : un héritage méconnu",
+                    "extrait": "« La question du trauma, du traumatisme psychique est au centre par exemple des questions que se pose Freud sur les causes des névroses dès la fin du 19e siècle et le début du 20e siècle. »",
+                    "score": 87,
+                    "start": 864.438,
+                    "end": 890.078
+                },
+                {
+                    "titre": "Pourquoi la santé mentale est-elle essentielle après une catastrophe ?",
+                    "extrait": "« Il y a une souffrance psychologique qui va au-delà de tous ces troubles qui sont identifiés. Il y a aussi une dimension de la crise qui va affecter aussi au niveau communautaire, mais aussi familial. »",
+                    "score": 89,
+                    "start": 608.149,
+                    "end": 621.583
+                },
+                {
+                    "titre": "« La santé mentale, c'est l'essentiel » : un appel à l'action",
+                    "extrait": "« Quand quelqu'un change de comportement d'un coup, peu importe comment ça se manifeste et quelle que soit la forme que ça prend, ça doit vous alerter, on doit être attentif à ces changements. »",
+                    "score": 91,
+                    "start": 2438.478,
+                    "end": 2447.462
                 }
             ]
         },
