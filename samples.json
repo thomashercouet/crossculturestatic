@@ -1,6 +1,6 @@
 {
-    "date": "Mis à jour le 02/04/2025 à 19:46",
-    "unix": 1743616019,
+    "date": "Mis à jour le 02/04/2025 à 21:20",
+    "unix": 1743621642,
     "shows": [
         {
             "title": "Les nourrissons créent-ils de nouveaux souvenirs ?",
@@ -1033,6 +1033,66 @@
                     "score": 92,
                     "start": 109.427,
                     "end": 118.331
+                }
+            ]
+        },
+        {
+            "title": "Le droit au défi de l’anthropocène",
+            "id": "d4118cc7-1e08-4a6f-a6b8-08d49e739f54",
+            "show": "Esprit de justice",
+            "show_id": "cefbe758-c74f-4151-b65e-bc538b8ccd22",
+            "chapo": "En quoi l'ère de l'anthropocène réinterroge-t-elle les fonctions du droit ? L'instrument juridique peut-il répondre à l'urgence écologique ? Comment représenter les intérêts des générations futures ?",
+            "magnetotheque_id": "2025C27677S0092",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/esprit-de-justice/le-droit-au-defi-de-l-anthropocene-1871734",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/21447-02.04.2025-ITEMA_24086610-2025C27677S0092-NET_MFC_CF60B453-41DF-4CC0-8ABF-BA3D3376C20C-21.mp3",
+            "duration": 3546,
+            "date": 1743620325,
+            "settings": [
+                "savoirs"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "Comment l'anthropocène redéfinit notre rapport au droit ?",
+                    "extrait": "L'anthropocène désigne une nouvelle époque géologique créée par l'activité des hommes qui sont devenus la principale force de changement sur Terre, perturbant et surpassant les forces géophysiques. La prise en considération de l'environnement ébranle les représentations profondes, les plus souvent inélaborées d'ailleurs, sur lesquelles reposait le droit. Celui-ci organisait les relations entre les hommes dans le périmètre d'un territoire donné et sous l'horizon de la durée d'une vie humaine. Mais voici que les répercussions de toutes les activités humaines sur notre environnement provoquent un désajustement de tous les fondamentaux du droit.",
+                    "start": 22.947,
+                    "end": 67.537
+                },
+                {
+                    "titre": "L'urgence écologique : un défi pour le droit !",
+                    "extrait": "Comment les juristes peuvent-ils appréhender ces grandeurs qui les dépassent ? Tous y travaillent, et depuis longtemps, quoi, depuis des années. Le législateur, tout d'abord, qui a produit un tissu d'une rare densité normative. La doctrine aussi, c'est-à-dire les professeurs, qui repensent les catégories juridiques en s'ouvrant à celles des autres pays mais en s'ouvrant aussi au rapport à la terre des peuples autochtones.",
+                    "start": 67.577,
+                    "end": 103.933
+                },
+                {
+                    "titre": "Peut-on vraiment parler d'un droit commun à la nature ?",
+                    "extrait": "Tous ces acteurs sont peut-être en train de jeter les bases d'un droit commun, d'un droit commun à la hauteur de cet objet commun à tous qu'est la nature qui nous environne, une sorte de « common law » mondial.",
+                    "start": 121.599,
+                    "end": 135.945
+                },
+                {
+                    "titre": "Anthropocène : une responsabilité partagée ?",
+                    "extrait": "Oui, la responsabilité en revient aux hommes et ce qu'il y a à mon avis de très intéressant dans la notion, c'est que ce n'est pas uniquement une notion scientifique bien au-delà, c'est une notion très globale qui permet de penser les causes et conséquences dans l'ensemble de l'anthropocène et de réunir plusieurs disciplines.",
+                    "start": 277.353,
+                    "end": 305.135
+                },
+                {
+                    "titre": "L'empreinte écologique : un concept à repenser !",
+                    "extrait": "Ce que je trouve très intéressant, c'est que quand on analyse l'empreinte écologique, elle permet de se sortir un petit peu d'un discours très réducteur, qui est un discours souvent climato-énergétique, autour de l'empreinte carbone. L'empreinte écologique, elle est extrêmement inclusive.",
+                    "start": 1723.861,
+                    "end": 1742.212
+                },
+                {
+                    "titre": "Le droit de l'environnement : un hôpital d'urgence ?",
+                    "extrait": "Ce qui est vrai, ce qu'il faut comprendre me semble-t-il, c'est que quand le droit de l'environnement est né dans cette matrice de droit public dans les années 70-80 avec les grands principes que vous connaissez sans doute, il ne faut jamais perdre de vue qu'au moment même où les fondations étaient posées, quelque chose aux Etats-Unis, en Angleterre et dans beaucoup d'endroits du monde a bougé.",
+                    "start": 1431.563,
+                    "end": 1457.631
+                },
+                {
+                    "titre": "Comment le droit peut-il s'adapter aux défis de l'anthropocène ?",
+                    "extrait": "Il y a une tension entre imaginaires d'un côté habiter sur la terre et de l'autre côté se déterrestrer et travailler sur l'illimité. Là cette tension elle est vraiment très très inconfortable pour le droit aujourd'hui.",
+                    "start": 2748.419,
+                    "end": 2776.39
                 }
             ]
         },
