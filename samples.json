@@ -1,6 +1,6 @@
 {
-    "date": "Mis à jour le 03/04/2025 à 08:27",
-    "unix": 1743661651,
+    "date": "Mis à jour le 03/04/2025 à 08:40",
+    "unix": 1743662439,
     "shows": [
         {
             "title": "Pourquoi doit-on respecter des obligations ?",
@@ -801,6 +801,48 @@
                     "score": 95,
                     "start": 432.588,
                     "end": 448.231
+                }
+            ]
+        },
+        {
+            "title": "Les partis sont-ils tout petits ? ",
+            "id": "d13d578f-43b6-4865-a682-19aa97de6197",
+            "show": "Le Billet politique",
+            "show_id": "7656aae3-b20b-11e5-8e9e-005056a87c89",
+            "chapo": "Plusieurs partis annoncent des adhésions en hausse, mais les effectifs militants restent faibles en France. Est-ce gênant ? ",
+            "magnetotheque_id": "2025C22191S0093",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/le-billet-politique/les-partis-sont-ils-tout-petits-4560905",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/13917-03.04.2025-ITEMA_24088898-2025C22191S0093-NET_MFC_43CCBB26-B3B3-4B39-BF37-2EF39895B6F2-21.mp3",
+            "duration": 262,
+            "date": 1743661200,
+            "settings": [
+                "actu"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "Pourquoi les partis politiques français sont-ils si petits ?",
+                    "extrait": "En réalité, c'est combien ? On n'en sait rien, Guillaume. Les partis peuvent annoncer tous les chiffres qu'ils veulent. Personne n'a les moyens de les vérifier. C'était vrai hier, c'est vrai aujourd'hui. Trois choses tout de même rapidement. D'abord, les effectifs varient beaucoup. Avant un congrès, avant une élection interne, chaque courant essaie de faire des cartes, comme on dit. C'est ce qui s'est passé ces dernières semaines au PS, chez les écologistes ou chez LR. Ensuite, globalement, les partis ont moins d'adhérents que dans les années 60 ou 70, moins d'intérêt globalement pour la politique, moins d'adhésion. Enfin, même quand les effectifs augmentent, ils restent chétifs. Même 50 000 ou 100 000 adhérents, si vous les comparez aux 49 millions d'électeurs, ce n'est presque rien.",
+                    "start": 98.198,
+                    "end": 140.192
+                },
+                {
+                    "titre": "Les partis ont-ils vraiment besoin d'adhérents ?",
+                    "extrait": "Les partis ont-ils besoin d'adhérents ? Ils ont surtout besoin d'électeurs. Le nombre de voix détermine le financement public. Autrement dit, le nombre d'électeurs est plus important que le nombre d'adhérents. Mais symboliquement, ça compte tout de même.",
+                    "start": 163.305,
+                    "end": 175.512
+                },
+                {
+                    "titre": "Les partis français sont-ils des clubs fermés ?",
+                    "extrait": "Mais derrière ces campagnes d'adhésion, à droite comme à gauche d'ailleurs, pour les nouveaux adhérents, il faut bien le dire, souvent, Guillaume, c'est la douche froide. Mais pourquoi ? Malgré les apparences, les partis sont peu accueillants, ils font peu de place aux nouveaux venus. Et les militants professionnels ont tendance à rester entre eux. Vous arrivez et souvent, vous avez l'impression. question de déranger.",
+                    "start": 203.535,
+                    "end": 223.726
+                },
+                {
+                    "titre": "À quoi sert un parti politique aujourd'hui ?",
+                    "extrait": "Voilà ce qu'il faut se demander. À quoi sert un parti ? Est-il un fan club pour candidats à la présidentielle ? Un réseau d'élus locaux ? Ou un lieu ouvert ? Un lieu qui accueille de nouveaux visages ? Et même, soyons fous, de nouvelles idées. La vraie question n'est pas numérique, elle est politique.",
+                    "start": 234.513,
+                    "end": 250.905
                 }
             ]
         },
