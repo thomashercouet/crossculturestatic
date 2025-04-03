@@ -1,6 +1,6 @@
 {
-    "date": "Mis à jour le 03/04/2025 à 13:35",
-    "unix": 1743680155,
+    "date": "Mis à jour le 03/04/2025 à 13:49",
+    "unix": 1743680946,
     "shows": [
         {
             "title": "Pourquoi doit-on respecter des obligations ?",
@@ -1770,6 +1770,45 @@
                     "score": 87,
                     "start": 1456.835,
                     "end": 1467.838
+                }
+            ]
+        },
+        {
+            "title": "Anouk Grinberg, Respect",
+            "id": "08940dbd-6e6b-42cc-85ba-58ec5458855b",
+            "show": "Les Midis de Culture",
+            "show_id": "32a14af6-fc87-4f4f-a06e-39ccf8587119",
+            "chapo": "Avec “Respect”, Anouk Grinberg fait face au système qui a tenté de la détruire. D'une voix forte et claire, elle analyse les mécanismes qui permettent aux violences sexuelles et psychologiques de se produire et de se reproduire.   ",
+            "magnetotheque_id": "2025C51852S3093",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/les-midis-de-culture/anouk-grinberg-respect-8017184",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/12360-03.04.2025-ITEMA_24088895-2025C51852S3093-NET_MFC_A1A116A2-3B20-4A04-9531-F58F6252ED9C-21.mp3",
+            "duration": 1726,
+            "date": 1743679725,
+            "settings": [
+                "interview"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "« Les hommes, ils ne savent pas »",
+                    "extrait": "« J'espère que les hommes qui font ça ne savent pas le mal qu'ils font, tout le mal qu'ils font, parce qu'un viol, un inceste, des agressions sexuelles graves, rien de tout ça n'est marrant. Ce qu'ils ne savent pas, je crois, les hommes, c'est la profondeur du mal que ça fait, et comme ça dure longtemps. Moi, je parle, ça fait 50 ans que le viol a eu lieu, je le vis encore dans ma chair, chaque jour, chaque nuit. »",
+                    "score": 95,
+                    "start": 233.941,
+                    "end": 270.454
+                },
+                {
+                    "titre": "« On est marqués comme au fer rouge »",
+                    "extrait": "« Quand un homme vous viole... d'une façon ou d'une autre, c'est pas aux antipodes des gestes qu'un amoureux peut vous faire. Et on est marqués comme au fer rouge, quoi. Moi, je suis depuis 50 ans hantée par des images de crimes, de viols, et j'y peux rien. C'est des flashs qui me torturent. »",
+                    "score": 90,
+                    "start": 295.754,
+                    "end": 324.603
+                },
+                {
+                    "titre": "« Je ne suis plus une victime »",
+                    "extrait": "« Mais je ne suis plus une victime. Je fais face au système qui a tenté de me broyer et continue d'en broyer des millions. Je suis prête à affronter sa puissance, ou plutôt son impuissance à se regarder et réparer ses fautes. »",
+                    "score": 92,
+                    "start": 996.297,
+                    "end": 1012.072
                 }
             ]
         },
