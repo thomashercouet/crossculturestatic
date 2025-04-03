@@ -1,6 +1,6 @@
 {
-    "date": "Mis à jour le 03/04/2025 à 21:49",
-    "unix": 1743709793,
+    "date": "Mis à jour le 03/04/2025 à 22:03",
+    "unix": 1743710618,
     "shows": [
         {
             "title": "Pourquoi doit-on respecter des obligations ?",
@@ -5451,6 +5451,31 @@
                     "score": 93,
                     "start": 275.08,
                     "end": 286.431
+                }
+            ]
+        },
+        {
+            "title": "La seule vérité du moment",
+            "id": "3c1df949-bb7c-4eec-abf9-00d6ac85662f",
+            "show": "Lectures du soir",
+            "show_id": "ee7280ad-40f6-11e5-9fe0-005056a87c89",
+            "chapo": "\"J’apprends que mon ancienne unité a été presque entièrement décimée. Le plus difficile à supporter, c’est la mort de mon vieux sergent qui était pour moi comme un ange gardien. Toujours là quand j’avais un problème, quand je cherchais quelqu’un à qui parler… \"",
+            "magnetotheque_id": "2025C17591E0063",
+            "seo_url": "",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/12024-03.04.2025-ITEMA_24088319-2025C17591E0063-ITE_00147986_RSCE-21.mp3",
+            "duration": 1209,
+            "date": 1743710152,
+            "settings": [
+                "interview"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "« La mort de mon vieux sergent, un ange gardien »",
+                    "extrait": "Le plus difficile à supporter, c'est la mort de mon vieux sergent, un Polonais de Rochester qui était pour moi comme un ange gardien. Toujours là quand j'avais un problème, quand je cherchais quelqu'un à qui parler. Quand mon pied s'est trouvé bloqué sous un camion le jour du débarquement, il n'a pas songé une seconde à lui. Et malgré les obus qui pleuvaient de partout, il m'a sauvé de la noyade. À Brest, je me suis trouvé dans un champ avec trois autres soldats, exposés sans rien pouvoir faire au tir d'une batterie ennemie. Il est parvenu adroitement à la contourner et a fait prisonnier lui-même toute l'équipe de teutons. C'était une habitude chez lui, un réflexe, de s'assurer que James Reeves McCullers était toujours vivant. Quand on m'a changé d'unité, il voulait à tout prix être transféré en même temps que moi. C'est moi qui l'ai convaincu de rester, car il faisait du bon travail où il était. J'en éprouve un terrible remords.",
+                    "score": 95,
+                    "start": 615.516,
+                    "end": 668.578
                 }
             ]
         },
