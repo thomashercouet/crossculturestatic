@@ -1,6 +1,6 @@
 {
-    "date": "Mis à jour le 03/04/2025 à 16:12",
-    "unix": 1743689538,
+    "date": "Mis à jour le 03/04/2025 à 16:25",
+    "unix": 1743690344,
     "shows": [
         {
             "title": "Pourquoi doit-on respecter des obligations ?",
@@ -5558,6 +5558,66 @@
                     "score": 85,
                     "start": 548.641,
                     "end": 553.187
+                }
+            ]
+        },
+        {
+            "title": "Histoires de pères, avec Marie NDiaye ",
+            "id": "ee7bf362-c88d-4f67-92d4-4a0b37a886f2",
+            "show": "Le Book Club",
+            "show_id": "9919a6d4-3da2-4dd9-8103-77cef065f78d",
+            "chapo": "À travers quatre variations autour d’un événement clé de sa vie, le départ brutal de son père sénégalais après sa naissance en France, Notre invitée l’autrice Marie NDiaye livre dans son nouveau roman une exploration intime et troublante de l’absence, de la filiation et de l’identité.",
+            "magnetotheque_id": "2025C49162S0093",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/le-book-club/histoires-de-peres-avec-marie-ndiaye-4569842",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/23875-03.04.2025-ITEMA_24088909-2025C49162S0093-NET_MFC_3C1AF3CE-A9DD-480F-96BA-2F0EF8607311-21.mp3",
+            "duration": 3495,
+            "date": 1743688725,
+            "settings": [
+                "interview"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "Comment la quête de vérité peut-elle blesser ?",
+                    "extrait": "« Je n'ai l'impression que la quête qu'une quête de ce genre non seulement ne nous mène pas très loin, mais risque de nous blesser sans que ce soit nécessaire d'être atteint là, quoi. Dans la vie, il y a de multiples manières de se trouver blessé et c'est peut-être pas nécessaire de chercher à l'être dans l'histoire de nos parents. »",
+                    "score": 90,
+                    "start": 2884.633,
+                    "end": 2929.404
+                },
+                {
+                    "titre": "La mémoire est-elle un tremblement ?",
+                    "extrait": "« Oui, tout tremble, tout flotte, mais comme notre mémoire, c'est-à-dire quand on se rappelle des choses dans notre histoire et que l'on confronte notre mémoire à celle de nos proches, on se rend compte que les images sont dépareillées, les images sont différentes. »",
+                    "score": 85,
+                    "start": 1681.703,
+                    "end": 1715.372
+                },
+                {
+                    "titre": "La bonté, un parfum ou une essence ?",
+                    "extrait": "« Qu'est-ce qui fait qu'on peut définir quelqu'un comme étant bon et pas juste très gentil, très aimable, etc. La bonté, qu'est-ce que cela veut dire dans la vie ? »",
+                    "score": 88,
+                    "start": 1246.339,
+                    "end": 1265.766
+                },
+                {
+                    "titre": "Peut-on vraiment tout savoir de nos parents ?",
+                    "extrait": "« On ne peut pas tout savoir de nos parents mais cette quête est sans doute inutile. »",
+                    "score": 92,
+                    "start": 2874.845,
+                    "end": 2884.593
+                },
+                {
+                    "titre": "La lutte pour l'éducation, un combat commun",
+                    "extrait": "« C'est grâce uniquement à leur volonté, à leur opiniâtreté, qu'ils ont pu franchir les portes de l'école, du collège, etc. »",
+                    "score": 87,
+                    "start": 2051.381,
+                    "end": 2068.053
+                },
+                {
+                    "titre": "La littérature, miroir de nos identités",
+                    "extrait": "« J'ai l'impression aussi que nous vivrions mieux si nous acceptions que nos souvenirs sont des fantômes, en fait. »",
+                    "score": 90,
+                    "start": 1758.378,
+                    "end": 1771.602
                 }
             ]
         },
