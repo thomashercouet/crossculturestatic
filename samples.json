@@ -1,6 +1,6 @@
 {
-    "date": "Mis à jour le 03/04/2025 à 12:17",
-    "unix": 1743675476,
+    "date": "Mis à jour le 03/04/2025 à 12:32",
+    "unix": 1743676365,
     "shows": [
         {
             "title": "Pourquoi doit-on respecter des obligations ?",
@@ -4874,6 +4874,66 @@
             ]
         },
         {
+            "title": "Europe : nouveaux regards sur la psychiatrie ",
+            "id": "0211a7e3-69f3-4770-8dc1-f2a6ac527955",
+            "show": "Cultures Monde",
+            "show_id": "2358bc00-3f62-11e5-8314-005056a87c89",
+            "chapo": "Cinq ans après que près de la moitié de la population mondiale s'est retrouvée confinée, la pandémie du Covid-19 et ses conséquences semblent avoir permis de prendre conscience de l'importance de la santé mentale. Mais l'offre de soin reste néanmoins très limitée.",
+            "magnetotheque_id": "2025C16756S0093",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/cultures-monde/europe-nouveaux-regards-sur-la-psychiatrie-8101370",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/11701-03.04.2025-ITEMA_24088897-2025C16756S0093-NET_MFC_D441DC2B-423A-4322-8223-C042ED4ADBFA-21.mp3",
+            "duration": 3492,
+            "date": 1743674325,
+            "settings": [
+                "savoirs"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "Pourquoi la santé mentale est-elle devenue une grande cause nationale en France ?",
+                    "extrait": "À la fin de l'année dernière en France, Michel Barnier décrétait que la santé mentale devenait une grande cause nationale dans le sillage du reste du plan italien lancé deux ans plus tôt.",
+                    "score": 85,
+                    "start": 194.14,
+                    "end": 204.928
+                },
+                {
+                    "titre": "Comment le Covid-19 a-t-il agi comme un catalyseur pour la santé mentale ?",
+                    "extrait": "Ce qu'il faut bien comprendre, c'est que c'était des tendances qui étaient préexistantes notamment sur la santé mentale des jeunes filles. Il y avait déjà une dégradation observée depuis 2017 et que le Covid est venu aggraver la situation, a agi comme un catalyseur.",
+                    "score": 90,
+                    "start": 271.984,
+                    "end": 285.248
+                },
+                {
+                    "titre": "Les jeunes filles sont-elles plus touchées par les problèmes de santé mentale ?",
+                    "extrait": "Les jeunes filles, les jeunes femmes sont vraiment mises en avant dans les études. Les chiffres sont toujours très effarants et très inquiétants.",
+                    "score": 80,
+                    "start": 302.893,
+                    "end": 323.837
+                },
+                {
+                    "titre": "La santé mentale, un enjeu économique majeur ?",
+                    "extrait": "La question des coûts, malheureusement, c'est toujours une question qui mobilise fortement les décideurs publics. Et c'est le cas aussi en France, parce que c'est le premier pas de dépense de l'assurance maladie, comme on l'a entendu aujourd'hui.",
+                    "score": 88,
+                    "start": 1490.126,
+                    "end": 1500.157
+                },
+                {
+                    "titre": "Comment les réseaux sociaux influencent-ils la santé mentale des jeunes ?",
+                    "extrait": "Il n'y a pas d'explication claire de cette tendance chez les jeunes filles qui soit parfaitement connue et établie aujourd'hui. Les réseaux sociaux et notamment le réseau social TikTok qui fait vraiment l'objet d'une grande attention.",
+                    "score": 87,
+                    "start": 368.913,
+                    "end": 383.799
+                },
+                {
+                    "titre": "Pourquoi l'internement sous contrainte reste-t-il fréquent en psychiatrie ?",
+                    "extrait": "L'internement sous contrainte reste fréquent dans les pays occidentaux. On y recourt même davantage qu'auparavant.",
+                    "score": 92,
+                    "start": 2473.27,
+                    "end": 2486.394
+                }
+            ]
+        },
+        {
             "title": "Quelle place pour les adultes autistes ?",
             "id": "adf0647a-a21a-4cdc-9a83-b161e730c478",
             "show": "LSD, la série documentaire",
@@ -5695,6 +5755,45 @@
                     "score": 95,
                     "start": 78.006,
                     "end": 123.024
+                }
+            ]
+        },
+        {
+            "title": "LES PIEDS SUR TERRE, émission du jeudi 03 avril 2025",
+            "id": "36bfb89d-feca-4bb2-a821-c113cd74dae3",
+            "show": "Les Pieds sur terre",
+            "show_id": "beb83c10-402c-11e5-8314-005056a87c89",
+            "chapo": "",
+            "magnetotheque_id": "2025C6612E0002",
+            "seo_url": "",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/10078-11.02.2025-ITEMA_24024791-2025C6612E0002-NET_MFC_2F85028B-6B17-446D-AAD6-57D45F90E80A-21.mp3",
+            "duration": 1705,
+            "date": 1743681525,
+            "settings": [
+                "temoignage"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "Comment la ménopause a redéfini ma sexualité ?",
+                    "extrait": "« Toute cette période-là de pré-ménopause et ménopause a impacté ma sexualité, pas en termes de libido au début, mais vraiment en termes de pratique. C'est-à-dire qu'effectivement, j'avais rendez-vous à l'hôtel avec un amant et puis j'étais obligée d'annuler parce que c'était absolument impraticable à cause des règles, parce que j'avais des règles tout à coup qui survenaient juste le jour J de façon extrêmement abondante. Donc vraiment, il n'y avait rien à faire à ce niveau-là. »",
+                    "score": 85,
+                    "start": 377.686,
+                    "end": 403.975
+                },
+                {
+                    "titre": "La libération après 50 ans : un nouveau souffle ?",
+                    "extrait": "« Plus tard et après mes 50 ans, donc j'appréhendais beaucoup, vraiment la barre des 50 ans, c'est quelque chose qui m'a mis dans un état d'anxiété pendant facilement un ou deux ans auparavant. Et finalement, quand la barre a été passée, je me suis sentie presque soulagée en disant « finalement, ça y est, c'est fait, c'est passé ». »",
+                    "score": 90,
+                    "start": 263.271,
+                    "end": 279.873
+                },
+                {
+                    "titre": "Redécouvrir son corps : le chemin vers une sexualité épanouie",
+                    "extrait": "« J'ai décidé de me faire un cadeau et d'aller m'acheter des dessous pour fêter cette post-ménopause parce que j'avais envie de me faire plaisir, de faire plaisir à mon corps. Comme pour commencer une nouvelle vie, on n'a plus d'accord avec moi-même. »",
+                    "score": 88,
+                    "start": 1024.462,
+                    "end": 1039.86
                 }
             ]
         },
