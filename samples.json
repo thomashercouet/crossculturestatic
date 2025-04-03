@@ -1,6 +1,6 @@
 {
-    "date": "Mis à jour le 03/04/2025 à 13:09",
-    "unix": 1743678594,
+    "date": "Mis à jour le 03/04/2025 à 13:23",
+    "unix": 1743679386,
     "shows": [
         {
             "title": "Pourquoi doit-on respecter des obligations ?",
@@ -1204,6 +1204,38 @@
                     "score": 95,
                     "start": 287.901,
                     "end": 309.036
+                }
+            ]
+        },
+        {
+            "title": "Art Paris 2025 : la foire bienveillante et accessible revient au Grand Palais",
+            "id": "85b60879-cdc0-4438-9c57-2451d16f2121",
+            "show": "Le Point culture",
+            "show_id": "25d4eded-ef3f-4106-9cca-09a53f4794dc",
+            "chapo": "Du 3 au 6 avril 2025, Art Paris réunit artistes et exposants de l'art moderne et contemporain au Grand Palais, après avoir été hébergée au Grand Palais Éphémère.",
+            "magnetotheque_id": "2025C41196S0093",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/le-point-culture/art-paris-2025-la-foire-bienveillante-et-accessible-revient-au-grand-palais-4323767",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/21829-03.04.2025-ITEMA_24088922-2025C41196S0093-NET_MFC_8B53D26A-8985-4772-B15A-DBB2F7D45DC3-21.mp3",
+            "duration": 628,
+            "date": 1743678000,
+            "settings": [
+                "actu"
+            ],
+            "limit": 2,
+            "extraits": [
+                {
+                    "titre": "« Une foire pour les 99% » : l'art accessible à tous !",
+                    "extrait": "« C'est vrai qu'on fait un travail très pédagogique, on est très axé sur la pédagogie. Vous parliez de ces gens qui viennent parfois acheter pour la première fois. Est-ce que vous avez l'impression que le profil du collectionneur change ? Ils sont plus jeunes ? Alors oui, nous, on a beaucoup de chance d'avoir... Il y a beaucoup de jeunes qui viennent ArtParis, de jeunes collectionneurs, parce que c'est une foire accueillante. Ils ne sont pas snobés, on a aussi beaucoup de gens de région, parce qu'ils aiment l'accueil qu'on leur réserve, on n'est pas du tout parisiens, on s'en snob du terme. Et du coup, c'est vrai que le climat de ce salon fait que les gens ont envie, ça les donne envie, et nous, effectivement, on a beaucoup de jeunes qui viennent. C'est ce qui me réjouit d'ailleurs, parce que je n'ai pas envie du tout qu'on soit marronniers, vous voyez ce que je veux dire ? Et il y a cette énergie en fait, cette foire a beaucoup d'énergie parce qu'il y a ce jeune public qui vient et qui ne se sent pas inhibé vis-à-vis d'une certaine attitude qu'on trouve dans le milieu de l'art, qui est vraiment assez dogmatique, ou des fois juste méprisante en fait. Si vous ne savez pas, c'est que vous n'êtes pas du milieu et donc on ne vous parle pas. Et moi c'est tout le contraire que je veux faire. »",
+                    "score": 90,
+                    "start": 427.35,
+                    "end": 490.495
+                },
+                {
+                    "titre": "Comment Art Paris redéfinit le marché de l'art ?",
+                    "extrait": "« Donc il y a deux réponses dans votre question, parce que moi, quelque part, la définition de ma foire correspondrait plus à la notion du salon, au sens 18e siècle, c'est-à-dire que c'est un lieu de tendance, pour promouvoir les tendances, c'est un lieu où on vend, les deux sont importants pour moi. Et ce n'est pas juste une foire miroir du marché de l'art, ça ne m'intéresse pas. C'est une foire qui est très engagée sur la question des femmes, on verra cette année avec la création d'un nouveau prix Eurard pour les artistes femmes, où la scène française, il y a un prix vraiment pour le... aussi avec BNP, Baribas, Banque privée, un prix de 40 000 euros aussi pour un des artistes du Focus Immortel. Donc c'est vraiment l'idée d'appuyer les choses. Et pas juste d'être un miroir en fait. »",
+                    "score": 85,
+                    "start": 256.642,
+                    "end": 296.001
                 }
             ]
         },
