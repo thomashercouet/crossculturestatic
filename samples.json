@@ -1,6 +1,6 @@
 {
-    "date": "Mis à jour le 03/04/2025 à 23:59",
-    "unix": 1743717592,
+    "date": "Mis à jour le 04/04/2025 à 00:12",
+    "unix": 1743718374,
     "shows": [
         {
             "title": "Pourquoi doit-on respecter des obligations ?",
@@ -308,74 +308,6 @@
             ]
         },
         {
-            "title": "Buster Keaton, le pionnier de l'extrême",
-            "id": "3376e764-d9a1-4401-a4f1-8a2733b29240",
-            "show": "Toute une vie",
-            "show_id": "06ce6d98-44e6-11e5-9fe0-005056a87c89",
-            "chapo": "Acteur, auteur, metteur en scène, Buster Keaton a été autant un cascadeur qu’un poète qui, confronté à l'hostilité du monde, en a exploré tous les possibles par ses prouesses physiques et son inventivité. Voici Buster Keaton ou l'histoire d'une trajectoire éblouissante et brève d'un génie du cinéma.",
-            "magnetotheque_id": "2025C3330E0008",
-            "seo_url": "",
-            "mp3": "https://media.radiofrance-podcast.net/podcast09/23117-30.03.2025-ITEMA_24080084-2025C3330E0008-NET_MFC_AB114EB1-4972-491A-9C4A-765216A22C6F-21.mp3",
-            "duration": 3508,
-            "date": 1743371903,
-            "settings": [
-                "interview",
-                "temoignage"
-            ],
-            "limit": 0,
-            "extraits": [
-                {
-                    "titre": "Comment Buster Keaton est devenu une légende du cinéma ?",
-                    "extrait": "Joseph Keaton avait été âgé d'un an et demi, dans la légende il a plutôt six mois, et il fait une chute absolument spectaculaire dans un escalier. Il dévale tout l'escalier, la tête de la première, et il arrive en bas, indemne. Il ne pleure pas, il n'a rien, et l'homme qui le réceptionne au bas des marches, c'est Areodini, qui s'exclame « What a buster ! » Et ce terme, ça signifie « chute spectaculaire » dans le langage du spectacle. Il sera désormais Buster Keaton.",
-                    "score": 95,
-                    "start": 70.158,
-                    "end": 103.46
-                },
-                {
-                    "titre": "La tragédie derrière le comique : qui était vraiment Buster Keaton ?",
-                    "extrait": "Buster Keaton est sur scène à trois ans, il fait du musical, il fait de la scène avec ses parents, des parents qui sont assez durs, surtout le père, extrêmement violent, qui le prennent sur scène, qui le jettent sur les spectateurs. Donc c'est un type qui a appris très vite avec son corps à être sur scène, il a appris les arts du cirque, il a appris les arts du musical. Vous estimez, Olivier Mongin, que Keaton a eu une formation diabolique, dites-vous, le terme est tout de même très fort.",
-                    "score": 90,
-                    "start": 301.673,
-                    "end": 327.973
-                },
-                {
-                    "titre": "La force de la résilience : comment Keaton a transformé la violence en art ?",
-                    "extrait": "Tout le comique de Keaton ne peut pas se comprendre si on ne voit pas que ce visage, qui ne bouge pas, et un visage qui craint déjà le danger qu'il menace. Et tous ces grands films vont être des films qui commencent toujours par une catastrophe. Parce que le numéro qu'il faisait avec ses parents, et qui est devenu un numéro rodé pour lui vers l'âge de 5 ans, c'était effectivement un numéro extrêmement brutal puisqu'il tenait le rôle d'une chose, d'un accessoire et que son père le lançait dans toutes les directions, d'un bout de la scène à l'autre, dans le décor.",
-                    "score": 92,
-                    "start": 352.871,
-                    "end": 398.128
-                },
-                {
-                    "titre": "Buster Keaton : l'homme qui ne rit jamais mais fait rire le monde entier",
-                    "extrait": "J'ai appris très tôt que j'étais le genre de comédien qui ne pouvait pas rire de ce qu'il faisait et j'ai aussi compris que plus je prenais les choses au sérieux et même la vie en général, meilleurs étaient les rires que j'obtenais.",
-                    "score": 88,
-                    "start": 564.212,
-                    "end": 575.9
-                },
-                {
-                    "titre": "La tragédie de la célébrité : comment Keaton a perdu son identité ?",
-                    "extrait": "Il y a une légende qui se constitue autour de Keaton, puisqu'on va le retrouver dans plusieurs films. D'abord dans un film de Billy Wilder où il joue un vieux comédien, etc. Alors tout le monde l'a enfermé dans ce personnage du vieux comédien un peu malheureux. Et puis il joue aussi dans « Les feux de la rampe » de Chaplin, où par rapport à Chaplin, avec lequel il est en scène, il va jouer aussi le rôle d'un vieux comédien.",
-                    "score": 85,
-                    "start": 2986.164,
-                    "end": 3030.198
-                },
-                {
-                    "titre": "Pourquoi Buster Keaton est-il considéré comme un génie du cinéma ?",
-                    "extrait": "Il arrive à un moment où le cinéma comique est déjà un peu mis en place, il y a déjà un format. Le court-métrage de 20 minutes. On a déjà des vedettes autour desquelles on construit les films qui ont tous des silhouettes particulières. Keaton n'a pas une silhouette particulière. Keaton n'a pas une silhouette, mais il a un costume. Il est l'ouvrier modeste, souvent en salopette. Il est l'homme à tout faire.",
-                    "score": 87,
-                    "start": 843.705,
-                    "end": 871.237
-                },
-                {
-                    "titre": "La dernière scène de Buster Keaton : un acte de désespoir ?",
-                    "extrait": "C'est très difficile de ne pas se dire qu'à ce moment-là, il s'en fichait complètement de se faire écraser par cette façade. Il était tellement abasourdi et désespéré qu'il y a quelque chose de suicidaire dans le tournage de cette scène.",
-                    "score": 90,
-                    "start": 2788.756,
-                    "end": 2806.471
-                }
-            ]
-        },
-        {
             "title": "Les Jouvenel père et fils : passions limites",
             "id": "83fd870f-d3a2-420f-8281-4b4138e4d159",
             "show": "Salle des archives",
@@ -658,73 +590,6 @@
             ]
         },
         {
-            "title": "Paolo Uccello, et après : peindre la bataille",
-            "id": "672734f7-037f-437d-81a2-0f468c38d478",
-            "show": "Allons-y voir !",
-            "show_id": "f56d5212-be5f-4dce-bb92-ced8fe2aebb9",
-            "chapo": "De Paolo Uccello à Guillaume Bresson, et tant d’autres, la peinture d’histoire a souvent donné à voir la bataille, la mécanique des corps qui s’entrechoquent ou bien ce qui se passe, ce qui s’espace entre eux. Mais depuis quel point de vue, et à quoi les regardeurs sont-ils vraiment conviés ? ",
-            "magnetotheque_id": "2025C53469E0012",
-            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/allons-y-voir/paolo-uccello-et-apres-peindre-la-bataille-6352847",
-            "mp3": "https://media.radiofrance-podcast.net/podcast09/13090-30.03.2025-ITEMA_24080080-2025C53469E0012-NET_MFC_3A9BD826-016D-40B4-BBD0-A9D03E69B4B6-21.mp3",
-            "duration": 3582,
-            "date": 1743339580,
-            "settings": [
-                "interview"
-            ],
-            "limit": 0,
-            "extraits": [
-                {
-                    "titre": "Pourquoi peindre la bataille ?",
-                    "extrait": "Mais pourquoi peindre la bataille ? Et depuis quel point de vue ? Celui souverain du général qui décide ou celui tumultueux des hommes qui se battent ? Faut-il donner à voir la mécanique des corps ou bien ce qui se passe, ce qui s'espace entre eux ? Et si l'on se fait peintre d'histoire, est-ce pour y mettre de l'ordre par le sage ordonnancement de la composition picturale ou au contraire pour convier celles et ceux qui regardent au spectacle du désordre des temps ?",
-                    "score": 95,
-                    "start": 67.683,
-                    "end": 96.732
-                },
-                {
-                    "titre": "L'art comme miroir de la violence contemporaine",
-                    "extrait": "C'est-à-dire que nous, dans l'art contemporain, on est habitués à exposer dans des white cubes, des espaces très neutralisés. Et là, d'un coup, j'arrive dans un environnement qui est extrêmement marqué. Et qui est extrêmement problématique pour moi, et du coup, est-ce que j'avais envie d'exposer dans cette salle-là ? Je dois dire que non, au départ, mais au final, je me rends compte que c'était le meilleur endroit pour moi pour montrer ces tableaux-là.",
-                    "score": 90,
-                    "start": 3267.078,
-                    "end": 3289.851
-                },
-                {
-                    "titre": "La peinture d'histoire, un récit de violence ?",
-                    "extrait": "C'est vrai qu'on voit, justement, qu'à partir des années 1630, il y a deux genres de batailles qui émergent en plus de la grande narration d'histoire. C'est la bataille topographique très rationalisée, justement, vraiment les batailles de Louis XIV, celle du paysage souverain, avec les armées complexes de l'âge classique et on voit au contraire une peinture de collectionneurs qui émerge, qui est celle où on voit la touche qui montre des escarmouches indéterminées.",
-                    "score": 88,
-                    "start": 1781.8,
-                    "end": 1827.413
-                },
-                {
-                    "titre": "Un vacarme silencieux : l'art de la bataille",
-                    "extrait": "Un vacarme silencieux, Guillaume Bresson, je pense que ça correspond aussi, finalement, à votre travail pictural. On l'a dit, vos premières compositions, depuis le street art, ça a été à Toulouse, avec des tableaux sans titres. D'hommes sans nom, mais qui, dans la rue, et une rue très architecturée, font des gestes.",
-                    "score": 85,
-                    "start": 830.452,
-                    "end": 856.436
-                },
-                {
-                    "titre": "La violence, un héritage artistique",
-                    "extrait": "Oui, tout à fait. C'est une peinture qui s'oppose aussi à ces grandes fresques du XIXe, dans le sens où elle n'est pas commandée par un pouvoir. Elle est plutôt vue du point de vue de ceux qui subissent la violence, qui sont relégués dans les marges et qui reproduisent la violence qu'ils subissent entre eux, dans des lieux isolés, sombres, en souterrain, qui s'opposent au grand décor orientaliste du XIXe siècle.",
-                    "score": 92,
-                    "start": 1664.283,
-                    "end": 1688.664
-                },
-                {
-                    "titre": "Comment l'art contemporain réinterroge l'histoire ?",
-                    "extrait": "Il y a beaucoup d'artistes contemporains qui, comme ça, vont chercher, je pense notamment sur l'histoire coloniale africaine, qui vont chercher des images dans le passé et qui les réactivent au présent par leur peinture, qui repeignent de la photographie, donc qui remobilisent des images dans le présent.",
-                    "score": 89,
-                    "start": 3306.499,
-                    "end": 3322.803
-                },
-                {
-                    "titre": "La bataille, un spectacle de désordre ?",
-                    "extrait": "Et d'ailleurs, un des points que souligne Alberti, c'est que les personnages doivent agir et non pas s'agiter en désordre. Il utilise le mot tumultuare en latin, donc voilà, ça c'est l'agitation stérile et donc ça prouve bien que même une scène de bataille ne doit absolument pas être un désordre visuel mais au contraire une composition extrêmement structurée pour raconter une histoire ordonnée selon un sens moral qu'elle porte.",
-                    "score": 91,
-                    "start": 434.429,
-                    "end": 459.072
-                }
-            ]
-        },
-        {
             "title": "Troubadouresses et ménestrelles, musiciennes au Moyen Âge",
             "id": "7b9434f2-7436-43d3-b1ac-62e4aaa88582",
             "show": "Le Cours de l'histoire",
@@ -788,46 +653,6 @@
                     "score": 87,
                     "start": 2955.333,
                     "end": 2976.649
-                }
-            ]
-        },
-        {
-            "title": "Le « ragazzo » de Naples",
-            "id": "c0dbeec0-d271-4cc3-8d4b-d55d453daf8f",
-            "show": "À voix nue",
-            "show_id": "b4534f1d-40f8-11e5-9fe0-005056a87c89",
-            "chapo": "Pour Roberto Saviano, tout commence dans les rues de Naples où il naît, le 22 septembre 1979. Une ville où le sang coule sur les pavés et où la mort est partout, même sous les yeux d’un enfant qui bientôt rêve d’écrire pour dire ce qu’il voit.",
-            "magnetotheque_id": "2025C3500E0046",
-            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/a-voix-nue/le-ragazzo-de-naples-3896937",
-            "mp3": "https://media.radiofrance-podcast.net/podcast09/10351-30.03.2025-ITEMA_24080065-2025C3500E0046-NET_MFC_A7206C02-3C0F-4F46-9020-DC06EB4B612D-21.mp3",
-            "duration": 1733,
-            "date": 1743443931,
-            "settings": [
-                "interview",
-                "temoignage"
-            ],
-            "limit": 0,
-            "extraits": [
-                {
-                    "titre": "« La peur, c'est la mort »",
-                    "extrait": "« Tu as vu, c'est la peur qui l'a tuée. C'est une leçon que j'ai gardée en moi toute ma vie. Toute ma vie, j'ai cru que... Avoir peur, ça veut dire se mettre dans une situation de risque. Et malheureusement, je crains devoir démentir. Mon père, j'aurais dû avoir beaucoup plus peur pour... pour sauver ma vie. »",
-                    "score": 95,
-                    "start": 459.465,
-                    "end": 497.127
-                },
-                {
-                    "titre": "Comment un prêtre a changé ma vie ?",
-                    "extrait": "« Cette chose a changé ma vie pour toujours. Parce que Don Pepe Diana était un jeune homme, il avait 30 ans. C'était un prêtre plein d'énergie. Sympathique. Il fumait le cigare. Il portait des jeans. Et il commençait à prêcher contre les familles mafieuses. Il a été tué. On lui a tiré en plein visage. »",
-                    "score": 90,
-                    "start": 539.44,
-                    "end": 566.211
-                },
-                {
-                    "titre": "« Je ne savais pas que ma vie était une matière à écrire »",
-                    "extrait": "« J'ai compris en réalité... que je devais transformer cette expérience de la vie en littérature. »",
-                    "score": 85,
-                    "start": 1487.182,
-                    "end": 1500.389
                 }
             ]
         },
@@ -1403,73 +1228,6 @@
             ]
         },
         {
-            "title": "Qui sauvera l'industrie chimique en France ? ",
-            "id": "acbc83d5-62e0-43af-9fd3-26c905f769a2",
-            "show": "Le Grand Reportage",
-            "show_id": "b06537aa-40f1-11e5-9fe0-005056a87c89",
-            "chapo": "Alors que le gouvernement a refusé de nationaliser l'usine Vencorex en Isère, la fermeture de la plupart des ateliers et la suppression de plus de 400 emplois sont une déflagration dans la région sud grenobloise pour les entreprises de l'industrie chimique, toutes interdépendantes.\n",
-            "magnetotheque_id": "2025C9549E0003",
-            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/le-grand-reportage/qui-sauvera-l-industrie-chimique-en-france-4267682",
-            "mp3": "https://media.radiofrance-podcast.net/podcast09/10084-28.03.2025-ITEMA_24076268-2025C9549E0003-NET_MFC_8A854A4D-DD5B-43A1-84D2-49AA2371E484-21.mp3",
-            "duration": 3543,
-            "date": 1743181111,
-            "settings": [
-                "actu"
-            ],
-            "limit": 0,
-            "extraits": [
-                {
-                    "titre": "« J'ai mal à mon usine » : le cri du cœur d'un salarié de Vancorex",
-                    "extrait": "« J'ai mal à mon usine en fait. On n'arrive pas à se résigner, à laisser partir toutes ses compétences et tous ses savoir-faire. Si on n'a plus de chimie en France, on va tout importer. »",
-                    "score": 95,
-                    "start": 31.416,
-                    "end": 41.121
-                },
-                {
-                    "titre": "Pourquoi la fermeture de Vancorex pourrait-elle menacer la souveraineté industrielle française ?",
-                    "extrait": "« La liquidation de Vancorex pourrait avoir des conséquences dans des secteurs stratégiques comme le nucléaire ou la défense nationale. »",
-                    "score": 90,
-                    "start": 147.176,
-                    "end": 154.682
-                },
-                {
-                    "titre": "« C'est catastrophique » : la vallée de la chimie en crise",
-                    "extrait": "« On voit bien que là, notamment dans la vallée de la chimie à Lyon, c'est catastrophique. Ce n'est pas du tout réjouissant, c'est du gâchis. »",
-                    "score": 85,
-                    "start": 16.318,
-                    "end": 22.506
-                },
-                {
-                    "titre": "Comment la fermeture de Vancorex impacte-t-elle l'économie locale ?",
-                    "extrait": "« La métropole de Grenoble estime à 6 000 le nombre d'emplois indirects supprimés. »",
-                    "score": 88,
-                    "start": 936.068,
-                    "end": 941.593
-                },
-                {
-                    "titre": "« On a fait beaucoup les montagnes russes » : le témoignage d'une technicienne chimiste",
-                    "extrait": "« On a fait beaucoup les montagnes russes, en fait, en septembre, quand on a su le redressement, on se prend une première claque. »",
-                    "score": 87,
-                    "start": 829.361,
-                    "end": 834.463
-                },
-                {
-                    "titre": "« C'est un sujet de souveraineté à très court terme » : l'alerte d'un élu local",
-                    "extrait": "« Donc fermer Vancorex, fermer une partie de Jarry, ce n'est pas une vision qui est en phase avec les propos du président de la République sur l'économie de guerre. »",
-                    "score": 92,
-                    "start": 45.162,
-                    "end": 51.885
-                },
-                {
-                    "titre": "« On n'a pas envie de voir ça partir » : l'appel à la résistance des salariés",
-                    "extrait": "« On n'arrive pas à se résigner, à laisser partir toutes ses compétences et tous ses savoir-faire. »",
-                    "score": 93,
-                    "start": 32.738,
-                    "end": 37.86
-                }
-            ]
-        },
-        {
             "title": "Bachaga Boualam : itinéraire et engagements d'un dignitaire harki",
             "id": "0bd3e144-7b14-4a5a-92d6-a7fa25624d84",
             "show": "Les Nuits de France Culture",
@@ -1527,42 +1285,6 @@
                     "score": 90,
                     "start": 2600.335,
                     "end": 2614.119
-                }
-            ]
-        },
-        {
-            "title": "Pollens, aliments, acariens : demain serons nous tous allergiques ?",
-            "id": "3c3acc16-702e-4586-ba9c-acd130d881d2",
-            "show": "Carnets de santé",
-            "show_id": "7ffb451e-81bf-4793-9062-294a734f5d58",
-            "chapo": "Aujourd'hui, un Français sur quatre souffre d'allergies, possiblement un sur deux en 2050. Pourquoi est-on allergique ? Pourquoi a-t-on de plus en plus de personnes allergiques ? Quels traitements existent-ils ? Comment prévenir les allergies ? ",
-            "magnetotheque_id": "2025C53457E0004",
-            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/carnets-de-sante/pollens-aliments-acariens-demain-serons-nous-tous-allergiques-3585433",
-            "mp3": "https://media.radiofrance-podcast.net/podcast09/25394-29.03.2025-ITEMA_24078324-2025C53457E0004-NET_MFC_19FDA5EF-C749-4CB7-9891-0AC6F0E09029-21.mp3",
-            "duration": 1831,
-            "date": 1743247828,
-            "settings": [
-                "savoirs"
-            ],
-            "limit": 0,
-            "extraits": [
-                {
-                    "titre": "Pourquoi les allergies explosent-elles ?",
-                    "extrait": "Elles étaient 3% en 1980, elles sont 25% aujourd'hui et pourraient être 50% en 2050. Cette croissance exponentielle concerne les personnes allergiques dont beaucoup vont arriver le printemps avec inquiétude. Alors on dit que le printemps arrive, moi je vous dis que les pollens eux sont déjà là et je vous parle personnellement puisque je pleure comme une madeleine depuis plus de 8 jours. Donc les pollens eux sont là. Ce phénomène qui peut survenir à tout âge est dû à un dérèglement de notre système immunitaire qui surréagit à des éléments de notre environnement, des allergènes que l'on retrouve dans l'air. Ce sont les pollens, les poils de chat, les acariens, dans la nourriture, dans des médicaments, mais également dans certains venins comme ceux des guêpes ou encore dans des objets type latex ou boutons en nickel.",
-                    "start": 6.533,
-                    "end": 48.434
-                },
-                {
-                    "titre": "L'allergie, un mal invisible aux conséquences monumentales",
-                    "extrait": "Et puis, il y a des conséquences sociales auxquelles on ne pense pas tant qu'on n'est pas concerné. Écoutez, Mia, qui témoigne dans le téléphone sonne sur France Inter. Je suis moi-même allergique alimentaire sévère à la cacahuète. Et j'ai une de mes filles qui est allergique sévère, avec plusieurs aliments, au lait, aux oeufs, aux noix, pour les plus importants, et d'autres qui peuvent l'être un peu moins. Mais c'était en fait pour témoigner qu'effectivement, c'était quand même, en quelque sorte, un handicap social, en tout cas dans l'expérience que je peux avoir.",
-                    "start": 306.838,
-                    "end": 333.768
-                },
-                {
-                    "titre": "Comment le changement climatique aggrave les allergies ?",
-                    "extrait": "En fait, on a assez de données pour dire que le réchauffement climatique aggrave le risque d'allergie par le biais de l'augmentation des allergènes. On a des plantes invasives, de plus en plus allergisantes. Par exemple, prenez le cas de l'ambroisie, qui venait du Rhône. Et bien maintenant, on la retrouve en Bretagne, et puis même en Belgique. Et donc, il y a vraiment une augmentation de ces plantes-là. On a les graminées aussi qui produisent davantage de pollen à cause du CO2 qui augmente dans l'atmosphère, les températures plus douces, on a un allongement des saisons et puis des pics beaucoup plus forts.",
-                    "start": 714.213,
-                    "end": 744.434
                 }
             ]
         },
@@ -1690,74 +1412,6 @@
                     "score": 94,
                     "start": 1250.507,
                     "end": 1261.413
-                }
-            ]
-        },
-        {
-            "title": "Kat Onoma : rock et poésie",
-            "id": "e57527db-9167-404e-a509-fb8405e0b994",
-            "show": "Les Nuits de France Culture",
-            "show_id": "4ff3693f-6e66-11e5-8e9e-005056a87c89",
-            "chapo": "",
-            "magnetotheque_id": "2024C3372E0382",
-            "seo_url": "",
-            "mp3": "https://media.radiofrance-podcast.net/podcast09/13915-31.03.2025-ITEMA_24081243-2024C3372E0382-NET_MFC_67677B78-2251-4910-A0C9-5266AD07417F-21.mp3",
-            "duration": 3729,
-            "date": 1743377153,
-            "settings": [
-                "interview",
-                "temoignage"
-            ],
-            "limit": 0,
-            "extraits": [
-                {
-                    "titre": "« La poésie n'a absolument pas besoin de musique »",
-                    "extrait": "« Je trouve que la poésie, ça suffit, ça n'a absolument pas besoin de musique. Donc c'est un peu paradoxal, en fait, qu'on soit retrouvé à travailler pour les textes avec des poètes. »",
-                    "score": 95,
-                    "start": 378.581,
-                    "end": 388.214
-                },
-                {
-                    "titre": "Comment Kat Onoma a redéfini le rock français ?",
-                    "extrait": "« Ce qui est certain, c'est qu'on n'a pas envie d'être... de se couler dans un modèle de relation texte-musique qui serait ou le modèle anglo-saxon, même si on chante souvent en anglais, je ne pense pas qu'on soit dans la même relation au texte que la plupart des groupes anglais ou américains. »",
-                    "score": 90,
-                    "start": 439.926,
-                    "end": 457.335
-                },
-                {
-                    "titre": "« La chanson est souvent gagnée par la mauvaise poésie »",
-                    "extrait": "« La chanson est souvent gagnée par la mauvaise poésie. C'est souvent la poésie primitive. Et d'ailleurs, ça marche aussi comme ça. Parce qu'à la fois, ça donne de très bons résultats. »",
-                    "score": 85,
-                    "start": 1948.841,
-                    "end": 1959.547
-                },
-                {
-                    "titre": "Pourquoi la musique est-elle un acte de transformation ?",
-                    "extrait": "« C'est un peu comme quelqu'un qui viendrait de lire, qui aurait à peine lu Billy the Kid, juste en le refermant, aurait des souvenirs du texte qui ne seraient pas du tout exacts, qui ne seraient pas dans l'ordre, et qui seraient comme un commentaire qui se ferait à lui-même sur le texte. »",
-                    "score": 88,
-                    "start": 2711.147,
-                    "end": 2759.377
-                },
-                {
-                    "titre": "« Je ne sais pas ce que c'est qu'une chanson vraiment »",
-                    "extrait": "« Je ne sais pas ce que c'est qu'une chanson vraiment, quelles sont les règles, il y en a ? »",
-                    "score": 80,
-                    "start": 1158.017,
-                    "end": 1161.667
-                },
-                {
-                    "titre": "Comment le sampling a révolutionné la musique ?",
-                    "extrait": "« On peut mélanger des technologies hyper récentes avec des choses très anciennes. Je crois des résultats musicaux tout à fait intéressants. »",
-                    "score": 92,
-                    "start": 3161.489,
-                    "end": 3181.581
-                },
-                {
-                    "titre": "« La radio m'a appris la mort de Billy the Kid »",
-                    "extrait": "« La radio m'a dit de mourir. »",
-                    "score": 97,
-                    "start": 2793.999,
-                    "end": 2796.501
                 }
             ]
         },
@@ -5732,59 +5386,6 @@
             ]
         },
         {
-            "title": "\"Ni avec gourdin\" de Emily Dickinson, quand l'amour brise l'être en deux",
-            "id": "ae52baff-8757-4203-9353-997cf2744b5c",
-            "show": "L'Instant poésie",
-            "show_id": "f69ae1d2-f2b6-44a9-b803-7d809a03be95",
-            "chapo": "Dans ce poème d'Emily Dickinson, on perçoit la trace d'une blessure première, l'expression d'un désir inassouvi : une douleur intense mais sur laquelle on ne souhaite pas s'appesantir. ",
-            "magnetotheque_id": "2025C53416E0021",
-            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/l-instant-poesie/ni-avec-gourdin-de-emily-dickinson-quand-l-amour-brise-l-etre-en-deux-5745448",
-            "mp3": "https://media.radiofrance-podcast.net/podcast09/13025-27.03.2025-ITEMA_24065097-2025C53416E0021-ITE_00149092_RSCE-21.mp3",
-            "duration": 393,
-            "date": 1743449789,
-            "settings": [
-                "interview"
-            ],
-            "limit": 0,
-            "extraits": [
-                {
-                    "titre": "« L'artiste, c'est celui qui dit que ça ne va pas »",
-                    "extrait": "« Je suis très heureux de vous inviter à entendre une sélection de 20 poèmes qui parlent évidemment de notre mystère et notre rapport à nous-mêmes et à la douleur. C'est sûr que pour moi, ce qui ne me bouleverse pas ne m'intéresse pas. J'ai cru, enfant, moi, quand j'étais à l'école et qu'on me faisait lire de la poésie, on me parlait de ce que c'était qu'un artiste. J'ai cru qu'un artiste, ça servait à ça. Ce n'était pas pour dire que tout va bien, c'est pour dire que ça ne va pas bien du tout. C'est chiant, un artiste, c'est quelqu'un qui passe son temps à dire que ça ne va pas. À quoi ça sert d'aller voir une œuvre d'art si c'est pour continuer comme avant ? Donc, c'est sûr que le rapport à la douleur, il est central.\"",
-                    "score": 95,
-                    "start": 2.4,
-                    "end": 50.195
-                },
-                {
-                    "titre": "La douleur, un art de l'ellipse",
-                    "extrait": "« Chez Emily Dickinson, il y a vraiment l'art de l'ellipse. C'est-à-dire les choses sont jetées comme ça, enfin jetées, elles sont dites comme ça, avec des trous. Mais ces trous, on pourrait presque les prendre, en tout cas moi c'est comme ça que je les prends, à force de lire à droite et à gauche la poésie d'Emily Dickinson, on pourrait presque les prendre comme une forme de mépris envers la douleur. Un peu comme lorsqu'on a très très mal à la dent, on a une rage dedans et on décide qu'on va regarder la douleur de haut, on ne va pas être la victime. On ne va pas se soumettre à cette douleur, même si ça fait très très très mal. On dit, tu ne mourras pas. Alors on fait des trous, on pense à autre chose.\"",
-                    "score": 90,
-                    "start": 199.72,
-                    "end": 234.951
-                },
-                {
-                    "titre": "« La honte n'a pas à se tapir »",
-                    "extrait": "« La honte n'a pas à se tapir sur une terre comme la nôtre. Honte, dresse-toi, l'univers t'appartient. »",
-                    "score": 98,
-                    "start": 149.001,
-                    "end": 161.964
-                },
-                {
-                    "titre": "« Un fouet, mince, au point d'être invisible »",
-                    "extrait": "« Ni avec un gourdin, on ne brise le cœur, ni avec une pierre. Un fouet, mince, au point d'être invisible. J'ai pu le voir, cingler la magique créature jusqu'à ce qu'elle tombe. Le nom de ce fouet, trop noble pourtant, pour qu'on le révèle alors. »",
-                    "score": 92,
-                    "start": 120.47,
-                    "end": 139.944
-                },
-                {
-                    "titre": "« L'addition de ces choses simples crée une profondeur »",
-                    "extrait": "« Alors ça paraît comme une petite chose simple, comme ça, mais l'addition, quand on rentre dans la poésie d'Emilie Dickinson, l'addition de ces choses simples finissent par créer, un peu comme à l'aquarelle, telle profondeur qu'on finit par s'y voir soi-même. »",
-                    "score": 89,
-                    "start": 258.035,
-                    "end": 274.451
-                }
-            ]
-        },
-        {
             "title": "Il y en a qui se battront jusqu’au bout",
             "id": "a229baa9-a534-435a-aff0-e58762b3fb8b",
             "show": "Lectures du soir",
@@ -6019,142 +5620,6 @@
                     "score": 91,
                     "start": 2438.478,
                     "end": 2447.462
-                }
-            ]
-        },
-        {
-            "title": "Quand le passé refait surface",
-            "id": "21c897fd-67ab-4616-a7fe-3b1970d14a6e",
-            "show": "Une histoire particulière",
-            "show_id": "0ad98f5d-a973-418f-93f8-ee974c963957",
-            "chapo": "Lorsque le niveau du lac baisse, Serre-Ponçon révèle d’étonnants vestiges, ceux de villages rayés de la carte pour la construction du barrage, à la fin des années 1950. Une histoire douloureuse qui a transformé tout un territoire.",
-            "magnetotheque_id": "2025C26160E0021",
-            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/une-histoire-particuliere/quand-le-passe-refait-surface-6726830",
-            "mp3": "https://media.radiofrance-podcast.net/podcast09/22898-29.03.2025-ITEMA_24078520-2025C26160E0021-ITE_00148975_RSCE-21.mp3",
-            "duration": 1726,
-            "date": 1743253123,
-            "settings": [
-                "temoignage"
-            ],
-            "limit": 0,
-            "extraits": [
-                {
-                    "titre": "« J'ai tout perdu, matériellement et sentimentalement »",
-                    "extrait": "« On a sacrifié, effectivement, quelques centaines d'habitants sur l'hôtel du Progrès, parce que c'est un drame, tout de même. Les gens, du jour au lendemain, ont tout perdu, je veux dire, matériellement. Ils ont perdu tous leurs souvenirs. Et mon grand-père, dont je parlais tout à l'heure, qui avait 80 ans, lui n'a pas résisté. Quand il s'est retrouvé à Gap, dans une maison où il n'avait rien à faire, il est mort quelques mois après. Parce qu'il a refusé de vivre, tout simplement, en disant « Mais qu'est-ce que je fais ici ? Moi, j'ai rien à faire, je m'ennuie, c'est pas mon pays, c'est pas mon village, je connais personne, qu'est-ce que je fais là ? » Et donc il s'est laissé mourir, mais il n'a pas été le seul à refuser ce départ. Voilà. C'est un drame humain qui est terrible, c'est évident. Mais les gens l'ont accepté.",
-                    "start": 1236.889,
-                    "end": 1295.86
-                },
-                {
-                    "titre": "Comment un village a disparu sous les eaux ?",
-                    "extrait": "« Au départ, la construction du barrage obéissait à trois impératifs. C'était d'abord canaliser, domestiquer l'adurance et l'ubaï, qui étaient considérés comme de véritables torrents qui dévalisaient eux lors des crues. La deuxième raison, puisqu'il y avait ici beaucoup d'eau et qu'il n'y en avait pas en Provence, eh bien cette eau, il fallait l'amener en Provence. Donc ça, c'était la deuxième raison. Et la troisième, évidemment, la principale, c'était la production d'électricité. »",
-                    "start": 811.197,
-                    "end": 840.787
-                },
-                {
-                    "titre": "« C'était une véritable caverne d'Ali Baba »",
-                    "extrait": "« Nous sommes ici sur le trottoir du magasin et de l'atelier de mes grands-parents puisque mon grand-père était le bourglier et cellier de toute la vallée et il vendait tout l'harnachement nécessaire pour les chevaux de trait, les chevaux de sel aussi je me souviens l'avoir vu travailler fabriquant des sels de chevaux, des colliers. Et ma grand-mère tenait le magasin à côté. C'était une véritable caverne d'Ali Baba. Il y avait de tout, tout ce qui était nécessaire pour le cheval. Et également les voitures hippomobiles. »",
-                    "start": 313.335,
-                    "end": 353.085
-                }
-            ]
-        },
-        {
-            "title": "Les grandes conférences - Charlotte Brontë ou la passion faite femme (1ère diffusion : 04/11/1966)",
-            "id": "586c78ac-2422-4a31-920f-fbed71925c26",
-            "show": "Les Nuits de France Culture",
-            "show_id": "4ff3693f-6e66-11e5-8e9e-005056a87c89",
-            "chapo": "",
-            "magnetotheque_id": "2021C3372E0404",
-            "seo_url": "",
-            "mp3": "https://media.radiofrance-podcast.net/podcast09/13915-31.03.2025-ITEMA_24081243-2021C3372E0404-NET_MFC_21672C8E-B897-4007-9A8C-6E3D46EA6322-21.mp3",
-            "duration": 2102,
-            "date": 1743379253,
-            "settings": [
-                "interview",
-                "temoignage"
-            ],
-            "limit": 0,
-            "extraits": [
-                {
-                    "titre": "Comment Charlotte Brontë a défié les conventions de son époque ?",
-                    "extrait": "« Infortunée Charlotte ! » Comme on s'est trompé à son sujet ! On l'a accusé de répandre des idées subversives parmi les autres femmes, alors que son vœu le plus cher était non pas du tout de revendiquer entre l'homme et la femme une égalité dans l'identité, illusion de théoricienne, mais une égalité dans la différence, rêve de justice parfaitement réalisable.",
-                    "score": 95,
-                    "start": 1662.85,
-                    "end": 1697.011
-                },
-                {
-                    "titre": "La tragédie silencieuse de Charlotte Brontë",
-                    "extrait": "Cette existence, apparemment sans drame, a été un drame ininterrompu. Une tragédie, jalonnée de deuil. La vie de Charlotte a été un chemin de croix, littéralement et symboliquement, la croix de la tuberculose et les croix du cimetière.",
-                    "score": 90,
-                    "start": 278.23,
-                    "end": 301.366
-                },
-                {
-                    "titre": "Pourquoi Charlotte Brontë a-t-elle écrit 'Jane Eyre' ?",
-                    "extrait": "C'est au plus fort de sa dépression qu'elle a l'idée de prendre le contre-pied de ce qu'elle vient de composer, et de laisser tout simplement son cœur s'épancher sur le papier. En un mois, elle écrit la plus grande partie d'un récit qu'elle intitule du nom de son héroïne Jane Eyre, et qu'elle achèvera en quelques semaines.",
-                    "score": 92,
-                    "start": 1465.281,
-                    "end": 1491.316
-                },
-                {
-                    "titre": "La passion tragique de Charlotte Brontë : un amour inachevé",
-                    "extrait": "Elle avait 38 ans. Or, ce mariage, contre toute attente, lui permit d'atteindre la plénitude tant désirée. M. Nichols eut le bon goût de lui laisser une autonomie à peu près complète pour la continuation de sa carrière d'écrivain. Entre la rédaction de Emma, son nouveau roman, les routines du foyer et l'approche d'une maternité, elle était satisfaite. Mais tout cela était trop beau.",
-                    "score": 88,
-                    "start": 1743.603,
-                    "end": 1783.037
-                }
-            ]
-        },
-        {
-            "title": "Pourquoi les humains exigent-ils du respect ?",
-            "id": "708d5e7e-ee2c-47f4-a9bd-90ffc5b83f51",
-            "show": "Le Pourquoi du comment : philo  ",
-            "show_id": "b6bd068b-da10-4d88-8d15-f0e1c87ed34b",
-            "chapo": "Pratiquer le baisemain. Ôter son chapeau. \"Après vous.\" Autant de faits de politesse qui, au-delà des conventions, traduisent une exigence de respect. Pour le philosophe Alain, ces cérémonies sont essentielles à la vie en société. Mais qu’est-ce que le respect et pourquoi le manifestons-nous ?",
-            "magnetotheque_id": "2025C45539E0049",
-            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/le-pourquoi-du-comment-philo/pourquoi-les-humains-exigent-ils-du-respect-8736278",
-            "mp3": "https://media.radiofrance-podcast.net/podcast09/22788-31.03.2025-ITEMA_24081858-2025C45539E0049-NET_MFC_6E816BE2-5A98-4987-94B9-5673BC280B63-21.mp3",
-            "duration": 187,
-            "date": 1743411485,
-            "settings": [
-                "savoirs"
-            ],
-            "limit": 0,
-            "extraits": [
-                {
-                    "titre": "Pourquoi le respect est-il essentiel dans nos vies ?",
-                    "extrait": "« Le respect, c'est la considération pour quelque chose que nous jugeons supérieur à nous au point de le manifester par un comportement qui peut être au détriment de notre propre intérêt. »",
-                    "score": 95,
-                    "start": 93.756,
-                    "end": 104.527
-                },
-                {
-                    "titre": "Le respect, une valeur qui nous dépasse",
-                    "extrait": "« C'est donc la reconnaissance d'une valeur, cela peut être une valeur abstraite, respecter un principe, cela peut être un principe social, respecter une autorité, un pouvoir qui s'impose à nous. »",
-                    "score": 90,
-                    "start": 104.847,
-                    "end": 115.492
-                },
-                {
-                    "titre": "Comment le respect façonne nos interactions ?",
-                    "extrait": "« Le respect, c'est de traiter l'autre comme une fin et pas comme un moyen. »",
-                    "score": 92,
-                    "start": 154.446,
-                    "end": 158.887
-                },
-                {
-                    "titre": "Le paradoxe du respect entre humains",
-                    "extrait": "« Après toi, après vous, je n'en ferai rien. »",
-                    "score": 88,
-                    "start": 143.503,
-                    "end": 146.224
-                },
-                {
-                    "titre": "Le respect, une manifestation de notre humanité",
-                    "extrait": "« C'est vous que je respecte, vous et non pas un grand principe supérieur, vous et non pas une autorité sociale. »",
-                    "score": 93,
-                    "start": 172.507,
-                    "end": 179.62
                 }
             ]
         },
@@ -6656,39 +6121,6 @@
             ]
         },
         {
-            "title": "Tribune de Paris - Y a-t-il une crise du couple moderne ? 5/7 - La conception nouvelle de la fidélité (1ère diffusion : 24/03/1953 Chaîne Nationale)",
-            "id": "1332778f-6ec4-4aa3-abaa-362b4701195a",
-            "show": "Les Nuits de France Culture",
-            "show_id": "4ff3693f-6e66-11e5-8e9e-005056a87c89",
-            "chapo": "",
-            "magnetotheque_id": "2024C3372E0716",
-            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/les-nuits-de-france-culture/tribune-de-paris-y-a-t-il-une-crise-du-couple-moderne-5-7-la-conception-nouvelle-de-la-fidelite-1ere-diffusion-24-03-1953-chaine-nationale-5519866",
-            "mp3": "https://media.radiofrance-podcast.net/podcast09/13915-31.03.2025-ITEMA_24081243-2024C3372E0716-NET_MFC_9C6C4640-220E-4C87-B421-15738CA0C387-21.mp3",
-            "duration": 1307,
-            "date": 1743373426,
-            "settings": [
-                "interview",
-                "temoignage"
-            ],
-            "limit": 0,
-            "extraits": [
-                {
-                    "titre": "« La fidélité, un rêve inachevé ? »",
-                    "extrait": "« Bien sûr, les temps sont changés, dit-elle, et nous n'en sommes plus à l'époque où l'adultère était un crime. Mais croyez-vous que chez une femme qui va jusqu'à prendre son parti d'être trompée, il n'y a pas, comme autrefois, le regret de n'avoir pas réussi un amour et une union totale ? »",
-                    "score": 90,
-                    "start": 509.085,
-                    "end": 522.609
-                },
-                {
-                    "titre": "« L'infidélité, un poison pour l'amour ? »",
-                    "extrait": "« Je crois qu'à l'instant où il y a eu une infidélité, il y a tout de même un espèce de poison qui est introduit, quelque chose de destructeur qui est introduit dans le sentiment qu'on a pour l'être à côté duquel on vit. »",
-                    "score": 95,
-                    "start": 921.705,
-                    "end": 935.215
-                }
-            ]
-        },
-        {
             "title": "Marie Tharp et la tectonique des plaques : une recherche sans faille",
             "id": "47860839-a593-4ce1-b4f7-a79f8ab5d063",
             "show": "La Science, CQFD",
@@ -7078,45 +6510,6 @@
                     "score": 92,
                     "start": 109.427,
                     "end": 118.331
-                }
-            ]
-        },
-        {
-            "title": "De l’eau vive aux eaux troubles",
-            "id": "9b4fe4e4-7206-45c0-8e45-4e02c3d78f73",
-            "show": "Une histoire particulière",
-            "show_id": "0ad98f5d-a973-418f-93f8-ee974c963957",
-            "chapo": "Né des eaux tumultueuses de la Durance et de l’Ubaye, le lac de Serre-Ponçon est un réservoir aux multiples usages, orchestrés par EDF. Une ressource sous tension, qui doit aussi composer avec le dérèglement climatique. \n\n",
-            "magnetotheque_id": "2025C26160E0022",
-            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/une-histoire-particuliere/de-l-eau-vive-aux-eaux-troubles-2399361",
-            "mp3": "https://media.radiofrance-podcast.net/podcast09/23117-30.03.2025-ITEMA_24080084-2025C26160E0022-ITE_00148982_RSCE-21.mp3",
-            "duration": 1727,
-            "date": 1743335922,
-            "settings": [
-                "temoignage"
-            ],
-            "limit": 0,
-            "extraits": [
-                {
-                    "titre": "Comment un lac artificiel a transformé une région ?",
-                    "extrait": "« Cela n'était pas prévu, pas même imaginé, à l'époque de la construction, que ce lac, à 800 mètres d'altitude, deviendrait une destination de loisirs. Qu'un nouveau paysage se dessinerait. Des eaux turquoises, surplombées de hauts sommets, mais aussi inondées de soleil, des berges à l'atmosphère méditerranéenne, naturelle, sauvage. Un paysage insolite, comme une mer à la montagne, attirant des milliers de touristes chaque année. »",
-                    "score": 85,
-                    "start": 328.491,
-                    "end": 355.733
-                },
-                {
-                    "titre": "« C'est une sorte de cuvette stérile » : la réalité écologique du lac de Serre-Ponçon",
-                    "extrait": "« C'est très beau visuellement, c'est très beau du point de vue du paysage quand il est plein, mais du point de vue purement écologique, biodiversité, c'est rien, c'est rien. »",
-                    "score": 90,
-                    "start": 436.588,
-                    "end": 444.712
-                },
-                {
-                    "titre": "La guerre de l'eau : un conflit entre tourisme et agriculture",
-                    "extrait": "« On a vu arriver les prémices d'une guerre de l'eau, avec des courriers, des invectifs qui commençaient à se réparer. Et on a dit, si cette guerre se produit, c'est la fracture du territoire. »",
-                    "score": 88,
-                    "start": 1070.128,
-                    "end": 1082.198
                 }
             ]
         },
