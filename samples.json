@@ -1,6 +1,6 @@
 {
-    "date": "Mis à jour le 03/04/2025 à 11:38",
-    "unix": 1743673134,
+    "date": "Mis à jour le 03/04/2025 à 11:53",
+    "unix": 1743674023,
     "shows": [
         {
             "title": "Pourquoi doit-on respecter des obligations ?",
@@ -1428,6 +1428,73 @@
                     "score": 91,
                     "start": 1136.956,
                     "end": 1163.79
+                }
+            ]
+        },
+        {
+            "title": "L'extraordinaire histoire d'une lettre retrouvée à Auschwitz",
+            "id": "e24fd41c-2f95-4db9-9fa5-c3bdf5636a6e",
+            "show": "Avec philosophie",
+            "show_id": "744d0dc6-dacc-4d71-a22c-af97eec7a56e",
+            "chapo": "L'histoire d'une lettre retrouvée en 1945 dans les ruines d'un crématoire d'Auschwitz et qui fut mal attribuée pendant 75 ans.",
+            "magnetotheque_id": "2025C48904S0093",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/avec-philosophie/l-extraordinaire-histoire-d-une-lettre-retrouvee-a-auschwitz-1943743",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/10467-03.04.2025-ITEMA_24088883-2025C48904S0093-NET_MFC_A67655A2-DFE6-4FFF-99D8-86933D702DFA-21.mp3",
+            "duration": 3532,
+            "date": 1743670725,
+            "settings": [
+                "savoirs"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "Comment une lettre a révélé l'horreur d'Auschwitz ?",
+                    "extrait": "« Bien sûr, c'est aussi la lettre elle-même qui est extraordinaire. Son contenu, ce qu'elle raconte d'Auschwitz-Birkenau, l'amour qui l'irrigue et l'adieu aux êtres aimés. Et puis ce geste, avant d'être assassiné comme tant d'autres, de laisser des mots, des phrases pour les êtres humains d'après. »",
+                    "score": 95,
+                    "start": 99.264,
+                    "end": 117.692
+                },
+                {
+                    "titre": "Pourquoi cette lettre a-t-elle été mal attribuée pendant 75 ans ?",
+                    "extrait": "« C'est seulement il y a peu de temps que grâce au savoir et à la méticulosité d'une archiviste hors pair, Karen Taieb, on a compris que l'auteur de cette lettre était un autre déporté, Herz Strasvogel, dont le prénom d'usage était Hermann. »",
+                    "score": 90,
+                    "start": 56.323,
+                    "end": 72.559
+                },
+                {
+                    "titre": "Quelle est la vérité derrière le Sonderkommando ?",
+                    "extrait": "« Les undercommandos étaient les témoins les plus immédiats du génocide perpétré par les nazis contre les juifs, juifs qui étaient les plus massivement exterminés ainsi, mais les tziganes aussi, étaient visés avec une analogue systématicité. »",
+                    "score": 92,
+                    "start": 159.043,
+                    "end": 173.707
+                },
+                {
+                    "titre": "Comment une lettre a traversé le temps et l'oubli ?",
+                    "extrait": "« La lettre est découverte très tôt, effectivement, puisqu'on est en février 1945, juste après la pseudo-libération du Grand Auschwitz, par un dénommé Andrei Zaworski. »",
+                    "score": 88,
+                    "start": 1998.6,
+                    "end": 2015.993
+                },
+                {
+                    "titre": "Qu'est-ce qui rend cette lettre si unique ?",
+                    "extrait": "« Car oui, Herman, juif polonais arrêté à Paris, où se trouvent sa femme et sa fille, écrit en français. Et il évoque la France. »",
+                    "score": 87,
+                    "start": 228.495,
+                    "end": 236.837
+                },
+                {
+                    "titre": "Pourquoi Hermann a-t-il écrit cette lettre ?",
+                    "extrait": "« Je sais que je n'ai pas laissé grand-chose matériellement pour assurer votre existence. Mais après cette guerre, avec une raisonnable volonté et les dix doigts, chacun pourra vivre largement. »",
+                    "score": 89,
+                    "start": 424.677,
+                    "end": 435.52
+                },
+                {
+                    "titre": "Quel message Hermann a-t-il laissé à sa famille ?",
+                    "extrait": "« Je vous garde. Mille baisers. Votre mari et père, Herman. »",
+                    "score": 94,
+                    "start": 1250.507,
+                    "end": 1261.413
                 }
             ]
         },
