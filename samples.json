@@ -1,6 +1,6 @@
 {
-    "date": "Mis à jour le 03/04/2025 à 15:58",
-    "unix": 1743688734,
+    "date": "Mis à jour le 03/04/2025 à 16:12",
+    "unix": 1743689538,
     "shows": [
         {
             "title": "Pourquoi doit-on respecter des obligations ?",
@@ -1072,6 +1072,59 @@
                     "score": 88,
                     "start": 1253.386,
                     "end": 1262.989
+                }
+            ]
+        },
+        {
+            "title": "Les plumes féministes mexicaines au service de la lutte pour les femmes",
+            "id": "86eb5364-658f-486f-9010-b4cb9d3f30fe",
+            "show": "Lectures sans frontières",
+            "show_id": "7c13d237-e63d-494a-9563-8e24a91dd7dc",
+            "chapo": "Aujourd'hui, cap sur le Mexique, où les mouvements féministes luttent contre les violences faites aux femmes et défendent leurs droits, tant dans la rue que dans les arts. A tel point qu'une véritable littérature s'est développée pour éveiller les consciences et soutenir la cause.",
+            "magnetotheque_id": "2025C52121S0093",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/lectures-sans-frontieres/les-plumes-feministes-mexicaines-au-service-de-la-lutte-pour-les-femmes-3762310",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/24435-03.04.2025-ITEMA_24088903-2025C52121S0093-NET_MFC_61338F18-AFCD-4F36-B81C-932ECA1B5601-21.mp3",
+            "duration": 231,
+            "date": 1743688743,
+            "settings": [
+                "interview"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "« La littérature féministe au Mexique, un cri de rage et de résistance »",
+                    "extrait": "Ces plumes féministes racontent les violences sous toutes leurs formes. Souvent, les thèmes sont graves, surtout dans la littérature contemporaine. Le livre Peraz de Reserva, de Dahlia de la Cerda, est l'une des références. Traduit « Chienne de réserve » ou bien « Femme de rechange » pour le titre, sorti en 2022 sous la forme de « Dix contes », le livre raconte la violence à travers les expériences des différentes protagonistes. L'une d'entre elles veut par exemple venger le féminicide d'une de ses amies en faisant assassiner le coupable. L'occasion pour l'autrice de faire sortir les émotions et la rage qui habitent les victimes au Mexique, et de revendiquer un regard et une écriture de femmes avec une sensibilité en opposition avec des récits d'hommes qui pourraient parfois romantiser la violence ou les agressions.",
+                    "score": 95,
+                    "start": 31.792,
+                    "end": 73.744
+                },
+                {
+                    "titre": "Comment la littérature devient-elle un outil de guérison ?",
+                    "extrait": "Donc au Mexique, on peut trouver des livres féministes qui soignent, autant qu'ils ont vocation à dénoncer ou libérer. C'est aussi une littérature proche de l'activisme, qui se fait l'écho de collectifs militants pour projeter des idées dans le débat public.",
+                    "score": 90,
+                    "start": 116.819,
+                    "end": 130.809
+                },
+                {
+                    "titre": "« La littérature suit les mouvements dans la société »",
+                    "extrait": "La littérature suit les mouvements dans la société et aujourd'hui, alors que les choses semblent enfin bouger au Mexique pour les femmes, ce n'est pas un hasard que l'on retrouve la même énergie dans les livres.",
+                    "score": 85,
+                    "start": 157.414,
+                    "end": 166.68
+                },
+                {
+                    "titre": "Pourquoi les librairies féministes sont-elles des lieux de résistance ?",
+                    "extrait": "En plus d'être un support au mouvement féministe, la littérature c'est aussi un prétexte pour se retrouver, pour se rassembler au Mexique. La Capitale en compte plusieurs spécialisés sur la question féministe. La majorité des livres sont écrits par des femmes, mais pas seulement. Dans ces lieux ouverts, en plus des romans, des poésies et du théâtre, on trouve des sections sur les théories féministes et sociales, ainsi que sur les inégalités, mais aussi sur le corps, le sexe ou encore l'écologie.",
+                    "score": 88,
+                    "start": 167.261,
+                    "end": 194.076
+                },
+                {
+                    "titre": "« Ces lieux sont beaucoup plus que de simples librairies »",
+                    "extrait": "Et puis ces lieux sont souvent beaucoup plus que de simples librairies, ce sont des endroits où l'on fait vivre la culture et le féminisme. On s'y rencontre pour des présentations de livres ou des conférences, des ateliers pratiques ou encore des cafés à thème.",
+                    "score": 92,
+                    "start": 210.081,
+                    "end": 223.905
                 }
             ]
         },
