@@ -1,6 +1,6 @@
 {
-    "date": "Mis à jour le 03/04/2025 à 19:39",
-    "unix": 1743701994,
+    "date": "Mis à jour le 03/04/2025 à 19:53",
+    "unix": 1743702794,
     "shows": [
         {
             "title": "Pourquoi doit-on respecter des obligations ?",
@@ -1360,6 +1360,45 @@
                     "score": 85,
                     "start": 104.081,
                     "end": 114.53
+                }
+            ]
+        },
+        {
+            "title": "Peuple et juge, deux légitimités qui s’opposent ?",
+            "id": "b242ba56-0cd9-4b6d-b72a-e58c320eb461",
+            "show": "Questions du soir : l'idée",
+            "show_id": "18d2d677-e679-453c-aec9-76ddef22ddb4",
+            "chapo": "Depuis les années 2000, la notion de « gouvernement des juges » revient régulièrement dans le débat politique. Elle pose deux questions centrales : quelle place accorder à la justice dans une démocratie, et comment définir la souveraineté du peuple sans opposer droit et suffrage ?",
+            "magnetotheque_id": "2025C53458S0093",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-l-idee/peuple-et-juge-deux-legitimites-qui-s-opposent-2745674",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/25343-03.04.2025-ITEMA_24088912-2025C53458S0093-NET_MFC_4742D063-D47C-4410-AD59-B8387E0EF3A6-21.mp3",
+            "duration": 1541,
+            "date": 1743701325,
+            "settings": [
+                "savoirs"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "« L'État de droit, c'est une des expressions de la souveraineté du peuple »",
+                    "extrait": "« Il ne faudrait pas que la question politique prenne le devant sur la nécessité de bien comprendre pourquoi l'État de droit appartient foncièrement à la démocratie. L'État de droit n'est pas un supplément d'âme. L'État de droit n'est pas là comme une sorte de petit contre-pouvoir. L'État de droit n'est pas là pour contrebalancer. Il faut bien voir que l'État de droit, c'est une des expressions de la souveraineté du peuple. »",
+                    "score": 95,
+                    "start": 280.03,
+                    "end": 306.935
+                },
+                {
+                    "titre": "Comment la légitimité des juges se construit-elle ?",
+                    "extrait": "« Le juge, il est le gardien de la considération. de chaque individu. Le juge, il est le gardien du fait que l'on reconnaisse qu'une collectivité, elle est composée justement de sujets dont chacun est important en égalité et en dignité. C'est pour cela que le juge a une légitimité démocratique. »",
+                    "score": 90,
+                    "start": 1032.161,
+                    "end": 1053.002
+                },
+                {
+                    "titre": "« La démocratie a deux visages »",
+                    "extrait": "« La démocratie a deux visages. La démocratie a le visage du peuple électeur et la démocratie a le visage de la règle qui produit de la communauté. »",
+                    "score": 88,
+                    "start": 1505.21,
+                    "end": 1516.692
                 }
             ]
         },
