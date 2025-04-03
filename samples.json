@@ -1,6 +1,6 @@
 {
-    "date": "Mis à jour le 03/04/2025 à 12:32",
-    "unix": 1743676365,
+    "date": "Mis à jour le 03/04/2025 à 12:43",
+    "unix": 1743677039,
     "shows": [
         {
             "title": "Pourquoi doit-on respecter des obligations ?",
@@ -5915,6 +5915,31 @@
                     "score": 85,
                     "start": 165.685,
                     "end": 177.432
+                }
+            ]
+        },
+        {
+            "title": "Critique expo : \"Paris Noir : Circulations artistiques et luttes anticoloniales, 1950 - 2000\" au Centre Pompidou",
+            "id": "84d0def9-9ecd-4075-9dea-5ccbd4401252",
+            "show": "Les Midis de Culture",
+            "show_id": "32a14af6-fc87-4f4f-a06e-39ccf8587119",
+            "chapo": "Les critiques discutent de \"Paris Noir : Circulations artistiques et luttes anticoloniales, 1950 - 2000\" au Centre Pompidou à Paris, une exposition ambitieuse qui retrace le parcours et les combats des artistes noirs en France dans la seconde moitié du XXème siècle.",
+            "magnetotheque_id": "2025C51852S1093",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/les-midis-de-culture/critique-expo-paris-noir-circulations-artistiques-et-luttes-anticoloniales-1950-2000-au-centre-pompidou-1348293",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/12360-03.04.2025-ITEMA_24088895-2025C51852S1093-NET_MFC_F60A3190-3EA6-4F79-871D-905B8C4AC13A-21.mp3",
+            "duration": 996,
+            "date": 1743675301,
+            "settings": [
+                "interview"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "« L'art que nous ne connaissons pas est souvent rejeté »",
+                    "extrait": "\"C'est une tendance vraiment très française qui fait que ce qu'on ne connaît pas, on le rejette dans l'art. Et justement, je trouve que le grand mérite des commissaires de l'exposition, à commencer par Alicia Lennock qui porte ce projet depuis plusieurs années, ça a été de s'intéresser à ces artistes absolument sans œillères, c'est-à-dire qu'elles ont vraiment fait un état des lieux, un travail de recherche absolument incroyable, foisonnant, systématique, pour essayer, finalement, déjà d'établir le corpus de ces artistes qui sont venus à Paris.\"",
+                    "score": 95,
+                    "start": 240.542,
+                    "end": 266.701
                 }
             ]
         },
