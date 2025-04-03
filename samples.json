@@ -1,6 +1,6 @@
 {
-    "date": "Mis à jour le 03/04/2025 à 08:53",
-    "unix": 1743663212,
+    "date": "Mis à jour le 03/04/2025 à 09:07",
+    "unix": 1743664022,
     "shows": [
         {
             "title": "Pourquoi doit-on respecter des obligations ?",
@@ -805,6 +805,36 @@
             ]
         },
         {
+            "title": "Quand l'association Utopia 56 pirate Google Maps pour rendre visible les \"invisibles\"  ! ",
+            "id": "7c0bcb0a-e58f-453c-b2c7-23ad734750b2",
+            "show": "Un monde connecté",
+            "show_id": "274c0b2b-c347-4748-8989-eb3f08ae5273",
+            "chapo": "La fin de la trêve hivernale est un moment d'angoisse pour toutes celles et ceux qui vivent dans la précarité, l'association Utopia 56 révèle son opération de piratage de Google Maps en incarnant virtuellement les déplacés de la rue. ",
+            "magnetotheque_id": "2025C52117S0093",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/un-monde-connecte/quand-l-association-utopia-56-pirate-google-maps-pour-rendre-visible-les-invisibles-2408713",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/24399-03.04.2025-ITEMA_24088904-2025C52117S0093-NET_MFC_DEDDCFD9-63DB-4034-947E-1A27C9EE9A57-21.mp3",
+            "duration": 192,
+            "date": 1743663300,
+            "settings": [
+                "actu"
+            ],
+            "limit": 2,
+            "extraits": [
+                {
+                    "titre": "Comment Utopia 56 a piraté Google Maps pour rendre visibles les invisibles ?",
+                    "extrait": "L'association Utopia 56 a choisi ce changement de saison déterminant pour élever leur opération, révéler leur opération de communication autour du piratage de Google Maps, le système de cartographie du GAFAM. Utopia a donc décidé d'investir le champ du cyberespace en créant sur Google Maps des pinces rouges, vous savez comme ceux qui désignent un restaurant, une boutique, où un hôtel, sur la carte interactive, ont débarqué des dizaines de nouveaux lieux. Chez Dom, chez Daouda, chez Jean-Pierre, chez Roberto, chez Moussa, ces espaces fictifs représentent les personnes déplacées à l'endroit où elles vivaient, ou plutôt où elles survivaient.",
+                    "start": 55.267,
+                    "end": 98.454
+                },
+                {
+                    "titre": "« Un pixel sur une carte numérique vaut plus qu'un humain sur le bitume »",
+                    "extrait": "Et là, un petit badge rouge virtuel m'a touché, comme si j'accordais plus d'importance à un pixel sur une carte numérique qu'à un humain sur le bitume. Utopia a réussi sa démarche de sensibilisation en utilisant la virtualité désincarnée du numérique pour mieux pointer la déshumanisation de nos sociétés connectées.",
+                    "start": 169.212,
+                    "end": 188.777
+                }
+            ]
+        },
+        {
             "title": "Les partis sont-ils tout petits ? ",
             "id": "d13d578f-43b6-4865-a682-19aa97de6197",
             "show": "Le Billet politique",
@@ -942,6 +972,53 @@
                     "score": 91,
                     "start": 2514.022,
                     "end": 2545.9
+                }
+            ]
+        },
+        {
+            "title": "Le libéralisme peut-il encore sauver la démocratie ?  ",
+            "id": "c5711d58-f6e4-4169-bef8-4f51c8cd1c3b",
+            "show": "France Culture va plus loin (l'Invité(e) des Matins)",
+            "show_id": "7431a6a7-481b-11e5-9fe0-005056a87c89",
+            "chapo": "Monique Canto-Sperber propose une défense du libéralisme dans son dernier livre \"La liberté cherchant son peuple\". Alors qu’un illibéralisme d’atmosphère se répand, cette revalorisation offre des perspectives nouvelles et permettent d’imaginer un modèle de démocratie libérale résilient.  \n\n ",
+            "magnetotheque_id": "2025C16450S0093",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/france-culture-va-plus-loin-l-invite-e-des-matins/le-liberalisme-peut-il-encore-sauver-la-democratie-7561308",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/25479-03.04.2025-ITEMA_24088911-2025C16450S0093-NET_MFC_1960C6F9-0FD7-4573-B6AD-BDE554BCC0F3-21.mp3",
+            "duration": 2257,
+            "date": 1743662700,
+            "settings": [
+                "actu",
+                "interview"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "Le libéralisme face à l'illibéralisme : un combat essentiel",
+                    "extrait": "« D'une certaine manière, il a contribué incontestablement. Ça a été la pensée porteuse de l'ouverture du monde et de la possibilité... D'ailleurs, la notion d'échange et d'échange libre est véritablement au cœur du libéralisme. »",
+                    "score": 90,
+                    "start": 111.127,
+                    "end": 125.796
+                },
+                {
+                    "titre": "La légitimité du pouvoir : un enjeu fondamental",
+                    "extrait": "« C'est que la force et la sécurité qu'on impose aux citoyens, il faut qu'elle soit perçue comme légitime par les citoyens. Parce que si elle n'est pas perçue comme légitime par les citoyens, cette sécurité n'est pas un facteur d'ordre, elle est un facteur de désordre. »",
+                    "score": 95,
+                    "start": 578.968,
+                    "end": 595.632
+                },
+                {
+                    "titre": "Le libéralisme populaire : une réponse aux inégalités",
+                    "extrait": "« C'est-à-dire qui montre de manière précise de quelle manière une politique de la liberté, des politiques sociales qui visent à donner beaucoup plus de responsabilités aux individus, qui les infantilisent beaucoup moins, qui leur donnent des capacités de réagir, de se sentir acteurs sociaux... »",
+                    "score": 92,
+                    "start": 743.208,
+                    "end": 756.413
+                },
+                {
+                    "titre": "La séparation des pouvoirs : un pilier de la démocratie",
+                    "extrait": "« L'état de droit, ça correspond à ça, des règles qui sécurisent et garantissent la liberté. C'est vraiment la raison d'être fondamentale de l'état de droit. »",
+                    "score": 88,
+                    "start": 1253.386,
+                    "end": 1262.989
                 }
             ]
         },
