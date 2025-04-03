@@ -1,6 +1,6 @@
 {
-    "date": "Mis à jour le 03/04/2025 à 17:55",
-    "unix": 1743695755,
+    "date": "Mis à jour le 03/04/2025 à 18:10",
+    "unix": 1743696607,
     "shows": [
         {
             "title": "Pourquoi doit-on respecter des obligations ?",
@@ -6045,6 +6045,73 @@
                     "score": 93,
                     "start": 172.507,
                     "end": 179.62
+                }
+            ]
+        },
+        {
+            "title": "Trump et les sciences  : un climat étouffant",
+            "id": "c03317b6-2e7e-49dd-974f-ae7084b5eb80",
+            "show": "La Science, CQFD",
+            "show_id": "dc59bf2c-a3f5-48b0-bd13-f7258761d52c",
+            "chapo": "La science américaine est attaquée aux Etats-Unis. Pourquoi et comment ? Quelle est l’ampleur de cette attaque et pourquoi a-t-elle déjà, et aura-t-elle, un impact important sur la recherche scientifique mondiale ? Comment la lutte s’organise-t-elle outre-Atlantique et en Europe ?",
+            "magnetotheque_id": "2025C48906S0093",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/la-science-cqfd/trump-et-les-sciences-un-climat-etouffant-7686867",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/14312-03.04.2025-ITEMA_24088900-2025C48906S0093-NET_MFC_2D68267E-9ADB-4DDD-918D-E23958484B8B-21.mp3",
+            "duration": 3524,
+            "date": 1743692325,
+            "settings": [
+                "savoirs"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "Pourquoi la science américaine est-elle en danger ?",
+                    "extrait": "\"Nous envoyons ce SOS pour lancer un avertissement clair. La science américaine est en train d'être décimée. C'est l'appel de 1900 scientifiques dans une lettre ouverte publiée lundi.\"",
+                    "score": 95,
+                    "start": 24.263,
+                    "end": 34.772
+                },
+                {
+                    "titre": "Comment Trump attaque-t-il la recherche scientifique ?",
+                    "extrait": "\"Licenciements par milliers, subventions gelées, recherches arrêtées, l'administration de Donald Trump multiplie les coupes budgétaires visant des programmes scientifiques.\"",
+                    "score": 90,
+                    "start": 168.145,
+                    "end": 178.254
+                },
+                {
+                    "titre": "Le climat de la science : un retour au maccartisme ?",
+                    "extrait": "\"Pour moi, ce qui est en train de se passer, c'est peut-être pire que le maccartisme, parce que ce qui est attaqué, ce ne sont pas les gens qui sont attaqués à cause de leurs opinions politiques, mais à cause de la science qu'ils font.\"",
+                    "score": 92,
+                    "start": 192.626,
+                    "end": 204.677
+                },
+                {
+                    "titre": "Les mots interdits : une censure scientifique alarmante",
+                    "extrait": "\"Il y a des mots comme « biais » ou comme « inclusion ». Quand vous êtes épidémiologiste, votre projet de recherche doit forcément inclure une section où vous allez essayer de limiter les biais dans votre étude. Si vous n'avez pas le droit de dire ça, vous ne pouvez pas faire de la bonne épidémiologie.\"",
+                    "score": 88,
+                    "start": 578.221,
+                    "end": 620.53
+                },
+                {
+                    "titre": "La santé publique en péril : quelles conséquences ?",
+                    "extrait": "\"On a aussi renvoyé la directrice du département qui s'occupe des maladies infectieuses au NIH qui avait succédé à Anthony Fauci quand il est parti à la retraite. Et on a aussi renvoyé la personne qui s'occupait de recherche clinique.\"",
+                    "score": 89,
+                    "start": 1009.582,
+                    "end": 1029.162
+                },
+                {
+                    "titre": "Une épidémie de rougeole : le résultat d'une négligence ?",
+                    "extrait": "\"L'épidémie de rougeole, elle est liée au fait qu'il y a beaucoup de personnes... La rougeole, c'est une maladie pour laquelle l'immunité dure toute la vie, mais c'est très transmissible.\"",
+                    "score": 87,
+                    "start": 1055.924,
+                    "end": 1071.474
+                },
+                {
+                    "titre": "L'avenir de la recherche : une opportunité pour l'Europe ?",
+                    "extrait": "\"Cette crise aux Etats-Unis pourrait se transformer pour l'Europe en opportunité de ramener ici les forces vives dans les secteurs impactés.\"",
+                    "score": 85,
+                    "start": 2354.672,
+                    "end": 2362.24
                 }
             ]
         },
