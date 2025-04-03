@@ -1,6 +1,6 @@
 {
-    "date": "Mis à jour le 03/04/2025 à 20:57",
-    "unix": 1743706672,
+    "date": "Mis à jour le 03/04/2025 à 21:12",
+    "unix": 1743707567,
     "shows": [
         {
             "title": "Pourquoi doit-on respecter des obligations ?",
@@ -6222,6 +6222,73 @@
                     "score": 95,
                     "start": 78.006,
                     "end": 123.024
+                }
+            ]
+        },
+        {
+            "title": "L'IA ou le non-sens bien ordonné",
+            "id": "c0fe691b-3de9-49db-8779-e288198060c4",
+            "show": "La Suite dans les idées",
+            "show_id": "36b174c3-44e2-11e5-9fe0-005056a87c89",
+            "chapo": "Se tenant à distance du technosolutionnisme comme du technofatalisme, Mathieu Corteel propose de penser l'Intelligence Artificielle en prenant acte de son hybridation avec les mondes humains. Il est rejoint en deuxième partie par l'artiste Gwenola Wagon.",
+            "magnetotheque_id": "2025C6260S0093",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/la-suite-dans-les-idees/l-ia-ou-le-non-sens-bien-ordonne-7156114",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/23118-03.04.2025-ITEMA_24088908-2025C6260S0093-NET_MFC_0571C6FB-5D85-42BC-AED7-A822FB56C13A-21.mp3",
+            "duration": 3512,
+            "date": 1743706725,
+            "settings": [
+                "savoirs"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "L'IA : entre divinité et démon",
+                    "extrait": "\"Ce que j'essaie de développer comme position, c'est d'éviter les transcendances qui déifient l'IA, ou en tant que démon qui va nous amener vers l'apocalypse, ou en tant que divinité salvatrice qui va nous permettre de sortir de tous nos problèmes, catastrophes écologiques, destructions...\"",
+                    "score": 90,
+                    "start": 165.335,
+                    "end": 184.895
+                },
+                {
+                    "titre": "Le non-sens bien ordonné de l'IA",
+                    "extrait": "\"J'ai décidé de titrer l'émission du non-sens bien ordonné, parce qu'au fond, c'est ça qui caractérise l'IA. C'est à la fois du non-sens, on pense au Montipiton, mais en même temps, bien rangé, quoi.\"",
+                    "score": 85,
+                    "start": 291.344,
+                    "end": 303.412
+                },
+                {
+                    "titre": "La bibliothèque de Babel et l'IA : un parallèle troublant",
+                    "extrait": "\"Dans la nouvelle de Borges, on a cette idée extrêmement drôle, et en même temps c'est une expérience de pensée philosophique majeure, dans le sens où il se dit, comme on a un nombre de symboles, disons 25-26, qui, en s'agrégeant, peuvent créer un nombre extrêmement grand, de langues possibles, de textes possibles, qui, en fin de compte, même si ce nombre est fini, il est plus grand que le nombre d'atomes de l'univers...\"",
+                    "score": 88,
+                    "start": 378.567,
+                    "end": 411.99
+                },
+                {
+                    "titre": "L'illusion de la conscience des IA",
+                    "extrait": "\"Il y a une espèce de regain existentialiste et le moine se laisse illusionner en fin de compte par l'IA. Et d'ailleurs, c'est pour ça qu'il a fait cette déclaration médiatique sur le fait que l'IA avait atteint un niveau de sentience...\"",
+                    "score": 92,
+                    "start": 591.415,
+                    "end": 612.949
+                },
+                {
+                    "titre": "La dévalorisation des productions humaines par l'IA",
+                    "extrait": "\"La production, la capacité de production de l'IA, elle est infiniment plus rapide et supérieure à la capacité humaine... Donc vous voyez, à tel point que les productions humaines sont dévaluées et on voit les productions IA monter dans les suggestions ?\"",
+                    "score": 87,
+                    "start": 514.673,
+                    "end": 530.939
+                },
+                {
+                    "titre": "L'IA et la mort de l'auteur",
+                    "extrait": "\"Je me disais, tiens, si la plupart des livres sont produits par IA, peut-être que le mien lui-même a été produit par IA, et donc peut-être que je me suis moi-même effacé dans la combinatoire.\"",
+                    "score": 89,
+                    "start": 531.579,
+                    "end": 545.949
+                },
+                {
+                    "titre": "L'IA comme outil d'aliénation morale",
+                    "extrait": "\"Il y a des projets au MIT, dans des grandes écoles, etc., de constituer des IA philosophes qui vont être à but d'améliorer moralement l'humain... il y a quand même un risque énorme, par ces algorithmes de recommandation, d'arriver à une décision aberrante et une action aberrante vis-à-vis du réel.\"",
+                    "score": 91,
+                    "start": 1707.131,
+                    "end": 1736.125
                 }
             ]
         },
