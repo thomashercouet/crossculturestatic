@@ -1,6 +1,6 @@
 {
-    "date": "Mis à jour le 03/04/2025 à 19:13",
-    "unix": 1743700434,
+    "date": "Mis à jour le 03/04/2025 à 19:27",
+    "unix": 1743701236,
     "shows": [
         {
             "title": "Pourquoi doit-on respecter des obligations ?",
@@ -884,6 +884,52 @@
                     "extrait": "Et là, un petit badge rouge virtuel m'a touché, comme si j'accordais plus d'importance à un pixel sur une carte numérique qu'à un humain sur le bitume. Utopia a réussi sa démarche de sensibilisation en utilisant la virtualité désincarnée du numérique pour mieux pointer la déshumanisation de nos sociétés connectées.",
                     "start": 169.212,
                     "end": 188.777
+                }
+            ]
+        },
+        {
+            "title": "Existe-t-il un populisme anti-juges ?",
+            "id": "30524023-7382-46b0-b2d6-9645ece817d8",
+            "show": "Questions du soir : le débat",
+            "show_id": "df67029c-4820-4a4b-83df-6c2c88bb5840",
+            "chapo": "La condamnation de Marine Le Pen soulève des interrogations sur la place prise par la justice dans le champ politique. Faut-il y voir une garantie du bon fonctionnement démocratique ou un risque d’ingérence dans le débat électoral ?",
+            "magnetotheque_id": "2025C36267S0093",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/le-pouvoir-des-juges-est-il-une-force-ou-une-faiblesse-de-notre-democratie-1074615",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/25344-03.04.2025-ITEMA_24088913-2025C36267S0093-NET_MFC_03798357-E1C3-43C3-BCD6-8C5845F136AF-21.mp3",
+            "duration": 2291,
+            "date": 1743699525,
+            "settings": [
+                "actu"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "Les juges sont-ils vraiment impartiaux ?",
+                    "extrait": "\"Alors, elle pose tout ce que vient de dire, je suis d'accord avec presque tout ce que vient de dire Rémi Hetz, avec un petit bémol qui est que les juges sont indépendants, cela ne veut pas forcément dire qu'ils sont toujours impartiaux. Je ne dis pas que ces juges-là sont impartiaux, mais l'indépendance... Vous ne dites pas qu'ils sont impartiaux, vous voulez dire ? Non, ni qu'ils sont impartiaux, ni qu'ils sont impartiaux, je n'en sais rien. Moi, je n'ai pas leur... Je ne fiche pas les juges, je ne le connais pas. On présume de leur impartialité tout de même. On peut présumer de tout ce qu'on veut. Mais on peut aussi savoir, on viendra peut-être dans le débat, qu'il y a des juges qui ne sont pas impartiaux, qui affichent clairement une position politique.\"",
+                    "score": 85,
+                    "start": 178.848,
+                    "end": 216.159
+                },
+                {
+                    "titre": "La justice peut-elle influencer le processus électoral ?",
+                    "extrait": "\"Manifestement, ça les a concernés puisque le tribunal motive l'exécution provisoire par la nécessité qui lui apparaît d'empêcher que Marine Le Pen soit candidate à l'élection présidentielle, voire... dit le tribunal, voire, j'allais dire, virgule horreur, élu. Donc, le tribunal s'est clairement positionné quand on dit, ah ben, les juges doivent juger de la même façon que ce soit un élu ou pas. Là, le tribunal dit très clairement, il m'apparaît qu'il faut empêcher Marine Le Pen d'être élu à l'élection présidentielle.\"",
+                    "score": 90,
+                    "start": 513.494,
+                    "end": 546.84
+                },
+                {
+                    "titre": "La proportionnalité des peines : un débat brûlant !",
+                    "extrait": "\"Il y a un vrai sujet. Il y a un vrai sujet de menaces à l'endroit des magistrats, qu'elles viennent du crime organisé. Ou comme là, je veux dire, on a parlé des juges tyrans. Je vous laisse imaginer ce qu'on a fait aux tyrans dans l'histoire de France. Mais oui, il y a une réelle difficulté. Ce qu'il faut bien comprendre, c'est que les magistrats sont en première ligne de ces difficultés avec leurs enquêteurs. Et si eux cèdent, si cette digue-là cède, plus rien ne nous protégera d'un narco-État ou d'une criminalité qui pénètrera l'économie réelle.\"",
+                    "score": 88,
+                    "start": 2240.723,
+                    "end": 2266.965
+                },
+                {
+                    "titre": "La justice face à la défiance des citoyens : un paradoxe !",
+                    "extrait": "\"Il y a une grande défiance de la part de nos concitoyens à l'endroit du personnel politique. Plus grande encore qu'à l'endroit de la justice. Ils reprochent majoritairement à la justice sa lenteur, donc c'est des problèmes d'une autre nature. Mais l'exigence de probité, elle arrive très haut. Alors, c'est une bonne ou une mauvaise chose. En tout cas, ça crée un fossé entre les citoyens et leurs élus.\"",
+                    "score": 87,
+                    "start": 1094.483,
+                    "end": 1115.462
                 }
             ]
         },
