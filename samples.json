@@ -1,6 +1,6 @@
 {
-    "date": "Mis à jour le 03/04/2025 à 12:43",
-    "unix": 1743677039,
+    "date": "Mis à jour le 03/04/2025 à 12:57",
+    "unix": 1743677837,
     "shows": [
         {
             "title": "Pourquoi doit-on respecter des obligations ?",
@@ -1204,6 +1204,31 @@
                     "score": 95,
                     "start": 287.901,
                     "end": 309.036
+                }
+            ]
+        },
+        {
+            "title": "Critique expo : \"Enormément bizarre, la collection Jean Chatelus, donation de la fondation Antoine de Galbert\"",
+            "id": "4d9ab972-51e3-4853-a461-0587aeba1871",
+            "show": "Les Midis de Culture",
+            "show_id": "32a14af6-fc87-4f4f-a06e-39ccf8587119",
+            "chapo": "Les critiques discutent de \"Enormément bizarre, la collection Jean Chatelus, donation de la fondation Antoine de Galbert\", une exposition à découvrir au Centre Pompidou à Paris, qui montre la quasi-totalité des 400 œuvres du collectionneur, dans toute leur diversité et leur étrangeté.",
+            "magnetotheque_id": "2025C51852S2093",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/les-midis-de-culture/critique-expo-enormement-bizarre-la-collection-jean-chatelus-donation-de-la-fondation-antoine-de-galbert-3720894",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/12360-03.04.2025-ITEMA_24088895-2025C51852S2093-NET_MFC_10986A57-90CB-41FF-B66A-5B58A6192A9F-21.mp3",
+            "duration": 592,
+            "date": 1743676200,
+            "settings": [
+                "interview"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "\"L'art sert à échanger à propos de choses intimes\"",
+                    "extrait": "\"Elle part du postulat que je partage que l'art sert à échanger à propos de choses intimes. J'adore les collections, les collectionneurs, mais elle m'a paradoxalement tout le temps tenu à distance, indifféré, voire même mis mal à l'aise.\"",
+                    "score": 85,
+                    "start": 104.081,
+                    "end": 114.53
                 }
             ]
         },
@@ -5217,6 +5242,45 @@
                     "score": 93,
                     "start": 275.08,
                     "end": 286.431
+                }
+            ]
+        },
+        {
+            "title": "Critique expos : \"Paris Noir\" & \"Enormément Bizarre\"",
+            "id": "5e06958c-8295-4bf0-a91c-f2a6bb9a2659",
+            "show": "Les Midis de Culture",
+            "show_id": "32a14af6-fc87-4f4f-a06e-39ccf8587119",
+            "chapo": "Au programme du débat critique, deux expositions à découvrir au Centre Pompidou : \"Paris Noir, Circulations artistiques et luttes anticoloniales, 1950 – 2000\" et \"Enormément bizarre, la collection Jean Chatelus, donation de la fondation Antoine de Galbert\". ",
+            "magnetotheque_id": "2025C51852S0093",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/les-midis-de-culture/critique-expos-paris-noir-enormement-bizarre-1132114",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/12360-03.04.2025-ITEMA_24088895-2025C51852S0093-NET_MFC_563CBEC6-62A0-4C49-9F52-4D2EB84946EF-21.mp3",
+            "duration": 1648,
+            "date": 1743676125,
+            "settings": [
+                "interview"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "« L'art sert à échanger à propos de choses intimes »",
+                    "extrait": "« C'est une exposition que j'aurais aimé aimer, ou que j'aurais même aimé adorer. Le titre est génial, c'est un néologisme flamagant de l'artiste Wim Delvoy, Énormément Bizarre. Elle regroupe des œuvres et des artistes qui pour beaucoup m'intéressent, voire me passionnent. Elle part du postulat que je partage que l'art sert à échanger à propos de choses intimes. J'adore les collections, les collectionneurs, mais elle m'a paradoxalement tout le temps tenu à distance, indifféré, voire même mis mal à l'aise. Il n'y a plus aucune vie, en fait, dans ces œuvres qui ont été rassemblées par Jean Châtelet, telles qu'elles sont montrées ici. Si sa collection était marquée par le morbide et que lui est mort, chez lui, où j'ai eu la chance d'aller, l'ensemble était plein de vie. Là, on a le sentiment d'entrer dans un mausolée et même de violer une sépulture, presque.»",
+                    "score": 95,
+                    "start": 1147.958,
+                    "end": 1184.895
+                },
+                {
+                    "titre": "« La France est un pays formidable ? »",
+                    "extrait": "« Quand on voit, on rentre avec des vidéos, on dit, il y a un écrivain américain qui dit, il y avait trop de racisme aux Etats-Unis, je suis venue en France parce que sinon j'aurais... j'aurais peut-être tué aux Etats-Unis, on a l'impression que la France est un pays formidable. Donc en fait, il y a cette manière quand même de répéter quelque chose. »",
+                    "score": 90,
+                    "start": 602.576,
+                    "end": 621.806
+                },
+                {
+                    "titre": "« Il y a une dimension de la sexualité monstrueusement représentative »",
+                    "extrait": "« Mais je trouve qu'il y a une ouverture, il y a vraiment, ce choix n'est pas de faire du De Galbert avec du Châtelieu. Je trouve qu'effectivement ils ont une grosse différence, c'est cette question de l'interdit qu'il y a chez Jean Châtelieu, la dimension de la sexualité est monstrueusement représentative. »",
+                    "score": 88,
+                    "start": 1524.407,
+                    "end": 1543.897
                 }
             ]
         },
