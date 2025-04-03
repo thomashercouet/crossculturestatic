@@ -1,6 +1,6 @@
 {
-    "date": "Mis à jour le 03/04/2025 à 10:24",
-    "unix": 1743668670,
+    "date": "Mis à jour le 03/04/2025 à 11:26",
+    "unix": 1743672419,
     "shows": [
         {
             "title": "Pourquoi doit-on respecter des obligations ?",
@@ -191,6 +191,59 @@
                     "extrait": "Il y a une tension entre imaginaires d'un côté habiter sur la terre et de l'autre côté se déterrestrer et travailler sur l'illimité. Là cette tension elle est vraiment très très inconfortable pour le droit aujourd'hui.",
                     "start": 2748.419,
                     "end": 2776.39
+                }
+            ]
+        },
+        {
+            "title": "Pourquoi faut-il distinguer l'irrespect de l'humiliation ?",
+            "id": "01688167-667c-42ac-8d1b-d90db7a64d9c",
+            "show": "Le Pourquoi du comment : philo  ",
+            "show_id": "b6bd068b-da10-4d88-8d15-f0e1c87ed34b",
+            "chapo": "Le respect peut être un devoir social ou une reconnaissance mutuelle. L'insolence brise parfois des hiérarchies injustes, tandis que l'humiliation détruit la dignité. Comment distinguer ces deux formes d'affront ? L'irrespect peut-il être un acte de résistance ?",
+            "magnetotheque_id": "2025C45539E0052",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/le-pourquoi-du-comment-philo/pourquoi-faut-il-distinguer-l-irrespect-de-l-humiliation-3797962",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/21713-03.04.2025-ITEMA_24073841-2025C45539E0052-NET_MFC_933C1779-D4C2-4316-9C73-7A54BC4D9370-21.mp3",
+            "duration": 218,
+            "date": 1743670718,
+            "settings": [
+                "savoirs"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "L'insolence : un acte de résistance ?",
+                    "extrait": "L'insolence, l'irrespect des adolescents, par exemple, dans les tensions avec l'autorité parentale, si elle ne vient pas contredire le respect de la personne, n'est-elle pas une humiliation ? Il y a des formes d'insolence ou d'irrespect qui viennent rétablir une égalité fondamentale entre les humains à travers la dissymétrie provisoire mais nécessaire des fonctions. Ainsi, l'insolence est aussi un moyen de rétablir une égalité dans un respect mutuel de la vérité, par exemple, qui est respectée et du bien commun.",
+                    "score": 85,
+                    "start": 111.592,
+                    "end": 141.904
+                },
+                {
+                    "titre": "Humiliation vs Irrespect : quelle différence ?",
+                    "extrait": "L'humiliation, ce n'est pas la transgression d'une autorité respectée conventionnellement et qui préserverait le principe social du respect entre les humains. L'humiliation, au contraire, c'est la transgression du respect fondamental dû aux personnes. C'est le fait de piétiner à la fois une dignité et une vie. C'est toujours la transgression d'un principe moral et d'une obligation vitale.",
+                    "score": 90,
+                    "start": 154.173,
+                    "end": 176.076
+                },
+                {
+                    "titre": "Le respect : un devoir ou une reconnaissance ?",
+                    "extrait": "On peut appeler respect entre les êtres humains le fait pour un être humain de considérer l'autre comme supérieur à lui et de le manifester par des comportements concrets. Mais il y a deux formes ou deux versions du respect. Il y a le respect social pour une autorité qui est investie provisoirement dans les démocraties et essentiellement dans certaines autres théories politiques, qui est investi d'une autorité sur les autres.",
+                    "score": 80,
+                    "start": 9.519,
+                    "end": 32.346
+                },
+                {
+                    "titre": "L'insolence, un passage vers l'émancipation ?",
+                    "extrait": "L'insolence est même un passage par la négativité pour l'adolescent qui doit s'émanciper d'une forme de respect de l'autorité parentale. Mais on distinguera profondément l'humiliation, qui est tout le contraire, qui détruit les relations personnelles et qui, du même coup, évidemment, détruira aussi la société.",
+                    "score": 88,
+                    "start": 137.121,
+                    "end": 163.042
+                },
+                {
+                    "titre": "Pourquoi le respect de soi est-il essentiel ?",
+                    "extrait": "L'humiliation est donc la destruction du sentiment de la personne, de son propre respect de soi, le respect de soi-même étant la condition pour être une personne humaine. Il faut donc distinguer profondément l'irrespect provisoire salutaire, l'ironie critique, qui permet de rétablir les relations fondamentales par-delà les relations sociales.",
+                    "score": 92,
+                    "start": 189.849,
+                    "end": 217.825
                 }
             ]
         },
@@ -1059,6 +1112,73 @@
                     "score": 92,
                     "start": 946.096,
                     "end": 982.553
+                }
+            ]
+        },
+        {
+            "title": "Musiques anciennes, et je recrée le son !",
+            "id": "400aa8c0-cbe1-4289-b9f3-34564a3ab7ed",
+            "show": "Le Cours de l'histoire",
+            "show_id": "0a41bdd2-4a6d-4fb2-b2d1-ca42d2dc5381",
+            "chapo": "Au 19ᵉ siècle, érudits, interprètes, compositeurs redécouvrent la musique du passé, du Moyen Âge au 18ᵉ siècle, bientôt nommée \"musique ancienne\". En quoi l’étude et l’interprétation de ces répertoires permettent-elles de recréer le son des musiques du passé ?",
+            "magnetotheque_id": "2025C36128S0093",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/musiques-anciennes-et-je-recree-le-son-5967778",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/10076-03.04.2025-ITEMA_24088882-2025C36128S0093-NET_MFC_EAFB039C-6232-48AF-8DB3-D57F8AE52660-21.mp3",
+            "duration": 3514,
+            "date": 1743667125,
+            "settings": [
+                "savoirs"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "Pourquoi Bach au piano peut-il être ennuyeux ?",
+                    "extrait": "\"Chers auditeurs, du sèche, scandalisez beaucoup d'auditeurs, je n'hésiterai pas à vous dire que Bach au piano me rase. Vous voyez que je n’y vais pas par quatre chemins.\"",
+                    "score": 85,
+                    "start": 34.068,
+                    "end": 45.335
+                },
+                {
+                    "titre": "Comment la musique ancienne a-t-elle été redécouverte ?",
+                    "extrait": "\"Il y a un goût pour les gothicités, et notamment dans le domaine du patrimoine matériel, de l'architecture, et tout à coup de la musique aussi.\"",
+                    "score": 80,
+                    "start": 196.289,
+                    "end": 206.237
+                },
+                {
+                    "titre": "La musique ancienne : un fantasme ou une réalité ?",
+                    "extrait": "\"C'est une entreprise désespérée dès le départ. C'est-à-dire que tout le monde était quand même assez lucide, et même encore aujourd'hui, je crois, sur le fait que... retrouver les musiques du passé telles qu'elles ont sonné, c'est une espèce de point de mire qui est très stimulant.\"",
+                    "score": 90,
+                    "start": 539.073,
+                    "end": 565.754
+                },
+                {
+                    "titre": "Comment les instruments anciens ont-ils évolué ?",
+                    "extrait": "\"Les instruments évoluent beaucoup. Si on se passe à la fin de l'Ancien Régime, on voit que, par exemple, à cause de ce nouveau répertoire très expressif qui met en scène, on peut dire, beaucoup les émotions, on veut des instruments également expressifs.\"",
+                    "score": 75,
+                    "start": 366.997,
+                    "end": 387.124
+                },
+                {
+                    "titre": "Pourquoi la redécouverte de la musique ancienne est-elle un défi ?",
+                    "extrait": "\"Il s'agissait de retrouver, pas simplement des instruments ou des partitions, mais aussi des savoir-faire. Ces savoir-faire, en fait, ils étaient consignés dans des manuels, dans des traités de musique qui étaient assez nombreux pour les périodes anciennes.\"",
+                    "score": 85,
+                    "start": 746.023,
+                    "end": 762.088
+                },
+                {
+                    "titre": "La musique ancienne : un art immatériel en danger ?",
+                    "extrait": "\"Les interprètes disparaissent, ils emportent avec eux des manières de faire, des manières de jouer, de chanter qui sont, jusqu'à l'avènement de l'enregistrement sonore, qui étaient voués à la disparition totale.\"",
+                    "score": 90,
+                    "start": 729.376,
+                    "end": 740.301
+                },
+                {
+                    "titre": "Comment Mendelssohn a-t-il redécouvert Bach ?",
+                    "extrait": "\"En fait, c'est un grand moment, justement, au XIXe siècle, de nouvel intérêt pour Jean-Sébastien Bach. Quand on lit les quelques ouvrages qui sont sur la musique ancienne... c'est toujours le point de départ où on dit, voilà, à partir de, on peut dire, le moment où on a ressuscité les œuvres de Bach grâce à Mendelssohn en 1830, c'est le début de la musique ancienne.\"",
+                    "score": 95,
+                    "start": 1863.373,
+                    "end": 1893.049
                 }
             ]
         },
