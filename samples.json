@@ -1,6 +1,6 @@
 {
-    "date": "Mis à jour le 03/04/2025 à 15:06",
-    "unix": 1743685614,
+    "date": "Mis à jour le 03/04/2025 à 15:20",
+    "unix": 1743686446,
     "shows": [
         {
             "title": "Pourquoi doit-on respecter des obligations ?",
@@ -5590,6 +5590,73 @@
                     "score": 90,
                     "start": 487.157,
                     "end": 497.781
+                }
+            ]
+        },
+        {
+            "title": "Fernand Braudel, historien de l’économie-monde",
+            "id": "93189968-54ad-461a-bf2a-02dd2cccac43",
+            "show": "Entendez-vous l'éco ?",
+            "show_id": "ec20bd96-cdfc-44ce-8a1b-85c33cc8b7db",
+            "chapo": "Tout au long de sa grande carrière d'historien, Fernand Braudel a réfléchit à l'articulation entre le temps et l’espace dans la détermination de nos sociétés et dans l’analyse économique. Il développe une certitude : la genèse du capitalisme est strictement liée à l'échange.  ",
+            "magnetotheque_id": "2025C29629S0093",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/entendez-vous-l-eco/fernand-braudel-historien-de-l-economie-monde-8693236",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/10081-03.04.2025-ITEMA_24088879-2025C29629S0093-NET_MFC_DE3C123C-3A62-4015-8FB5-5E78E6232F56-21.mp3",
+            "duration": 3547,
+            "date": 1743685125,
+            "settings": [
+                "savoirs"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "Pourquoi l'histoire économique est-elle souvent méprisée ?",
+                    "extrait": "L'histoire dite économique se heurte à des préjugés. Elle n'est pas l'histoire noble, noble ou non noble, ou moins noble qu'une autre. L'histoire économique n'en pose pas moins tous les problèmes inhérents à notre métier. Elle est l'histoire entière des hommes, regardée d'un certain point de vue.",
+                    "score": 85,
+                    "start": 9.535,
+                    "end": 24.724
+                },
+                {
+                    "titre": "Comment Fernand Braudel a-t-il redéfini le capitalisme ?",
+                    "extrait": "Brodel va établir une distinction nouvelle et assez radicale entre l'économie de marché d'un côté et le capitalisme, qui, lui, est le contournement des règles de l'économie de marché. Donc, on pourrait dire que l'économie de marché, ce sont des échanges qui se font à égalité, à valeur égale, à la puissance et à la force du capital la possibilité pour un certain nombre d'acteurs, très limités en nombre, de contourner les règles du marché.",
+                    "score": 90,
+                    "start": 2896.651,
+                    "end": 2940.572
+                },
+                {
+                    "titre": "Qu'est-ce qui fait la force de l'économie-monde ?",
+                    "extrait": "L'économie-monde, c'est un espace géographique qui n'est pas homogène, mais qui oppose un centre, une périphérie. D'où, là encore, des logiques possibles de formation de profit. Et cette caractéristique, selon lui, est la meilleure façon de décrire ce qu'est l'économie du monde à l'époque moderne.",
+                    "score": 88,
+                    "start": 3481.288,
+                    "end": 3504.237
+                },
+                {
+                    "titre": "Comment l'histoire et la sociologie peuvent-elles collaborer ?",
+                    "extrait": "Il n'y a pas de vraie séparation entre passé et présent. L'histoire et la sociologie devraient donc toujours collaborer si elles se heurtent souvent comme deux visions différentes du monde.",
+                    "score": 80,
+                    "start": 135.74,
+                    "end": 147.288
+                },
+                {
+                    "titre": "Pourquoi l'économie est-elle la clé de l'évolution des sociétés ?",
+                    "extrait": "Ce qui l'intéresse dans l'économie, c'est que pour lui, c'est une clé explicative de l'évolution de société. Marx a joué un rôle très important dans la réflexion de toute cette génération. Aucun de ses historiens ne sont marxistes. Même Labrousse, qui est probablement le plus proche, qui au départ était un économiste, a utilisé beaucoup Marx.",
+                    "score": 87,
+                    "start": 2712.333,
+                    "end": 2734.562
+                },
+                {
+                    "titre": "Comment Braudel a-t-il révolutionné notre compréhension du temps ?",
+                    "extrait": "La longue durée, c'est un élément, mais c'est une articulation de temporalité qui est centrale chez lui. Et quand on voit aujourd'hui aux Etats-Unis, par exemple, où une historiographie assez récente, depuis une dizaine, quinzaine d'années, pas plus, revient vers la longue durée, en s'inspirant de Fernand Braudel.",
+                    "score": 85,
+                    "start": 771.288,
+                    "end": 797.902
+                },
+                {
+                    "titre": "Pourquoi l'économie est-elle souvent considérée comme une discipline inférieure ?",
+                    "extrait": "Il faut partir du capitalisme pour comprendre la démarche qui a été la mienne. Dans le premier volume, le mot de capitalisme n'est pas prononcé, je crois. Si il est prononcé une fois ou deux fois, ça m'aura échappé. Oui, mais vous vous rattrapez par la suite.",
+                    "score": 82,
+                    "start": 2958.888,
+                    "end": 2974.27
                 }
             ]
         },
