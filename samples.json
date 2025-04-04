@@ -1,6 +1,6 @@
 {
-    "date": "Mis à jour le 04/04/2025 à 17:04",
-    "unix": 1743779096,
+    "date": "Mis à jour le 04/04/2025 à 17:18",
+    "unix": 1743779910,
     "shows": [
         {
             "title": "Bachaga Boualam : itinéraire et engagements d'un dignitaire harki",
@@ -974,6 +974,45 @@
                     "score": 91,
                     "start": 1136.956,
                     "end": 1163.79
+                }
+            ]
+        },
+        {
+            "title": "Archéologie des parfums : voyage dans l’arôme antique",
+            "id": "af684bea-a55d-455a-84d8-fb01d44bb426",
+            "show": "L'Entretien archéologique",
+            "show_id": "f8a6ea7b-749a-4702-9961-dff3d9750b9d",
+            "chapo": "Durant l’Antiquité, on utilisait des parfums dans l’espace méditerranéen pour des pratiques religieuses, mais aussi pour se soigner ou simplement pour le plaisir. Comment fabriquait-on ces parfums et que pouvaient-ils sentir ? L’archéologie des sens nous éclaire. ",
+            "magnetotheque_id": "2025C26375S0094",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/l-entretien-archeologique/archeologie-des-parfums-voyage-dans-l-arome-antique-7895927",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/10267-04.04.2025-ITEMA_24091115-2025C26375S0094-NET_MFC_CD50744E-1E84-43F0-AC30-59A1346ED0A8-21.mp3",
+            "duration": 1713,
+            "date": 1743778725,
+            "settings": [
+                "savoirs"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "Comment les statues antiques étaient parfumées ?",
+                    "extrait": "« Oui, alors évidemment les résultats sont très intéressants et viennent confirmer un nombre de connaissances que nous avions déjà, donc grâce aux sources textuelles et grâce aussi à d'autres analyses qui avaient été faites il y a déjà quelques années. Alors le fait de, ce n'est pas seulement les statues de marbre ou les statues de pierre que l'on va parfumer, on parfume aussi par exemple les statues en bois, les statues de bois sont nombreuses dans l'Antiquité. Et plus on recule dans le temps, en fait, ces statues en bois étaient nombreuses. Et en effet, on les recouvrait d'huile parfumée. Alors, d'huile parfumée, donc dans l'article, c'est de l'huile parfumée à la rose, ce qui n'a strictement rien d'étonnant, parce que, on va dire, dans le premier texte de notre culture occidentale, donc à savoir l'œuvre d'Homère, l'Iliade et l'Odyssée, eh bien, Aphrodite se parfume à la rose. »",
+                    "score": 90,
+                    "start": 115.758,
+                    "end": 165.822
+                },
+                {
+                    "titre": "Les parfums antiques : un marqueur social puissant !",
+                    "extrait": "« Alors, bien sûr que c'est un marqueur social fort, et même très très fort. Une fois de plus, par l'apparence et par les odeurs. Si vous achetez un parfum exotique, évidemment que vous mettez en évidence, on va dire, votre dimension sociale, aristocratique en particulier. Mais on s'aperçoit, si on prend le cas d'Athènes, parce qu'évidemment, Athènes, c'est le cas le plus connu, au niveau des images, par exemple, on voit que les citoyens, donc ont à la main, ou plutôt suspendu au poignet, le petit arribal. »",
+                    "score": 85,
+                    "start": 573.746,
+                    "end": 606.987
+                },
+                {
+                    "titre": "Les secrets de la fabrication des parfums antiques révélés !",
+                    "extrait": "« Alors, on le sait, à partir justement des fouilles de Jean-Pierre Brun, mais aussi des textes, et en particulier des textes de Théophrase, de Dioscoride, mais aussi de Pline l'Ancien, la méthode principale, c'est l'enfleurage, que ce soit l'enfleurage à froid ou l'enfleurage à chaud, c'est-à-dire la macération. Si vous avez des matériaux végétaux qui sont très fragiles, comme les pétales de rose par exemple, là ça va être un enfleurage à froid ou un enfleurage avec une huile qui est très très peu chauffée. »",
+                    "score": 88,
+                    "start": 700.645,
+                    "end": 730.857
                 }
             ]
         },
@@ -6979,6 +7018,45 @@
                     "score": 95,
                     "start": 269.081,
                     "end": 288.337
+                }
+            ]
+        },
+        {
+            "title": "Elizebeth Friedman : la cryptologue secrète",
+            "id": "9548dc6a-5745-48cb-8a43-baf09e15174e",
+            "show": "Sciences chrono",
+            "show_id": "117ba5cb-7234-4a65-b5a6-c5995d5fa9d6",
+            "chapo": "De la recherche de codes secrets dans l'œuvre de Shakespeare à la traque d’espions nazis, Elizebeth Friedman est l’une des cryptologues les plus remarquables du XXe. \"Sciences Chrono\" revient sur le parcours de celle qui a réussi à décrypter la machine Enigma à l’aide d’un papier et d’un crayon.",
+            "magnetotheque_id": "2025C51809S0094",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/sciences-chrono/elizebeth-friedman-3697843",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/14312-04.04.2025-ITEMA_24091135-2025C51809S0094-NET_MFC_B9D3A0B5-8EB1-4A34-B371-7A6792870DC8-21.mp3",
+            "duration": 1810,
+            "date": 1743778725,
+            "settings": [
+                "savoirs"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "Comment une bibliothécaire a changé le cours de l'histoire ?",
+                    "extrait": "\"Je suis donc rendue dans cette bibliothèque pour voir le livre de Shakespeare. Après ça, j'ai discuté avec la bibliothécaire, qui était diplômée du Alhamb College de Richmond, dans l'Indiana, 'L'Indiana est mon état d'origine. Mes nombreux ancêtres vivaient à Richmond et ont beaucoup contribué au développement de cette partie de l'Indiana.' Je lui ai donc dit 'Je cherche un emploi, avez-vous quelque chose à m'offrir ?' Elle m'a répondu 'Il y a un homme qui m'a demandé de trouver une jeune personne versée dans la littérature anglaise et connaissant bien Shakespeare.'\"",
+                    "score": 90,
+                    "start": 223.464,
+                    "end": 255.66
+                },
+                {
+                    "titre": "Le secret d'Elisabeth Friedman : déchiffrer la machine Enigma avec un crayon !",
+                    "extrait": "\"En Europe, on connaît l'histoire d'Alan Turing, qui est assez répandue, qui lui va construire une machine pour faire face à cette machine. Aux Etats-Unis, peut-être pour des raisons budgétaires, Elisabeth ne peut pas construire de machine, elle continue à avoir son papier et son crayon pour faire face à cette machine.\"",
+                    "score": 95,
+                    "start": 1337.177,
+                    "end": 1353.831
+                },
+                {
+                    "titre": "Comment Elisabeth Friedman a démantelé la mafia américaine ?",
+                    "extrait": "\"Son travail est tellement indispensable et il y a tellement de travail aussi, cette pile de dossiers, que les gardes-côtes vont créer une unité pour elle et ils vont la nommer cryptanalyste en chef. Donc, elle va pouvoir embaucher qui elle veut et aussi avoir un salaire, ce qui est aussi très rare pour les femmes à cette époque.\"",
+                    "score": 92,
+                    "start": 1085.232,
+                    "end": 1102.432
                 }
             ]
         },
