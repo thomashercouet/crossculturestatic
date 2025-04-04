@@ -1,6 +1,6 @@
 {
-    "date": "Mis à jour le 04/04/2025 à 18:22",
-    "unix": 1743783777,
+    "date": "Mis à jour le 04/04/2025 à 18:36",
+    "unix": 1743784566,
     "shows": [
         {
             "title": "Bachaga Boualam : itinéraire et engagements d'un dignitaire harki",
@@ -6322,6 +6322,73 @@
                     "score": 92,
                     "start": 1305.756,
                     "end": 1324.964
+                }
+            ]
+        },
+        {
+            "title": "GRAND REPORTAGE, émission du vendredi 04 avril 2025",
+            "id": "46955991-1ec4-46f8-af02-82281946cbcf",
+            "show": "Le Grand Reportage",
+            "show_id": "b06537aa-40f1-11e5-9fe0-005056a87c89",
+            "chapo": "",
+            "magnetotheque_id": "2025C9549S0094",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/le-grand-reportage/grand-reportage-emission-du-vendredi-04-avril-2025-5641340",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/10084-04.04.2025-ITEMA_24091114-2025C9549S0094-NET_MFC_5A985B59-939B-4620-AE67-52349864AFCF-21.mp3",
+            "duration": 3500,
+            "date": 1743782311,
+            "settings": [
+                "actu"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "Comment la Martinique peut-elle sortir de la dépendance alimentaire ?",
+                    "extrait": "« La Martinique doit sortir d'une économie de comptoir », analyse le ministre, « rompre avec la dépendance aux importations, favoriser la production locale et l'autonomie alimentaire ».",
+                    "score": 90,
+                    "start": 103.171,
+                    "end": 113.26
+                },
+                {
+                    "titre": "Pourquoi les Martiniquais continuent-ils de souffrir de la vie chère ?",
+                    "extrait": "« Inacceptable, révoltant, inexplicable, c'est ainsi que Manuel Valls qualifie l'écart de prix entre les Antilles et l'Hexagone. »",
+                    "score": 85,
+                    "start": 58.974,
+                    "end": 66.278
+                },
+                {
+                    "titre": "L'impact de la colonisation sur l'agriculture martiniquaise",
+                    "extrait": "« C'est d'abord le produit d'une histoire, celle de la colonisation, qui a spécialisé le territoire, vous le disiez, dans les cultures dédiées à l'export et à la métropole. »",
+                    "score": 88,
+                    "start": 150.869,
+                    "end": 157.737
+                },
+                {
+                    "titre": "Comment la chlordécone a-t-elle contaminé la Martinique ?",
+                    "extrait": "« La culture de la banane, c'est aussi celle qui a généralisé l'utilisation d'un insecticide puissant, la chlordécone. Cela a causé une contamination généralisée, durable des écosystèmes et des effets délétères sur la santé humaine. »",
+                    "score": 92,
+                    "start": 162.802,
+                    "end": 175.285
+                },
+                {
+                    "titre": "Pourquoi la production locale est-elle si faible en Martinique ?",
+                    "extrait": "« Aujourd'hui, près de 80% des produits alimentaires sont importés, principalement depuis la France et les pays de l'Union Européenne. »",
+                    "score": 87,
+                    "start": 116.921,
+                    "end": 123.523
+                },
+                {
+                    "titre": "Comment relancer l'agriculture diversifiée en Martinique ?",
+                    "extrait": "« Relancer une agriculture diversifiée, c'est un vrai changement d'orientation pour une île longtemps dédiée aux cultures d'exportation, la banane et la canne à sucre. »",
+                    "score": 89,
+                    "start": 603.526,
+                    "end": 611.729
+                },
+                {
+                    "titre": "La défiance des consommateurs face aux produits locaux",
+                    "extrait": "« Il y a un autre type à l'opposé de consommateur qui est le consommateur qui est en situation de défiance totale. »",
+                    "score": 84,
+                    "start": 1366.989,
+                    "end": 1373.892
                 }
             ]
         },
