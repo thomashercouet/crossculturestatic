@@ -1,6 +1,6 @@
 {
-    "date": "Mis à jour le 04/04/2025 à 19:01",
-    "unix": 1743786116,
+    "date": "Mis à jour le 04/04/2025 à 19:15",
+    "unix": 1743786954,
     "shows": [
         {
             "title": "Bachaga Boualam : itinéraire et engagements d'un dignitaire harki",
@@ -282,6 +282,52 @@
                     "score": 95,
                     "start": 229.72,
                     "end": 248.713
+                }
+            ]
+        },
+        {
+            "title": "Pourquoi le racisme anti-asiatique est-il passé sous silence ?",
+            "id": "c50d6650-1273-4c89-96af-8c1c7347a1d7",
+            "show": "Questions du soir : le débat",
+            "show_id": "df67029c-4820-4a4b-83df-6c2c88bb5840",
+            "chapo": "Souvent invisibilisé, le racisme anti-asiatique reste peu dénoncé. Entre clichés hérités du passé colonial, humour douteux et violences banalisées, les personnes d’origine asiatique en France témoignent d’un racisme quotidien, rarement reconnu ni combattu à la hauteur de ses effets.",
+            "magnetotheque_id": "2025C36267S0094",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/pourquoi-le-racisme-anti-asiatique-est-il-passe-sous-silence-3379083",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/10175-04.04.2025-ITEMA_24091112-2025C36267S0094-NET_MFC_24945E43-213B-4C4E-8552-B0A60703A553-21.mp3",
+            "duration": 2242,
+            "date": 1743785925,
+            "settings": [
+                "actu"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "Comment le racisme anti-asiatique se cache derrière des blagues ?",
+                    "extrait": "« Je me suis dit, en 2016, pourquoi est-ce que j'entends ce type de blague que j'entendais pendant la cour de récréation ? Qu'est-ce qui s'est passé pendant 20-25 ans ? C’est-à-dire que les choses n'ont pas du tout changé ? »",
+                    "score": 90,
+                    "start": 894.12,
+                    "end": 908.99
+                },
+                {
+                    "titre": "Le mythe de la minorité modèle : un piège ?",
+                    "extrait": "« Ce qu'il faut savoir, c'est que ces stéréotypes positifs sont très ambivalents parce qu'ils peuvent être enfermants. »",
+                    "score": 85,
+                    "start": 441.841,
+                    "end": 447.103
+                },
+                {
+                    "titre": "Pourquoi le racisme anti-asiatique est-il si souvent ignoré ?",
+                    "extrait": "« C'est un racisme tout aussi violent, tout aussi latent, mais un racisme passé sous silence. »",
+                    "score": 95,
+                    "start": 1.383,
+                    "end": 6.384
+                },
+                {
+                    "titre": "Le poids de l'histoire coloniale sur le racisme d'aujourd'hui",
+                    "extrait": "« En fait, le problème, c'est l'amnésie. On ne peut pas comprendre les discriminations qu'il y a aujourd'hui si on ne comprend pas l'histoire coloniale. »",
+                    "score": 92,
+                    "start": 2003.544,
+                    "end": 2010.567
                 }
             ]
         },
