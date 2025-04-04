@@ -1,6 +1,6 @@
 {
-    "date": "Mis à jour le 04/04/2025 à 19:40",
-    "unix": 1743788457,
+    "date": "Mis à jour le 04/04/2025 à 19:54",
+    "unix": 1743789248,
     "shows": [
         {
             "title": "Bachaga Boualam : itinéraire et engagements d'un dignitaire harki",
@@ -111,6 +111,45 @@
                     "score": 95,
                     "start": 191.835,
                     "end": 261.425
+                }
+            ]
+        },
+        {
+            "title": "Comment faire une sociologie des animaux ?",
+            "id": "dced4862-86db-4685-b75a-c07ff0255956",
+            "show": "Questions du soir : l'idée",
+            "show_id": "18d2d677-e679-453c-aec9-76ddef22ddb4",
+            "chapo": "Comment faire de la sociologie sans paroles, sans humains, sans langage articulé ? En observant les animaux comme des sujets sociaux, cette réflexion invite à déplacer notre regard, à réinterroger nos méthodes, nos catégories… et notre place parmi les vivants.",
+            "magnetotheque_id": "2025C53458S0094",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-l-idee/comment-faire-une-sociologie-des-animaux-3213708",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/25343-04.04.2025-ITEMA_24091146-2025C53458S0094-NET_MFC_6EB56564-780E-4AC5-905F-950F4C2DBFE5-21.mp3",
+            "duration": 1532,
+            "date": 1743787725,
+            "settings": [
+                "savoirs"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "Comment les vaches construisent-elles leur société ?",
+                    "extrait": "« Non seulement j'ai participé à la vie des vaches, mais de manière plus profonde, j'ai participé à la construction de leur société qui est transitoire, car le destin d'une vache, malheureusement, est assez tragique. Dans la mesure où elles sont réunies un peu de manière aléatoire par l'éleveur en avril, quand elles sortent de stabulation, l'éleveur choisit deux vieilles, deux jeunes, deux entre deux âges et un taureau, et les place dans un champ. Et ces vaches n'ont pas forcément d'affinité... Et ce que j'ai vu après les premiers jours où il y a des interactions parfois agressives que je notais tout à fait bêtement, en plus en utilisant les numéros des oreilles, des boucles d'oreilles, vous voyez, eh bien au bout d'une semaine, les vaches font ce que fait tout être normalement constitué, c'est-à-dire qu'elles construisent une société vivable où elles peuvent éprouver du plaisir. Et donc, on voit s'établir des amitiés, on voit s'établir aussi l'exclusion de certaines qui sont trop bougones. »",
+                    "score": 95,
+                    "start": 240.803,
+                    "end": 304.432
+                },
+                {
+                    "titre": "Les émotions animales : un monde à découvrir",
+                    "extrait": "« Oui, alors je passe quand même une longue introduction à expliquer que l'anthropomorphisme n'est pas le diable, et que le diable c'est plutôt l'anthropocentrisme. Je développe, j'utilise un système de pensée que Eric Baratet, que vous avez reçu, utilise aussi, enfin un cadre qu'il appelle l'anthropomorphisme de questionnement, et que des éthologues américains, Gordon Burghardt entre autres, appellent l'anthropomorphisme critique. qui veut qu'en prenant acte du fait que le monde perçu par un animal diffère totalement d'une autre, on peut toutefois approcher au plus près de ce monde, en non seulement, dit Burghardt, chaussant les chaussures de l'animal, mais aussi en marchant avec, c'est-à-dire en comprenant ce qui dans l'univers de l'animal est saillant, en essayant de voir à travers ses yeux et ses propres cadres de ce qui l'intéresse, etc. »",
+                    "score": 90,
+                    "start": 517.253,
+                    "end": 575.675
+                },
+                {
+                    "titre": "La sociologie des animaux : une nouvelle perspective",
+                    "extrait": "« Alors d'abord, Éric Baraté et moi, on marche dans la main depuis 15 ans. Donc ce qu'il fait pour l'histoire, j'essaie de le faire pour l'anthropologie et la sociologie. C'est pour ça qu'on vous a invité justement à quelques semaines. Le fond, c'est est-ce que les sciences humaines et sociales peuvent être appliquées à des sociétés non humaines ? Et nos réponses sont évidemment oui. Donc ce que Baraté explique pour l'histoire, alors la sociologie c'est quoi ? C'est une société à un moment T de son histoire ? »",
+                    "score": 85,
+                    "start": 1069.727,
+                    "end": 1095.585
                 }
             ]
         },
