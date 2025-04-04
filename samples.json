@@ -1,6 +1,6 @@
 {
-    "date": "Mis à jour le 04/04/2025 à 20:58",
-    "unix": 1743793136,
+    "date": "Mis à jour le 04/04/2025 à 21:14",
+    "unix": 1743794063,
     "shows": [
         {
             "title": "Bachaga Boualam : itinéraire et engagements d'un dignitaire harki",
@@ -400,6 +400,74 @@
                     "score": 90,
                     "start": 1094.603,
                     "end": 1118.165
+                }
+            ]
+        },
+        {
+            "title": "A Poitiers, quand le MMA remplit les arenas",
+            "id": "32b0240a-f2bc-4560-b33e-55f332c94c99",
+            "show": "Douce France",
+            "show_id": "c1c5bb54-b9e9-4549-82e5-24892a5070bb",
+            "chapo": "Légalisé en compétition depuis 2020, le MMA (Mixed Martial Arts) s'est fait une place parmi les sports de combat déjà présents en France. Le succès est au rendez-vous, y compris chez les jeunes et le grand public, loin des clichés associant ce sport à l'ultra violence. ",
+            "magnetotheque_id": "2025C45177S0094",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/douce-france/a-poitiers-quand-le-mma-remplit-les-arenas-6878676",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/22825-04.04.2025-ITEMA_24091151-2025C45177S0094-NET_MFC_6CFD0CA1-C5B8-4FD4-8ADD-B3B268F528D5-21.mp3",
+            "duration": 3511,
+            "date": 1743793125,
+            "settings": [
+                "savoirs",
+                "temoignage"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "Comment le MMA a conquis le monde ?",
+                    "extrait": "\"Le fait qu'il y ait tous les sports de combat réunis dans un seul sport, je pense que ça attire que ce soit les mecs du judo, du taekwondo, de la boxe style, de la lutte, de l'anglaise, un peu de partout. Même les fans qui ne pratiquent pas non plus, ça attire un peu tout le monde. Et ça touche toutes les nationalités aussi. Vous regardez, dans tous les pays du monde maintenant, on parle de MMA.\"",
+                    "score": 90,
+                    "start": 17.122,
+                    "end": 39.158
+                },
+                {
+                    "titre": "Le MMA, un sport de combat à part entière",
+                    "extrait": "\"C'est devenu un art martial à part entière. Et vous êtes surtout un artisan de sa légalisation en France.\"",
+                    "score": 85,
+                    "start": 209.477,
+                    "end": 214.4
+                },
+                {
+                    "titre": "Pourquoi le MMA a-t-il mis 15 ans à être légalisé en France ?",
+                    "extrait": "\"C'est vrai que le chemin était long, mais si on y regarde de plus près... le seul problème, c'est que les réponses, on les a données assez tôt, et si les autorités publiques s'étaient un petit peu penchées sur le sujet, on aurait dû être légalisé plus tôt.\"",
+                    "score": 88,
+                    "start": 523.076,
+                    "end": 543.712
+                },
+                {
+                    "titre": "Le MMA, un écosystème moderne",
+                    "extrait": "\"Le MMA, via sa version très spectaculaire et professionnelle de l'UFC, a été en quelque sorte un petit peu le produit parfait pour le monde d'aujourd'hui. Puisque si aujourd'hui les réseaux sociaux permettent des diffusions très larges et se nourrit énormément du MMA et inversement...\"",
+                    "score": 92,
+                    "start": 1252.736,
+                    "end": 1275.332
+                },
+                {
+                    "titre": "Le MMA, un sport de spectacle ?",
+                    "extrait": "\"Le MMA, c'est l'équilibre parfait entre le sport et le spectacle. Ils ont trouvé cet équilibre parfait.\"",
+                    "score": 87,
+                    "start": 1450.108,
+                    "end": 1458.655
+                },
+                {
+                    "titre": "La violence, un besoin humain ?",
+                    "extrait": "\"On a besoin... Regardez les enfants. Dès qu'on est contrarié, les gestes qu'on a, ce ne sont pas des gestes de tendresse, ce sont des gestes de violence. Et ça, ce n'est pas les parents qui leur montrent. C'est inné.\"",
+                    "score": 90,
+                    "start": 2477.63,
+                    "end": 2490.979
+                },
+                {
+                    "titre": "Le MMA, un sport pour tous ?",
+                    "extrait": "\"Il faut vraiment faire la distinction entre ce que l'on voit à la télé avec les combats professionnels et même les combats amateurs qui sont de très gros niveaux maintenant et ce qui se fait dans la grande majorité en effet des pratiquants en France.\"",
+                    "score": 89,
+                    "start": 2934.022,
+                    "end": 2948.065
                 }
             ]
         },
