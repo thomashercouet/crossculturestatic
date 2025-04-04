@@ -1,6 +1,6 @@
 {
-    "date": "Mis à jour le 04/04/2025 à 22:03",
-    "unix": 1743797036,
+    "date": "Mis à jour le 04/04/2025 à 22:17",
+    "unix": 1743797827,
     "shows": [
         {
             "title": "Bachaga Boualam : itinéraire et engagements d'un dignitaire harki",
@@ -8198,6 +8198,38 @@
                     "score": 88,
                     "start": 1002.355,
                     "end": 1008.641
+                }
+            ]
+        },
+        {
+            "title": "Hôpital militaire, 1945",
+            "id": "3bb0d7ee-136f-4207-8bf9-08a1d8ab03c6",
+            "show": "Lectures du soir",
+            "show_id": "ee7280ad-40f6-11e5-9fe0-005056a87c89",
+            "chapo": "\"La guerre est pratiquement finie. Tous nos problèmes sont derrière nous. Notre vie commence à peine et elle atteindra peu à peu son plein épanouissement et sa beauté. Tu y crois j’espère ? Tu le dois… \"",
+            "magnetotheque_id": "2025C17591E0064",
+            "seo_url": "",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/12024-04.04.2025-ITEMA_24090555-2025C17591E0064-ITE_00147987_RSCE-21.mp3",
+            "duration": 1214,
+            "date": 1743796647,
+            "settings": [
+                "interview"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "« La guerre est pratiquement finie, tous nos problèmes sont derrière nous »",
+                    "extrait": "La guerre est pratiquement finie, tous nos problèmes sont derrière nous. Notre vie commence à peine et atteindra peu à peu son plein épanouissement et sa beauté. Tu y crois, j'espère ? Tu le dois.",
+                    "score": 95,
+                    "start": 637.42,
+                    "end": 652.751
+                },
+                {
+                    "titre": "Comment l'amour transcende la guerre ?",
+                    "extrait": "Je veux qu'à chaque instant tu sentes ma tendresse. Je veux que tu la sentes dans chacun de tes muscles, de tes nerfs, de tes os. C'est de cette façon-là que je sens ton amour.",
+                    "score": 90,
+                    "start": 393.057,
+                    "end": 404.777
                 }
             ]
         }
