@@ -1,6 +1,6 @@
 {
-    "date": "Mis à jour le 04/04/2025 à 15:59",
-    "unix": 1743775198,
+    "date": "Mis à jour le 04/04/2025 à 16:13",
+    "unix": 1743776006,
     "shows": [
         {
             "title": "Bachaga Boualam : itinéraire et engagements d'un dignitaire harki",
@@ -847,6 +847,73 @@
                     "extrait": "La République du Soja, c'est une expression de marketing, en fait, qui... Les mêmes entreprises Sojeras, qui s'occupent de soja, ont formulé. Donc je pense que c'est Singenta, qui est un groupe spécialisé dans la chimie et l'agroalimentaire. Voilà, qui a formulé cette expression. Et c'est comme une pub, c'est pour eux une manière de visualiser leur extension et leur puissance.",
                     "start": 934.09,
                     "end": 963.992
+                }
+            ]
+        },
+        {
+            "title": "Dans la bibliothèque de Maud Le Pladec ",
+            "id": "7090a997-bfcd-414b-a59e-4dcda9226655",
+            "show": "Le Book Club",
+            "show_id": "9919a6d4-3da2-4dd9-8103-77cef065f78d",
+            "chapo": "Aujourd’hui c’est la danseuse et chorégraphe Maud Le Pladec qui nous fait visiter ses rayonnages. On y trouve de la poésie avec Audre Lorde et Rosmarie Waldrop mais aussi un manifeste contre le patriarcat signé Alex Tamécylia et le roman qui a du chien de Cédric Sapin-Defour. \n\n",
+            "magnetotheque_id": "2025C49162E0011",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/le-book-club/dans-la-bibliotheque-de-maud-le-pladec-7394308",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/23875-04.04.2025-ITEMA_24091143-2025C49162E0011-NET_MFC_5BEBE610-8CE8-412B-A4BB-CD424DBC6FA8-21.mp3",
+            "duration": 3547,
+            "date": 1743775125,
+            "settings": [
+                "interview"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "Comment la danse et la littérature s'entrelacent ?",
+                    "extrait": "\"Je fais beaucoup de contes, je m'inspire beaucoup. Je pars des mots, en fait. Beaucoup, beaucoup. Depuis le début de votre travail, c'est comme ça ? Depuis toujours.\"",
+                    "score": 85,
+                    "start": 125.452,
+                    "end": 132.959
+                },
+                {
+                    "titre": "La solitude et la découverte de la lecture",
+                    "extrait": "\"Elle est arrivée, je dirais, après le bac, quand j'ai commencé à partir de chez papa-maman et que le soir, je me sentais seule. Tout simplement. Et que le soir, je me sentais seule à l'époque.\"",
+                    "score": 90,
+                    "start": 300.195,
+                    "end": 315.132
+                },
+                {
+                    "titre": "La puissance des mots dans la danse",
+                    "extrait": "\"Il y a quand même dans la danse contemporaine et dans notre façon de créer, mais aussi de transmettre un vrai pouvoir des mots, puisque moi, parfois, je montre la danse, mais parfois, je la montre pas, je l'explique.\"",
+                    "score": 80,
+                    "start": 207.767,
+                    "end": 221.533
+                },
+                {
+                    "titre": "Pourquoi la poésie est-elle essentielle en temps de crise ?",
+                    "extrait": "\"Je trouve que quand le monde va mal, je me plonge dans la poésie. Parce que j'ai l'impression que quand tout va mal, il ne reste que ça.\"",
+                    "score": 95,
+                    "start": 655.805,
+                    "end": 663.61
+                },
+                {
+                    "titre": "L'amour inconditionnel d'un chien",
+                    "extrait": "\"Avoir un chien, c'est accueillir un amour immarcessible. On ne se sépare jamais, la vie s'en charge, les déclins sont illusoires et les fins insoutenables.\"",
+                    "score": 92,
+                    "start": 2571.683,
+                    "end": 2582.485
+                },
+                {
+                    "titre": "La voix d'Audrey Lorde résonne encore aujourd'hui",
+                    "extrait": "\"Quand vous naissez noire, une femme noire dans une société qui définit l'humain comme blanc et masculin, vous reconnaissez très vite que la survie n'est pas une question théorique, mais une bataille de tous les jours.\"",
+                    "score": 88,
+                    "start": 1235.194,
+                    "end": 1252.145
+                },
+                {
+                    "titre": "La nudité sans dette : une métaphore puissante",
+                    "extrait": "\"Une nudité sans dette, c'est tellement beau. Je pourrais faire un titre. Et d'un seul coup, on se dit, et tiens, qu'est-ce que ce serait d'aller vers une nudité sans dette ?\"",
+                    "score": 87,
+                    "start": 2407.391,
+                    "end": 2414.995
                 }
             ]
         },
