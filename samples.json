@@ -1,6 +1,6 @@
 {
-    "date": "Mis à jour le 07/04/2025 à 19:06",
-    "unix": 1744045583,
+    "date": "Mis à jour le 07/04/2025 à 19:19",
+    "unix": 1744046368,
     "shows": [
         {
             "title": "Critique BD : \"Les moutons veulent du sel\" & \"Ce que nous avons perdu dans le feu\"",
@@ -3198,6 +3198,52 @@
                     "score": 88,
                     "start": 1248.797,
                     "end": 1254.34
+                }
+            ]
+        },
+        {
+            "title": "La guerre commerciale signe-t-elle la fin de la mondialisation ?",
+            "id": "c419e322-d0ec-43c7-8a8c-ee7e71d5bbc3",
+            "show": "Questions du soir : le débat",
+            "show_id": "df67029c-4820-4a4b-83df-6c2c88bb5840",
+            "chapo": "Face à la hausse des droits de douane et à la montée des logiques souverainistes, la mondialisation entre dans une phase de recomposition. Ce nouvel ordre commercial, plus fragmenté, interroge la pérennité du multilatéralisme et la place des économies ouvertes comme celle de l’Europe.",
+            "magnetotheque_id": "2025C36267S0097",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/la-guerre-commerciale-signe-t-elle-la-fin-de-la-mondialisation-6244602",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/25344-07.04.2025-ITEMA_24095240-2025C36267S0097-NET_MFC_C1994CDF-A6D9-4456-9574-CB1CB3ABF8C7-21.mp3",
+            "duration": 2324,
+            "date": 1744045125,
+            "settings": [
+                "actu"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "La mondialisation est-elle en train de mourir ?",
+                    "extrait": "« D'ici quelques instants, je vais signer un décret présidentiel historique qui va instaurer les droits de douane réciproques sur les pays dans le monde. Réciproques, cela signifie que ce qu'ils nous feront, nous leur ferons également. C'est aussi simple que cela. »",
+                    "score": 90,
+                    "start": 106.335,
+                    "end": 122.103
+                },
+                {
+                    "titre": "Les États-Unis au cœur de la mondialisation : un constat alarmant",
+                    "extrait": "« Je dirais tout d'abord qu'il faut bien garder à l'esprit que la mondialisation ne correspond pas seulement à la multiplication des flux commerciaux, financiers, migratoires, c'est aussi un processus sous supervision américaine. »",
+                    "score": 85,
+                    "start": 199.787,
+                    "end": 212.398
+                },
+                {
+                    "titre": "La guerre commerciale : un retour au protectionnisme ?",
+                    "extrait": "« Donald Trump nous rappelle que c'est lui qui va remodeler le commerce international au profit des États-Unis avec sa grande muraille douanière et que c'est vraiment un retour brutal. »",
+                    "score": 88,
+                    "start": 268.667,
+                    "end": 280.116
+                },
+                {
+                    "titre": "Le capitalisme de la finitude : une nouvelle ère ?",
+                    "extrait": "« Mon hypothèse, c'est que le capitalisme change de régime. Oui, alors vous, vous ne parlez pas de capitalisme d'État, mais de capitalisme de la finitude. Une alternance, en fait, entre une forme de capitalisme, que j'appelle le capitalisme de la finitude, et le capitalisme libéral. »",
+                    "score": 92,
+                    "start": 799.196,
+                    "end": 813.462
                 }
             ]
         },
