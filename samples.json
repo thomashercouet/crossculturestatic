@@ -1,6 +1,6 @@
 {
-    "date": "Mis à jour le 08/04/2025 à 11:00",
-    "unix": 1744102851,
+    "date": "Mis à jour le 08/04/2025 à 11:14",
+    "unix": 1744103642,
     "shows": [
         {
             "title": "Comment le libre-échange a traversé les siècles avec une aura positive",
@@ -1833,6 +1833,52 @@
                     "score": 95,
                     "start": 212.223,
                     "end": 231.576
+                }
+            ]
+        },
+        {
+            "title": "Pourquoi les saisons nous importent-elles ?",
+            "id": "dee85d60-f1fa-4b31-8afb-e37e0468d14a",
+            "show": "Le Pourquoi du comment : philo  ",
+            "show_id": "b6bd068b-da10-4d88-8d15-f0e1c87ed34b",
+            "chapo": "Les saisons rythment nos vies. Mais que révèle leur dérèglement ? Entre beauté, ordre cosmique et bouleversement climatique, notre attachement aux saisons dit quelque chose de plus profond : avons-nous encore des repères dans le monde qui change ?",
+            "magnetotheque_id": "2025C45539E0054",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/le-pourquoi-du-comment-philo/pourquoi-les-saisons-nous-importent-elles-4182130",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/22788-08.04.2025-ITEMA_24096482-2025C45539E0054-NET_MFC_61AAD9E7-9E58-4390-AA57-9EA39DA6947D-21.mp3",
+            "duration": 202,
+            "date": 1744102700,
+            "settings": [
+                "savoirs"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "« Il n'y a plus de saison » : un signe de panique climatique ?",
+                    "extrait": "« S'il y a une canicule en janvier et des tempêtes de neige en juin, et si le temps se dérègle, comme on dit fondamentalement, le dicton il n'y a plus de saison devient... Un signe d'une panique cosmique, d'une panique climatique qui nous entraîne en effet dans le sentiment que tout se dérègle et que notre vie elle-même n'aura plus de repères. »",
+                    "score": 95,
+                    "start": 39.566,
+                    "end": 59.518
+                },
+                {
+                    "titre": "La beauté des saisons : un reflet de l'ordre du monde",
+                    "extrait": "« Nous savons aussi que l'univers nous fera par sa beauté en général, la beauté qui peut être le signe de la vérité et de l'ordre du monde. Mais il y a aussi cette étrange beauté d'une lumière d'hiver qui n'est pas la même qu'une lumière d'automne et encore moins qu'une lumière de printemps ou la lumière de l'été. »",
+                    "score": 90,
+                    "start": 145.741,
+                    "end": 162.065
+                },
+                {
+                    "titre": "Pourquoi les saisons sont-elles essentielles à notre équilibre ?",
+                    "extrait": "« La première importance donc de la régularité des saisons, de cette alternance massive, cyclique, à peu près trois mois chacune entre le printemps, l'été, l'automne et l'hiver, c'est cette régularité cosmique. C'est le fait d'appartenir à un ordre du temps qui... se répète, qui est cyclique. »",
+                    "score": 92,
+                    "start": 49.292,
+                    "end": 77.928
+                },
+                {
+                    "titre": "La beauté de la mort : une leçon des saisons",
+                    "extrait": "« Oui, même ce qui meurt a sa beauté dans le froid de l'hiver. Oui, même ce qui renaît reviendra toujours avec la couleur du printemps. »",
+                    "score": 88,
+                    "start": 192.464,
+                    "end": 199.772
                 }
             ]
         },
