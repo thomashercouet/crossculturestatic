@@ -1,6 +1,6 @@
 {
-    "date": "Mis à jour le 08/04/2025 à 15:58",
-    "unix": 1744120734,
+    "date": "Mis à jour le 08/04/2025 à 16:12",
+    "unix": 1744121551,
     "shows": [
         {
             "title": "Comment le libre-échange a traversé les siècles avec une aura positive",
@@ -210,6 +210,66 @@
                     "score": 88,
                     "start": 1391.147,
                     "end": 1405.494
+                }
+            ]
+        },
+        {
+            "title": "Quand vient le fascisme en Europe 2/4 : Le coup d’Etat",
+            "id": "92afbcc7-9667-4402-be25-8c797872be5c",
+            "show": "LSD, la série documentaire",
+            "show_id": "fb8db8c6-20b0-4189-977e-07f112c3de79",
+            "chapo": "",
+            "magnetotheque_id": "2022C26362E8183",
+            "seo_url": "",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/10177-07.04.2025-ITEMA_24094690-2022C26362E8183-ITE_00128234_RSCE-21.mp3",
+            "duration": 3420,
+            "date": 1744127813,
+            "settings": [
+                "temoignage"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "« Parce que c'est la dictature »",
+                    "extrait": "« Le jour où c'est arrivé, j'avais 11 ans, j'étais au CM2. J'étais à la maison. Je me suis levée comme tous les jours pour aller à l'école et je me suis aperçue que mes parents n'étaient pas dans la maison. Comme on habitait à côté de mes oncles, je suis allée chez eux et là j'ai vu toute la famille, tous les adultes réunis autour de la radio. Ma mère m'a dit « tu n'as pas école aujourd'hui ». J'ai demandé pourquoi et elle a dit « parce que c'est la dictature ». J'ai demandé à ma mère, qu'est-ce que c'est la dictature ? Et ma mère a répondu, à partir de maintenant, ils vont attraper les gens, on va les mettre en prison, les envoyer en exil, on va les torturer et on va les tuer. Et moi j'ai compris que c'était comme la guerre. J'ai commencé à pleurer et je ne pouvais plus m'arrêter.",
+                    "score": 95,
+                    "start": 13.268,
+                    "end": 65.651
+                },
+                {
+                    "titre": "Comment l'armée a pris le pouvoir en Grèce ?",
+                    "extrait": "« En fait, on ne sait pas très bien ce qui se passe à Athènes ce matin. Depuis le début de la nuit, les relations télégraphiques et téléphoniques avec la Grèce sont rompues. Il faut dire que les employés des postes et télécommunications grecques sont de plus en grève depuis 24 heures. Les seules informations qui nous parviennent sont des rapports d'écoute de Radio Athènes. Radio Athènes annonce que l'armée a pris le pouvoir en Grèce depuis minuit. On attend une déclaration du chef d'état-major général. »",
+                    "score": 90,
+                    "start": 85.267,
+                    "end": 107.351
+                },
+                {
+                    "titre": "« C'était la guerre »",
+                    "extrait": "« Oui. Et pour moi, c'était la guerre. J'avais beaucoup entendu parler de la guerre par ma famille. Et pour moi, la dictature, c'était comme la guerre. J'ai vu mon oncle aller brûler ses papiers. Et ils m'ont dit que c'était interdit de sortir. Que tous ceux qui sortaient dans la rue risquaient de se faire tirer dessus. C'était le couvre-feu. »",
+                    "score": 92,
+                    "start": 296.301,
+                    "end": 322.907
+                },
+                {
+                    "titre": "Comment cacher un membre de la famille en danger ?",
+                    "extrait": "« Alors ils ont essayé de quitter la ville en voiture, mais ils ont été arrêtés. Ils ont fait comme s'ils ne savaient pas ce qui se passait, en disant qu'ils venaient d'un petit village. La police leur a dit, rentrez chez vous tout de suite et ne sortez pas, sinon vous êtes morts. Ils ont réussi à venir chez nous, mais notre cousine était en danger, donc on a cherché un moyen de la cacher. Nous connaissions quelqu'un qui avait une clinique psychiatrique, pas très loin de la maison. Et on a réussi à la mettre à l'abri là-bas, pendant un mois, pour être sûre qu'elle ne soit pas arrêtée. »",
+                    "score": 93,
+                    "start": 342.457,
+                    "end": 379.903
+                },
+                {
+                    "titre": "« Les gens, nos amis sont disparus »",
+                    "extrait": "« C'était une époque pour trouver un endroit pour rester. Très difficile. Parce que les gens, nos amis sont disparus. On ne savait pas où ils étaient. La Genèse, la Braquies, tous les amis, ils étaient cachés quelque part et on ne téléphonait pas. »",
+                    "score": 88,
+                    "start": 847.607,
+                    "end": 870.93
+                },
+                {
+                    "titre": "« C'était évident, il y avait des chars dans la ville »",
+                    "extrait": "« Tout d'abord, c'était évident parce qu'il y avait des chars qui circulaient dans la ville. Et puis, on a tout de suite mis les nouvelles à la radio et à la télévision. Et à l'époque, il n'y avait pas beaucoup de postes de télévision. Et nous avons appris qu'il y avait un couvre-feu, une interdiction de circuler. Je me rappelle que ma sœur était enceinte. Elle a accouché le 30 avril et nous n'avons même pas pu aller la voir à la clinique. »",
+                    "score": 89,
+                    "start": 1670.91,
+                    "end": 1702.962
                 }
             ]
         },
