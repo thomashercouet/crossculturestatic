@@ -1,6 +1,6 @@
 {
-    "date": "Mis à jour le 08/04/2025 à 12:05",
-    "unix": 1744106751,
+    "date": "Mis à jour le 08/04/2025 à 12:20",
+    "unix": 1744107605,
     "shows": [
         {
             "title": "Comment le libre-échange a traversé les siècles avec une aura positive",
@@ -592,6 +592,60 @@
                     "score": 70,
                     "start": 300.428,
                     "end": 310.115
+                }
+            ]
+        },
+        {
+            "title": "Sortir du giron de Moscou ?",
+            "id": "fbc8a004-ad82-472f-b98f-bae49d4d62a6",
+            "show": "Cultures Monde",
+            "show_id": "2358bc00-3f62-11e5-8314-005056a87c89",
+            "chapo": "Malgré l'accès l'indépendance des cinq anciennes républiques soviétiques en 1991, ces pays d'Asie centrale conservent des liens plus ou moins forts avec la Russie, via les échanges économiques, la culture ou la migration.",
+            "magnetotheque_id": "2025C16756S0098",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/cultures-monde/sortir-du-giron-de-moscou-7384879",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/11701-08.04.2025-ITEMA_24096465-2025C16756S0098-NET_MFC_6DECEA4A-82B6-4CA2-A475-A5249BDCCE39-21.mp3",
+            "duration": 3494,
+            "date": 1744106325,
+            "settings": [
+                "savoirs"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "Comment le Kazakhstan tourne-t-il le dos à la Russie ?",
+                    "extrait": "« Que n'a-t-on pas dit sur le sommet organisé le 9 novembre 2023 au Kazakhstan ? Il faut d'abord imaginer la scène. Vladimir Poutine est reçu par son homologue Kassim Jomar Tokayev. Les deux chefs d'État sont à la tribune pour une conférence de presse commune. Le président russe se félicite de ce que leur pays soit les plus proches alliés. Ce sont ses mots, la parole est à Tokayev qui marque une légère pause et se met à parler en Kazakh. Vladimir Poutine reste impassible, sauf qu'il ne comprend rien. Le Kazakh et le Russe n'ont rien à voir. Les membres de sa délégation paraissent d'ailleurs pris d'une légère angoisse. On les voit chercher leurs appareils de traduction. Or, les deux langues ont un statut officiel au Kazakhstan et il est d'usage d'utiliser le russe lors de ses rencontres officielles. Il n'en fallait pas plus pour que l'on dise que ce pays d'Asie centrale tournait désormais le dos à son ancienne tutelle. Tourner Kazakh, c'est le cas de le dire, l'homophonie était trop belle.",
+                    "start": 122.641,
+                    "end": 173.433
+                },
+                {
+                    "titre": "Pourquoi le passé soviétique continue-t-il de hanter l'Asie centrale ?",
+                    "extrait": "« Les Kazakhs ont une relation, et le Kazakhstan a une relation plus étroite et de plus longue durée, parce qu'il est le premier état, le premier espace à avoir été colonisé par l'Empire russe dès le début du XVIIIe siècle. Et plus généralement, pour ne pas revenir trop en arrière, c'est l'État qui, à la veille de la chute de l'URSS, comprenait le plus de populations russes et russophones. Les Kazakhs n'étaient que 39% de la population en 1991, aujourd'hui 70%. Ce qui fait que la russification, la présence du russe, l'attachement à une grande culture russe au sens général du terme est plus fortement implanté, imprégné que dans les autres républiques.",
+                    "start": 265.011,
+                    "end": 310.354
+                },
+                {
+                    "titre": "L'impact de la guerre en Ukraine sur l'Asie centrale : un tournant ?",
+                    "extrait": "« La guerre en Ukraine a donné au Kazakhstan une bonne occasion de prendre ses distances avec Moscou progressivement et lentement. Le Kazakhstan doit maintenant chercher un contrepoids géopolitique par rapport à la Russie. »",
+                    "start": 108.717,
+                    "end": 120.45
+                },
+                {
+                    "titre": "Comment les jeunes d'Asie centrale perçoivent-ils la Russie aujourd'hui ?",
+                    "extrait": "« En revanche, et là il y a une question qui me semble assez intéressante, c'est que leurs parents, eux, spontanément se tournent davantage vers la Russie. Et ce qui me conduit à souligner que la relation à la Russie, l'image qu'on a de la Russie, de la culture russe, de la langue russe, peut dépendre aussi des générations en fait ? Entre les générations qui sont nées et qui ont grandi à la période soviétique, voire qui ont même exercé une profession à la période soviétique, et celles qui sont nées après l'indépendance. »",
+                    "start": 662,
+                    "end": 693.861
+                },
+                {
+                    "titre": "La nostalgie soviétique : un sentiment partagé ?",
+                    "extrait": "« Donc, pour ce qui est du Kazakhstan, il y a, je dirais, plutôt un clivage social, mais aussi générationnel. Les élites, enfin, même parmi les élites, en fait, il y a des élites polarisées par la Russie et des élites totalement nationalistes et antirusses. Donc, en fait, c'est un paysage qui est très complexe. »",
+                    "start": 737.177,
+                    "end": 757.141
+                },
+                {
+                    "titre": "Les Tadjiks en Russie : victimes d'une xénophobie croissante ?",
+                    "extrait": "« Alors, depuis les attentats du Crocus City Hall et l'inculpation qui en a suivi des quatre Tadjiks qui ont été présentés quasi immédiatement devant les médias et qui sont toujours inculpés et dont on ne sait pas très bien encore quel est le contenu du dossier, mais en effet, a suscité une énorme vague de violences vis-à-vis des Tadjiks. »",
+                    "start": 2751.884,
+                    "end": 2784.782
                 }
             ]
         },
