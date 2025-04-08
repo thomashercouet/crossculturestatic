@@ -1,6 +1,6 @@
 {
-    "date": "Mis à jour le 08/04/2025 à 12:31",
-    "unix": 1744108312,
+    "date": "Mis à jour le 08/04/2025 à 14:17",
+    "unix": 1744114631,
     "shows": [
         {
             "title": "Comment le libre-échange a traversé les siècles avec une aura positive",
@@ -104,6 +104,38 @@
             ]
         },
         {
+            "title": "Critique littérature : avec \"Orbital\", Samantha Harvey nous suspend en apesanteur dans l'espace",
+            "id": "3c991392-6405-456a-b38c-8c8688391f0f",
+            "show": "Les Midis de Culture",
+            "show_id": "32a14af6-fc87-4f4f-a06e-39ccf8587119",
+            "chapo": "Les critiques discutent du cinquième roman de Samantha Harvey, \"Orbital\", une immersion contemplative au cœur de la station spatiale internationale.",
+            "magnetotheque_id": "2025C51852S1098",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/les-midis-de-culture/critique-litterature-avec-orbital-samantha-harvey-nous-suspend-en-apesanteur-dans-l-espace-8598066",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/18723-08.04.2025-ITEMA_24096443-2025C51852S1098-NET_MFC_D9BD0D6E-F7CC-444A-8B5A-74B1290C6887-21.mp3",
+            "duration": 1012,
+            "date": 1744107301,
+            "settings": [
+                "interview"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "Comment l'espace nous renvoie à notre humanité ?",
+                    "extrait": "« Plus on franchit un kilomètre loin de la Terre, plus on a une idée critique sur l'humanité elle-même. »",
+                    "score": 95,
+                    "start": 923.401,
+                    "end": 945.095
+                },
+                {
+                    "titre": "L'écriture de Samantha Harvey : entre beauté et sagesse ?",
+                    "extrait": "« Son écriture, elle est extrêmement dense. Elle est très, très efficace. »",
+                    "score": 90,
+                    "start": 834.348,
+                    "end": 837.57
+                }
+            ]
+        },
+        {
             "title": "Séverine Chavrier, metteuse en scène : \"Au théâtre, l'image c'est aussi du son\"",
             "id": "a5b72847-1007-405a-a7b0-df97d32113a7",
             "show": "Les Midis de Culture",
@@ -139,6 +171,45 @@
                     "score": 92,
                     "start": 1469.427,
                     "end": 1492.068
+                }
+            ]
+        },
+        {
+            "title": "Critique littérature : \"Orbital\" de Samantha Harvey & \"Le futur futur\" d'Adam Thrilwell",
+            "id": "cffdf6c9-892a-4c04-989d-9a29b03e5f93",
+            "show": "Les Midis de Culture",
+            "show_id": "32a14af6-fc87-4f4f-a06e-39ccf8587119",
+            "chapo": "Au programme du débat critique, de la littérature, avec deux romans anglais : \"Orbital\" de Samantha Harvey et \"Le futur futur\" d'Adam Thirlwell.",
+            "magnetotheque_id": "2025C51852S0098",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/les-midis-de-culture/critique-litterature-orbital-de-samantha-harvey-le-futur-futur-d-adam-thrilwell-5811355",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/12360-08.04.2025-ITEMA_24096461-2025C51852S0098-NET_MFC_D8C1100A-662C-4B62-9A8D-FD933AB45EC5-21.mp3",
+            "duration": 1654,
+            "date": 1744108125,
+            "settings": [
+                "interview"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "Comment la littérature peut-elle parler du cosmos ?",
+                    "extrait": "« Alors, je suis vraiment très très très mauvaise, en l'occurrence, parce que moi je déteste l'espace, en fait j'ai peur de l'espace. Toute évocation de planètes, d'étoiles, je ne vous parle même pas d'infini, ça m'angoisse profondément. »",
+                    "score": 85,
+                    "start": 199.928,
+                    "end": 213.535
+                },
+                {
+                    "titre": "L'émerveillement face à l'infini : un sujet politique ?",
+                    "extrait": "« C'est ça qui est en effet assez intéressant, c'est qu'on peut craindre l'avènement assez rapide dans la fiction d'une réflexion sur la question écologique, puisque quand aujourd'hui, puisque ça se situe aujourd'hui, il s'agit de regarder la planète Terre de loin. Évidemment, on pense tout de suite au phénomène massif de changement climatique et à ce qu'eux en perçoivent. »",
+                    "score": 90,
+                    "start": 505.4,
+                    "end": 524.654
+                },
+                {
+                    "titre": "Le futur futur : un roman qui défie les conventions !",
+                    "extrait": "« C'est un traité à la fois sur le temps. Sur le temps, c'est-à-dire, on a parlé du temps, mais c'est... En fait, à un moment, le mot est lâché et ça m'a éclairé, c'est le multivers. C'est le premier roman en multivers, avec des romans avec des effets spéciaux. »",
+                    "score": 88,
+                    "start": 1391.147,
+                    "end": 1405.494
                 }
             ]
         },
@@ -400,6 +471,52 @@
                     "score": 84,
                     "start": 674.849,
                     "end": 685.155
+                }
+            ]
+        },
+        {
+            "title": "La comédienne Nina Meurisse navigue en eaux troubles dans la série \"37 secondes\"",
+            "id": "797dd2e4-68f2-4200-b7d6-fd7817f42e0c",
+            "show": "Les Midis de Culture",
+            "show_id": "32a14af6-fc87-4f4f-a06e-39ccf8587119",
+            "chapo": "Au sein de la série \"37 secondes\", inspiré du drame du naufrage du Bugaled Breizh, Nina Meurisse incarne Marie Madec, une jeune femme dont l’engagement sans faille permet aux familles des naufragés d’obtenir la considération de la justice.",
+            "magnetotheque_id": "2025C51852S3098",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/les-midis-de-culture/la-comedienne-nina-meurisse-navigue-en-eaux-troubles-dans-la-serie-37-secondes-5024341",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/12360-08.04.2025-ITEMA_24096461-2025C51852S3098-NET_MFC_12268624-F3D5-4B39-9ECE-CAC53A4AB8A8-21.mp3",
+            "duration": 2295,
+            "date": 1744111725,
+            "settings": [
+                "interview"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "« La mer, elle prend, elle demande pas »",
+                    "extrait": "« La mer, elle prend, elle demande pas. Alors oui, on en a connu des naufrages. On jette une couronne à la mer, et puis on garde notre chagrin pour nous. »",
+                    "score": 95,
+                    "start": 543.644,
+                    "end": 551.547
+                },
+                {
+                    "titre": "« Il faut se battre et ne pas lâcher pour obtenir la vérité »",
+                    "extrait": "« C'est de ça dont ça parle, c'est que parfois il faut se battre et il ne faut pas lâcher pour obtenir la vérité. »",
+                    "score": 90,
+                    "start": 391.531,
+                    "end": 402.421
+                },
+                {
+                    "titre": "« Les femmes n'ont pas besoin des hommes pour s'émanciper »",
+                    "extrait": "« Je pense que les femmes n'ont pas du tout besoin des hommes pour s'émanciper, elles ont besoin de confiance. »",
+                    "score": 85,
+                    "start": 776.932,
+                    "end": 781.675
+                },
+                {
+                    "titre": "« Donner la parole à ceux qu'on n'écoute pas d'habitude »",
+                    "extrait": "« Je trouve que c'est assez merveilleux dans ce métier de pouvoir, d'une certaine manière, donner la parole à ceux qu'on n'écoute pas d'habitude. »",
+                    "score": 88,
+                    "start": 1750.036,
+                    "end": 1756.1
                 }
             ]
         },
@@ -779,6 +896,31 @@
                     "score": 91,
                     "start": 3193.313,
                     "end": 3211.878
+                }
+            ]
+        },
+        {
+            "title": "Critique littérature : \"Le futur futur\", fable politique, ironique et anachronique d'Adam Thirlwell",
+            "id": "16c400d1-ad0f-46ab-8748-7f018b427c30",
+            "show": "Les Midis de Culture",
+            "show_id": "32a14af6-fc87-4f4f-a06e-39ccf8587119",
+            "chapo": "Les critiques discutent de \"Le futur futur\" d'Adam Thirlwell, roman-ovni entre science-fiction et conte philosophique rempli de fantaisies anachroniques.",
+            "magnetotheque_id": "2025C51852S2098",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/les-midis-de-culture/critique-litterature-le-futur-futur-fable-politique-ironique-et-anachronique-d-adam-thirlwell-8603618",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/12360-08.04.2025-ITEMA_24096461-2025C51852S2098-NET_MFC_B2CE7DD9-E36B-4256-B255-9217E298F1FC-21.mp3",
+            "duration": 644,
+            "date": 1744108200,
+            "settings": [
+                "interview"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "« Le futur futur, extraterrestre et incommunicable »",
+                    "extrait": "Le futur futur, c'est ce qui est dit dans le livre, c'est ce qui est extraterrestre et incommunicable. Et je crois que ça définit parfaitement cet objet, futur futur, extraterrestre, incommunicable, mais que vraiment je conseille de lire parce que c'est vraiment un apaxe dans l'histoire de la littérature. Ça ne ressemble à rien d'autre, je ne vois pas.",
+                    "score": 95,
+                    "start": 598.205,
+                    "end": 614.493
                 }
             ]
         },
@@ -1408,6 +1550,45 @@
             ]
         },
         {
+            "title": "LES PIEDS SUR TERRE, émission du mardi 08 avril 2025",
+            "id": "feedd2cc-ccb5-4750-a0dd-4c0e9f301ba6",
+            "show": "Les Pieds sur terre",
+            "show_id": "beb83c10-402c-11e5-8314-005056a87c89",
+            "chapo": "",
+            "magnetotheque_id": "2025C6612S0098",
+            "seo_url": "",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/18722-08.04.2025-ITEMA_24096438-2025C6612S0098-NET_MFC_F40F9D44-ECDF-4401-8458-E6E68DA4EAB7-21.mp3",
+            "duration": 1891,
+            "date": 1744113525,
+            "settings": [
+                "temoignage"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "Comment la sexualité féminine a évolué en 20 ans ?",
+                    "extrait": "C'est un épisode récap comme une sorte de feu d'artifice où on apprend encore des choses aussi bien sur le clitoris que la sexualité d'une personne en situation de handicap. On révise un peu et on y redit la récente diversification des pratiques sexuelles qu'on ne fait plus seulement l'amour. Ça parle aussi de masturbation féminine et beaucoup de l'art ou de la science du cunnilingus qui ont fait des progrès considérables et chiffrés.",
+                    "score": 90,
+                    "start": 28.52,
+                    "end": 60.948
+                },
+                {
+                    "titre": "\"Je me souviens de me masturber en primaire\"",
+                    "extrait": "Je suis Nora, j'ai 29 ans. Assez tôt, j'ai compris que si je touchais au niveau de mon sexe, ça me procurait du plaisir. Je me souviens de me masturber en primaire, de beaucoup me frotter sur des canapés. Et je me souviens aussi d'en parler avec mes copines de nos techniques un petit peu, d'une qui se frottait avec son oreiller, de comment on faisait avec nos doigts.",
+                    "score": 95,
+                    "start": 123.421,
+                    "end": 145.987
+                },
+                {
+                    "titre": "\"Le sexe, c'est quelque chose qui répare\"",
+                    "extrait": "Vraiment, pour moi, le sexe, c'est quelque chose un peu qui répare. Je me lâche. C'est le seul espace, quand je suis en confiance avec quelqu'un, où je peux me lâcher. C'est comme s'il y avait quelque chose qui se libérait, en fait. À partir du moment où je sens que la personne a envie de moi, et que j'ai envie d'elle, là c'est comme si j'avais plus trop de craintes.",
+                    "score": 92,
+                    "start": 1583.79,
+                    "end": 1614.78
+                }
+            ]
+        },
+        {
             "title": "La guerre commerciale signe-t-elle la fin de la mondialisation ?",
             "id": "c419e322-d0ec-43c7-8a8c-ee7e71d5bbc3",
             "show": "Questions du soir : le débat",
@@ -1933,6 +2114,66 @@
                     "score": 88,
                     "start": 192.464,
                     "end": 199.772
+                }
+            ]
+        },
+        {
+            "title": "L'imitation sociale est-elle pacificatrice ou dangereuse ?",
+            "id": "c72c9262-109e-464a-b5e8-06b04ea669b8",
+            "show": "Avec philosophie",
+            "show_id": "744d0dc6-dacc-4d71-a22c-af97eec7a56e",
+            "chapo": "Tarde et Girard semblent s'opposer sur le rôle de l’imitation : lien social pour l’un, source de rivalité pour l’autre. Mais cette opposition n’est-elle pas une simplification de leurs pensées ?",
+            "magnetotheque_id": "2025C48904S0098",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/avec-philosophie/l-imitation-sociale-est-elle-pacificatrice-ou-dangereuse-7574708",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/10467-08.04.2025-ITEMA_24096450-2025C48904S0098-NET_MFC_008D4501-679A-4AA5-86F3-834FAA0B0EE4-21.mp3",
+            "duration": 3491,
+            "date": 1744102725,
+            "settings": [
+                "savoirs"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "L'imitation, un état hypnotique ?",
+                    "extrait": "« L'état social, comme l'état hypnotique, n'est qu'une forme du rêve, un rêve de commande et un rêve en action. N'avoir que des idées suggérées et les croire spontanées, telle est l'illusion propre au somnambule, et aussi bien à l'homme social ? »",
+                    "score": 90,
+                    "start": 180.723,
+                    "end": 196.88
+                },
+                {
+                    "titre": "L'imitation, clé de la socialisation ?",
+                    "extrait": "« Selon Gabriel Tarde, nous avons besoin de modèles, que nous imitons. Et tout cela se fait souvent sans conscience. »",
+                    "score": 85,
+                    "start": 310.054,
+                    "end": 318.661
+                },
+                {
+                    "titre": "La rivalité, moteur du désir ?",
+                    "extrait": "« La plupart des conflits sont des conflits de rivalité. Les appétits et les besoins peuvent se mimétiser. »",
+                    "score": 88,
+                    "start": 1429.723,
+                    "end": 1441.574
+                },
+                {
+                    "titre": "L'imitation, entre paix et rivalité ?",
+                    "extrait": "« Aujourd'hui, beaucoup innovent quand ils croient imiter, et beaucoup imitent quand ils croient innover. »",
+                    "score": 92,
+                    "start": 2914.866,
+                    "end": 2921.57
+                },
+                {
+                    "titre": "Le désir mimétique, un jeu dangereux ?",
+                    "extrait": "« La jalousie est le vrai moteur du désir. Dès que l'imitation devient rivalitaire, il y a un mécanisme irréversible. »",
+                    "score": 91,
+                    "start": 2116.05,
+                    "end": 2127.537
+                },
+                {
+                    "titre": "La société moderne, un terrain d'imitation ?",
+                    "extrait": "« L'admirable de la société moderne, c'est qu'elle dit, vous voulez tous la même chose, nous allons vous le donner. »",
+                    "score": 89,
+                    "start": 2403.552,
+                    "end": 2409.076
                 }
             ]
         },
