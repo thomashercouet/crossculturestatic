@@ -1,6 +1,6 @@
 {
-    "date": "Mis à jour le 08/04/2025 à 15:06",
-    "unix": 1744117614,
+    "date": "Mis à jour le 08/04/2025 à 15:20",
+    "unix": 1744118425,
     "shows": [
         {
             "title": "Comment le libre-échange a traversé les siècles avec une aura positive",
@@ -2213,6 +2213,66 @@
                     "score": 92,
                     "start": 1677.047,
                     "end": 1695.582
+                }
+            ]
+        },
+        {
+            "title": "Les sous-marins de Cherbourg : l’industrie navale prend du galon",
+            "id": "18286521-c751-4e30-b159-35113d42bc0a",
+            "show": "Entendez-vous l'éco ?",
+            "show_id": "ec20bd96-cdfc-44ce-8a1b-85c33cc8b7db",
+            "chapo": "Face aux menaces russe et chinoise et à l'arrivée de Donald Trump, le marché des sous-marins est en progression. La France y occupe une place déterminante grâce au groupe historique de Naval Group, qui exporte des sous-marins et assure une dissuasion nucléaire depuis son site de Cherbourg. ",
+            "magnetotheque_id": "2025C29629S0098",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/entendez-vous-l-eco/les-sous-marins-de-cherbourg-l-industrie-navale-prend-du-galon-3594965",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/10081-08.04.2025-ITEMA_24096447-2025C29629S0098-NET_MFC_6ED7CC77-9AFE-4D2E-9FCD-0251E6037FA1-21.mp3",
+            "duration": 3541,
+            "date": 1744117125,
+            "settings": [
+                "savoirs"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "Comment Cherbourg est devenu le bastion des sous-marins nucléaires ?",
+                    "extrait": "Cherbourg, c'est une ville, un port qui s'est construit justement autour de son activité maritime, autour de sa construction navale, autour de sa marine. Alors, en dehors de la partie militaire, le port de Cherbourg n'a jamais été un très grand port de commerce, ne serait-ce que par l'histoire. Comprenez qu'effectivement, les Anglais étaient juste de l'autre côté de la Manche à côté, la domination navale anglaise étant, comment dire, imposée depuis très longtemps... C'est pas un port de commerce qui historiquement a pu se développer beaucoup, il s'est essentiellement développé donc avec l'activité militaire et la construction navale pour les bateaux à l'époque de la Royale et ensuite de la Marine Nationale.",
+                    "start": 206.98,
+                    "end": 240.916
+                },
+                {
+                    "titre": "La dissuasion nucléaire : un enjeu stratégique majeur pour la France",
+                    "extrait": "La fonction d'un sous-marin nucléaire lanceur d'engin, c'est d'assurer la dissuasion nucléaire. C'est l'unique mission de ce type de sous-marin, c'est d'être en permanence à la mer depuis plus de 50 ans maintenant, capable de tirer des missiles nucléaires sur ordre du président de la République. Il n'y a que quelques personnes à bord qui connaissent exactement la position du sous-marin, donc la grande majorité de l'équipage ne la connaît pas.",
+                    "start": 2982.597,
+                    "end": 3002.14
+                },
+                {
+                    "titre": "Pourquoi la France est-elle un leader dans l'industrie des sous-marins ?",
+                    "extrait": "Tous les sous-marins français sont bel et bien assemblés à Cherbourg. Oui, aujourd'hui, tous les sous-marins français sont assemblés à Cherbourg, ce qui n'a pas toujours été le cas. On a tendance un petit peu à l'oublier aujourd'hui, mais il y a encore quelques décennies, il y avait un certain nombre de ports, de chantiers navals qui construisaient des sous-marins.",
+                    "start": 663.258,
+                    "end": 678.391
+                },
+                {
+                    "titre": "L'importance de la formation dans l'industrie navale",
+                    "extrait": "La formation, le facteur ressources humaines, on va dire, est identifié comme un facteur aussi déterminant pour l'industrie navale de ce point de vue-là ? Oui, il était déterminant pour une marine, il est déterminant pour une industrie navale. D'ailleurs, puisqu'on parle de Cherbourg, une bonne partie des sous-mariniers reçoit une formation spécifique, une formation dans le domaine nucléaire, à Cherbourg, à l'École des applications militaires de l'énergie atomique.",
+                    "start": 3093.234,
+                    "end": 3120.003
+                },
+                {
+                    "titre": "Comment la France maintient-elle sa souveraineté industrielle ?",
+                    "extrait": "C'est très clairement un choix politique qui a été permis par la politique insufflée dès le début des années 60 par le général de Gaulle pour avoir une dissuasion nucléaire indépendante. Et de fait, quand on compare ce que nous sommes capables de faire de façon souveraine par rapport à ce que font nos amis britanniques, je préfère de ce point de vue-là être français.",
+                    "start": 2037.703,
+                    "end": 2059.856
+                },
+                {
+                    "titre": "Les sous-marins : un symbole de l'industrie militaire française",
+                    "extrait": "Le lancement du sous-marin Le Redoutable est un grand événement pour Cherbourg, pour la Marine Nationale et pour la France. Pour Cherbourg, parce que la construction de ce bâtiment et sa mise à flot sont des exploits techniques sans précédent dans cet arsenal et dans ce port.",
+                    "start": 2123.332,
+                    "end": 2149.918
+                },
+                {
+                    "titre": "Pourquoi l'exportation des sous-marins français est-elle si complexe ?",
+                    "extrait": "Il est évident qu'on ne va pas exporter de sous-marins nucléaires lancés dans un. Là, il y a très clairement le traité de non-prolifération nucléaire qui interdit d'exporter des armements nucléaires mettant en œuvre des armes nucléaires.",
+                    "start": 2464.257,
+                    "end": 2478.333
                 }
             ]
         },
