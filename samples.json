@@ -1,6 +1,6 @@
 {
-    "date": "Mis à jour le 08/04/2025 à 08:24",
-    "unix": 1744093491,
+    "date": "Mis à jour le 08/04/2025 à 08:38",
+    "unix": 1744094281,
     "shows": [
         {
             "title": "Comment le libre-échange a traversé les siècles avec une aura positive",
@@ -1346,6 +1346,59 @@
                     "score": 95,
                     "start": 273.833,
                     "end": 299.21
+                }
+            ]
+        },
+        {
+            "title": "Scandale des eaux minérales : Alexis Kohler peut-il se taire ? ",
+            "id": "7a6dde88-3d85-4f4c-95bd-1391f1274f49",
+            "show": "Le Billet politique",
+            "show_id": "7656aae3-b20b-11e5-8e9e-005056a87c89",
+            "chapo": "Pour la deuxième fois, le secrétaire général de l'Elysée refuse de répondre à une commission d'enquête parlementaire. Pourquoi ce silence ?",
+            "magnetotheque_id": "2025C22191S0098",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/le-billet-politique/scandale-des-eaux-minerales-alexis-kohler-peut-il-se-taire-9849412",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/13917-08.04.2025-ITEMA_24096466-2025C22191S0098-NET_MFC_17449D34-446D-44E2-994E-85EFE5A40A46-21.mp3",
+            "duration": 265,
+            "date": 1744093200,
+            "settings": [
+                "actu"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "Pourquoi Alexis Kohler refuse-t-il de répondre aux commissions d'enquête ?",
+                    "extrait": "Alexis Collère, le secrétaire général de l'Elysée, refuse de répondre à une commission d'enquête parlementaire. Pourquoi ce silence ?",
+                    "score": 85,
+                    "start": 10.315,
+                    "end": 21.159
+                },
+                {
+                    "titre": "La séparation des pouvoirs : un argument solide ou une excuse ?",
+                    "extrait": "Alexis Collère oppose le même argument que face aux députés, la séparation des pouvoirs donc. Il a le droit. Il le prend.",
+                    "score": 80,
+                    "start": 88.366,
+                    "end": 98.351
+                },
+                {
+                    "titre": "Un homme puissant mais fragilisé : qui est vraiment Alexis Kohler ?",
+                    "extrait": "Le secrétaire général de l'Elysée est un homme puissant, plus que la plupart des ministres. Politiquement, il est l'alter ego d'Emmanuel Macron et son plus proche collaborateur depuis plus de dix ans.",
+                    "score": 90,
+                    "start": 118.617,
+                    "end": 129.803
+                },
+                {
+                    "titre": "La transparence en politique : un minimum à exiger !",
+                    "extrait": "En politique, comme dans une bouteille d'eau, qu'attendons-nous finalement ? Un minimum de transparence.",
+                    "score": 88,
+                    "start": 244.731,
+                    "end": 250.235
+                },
+                {
+                    "titre": "Un conflit d'intérêt ? Alexis Kohler répond !",
+                    "extrait": "Alexis Collère arrive bientôt au bout de sa mission à l'Elysée. Il va rejoindre le secteur privé, une grande banque, la Société Générale. Il en deviendra directeur général adjoint.",
+                    "score": 82,
+                    "start": 152.097,
+                    "end": 161.92
                 }
             ]
         },
