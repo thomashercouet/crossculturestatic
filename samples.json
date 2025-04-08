@@ -1,6 +1,6 @@
 {
-    "date": "Mis à jour le 08/04/2025 à 08:50",
-    "unix": 1744095055,
+    "date": "Mis à jour le 08/04/2025 à 09:04",
+    "unix": 1744095877,
     "shows": [
         {
             "title": "Comment le libre-échange a traversé les siècles avec une aura positive",
@@ -525,6 +525,53 @@
                     "score": 70,
                     "start": 300.428,
                     "end": 310.115
+                }
+            ]
+        },
+        {
+            "title": "Pierre Manent : conjurer l’impuissance politique ",
+            "id": "f73534e8-ea10-47d0-84ce-33a79d98642a",
+            "show": "France Culture va plus loin (l'Invité(e) des Matins)",
+            "show_id": "7431a6a7-481b-11e5-9fe0-005056a87c89",
+            "chapo": "Guillaume Erner reçoit ce matin le philosophe Pierre Manent pour évoquer la paralysie de la vie politique française. Comment conjurer l’impuissance politique à l’heure du désengagement américain et des menaces que celui-ci fait peser sur l’Europe ?",
+            "magnetotheque_id": "2025C16450S0098",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/france-culture-va-plus-loin-l-invite-e-des-matins/pierre-manent-conjurer-l-impuissance-politique-5378481",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/13983-08.04.2025-ITEMA_24096469-2025C16450S0098-NET_MFC_0454EC96-314D-4BEE-820C-E08B2D8E8BB3-21.mp3",
+            "duration": 2345,
+            "date": 1744094700,
+            "settings": [
+                "actu",
+                "interview"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "L'Amérique, un empire en déclin ?",
+                    "extrait": "« L'Amérique présente ce caractère en quelque sorte d'être une nation qui s'est développée à une vitesse extraordinaire comme un empire. [...] Donc, c'est une nation qui a progressé comme un empire et qui... en quelque sorte, au cours de son histoire, a perfectionné ces deux aspects, l'aspect national et l'aspect impérial, jusqu'à la situation que nous avons connue, c'est-à-dire une nation très caractérisée, avec des mœurs très spécifiques. »",
+                    "score": 85,
+                    "start": 102.293,
+                    "end": 156.563
+                },
+                {
+                    "titre": "La démocratie américaine : un individu armé ?",
+                    "extrait": "« Pour les États-Unis, comme pour Thomas Hobbes, l'individu menacé, vulnérable, a toujours le dernier mot. Donc il a toujours le droit de se défendre. [...] Donc, on se demande pourquoi les Américains, tout de même, avec toute leur expérience politique, leur capacité de bon jugement politique, continuent d'autoriser ces ports d'armes dévastateurs. »",
+                    "score": 90,
+                    "start": 507.713,
+                    "end": 541.966
+                },
+                {
+                    "titre": "La séparation des pouvoirs : un pouvoir des juges en expansion ?",
+                    "extrait": "« L'extension générale du domaine du droit. Et l'extinction progressive du domaine de la décision politique. Voilà le problème qui se pose devant nous. »",
+                    "score": 80,
+                    "start": 1197.238,
+                    "end": 1208.484
+                },
+                {
+                    "titre": "Le Rassemblement National : un épouvantail politique ?",
+                    "extrait": "« La force du Rassemblement National réside uniquement, mais uniquement, dans le nombre des électeurs, dans le nombre de bulletins qui sont dans l'urne. [...] C'est pourquoi d'ailleurs elle est tellement fragile. Elle est tellement fragile. »",
+                    "score": 75,
+                    "start": 1414.141,
+                    "end": 1432.686
                 }
             ]
         },
