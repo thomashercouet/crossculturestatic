@@ -1,6 +1,6 @@
 {
-    "date": "Mis à jour le 08/04/2025 à 10:08",
-    "unix": 1744099731,
+    "date": "Mis à jour le 08/04/2025 à 10:22",
+    "unix": 1744100550,
     "shows": [
         {
             "title": "Comment le libre-échange a traversé les siècles avec une aura positive",
@@ -266,6 +266,73 @@
                     "score": 90,
                     "start": 3179.894,
                     "end": 3207.842
+                }
+            ]
+        },
+        {
+            "title": "Universelles ou coloniales, des expositions pour exhiber les empires",
+            "id": "42180654-8baf-4474-a09f-5b0183a1e1a1",
+            "show": "Le Cours de l'histoire",
+            "show_id": "0a41bdd2-4a6d-4fb2-b2d1-ca42d2dc5381",
+            "chapo": "Si les expositions universelles proposent des sections coloniales depuis les années 1850, il faut attendre la fin du 19ᵉ siècle, puis l’entre-deux-guerres, pour que les expositions spécifiquement coloniales apparaissent. Elles contribuent à construire l’imaginaire impérial des pays européens.\n",
+            "magnetotheque_id": "2025C36128S0098",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/universelles-ou-coloniales-des-expositions-pour-exhiber-les-empires-4088418",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/10076-08.04.2025-ITEMA_24096449-2025C36128S0098-NET_MFC_284215F8-D17A-4577-AAF2-E9831027AE26-21.mp3",
+            "duration": 3525,
+            "date": 1744099125,
+            "settings": [
+                "savoirs"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "Comment les expositions coloniales ont façonné l'imaginaire impérial ?",
+                    "extrait": "« La place du colonial dans les expositions a progressé dans les dernières décennies du XIXe siècle et ce qu'on voit apparaître, c'est des sections coloniales proprement dites dans les expositions universelles avant qu'il n'apparaisse des expositions proprement coloniales. »",
+                    "score": 85,
+                    "start": 92.495,
+                    "end": 112.571
+                },
+                {
+                    "titre": "Les villages coloniaux : une attraction malsaine ?",
+                    "extrait": "« Les conseillers généraux du Sénégal étaient hostiles à cette idée. Ils disaient, mais on ne va pas présenter des exhibitions malsaines, des sauvages, ce n'est pas du tout l'image qu'on veut donner de notre territoire. »",
+                    "score": 90,
+                    "start": 477.768,
+                    "end": 491.274
+                },
+                {
+                    "titre": "L'illusion d'un monde colonial : un récit fantasmé ?",
+                    "extrait": "« C'est un monde colonial fantasmé, enfin, c'est un concentré de clichés, cette histoire-là ? C'est un récit, c'est un récit qui s'insère dans un dispositif, dans des dispositifs de propagande qui sont plus larges, plus vastes, et qui visent à toucher, effectivement, toutes les strates de la population. »",
+                    "score": 88,
+                    "start": 2248.18,
+                    "end": 2269.939
+                },
+                {
+                    "titre": "Les expositions universelles : spectacles ou enseignements ?",
+                    "extrait": "« Est-ce que l'on est là pour se faire plaisir, pour en prendre plein les yeux ou pour apprendre ? Et finalement, on retrouve la double fonction de l'exposition qui doit à la fois enseigner et divertir. »",
+                    "score": 87,
+                    "start": 897.238,
+                    "end": 916.718
+                },
+                {
+                    "titre": "Les 'zoo humains' : un héritage colonial troublant ?",
+                    "extrait": "« Le terme malsain, on le trouve dans les sources de l'époque, ce qui montre qu'il n'y avait pas une adhésion de tout le public à ce type d'exhibition, qui ont ensuite... qui a plus récemment été appelé zoo-humain. »",
+                    "score": 92,
+                    "start": 630.737,
+                    "end": 647.488
+                },
+                {
+                    "titre": "Comment les expositions coloniales ont-elles influencé les perceptions ?",
+                    "extrait": "« En les lisant un petit peu à rebours comme ça, oui, bien sûr, ce sont des récits, ce sont des fictions que les organisateurs essaient de maîtriser de A à Z, ce qui, en réalité, n'est pas possible. »",
+                    "score": 86,
+                    "start": 2323.603,
+                    "end": 2336.272
+                },
+                {
+                    "titre": "Les retours des populations colonisées : un parcours oublié ?",
+                    "extrait": "« On sait aussi par des témoignages qu'ils vont faire leurs courses dans les épiceries des rues avoisinantes... Et qu'ils peuvent se mêler aussi à la population parisienne dans ce cadre-là. »",
+                    "score": 84,
+                    "start": 2070.608,
+                    "end": 2085.414
                 }
             ]
         },
