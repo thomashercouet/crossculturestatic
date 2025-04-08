@@ -1,6 +1,6 @@
 {
-    "date": "Mis à jour le 08/04/2025 à 09:04",
-    "unix": 1744095877,
+    "date": "Mis à jour le 08/04/2025 à 09:17",
+    "unix": 1744096620,
     "shows": [
         {
             "title": "Comment le libre-échange a traversé les siècles avec une aura positive",
@@ -1968,6 +1968,38 @@
                     "score": 85,
                     "start": 688.634,
                     "end": 706.859
+                }
+            ]
+        },
+        {
+            "title": "Comment la hausse des droits de douanes impacte la tech",
+            "id": "235ca85f-7380-405f-b2c0-ef7988e2ab66",
+            "show": "Un monde connecté",
+            "show_id": "274c0b2b-c347-4748-8989-eb3f08ae5273",
+            "chapo": "Apple, Tesla, Amazon... Les géants de la tech qui ont prêté allégeance à Donald Trump payent au prix fort sa politique protectionniste. Face à la Chine, TikTok pourrait servir de monnaie d'échange.    ",
+            "magnetotheque_id": "2025C52117S0098",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/un-monde-connecte/comment-la-hausse-des-droits-de-douanes-impacte-la-tech-1895929",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/24399-08.04.2025-ITEMA_24096470-2025C52117S0098-NET_MFC_4B149DDB-FB6A-4B42-9C07-2B8D9D40DDCC-21.mp3",
+            "duration": 169,
+            "date": 1744095300,
+            "settings": [
+                "actu"
+            ],
+            "limit": 2,
+            "extraits": [
+                {
+                    "titre": "Comment la hausse des droits de douane pourrait faire exploser le prix de l'iPhone ?",
+                    "extrait": "Tous les yeux sont tournés vers l'iPhone, dont la Chine reste de loin son atelier de fabrication mondial. Une fois les droits de douane répercutés, le chiffre de 43% d'augmentation est avancé, même si Apple pourrait dissocier la propriété intellectuelle non sujette aux droits de son produit matériel pour réduire la facture.",
+                    "score": 90,
+                    "start": 30.956,
+                    "end": 53.19
+                },
+                {
+                    "titre": "TikTok, monnaie d'échange dans un jeu de poker géopolitique ?",
+                    "extrait": "TikTok version US se retrouve au cœur d'une partie de poker où le réseau social sert de potentielle monnaie d'échange. La Chine cherche à en garder le contrôle et pourrait finalement céder aux repreneurs américains une sorte de contrat de licence ?",
+                    "score": 95,
+                    "start": 147.308,
+                    "end": 167.408
                 }
             ]
         },
