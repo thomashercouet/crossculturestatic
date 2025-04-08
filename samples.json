@@ -1,6 +1,6 @@
 {
-    "date": "Mis à jour le 08/04/2025 à 16:24",
-    "unix": 1744122294,
+    "date": "Mis à jour le 08/04/2025 à 16:40",
+    "unix": 1744123239,
     "shows": [
         {
             "title": "Comment le libre-échange a traversé les siècles avec une aura positive",
@@ -1047,6 +1047,73 @@
                     "score": 95,
                     "start": 429.209,
                     "end": 446.372
+                }
+            ]
+        },
+        {
+            "title": "James Ellroy désenchante le monde ",
+            "id": "d531f288-7c85-4aea-bb54-13f338a3b9c8",
+            "show": "Le Book Club",
+            "show_id": "9919a6d4-3da2-4dd9-8103-77cef065f78d",
+            "chapo": "Dans son dernier roman “Les enchanteurs”, le maitre du roman noir James Ellroy retrouve son personnage d’enquêteur, Freddy Otash, résolu cette fois-ci à percer le mystère de la mort de Marilyn Monroe. L’occasion pour l'auteur américain de faire le portrait d’une société viciée. ",
+            "magnetotheque_id": "2025C49162S0098",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/le-book-club/james-ellroy-desenchante-le-monde-7892553",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/23875-08.04.2025-ITEMA_24096474-2025C49162S0098-NET_MFC_6F4ADA6F-7F96-4C3D-8C7F-6A3B187E6E34-21.mp3",
+            "duration": 3502,
+            "date": 1744120725,
+            "settings": [
+                "interview"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "« L'écriture, c'est faire effraction »",
+                    "extrait": "« Je veux dire, je suis un voyeur, je regardais par les fenêtres des gens, j'ai grandi au sud d'Hollywood, à la lisière, la lisière pas très bien famée de Hollywood. [...] C'est ça, la fenêtre de Otash. C'est ça. Mais est-ce que c'est aussi l'écriture, le tch, tch, tch, tch, tch, qui regarde par la fenêtre ? »",
+                    "score": 95,
+                    "start": 1492.427,
+                    "end": 1529.074
+                },
+                {
+                    "titre": "« L'amour est plus froid que la mort »",
+                    "extrait": "« J'ai découvert quelque chose en écrivant Les Enchanteurs que je savais inconsciemment depuis très très longtemps. Comment se fait-il que les livres et les cinémas qui vous brisent le cœur sont si beaux ? [...] C'est la vérité humaine. L'amour est quelque chose qui vacille plus qu'il ne vous porte. »",
+                    "score": 90,
+                    "start": 2067.13,
+                    "end": 2120.611
+                },
+                {
+                    "titre": "« La langue est extrêmement importante pour moi »",
+                    "extrait": "« La langue est extrêmement importante pour moi. [...] Je gère méticuleusement le vocabulaire de mes livres, la langue dans mes livres, à tel point que je termine presque chaque paragraphe ou pas une réplique avec des mots d'une syllabe. »",
+                    "score": 85,
+                    "start": 747.488,
+                    "end": 775.335
+                },
+                {
+                    "titre": "« Je suis un obsessionnel »",
+                    "extrait": "« Je suis un obsessionnel dans la vie, je suis aussi obsessionnel dans mon travail. Je veux que mes livres soient lus de façon obsessionnelle. Je veux arracher mes lecteurs à leur quotidien, je veux qu'ils ignorent leurs amoureux, leurs amoureuses, leurs enfants. »",
+                    "score": 92,
+                    "start": 2294.862,
+                    "end": 2318.698
+                },
+                {
+                    "titre": "« La rédemption, les méchants et l'amour de femmes puissantes »",
+                    "extrait": "« Si j'ai trois grands thèmes, c'est la rédemption, les méchants et l'amour de femmes puissantes. »",
+                    "score": 88,
+                    "start": 663.263,
+                    "end": 673.912
+                },
+                {
+                    "titre": "« Je ne fais pas de recherche. J'invente. »",
+                    "extrait": "« Non, en fait, je ne fais pas de recherche. J'invente. [...] J'ai plutôt étonné qu'elle ait atteint 36 ans. Et c'est tout. Et c'est la seule chose que j'avais à faire. »",
+                    "score": 87,
+                    "start": 1897.983,
+                    "end": 1917.702
+                },
+                {
+                    "titre": "« Les psaumes sont des textes violents »",
+                    "extrait": "« Oui, je suis vindicatif par nature. Les psaumes sont des textes violents. Ils sont faits pour être chantés, ils parlent de la colère divine, ils parlent de conflits. »",
+                    "score": 89,
+                    "start": 830.267,
+                    "end": 848.665
                 }
             ]
         },
