@@ -1,6 +1,6 @@
 {
-    "date": "Mis à jour le 09/04/2025 à 16:15",
-    "unix": 1744208120,
+    "date": "Mis à jour le 09/04/2025 à 16:28",
+    "unix": 1744208927,
     "shows": [
         {
             "title": "Quand vient le fascisme en Europe 3/4 : Les racines d’une idéologie",
@@ -338,6 +338,59 @@
                     "score": 92,
                     "start": 1677.047,
                     "end": 1695.582
+                }
+            ]
+        },
+        {
+            "title": "Un polar, version pastiche : « Qui a posé ses fesses sur le fromage du Roi ? »",
+            "id": "edee60ae-582a-4f75-a346-4e53235147a8",
+            "show": "Lectures jeunesse",
+            "show_id": "87557573-3bf0-43a2-a469-756ba2d4e324",
+            "chapo": "Zoom sur un album dont l'intrigue rappelle celle du \"Crime de l'Orient-Express\" et rend hommage au genre du polar à la façon d'un pastiche jubilatoire. ",
+            "magnetotheque_id": "2025C52120S0099",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/lectures-jeunesse/lectures-jeunesse-chronique-du-mercredi-09-avril-2025-8326880",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/23875-09.04.2025-ITEMA_24097650-2025C52120S0099-NET_MFC_AA22B9DE-93A5-4AE5-8817-7695452A3519-21.mp3",
+            "duration": 365,
+            "date": 1744207142,
+            "settings": [
+                "interview"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "« Quelqu'un a fessifié le fromage du roi ! »",
+                    "extrait": "« Il porte des traces de fesses. Quelqu'un a posé ses fesses sur le fromage, quelqu'un a fessifié le fromage du roi. Lysen von Lactum hurle sans pouvoir s'arrêter, le cri se diffuse de bout en bout du train et puisque c'est un fait, le son se propage à la vitesse du son, il ne s'écoule pas longtemps avant qu'il ne réveille les autres passagers. »",
+                    "score": 95,
+                    "start": 134.995,
+                    "end": 154.854
+                },
+                {
+                    "titre": "Le pastiche : un hommage hilarant au polar !",
+                    "extrait": "« Au fond, cette histoire a davantage à voir avec le pastiche qu'avec la parodie. Pasticher en littérature, c'est écrire à la manière d'eux et toujours par la même rendre hommage, ce que les auteurs de cet album parviennent à faire admirablement. »",
+                    "score": 90,
+                    "start": 317.886,
+                    "end": 330.295
+                },
+                {
+                    "titre": "Le détective Fluffenberg : un héros inattendu !",
+                    "extrait": "« Fluffenberg est un nocetteur oisif et néanmoins fort imbu de lui-même. Ravi d'être appelé à la rescousse, il saute dans son hélico, passe prendre son ami le roi et rejoint le train couchette. »",
+                    "score": 85,
+                    "start": 176.565,
+                    "end": 188.972
+                },
+                {
+                    "titre": "Pourquoi le polar jeunesse captive-t-il toutes les générations ?",
+                    "extrait": "« C'est l'une des merveilles de ce genre que de s'adresser souvent indifféremment aux lecteurs enfants et adultes, combien d'aventures de Rouletabille, de Sherlock Holmes, Sans Atout, Arsène Lupin, Hercule Poirot ou Miss Marple ont su ravir des lecteuristes de 7 à 77 ans, comme on dit, ou du moins de 12 à 92 ans. »",
+                    "score": 88,
+                    "start": 37.774,
+                    "end": 56.702
+                },
+                {
+                    "titre": "L'art de la traduction : un génie à l'œuvre !",
+                    "extrait": "« Mentionnons aussi le génie de la traductrice Aude Pasquier, à qui l'on doit ce terme merveilleux de fécifiage et mille autres trouvailles qui rendent justice à la saveur des textes d'Erland Law. »",
+                    "score": 87,
+                    "start": 254.081,
+                    "end": 265.109
                 }
             ]
         },
@@ -748,6 +801,66 @@
                     "score": 75,
                     "start": 1414.141,
                     "end": 1432.686
+                }
+            ]
+        },
+        {
+            "title": "Bande dessinée : sur les traces de Moheeb, avec Clara Lodewick ",
+            "id": "49de1a21-bf6b-4c57-8c46-7627ac044320",
+            "show": "Le Book Club",
+            "show_id": "9919a6d4-3da2-4dd9-8103-77cef065f78d",
+            "chapo": "Un parking, près de Bruxelles : c’est là que Moheeb, un jeune réfugié afghan de 16 ans, passe ses journées, entre ennui, errances, et fragiles amitiés. Dans son deuxième roman graphique, notre invitée Clara Lodewick dresse le portrait de ce jeune mineur isolé et incarne une trajectoire accidentée.",
+            "magnetotheque_id": "2025C49162S0099",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/le-book-club/bande-dessinee-sur-les-traces-de-moheeb-avec-clara-lodewick-1610207",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/23875-09.04.2025-ITEMA_24097650-2025C49162S0099-NET_MFC_759F74F4-FFE5-4114-8763-C1113529384E-21.mp3",
+            "duration": 3485,
+            "date": 1744207125,
+            "settings": [
+                "interview"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "Comment la bande dessinée peut-elle redonner vie à des histoires invisibles ?",
+                    "extrait": "« Bien évidemment, et je pense que c'est ce qu'on essaie de faire, c'est d'invisibiliser la vie, c'est d'oublier la vie, c'est d'annihiler les gens, parce que sinon, comment est-ce qu'on pourrait expliquer que les mesures qui sont prises aujourd'hui, notamment par le parc migratoire qui, dans un an, va commencer à être mis en œuvre ? Comment est-ce qu'on pourrait prendre ce genre de décisions si on acceptait qu'en effet, ce sont des gens comme nous ? »",
+                    "score": 95,
+                    "start": 1205.523,
+                    "end": 1226.223
+                },
+                {
+                    "titre": "Pourquoi la liberté est-elle essentielle dans la création artistique ?",
+                    "extrait": "« C'est vraiment la pratique artistique, ou alors peut-être l'écriture de roman, ça pourrait le faire aussi, mais je n'ai pas besoin d'argent... Je ne dis pas que je n'ai pas besoin d'argent pour vivre pendant que je le crée, mais pour créer la bande dessinée, je n'ai pas besoin d'argent, j'ai juste une feuille de brouillon et un stylo bi. Et c'est parti. Et je raconte ce que je veux. Et ça, ça n'a pas de prix, quoi. »",
+                    "score": 90,
+                    "start": 620.253,
+                    "end": 638.269
+                },
+                {
+                    "titre": "Comment la maternité influence-t-elle notre perception des enfants ?",
+                    "extrait": "« Je pense que je suis, je dois dire, par rapport à, maintenant que je vois un peu la fin de l'album, je pense que j'ai juste de la colère envers les adultes irresponsables, c'est vraiment une grosse colère chez moi, mais du coup j'essaie de l'exprimer de façon plus calme et tenue pour que ce soit entendable. »",
+                    "score": 92,
+                    "start": 2187.018,
+                    "end": 2202.559
+                },
+                {
+                    "titre": "Pourquoi la fiction est-elle un outil puissant pour aborder la réalité ?",
+                    "extrait": "« Mais sinon, oui, tous les personnages sont des personnages de fiction, évidemment que je m'inspire de personnes que je connais ou que j'ai croisées ou que j'ai entendues parler à un moment dans un bar. Mais je crois vraiment, et là je parle vraiment pour moi parce que je lis aussi des trucs documentaires et tout, mais moi j'aime le pouvoir de la fiction et donc digérer les histoires. »",
+                    "score": 88,
+                    "start": 1578.837,
+                    "end": 1599.423
+                },
+                {
+                    "titre": "Comment la sensibilité peut-elle transformer notre regard sur le monde ?",
+                    "extrait": "« Et donc, grâce à ça, il y a des auteurices qui m'ont intéressée en effet. Mais ça part plus de votre propre rapport au monde. C'est parce que moi, j'aime ça que je vais vers ce genre de lecture. »",
+                    "score": 87,
+                    "start": 677.197,
+                    "end": 687.248
+                },
+                {
+                    "titre": "Pourquoi la bande dessinée est-elle un miroir de notre société ?",
+                    "extrait": "« Et donc, voilà, ça a été une façon pour moi un peu de me dire ok je le pose là, comme ça on sait un peu que ça va être ça le sujet, enfin c'est même pas le sujet de l'album pour moi, mais c'est un sujet qui est abordé. »",
+                    "score": 89,
+                    "start": 1148.755,
+                    "end": 1159.56
                 }
             ]
         },
