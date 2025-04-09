@@ -1,7 +1,67 @@
 {
-    "date": "Mis à jour le 09/04/2025 à 15:49",
-    "unix": 1744206560,
+    "date": "Mis à jour le 09/04/2025 à 16:03",
+    "unix": 1744207385,
     "shows": [
+        {
+            "title": "Quand vient le fascisme en Europe 3/4 : Les racines d’une idéologie",
+            "id": "c3f98deb-d925-40a3-896e-1df0f1718531",
+            "show": "LSD, la série documentaire",
+            "show_id": "fb8db8c6-20b0-4189-977e-07f112c3de79",
+            "chapo": "",
+            "magnetotheque_id": "2022C26362E8184",
+            "seo_url": "",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/10177-07.04.2025-ITEMA_24094690-2022C26362E8184-ITE_00128235_RSCE-21.mp3",
+            "duration": 3431,
+            "date": 1744214228,
+            "settings": [
+                "temoignage"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "Comment l'antifascisme a été perçu en Grèce après la guerre ?",
+                    "extrait": "\"En Grèce, il se passe exactement le contraire, c'est-à-dire que les résistants sont persécutés, emprisonnés, déportés, assassinés. À l'inverse, les collaborateurs, eux, sont très largement acquittés, maintenus à leur poste dans leur grande majorité, que ce soit dans la justice, dans les services publics, à l'université.\"",
+                    "score": 90,
+                    "start": 102.516,
+                    "end": 126.992
+                },
+                {
+                    "titre": "La guerre civile grecque : une conséquence de la Seconde Guerre mondiale",
+                    "extrait": "\"La guerre civile, c'était vraiment une conséquence de la Seconde Guerre mondiale, parce que c'était pendant la Seconde Guerre mondiale que, à part les nazis et les forces libérales, c'était aussi les forces communistes qui, en Grèce, étaient les protagonistes du mouvement de résistance.\"",
+                    "score": 85,
+                    "start": 499.81,
+                    "end": 523.28
+                },
+                {
+                    "titre": "Les véritables raisons du débarquement britannique en Grèce",
+                    "extrait": "\"Les Anglais n'ont pas débarqué du tout pour chasser les libérateurs de la Grèce. Ils ont débarqué, bien évidemment, pour reprendre le contrôle de la situation.\"",
+                    "score": 88,
+                    "start": 375.097,
+                    "end": 388.689
+                },
+                {
+                    "titre": "L'impact de Churchill sur l'avenir de la Grèce",
+                    "extrait": "\"S'il n'y avait pas eu Churchill en décembre 1944, il n'y aurait pas eu la suite.\"",
+                    "score": 92,
+                    "start": 748.852,
+                    "end": 755.614
+                },
+                {
+                    "titre": "La violence comme outil de pouvoir : le fascisme en Italie",
+                    "extrait": "\"C'est l'idée que pour faire avancer l'histoire, il faut utiliser la violence. Ces gens vont se retrouver lors de la fondation du mouvement des faisceaux en mars 1919.\"",
+                    "score": 87,
+                    "start": 981.08,
+                    "end": 991.785
+                },
+                {
+                    "titre": "La peur des rouges : un moteur pour le fascisme en Italie",
+                    "extrait": "\"Et donc un climat de peur se développe au sein des classes moyennes et des élites qui vont peu à peu apporter leur soutien à ce mouvement des faisceaux de combat qui a été créé par Mussolini en mars 1919.\"",
+                    "score": 89,
+                    "start": 1602.957,
+                    "end": 1618.887
+                }
+            ]
+        },
         {
             "title": "Lumière sur le documentaire : les dessous du succès ",
             "id": "bb1ac980-4319-4a1f-a473-2c52736198c2",
