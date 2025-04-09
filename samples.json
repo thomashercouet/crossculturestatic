@@ -1,6 +1,6 @@
 {
-    "date": "Mis à jour le 09/04/2025 à 15:22",
-    "unix": 1744204960,
+    "date": "Mis à jour le 09/04/2025 à 15:25",
+    "unix": 1744205112,
     "shows": [
         {
             "title": "Lumière sur le documentaire : les dessous du succès ",
@@ -727,6 +727,73 @@
                     "score": 95,
                     "start": 432.172,
                     "end": 459.874
+                }
+            ]
+        },
+        {
+            "title": "\"Patrons\" : entre valeurs et intérêts, diriger face à l'incertitude",
+            "id": "9f5be159-c4c6-426d-8841-39fa72ebca2d",
+            "show": "Entendez-vous l'éco ?",
+            "show_id": "ec20bd96-cdfc-44ce-8a1b-85c33cc8b7db",
+            "chapo": "Alors que doit s'imposer mercredi 9 avril une nouvelle salve de droits de douane en provenance des Etats-Unis, les bourses européennes sont une fois encore en chute à l'ouverture. Face à l'incertitude et face au conflit entre ouverture et patriotisme, comment décrire le positionnement du patronat ?",
+            "magnetotheque_id": "2025C29629S0099",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/entendez-vous-l-eco/patrons-des-valeurs-et-des-interets-8146698",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/10081-09.04.2025-ITEMA_24097622-2025C29629S0099-NET_MFC_2516A116-9840-4A6B-80B9-8E806E5D8961-21.mp3",
+            "duration": 3546,
+            "date": 1744203525,
+            "settings": [
+                "savoirs"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "Comment le patriotisme économique peut-il influencer les décisions des patrons ?",
+                    "extrait": "« Rester groupé, ne pas céder aux sirènes commerciales américaines, bref faire preuve d'un certain patriotisme économique. »",
+                    "score": 85,
+                    "start": 65.658,
+                    "end": 72.566
+                },
+                {
+                    "titre": "La vertu du commerce : un concept dépassé ?",
+                    "extrait": "« Nous croyons à la vertu du commerce. » Emmanuel Macron évoque une dimension moralisatrice du libre-échange, mais est-ce suffisant face aux enjeux actuels ?",
+                    "score": 80,
+                    "start": 513.551,
+                    "end": 547.677
+                },
+                {
+                    "titre": "Les petits patrons face aux grands : une solidarité en question ?",
+                    "extrait": "« Les petits patrons se plaignent très souvent justement du manque de solidarité des grands patrons. »",
+                    "score": 75,
+                    "start": 339.145,
+                    "end": 357.133
+                },
+                {
+                    "titre": "La responsabilité sociale des entreprises : un débat toujours d'actualité ?",
+                    "extrait": "« La fonction de l'entreprise, c'est de faire de l'argent, mais elle doit également prendre en considération les enjeux sociaux et environnementaux. »",
+                    "score": 90,
+                    "start": 689.966,
+                    "end": 699.794
+                },
+                {
+                    "titre": "Emmanuel Faber : un patron engagé ou un idéal inatteignable ?",
+                    "extrait": "« La vraie question, c'est la compétitivité non pas seulement fiscale, c'est la compétitivité écologique, sociale, à moyen long terme. »",
+                    "score": 88,
+                    "start": 819.644,
+                    "end": 830.269
+                },
+                {
+                    "titre": "Le patronat français face à l'ingérence américaine : un refus de capituler ?",
+                    "extrait": "« C'est inadmissible. Ça traduit une dérive du gouvernement américain. » Patrick Martin, président du MEDEF, défend les valeurs européennes. ",
+                    "score": 82,
+                    "start": 3232.83,
+                    "end": 3247.593
+                },
+                {
+                    "titre": "La diversité en entreprise : un argument économique ou une obligation morale ?",
+                    "extrait": "« Le capitalisme est capable de se réformer par lui-même, plutôt que par des taxes ou des politiques publiques contraignantes. »",
+                    "score": 87,
+                    "start": 952.48,
+                    "end": 961.464
                 }
             ]
         },
