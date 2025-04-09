@@ -1,6 +1,6 @@
 {
-    "date": "Mis à jour le 09/04/2025 à 17:07",
-    "unix": 1744211239,
+    "date": "Mis à jour le 09/04/2025 à 17:21",
+    "unix": 1744212074,
     "shows": [
         {
             "title": "Quand vient le fascisme en Europe 3/4 : Les racines d’une idéologie",
@@ -687,6 +687,73 @@
                     "score": 94,
                     "start": 3315.742,
                     "end": 3339.215
+                }
+            ]
+        },
+        {
+            "title": "Archéologie musicale, c'est le luth final",
+            "id": "aedb93a5-a07c-405c-9a73-292c6c78673f",
+            "show": "La Science, CQFD",
+            "show_id": "dc59bf2c-a3f5-48b0-bd13-f7258761d52c",
+            "chapo": "Des flûtes en ivoire de mammouth ou en os de vautour qui remontent à plus de 35.000 ans jusqu’aux innovations d’aujourd’hui en passant par les psaltérions et les lyres de l’époque gauloise, chaque époque a marqué l’histoire de la musique. Comment retracer cette évolution ?",
+            "magnetotheque_id": "2025C48906S0099",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/la-science-cqfd/archeologie-musicale-c-est-le-luth-final-9088422",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/14312-09.04.2025-ITEMA_24097643-2025C48906S0099-NET_MFC_A6472584-9CB6-4BC1-A50F-7C27F21B2239-21.mp3",
+            "duration": 3510,
+            "date": 1744210725,
+            "settings": [
+                "savoirs"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "Comment la musique a-t-elle façonné notre humanité ?",
+                    "extrait": "\"Déjà, c'est l'importance du son. En fait, pour comprendre les sociétés préhistoriques, il faut voyager dans un univers sonore qui est complètement différent du nôtre. La relation au son est complètement différente. Donc on n'a pas les sons techniques qui sont complètement différents. On n'a pas de machines, on n'a pas d'animaux domestiques qui font des bruits. Et la relation au son va être aussi la façon de percevoir le monde, de construire le monde et d'avoir une relation différente à son environnement.\"",
+                    "score": 95,
+                    "start": 831.617,
+                    "end": 857.408
+                },
+                {
+                    "titre": "Les instruments de musique préhistoriques : des trésors oubliés !",
+                    "extrait": "\"Il existe encore, je pense, beaucoup d'objets qui ont été découverts, qui ont été non identifiés ou mal identifiés. Et qu'il s'agit aujourd'hui encore d'explorer dans une autre archéologie, non pas une archéologie dans le sol, mais une archéologie dans nos réserves, où on peut encore aujourd'hui découvrir des objets assez étonnants, qui parfois sont dans les vitrines, identifiés comme étant des peignes, qui sont en fait des cordiers d'instruments.\"",
+                    "score": 90,
+                    "start": 301.54,
+                    "end": 328.948
+                },
+                {
+                    "titre": "La flûte natoufienne : un lien entre l'homme et la nature",
+                    "extrait": "\"On a compris que dès le départ, l'idée était complètement de produire un son aigu. Et donc après on s'est demandé est-ce que ce son serait lié au chant des oiseaux ? Parce que c'est sur un site au bord du lac Houlé où justement les natoufiens ont chassé énormément d'espèces d'oiseaux et notamment d'oiseaux aquatiques.\"",
+                    "score": 92,
+                    "start": 1142.798,
+                    "end": 1159.415
+                },
+                {
+                    "titre": "La musique, un langage universel à travers les âges",
+                    "extrait": "\"Il faut voir que c'est sans doute que les pratiques rentrent, les pratiques de musique, de production sonore et de danse rentrent dans le même ressort de pratiques. Et surtout que la gestuelle aussi est associée à la production sonore.\"",
+                    "score": 88,
+                    "start": 1505.983,
+                    "end": 1521.699
+                },
+                {
+                    "titre": "Les secrets des instruments de musique préhistoriques révélés !",
+                    "extrait": "\"L'idée, c'est aussi de les reconnaître parmi les fragments et aussi de reconnaître des objets auxquels nous, dans notre culture occidentale moderne, on ne penserait pas du tout à des instruments sonores. En fait, en préhistoire, on va plutôt parler d'instruments sonores puisque la question de la musique est encore relativement complexe.\"",
+                    "score": 87,
+                    "start": 482.804,
+                    "end": 518.303
+                },
+                {
+                    "titre": "Pourquoi la musique est-elle essentielle à notre histoire ?",
+                    "extrait": "\"La question de la musique est apparue très tôt, même dans l'évolution des espèces. Enfin, on voit que Darwin, dès le départ, dans sa théorie des évolutions, se pose la question de l'émergence de la musique. À quel moment ça apparaît ?\"",
+                    "score": 89,
+                    "start": 416.73,
+                    "end": 429.303
+                },
+                {
+                    "titre": "Les flûtes de 40 000 ans : un héritage musical oublié",
+                    "extrait": "\"Donc là, c'est des flûtes qui sont fabriquées en os de Vautour ou en Ivoire. Et on en connaît aujourd'hui, je crois, sept et qui datent d'à peu près 40 000 ans.\"",
+                    "score": 91,
+                    "start": 758.037,
+                    "end": 767.245
                 }
             ]
         },
