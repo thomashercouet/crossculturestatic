@@ -1,6 +1,6 @@
 {
-    "date": "Mis à jour le 09/04/2025 à 17:33",
-    "unix": 1744212802,
+    "date": "Mis à jour le 10/04/2025 à 09:27",
+    "unix": 1744270030,
     "shows": [
         {
             "title": "Quand vient le fascisme en Europe 3/4 : Les racines d’une idéologie",
@@ -391,6 +391,52 @@
                     "score": 87,
                     "start": 254.081,
                     "end": 265.109
+                }
+            ]
+        },
+        {
+            "title": "Affaires politico-financières : la France est-elle le mauvais élève de l’Europe ? ",
+            "id": "2b3faf86-4d5d-41b8-a676-528389bcd0b9",
+            "show": "Questions du soir : le débat",
+            "show_id": "df67029c-4820-4a4b-83df-6c2c88bb5840",
+            "chapo": "Affaires à répétition, défiance grandissante : la France recule dans les classements sur la corruption. Tandis que l’Europe tente de s’accorder sur des règles communes, la lutte contre les dérives politico-financières reste un enjeu central, mais fragile.",
+            "magnetotheque_id": "2025C36267S0099",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/affaires-politico-financieres-la-france-est-elle-le-mauvais-eleve-de-l-europe-7205782",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/25344-09.04.2025-ITEMA_24097654-2025C36267S0099-NET_MFC_CB327788-7688-4182-9404-414A3B402D0A-21.mp3",
+            "duration": 2385,
+            "date": 1744217925,
+            "settings": [
+                "actu"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "La France, mauvaise élève de l'Europe ?",
+                    "extrait": "\"La France a perdu 5 points dans l'indice de perception de la corruption, se classant désormais 25e. Pendant ce temps, les pays d'Europe du Nord, comme le Danemark et la Finlande, dominent le classement. Est-ce un mal français ou une lutte contre la corruption qui fonctionne ?\"",
+                    "score": 90,
+                    "start": 811.786,
+                    "end": 832.451
+                },
+                {
+                    "titre": "La culture de l'éthique en politique : un fossé entre le Nord et le Sud ?",
+                    "extrait": "\"Nous, en tant que latins, cette culture de l'éthique, on ne l'a pas chevillée au corps. Les pays du Nord ont un contrôle social sur l'éthique qui est beaucoup plus fort, tandis qu'en France, on passe plus par le contrôle législatif.\"",
+                    "score": 85,
+                    "start": 1313.232,
+                    "end": 1341.01
+                },
+                {
+                    "titre": "La présomption d'innocence : un bouclier pour les puissants ?",
+                    "extrait": "\"Tant qu'il n'a pas été condamné définitivement, il est présumé innocent. Cela soulève la question de l'égalité devant la loi et de la perception du public sur les puissants.\"",
+                    "score": 88,
+                    "start": 1594.86,
+                    "end": 1610.172
+                },
+                {
+                    "titre": "Transparence et populisme : un lien paradoxal ?",
+                    "extrait": "\"Trop de transparence tue la transparence. L'empilement des lois en France pourrait mener à une nouvelle affaire, et cela pourrait paradoxalement favoriser le populisme.\"",
+                    "score": 92,
+                    "start": 2116.393,
+                    "end": 2129.561
                 }
             ]
         },
@@ -821,6 +867,45 @@
                     "score": 84,
                     "start": 1366.989,
                     "end": 1373.892
+                }
+            ]
+        },
+        {
+            "title": "Pourquoi parle-t-on encore de l’effondrement des Mayas ?",
+            "id": "f107c5cf-0b15-4e4e-b0d2-37c80046cdbc",
+            "show": "Questions du soir : l'idée",
+            "show_id": "18d2d677-e679-453c-aec9-76ddef22ddb4",
+            "chapo": "Chloé Andrieu, archéologue, démonte un mythe tenace : non, les Mayas n’ont pas disparu. Derrière les ruines et les prophéties, un peuple vivant et pluriel continue d’exister. En déconstruisant le récit d’effondrement, elle redonne place à leur histoire.",
+            "magnetotheque_id": "2025C53458S0099",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-l-idee/pourquoi-parle-t-on-encore-de-l-effondrement-des-mayas-9855819",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/25343-09.04.2025-ITEMA_24097653-2025C53458S0099-NET_MFC_234A00E9-3288-4401-B732-A0E78D0347F7-21.mp3",
+            "duration": 1555,
+            "date": 1744219725,
+            "settings": [
+                "savoirs"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "Les Mayas : un peuple vivant, pas une civilisation disparue !",
+                    "extrait": "« Les Mayas n’appartiennent pas à l’antiquité et ils n’ont pas disparu. Pourtant, leur image nourrit depuis des siècles notre fascination pour les ruines sur lesquelles nous projetons nos craintes d’effondrement et nos quêtes éventuelles de sagesses antiques. »",
+                    "score": 95,
+                    "start": 25.318,
+                    "end": 39.156
+                },
+                {
+                    "titre": "L'effondrement des Mayas : mythe ou réalité ?",
+                    "extrait": "« Si on définit un effondrement comme une baisse drastique de complexité sociale et une baisse démographique, c'est bien ce qui s'est passé au IXe siècle. La question, c'est que Gerd Diamond a contribué à ériger cette notion en catégorie générale, avec cette idée que, selon laquelle, la comparaison d'effondrements un peu partout à travers l'histoire permettrait de dégager des règles générales pour envisager ce avenir. »",
+                    "score": 90,
+                    "start": 401.714,
+                    "end": 424.96
+                },
+                {
+                    "titre": "La renaissance des cultures mayas : un combat pour l'identité",
+                    "extrait": "« Les Mayas ont su s'imposer au Mexique et au Guatemala comme des acteurs à part entière des politiques dans les pays où ils vivaient. Ils ont un certain nombre de mouvements politiques qui sont particulièrement actifs. »",
+                    "score": 92,
+                    "start": 1366.707,
+                    "end": 1378.974
                 }
             ]
         },
@@ -1305,6 +1390,36 @@
             ]
         },
         {
+            "title": "Appels aux autorités",
+            "id": "2bf6ddd0-0e1e-4864-ba2f-0df32f7f2c66",
+            "show": "Lectures du soir",
+            "show_id": "ee7280ad-40f6-11e5-9fe0-005056a87c89",
+            "chapo": "\"A sa Sainteté Paul VI, cité du Vatican. En ses heures si difficiles, je me permets d’en appeler à Votre Sainteté. Seule Votre Sainteté peut opposer aux exigences de l’Etat, les raisons de la morale et le droit à la vie. \"",
+            "magnetotheque_id": "2025C17591E0057",
+            "seo_url": "",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/13023-09.04.2025-ITEMA_24097639-2025C17591E0057-ITE_00147979_RSCE-21.mp3",
+            "duration": 1244,
+            "date": 1744228548,
+            "settings": [
+                "interview"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "« Mon sang retombera sur vous » : un cri de désespoir d'Aldo Moro",
+                    "extrait": "« Mon sang retombera sur vous », page arrachée à la correspondance d'Aldo Moro. [...] Si vous n'intervenez pas, serait écrite une page terrifiante dans l'histoire italienne. Mon sang retomberait sur vous, sur le parti, sur le pays. Réfléchissez bien, chers amis. Affirmez votre indépendance. Ne considérez pas demain, mais après-demain. Réfléchis bien, toi, surtout, Zaccanini, qui est le plus haut responsable.",
+                    "start": 517.305,
+                    "end": 580.015
+                },
+                {
+                    "titre": "Comment la morale peut-elle s'opposer à l'État ?",
+                    "extrait": "« Seule votre sainteté peut opposer aux exigences de l'État, compréhensible au regard de la logique qui leur est propre, les raisons de la morale et le droit à la vie. [...] Mais c'est surtout à la démocratie chrétienne qu'on appelle le pays, pour les responsabilités qu'elle a su assumer, pour la manière dont elle a toujours su, dans sa sagesse avisée, préserver l'harmonie entre les raisons d'État et celles de l'humanité et de la morale. »",
+                    "start": 147.068,
+                    "end": 198.504
+                }
+            ]
+        },
+        {
             "title": "Apple sort huit nouveaux émojis, que révèlent-ils de notre monde connecté ? ",
             "id": "c43c2239-ba92-4365-abc9-1c6a5e18fcb7",
             "show": "Un monde connecté",
@@ -1667,6 +1782,73 @@
                     "score": 95,
                     "start": 29.468,
                     "end": 41.973
+                }
+            ]
+        },
+        {
+            "title": "La persécution des Juifs au quotidien sous l'Occupation",
+            "id": "1a88294c-d44e-4a1b-b9fa-a5bd9b17886e",
+            "show": "Esprit de justice",
+            "show_id": "cefbe758-c74f-4151-b65e-bc538b8ccd22",
+            "chapo": "Comment le régime de Vichy a-t-il pu s'imposer auprès de la magistrature et du droit ? En quoi les méthodes administratives et policières ont-elles permis la répression antijuive ?",
+            "magnetotheque_id": "2025C27677S0099",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/esprit-de-justice/la-persecution-des-juifs-au-quotidien-sous-l-occupation-8962994",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/21447-09.04.2025-ITEMA_24097660-2025C27677S0099-NET_MFC_51228218-85C4-4A37-952D-E250DC5B9142-21.mp3",
+            "duration": 3555,
+            "date": 1744225125,
+            "settings": [
+                "savoirs"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "Comment la justice a-t-elle été instrumentalisée sous Vichy ?",
+                    "extrait": "« Le respect des formes juridiques et procédurales n'était qu'une mise en scène qui avait paradoxalement pour but d'invisibiliser la justice, la législation. »",
+                    "score": 90,
+                    "start": 62.185,
+                    "end": 71.959
+                },
+                {
+                    "titre": "La prison, refuge inattendu pour les Juifs ?",
+                    "extrait": "« On finissait par rendre la prison désirable, car les juifs y étaient peut-être plus en sécurité que dehors. »",
+                    "score": 85,
+                    "start": 102.351,
+                    "end": 111.259
+                },
+                {
+                    "titre": "La législation anti-juive : un outil de répression ?",
+                    "extrait": "« Ce statut lui-même va dans la définition du juif à recenser, encore même plus loin finalement que ce que les juifs s'autodéfinissent d'un point de vue religieux. »",
+                    "score": 88,
+                    "start": 531.281,
+                    "end": 542.295
+                },
+                {
+                    "titre": "La banalité du mal : un phénomène quotidien ?",
+                    "extrait": "« Tout est banalisé. Rotinisé, comme disait... Oui, absolument. »",
+                    "score": 92,
+                    "start": 1051.204,
+                    "end": 1055.386
+                },
+                {
+                    "titre": "Les juges face à la déportation : complices ou victimes ?",
+                    "extrait": "« Les juges étaient des acteurs pleinement intégrés dans la persécution des juifs. Ils étaient un rouage comme un autre. »",
+                    "score": 95,
+                    "start": 1716.588,
+                    "end": 1724.858
+                },
+                {
+                    "titre": "La double logique de la répression : judiciaire et administrative ?",
+                    "extrait": "« Il y a une logique judiciaire, très instrumentalisée, et une logique administrative. Et les deux se rejoignent in fine. »",
+                    "score": 90,
+                    "start": 684.057,
+                    "end": 694.186
+                },
+                {
+                    "titre": "Pourquoi la mémoire des victimes reste-t-elle méconnue ?",
+                    "extrait": "« Cette histoire, l'histoire qui a frappé les juifs passés par la case justice et prison, est encore très confidentielle. »",
+                    "score": 87,
+                    "start": 3454.275,
+                    "end": 3463.957
                 }
             ]
         },
