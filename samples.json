@@ -1,6 +1,6 @@
 {
-    "date": "Mis à jour le 22/04/2025 à 16:48",
-    "unix": 1745333289,
+    "date": "Mis à jour le 22/04/2025 à 17:04",
+    "unix": 1745334285,
     "shows": [
         {
             "title": "\"La Reine des neiges\" de Pierre Senges ",
@@ -1592,6 +1592,31 @@
             ]
         },
         {
+            "title": "Critique littérature : \"Je suis fan\" de Sheena Patel",
+            "id": "4aa9b8b4-cc9f-4a4c-9a9f-a82b66645b5d",
+            "show": "Les Midis de Culture",
+            "show_id": "32a14af6-fc87-4f4f-a06e-39ccf8587119",
+            "chapo": "Les critiques discutent de \"Je suis fan\" de Sheena Patel, un premier roman qui nous plonge dans l'obsession amoureuse maladive de sa narratrice et questionne notre rapport aux réseaux sociaux.",
+            "magnetotheque_id": "2025C51852S2112",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/les-midis-de-culture/critique-litterature-je-suis-fan-de-sheena-patel-6453392",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/12360-22.04.2025-ITEMA_24110859-2025C51852S2112-NET_MFC_3203849A-6A69-48E8-B91C-6E2CF44E856F-21.mp3",
+            "duration": 722,
+            "date": 1745317800,
+            "settings": [
+                "interview"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "« Observer quelqu'un sur Internet, c'est procéder à une automutilation »",
+                    "extrait": "« Observer quelqu'un comme elle le fait sur Internet, faire des captures d'écran, des stories comme elle le dit, c'est procéder finalement à une automutilation, une automutilation d'elle-même. C'est-à-dire qu'elle perd tout le crédit moral qu'elle pouvait avoir à son égard. Elle fait s'effondrer son narcissisme. »",
+                    "score": 95,
+                    "start": 365.997,
+                    "end": 383.765
+                }
+            ]
+        },
+        {
             "title": "Doyen des forains, Kiki Bourdier raconte sa vie en 1962 ",
             "id": "dd020074-1fed-4fc7-8e54-41ff52eb89b6",
             "show": "Les Nuits de France Culture",
@@ -1614,31 +1639,6 @@
                     "score": 85,
                     "start": 649.216,
                     "end": 663.46
-                }
-            ]
-        },
-        {
-            "title": "Critique littérature : \"Je suis fan\" de Sheena Patel",
-            "id": "4aa9b8b4-cc9f-4a4c-9a9f-a82b66645b5d",
-            "show": "Les Midis de Culture",
-            "show_id": "32a14af6-fc87-4f4f-a06e-39ccf8587119",
-            "chapo": "Les critiques discutent de \"Je suis fan\" de Sheena Patel, un premier roman qui nous plonge dans l'obsession amoureuse maladive de sa narratrice et questionne notre rapport aux réseaux sociaux.",
-            "magnetotheque_id": "2025C51852S2112",
-            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/les-midis-de-culture/critique-litterature-je-suis-fan-de-sheena-patel-6453392",
-            "mp3": "https://media.radiofrance-podcast.net/podcast09/12360-22.04.2025-ITEMA_24110859-2025C51852S2112-NET_MFC_3203849A-6A69-48E8-B91C-6E2CF44E856F-21.mp3",
-            "duration": 722,
-            "date": 1745317800,
-            "settings": [
-                "interview"
-            ],
-            "limit": 0,
-            "extraits": [
-                {
-                    "titre": "« Observer quelqu'un sur Internet, c'est procéder à une automutilation »",
-                    "extrait": "« Observer quelqu'un comme elle le fait sur Internet, faire des captures d'écran, des stories comme elle le dit, c'est procéder finalement à une automutilation, une automutilation d'elle-même. C'est-à-dire qu'elle perd tout le crédit moral qu'elle pouvait avoir à son égard. Elle fait s'effondrer son narcissisme. »",
-                    "score": 95,
-                    "start": 365.997,
-                    "end": 383.765
                 }
             ]
         },
