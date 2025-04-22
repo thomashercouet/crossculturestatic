@@ -1,6 +1,6 @@
 {
-    "date": "Mis à jour le 22/04/2025 à 17:57",
-    "unix": 1745337469,
+    "date": "Mis à jour le 22/04/2025 à 18:10",
+    "unix": 1745338242,
     "shows": [
         {
             "title": "\"La Reine des neiges\" de Pierre Senges ",
@@ -4044,6 +4044,66 @@
                     "score": 95,
                     "start": 3.405,
                     "end": 25.036
+                }
+            ]
+        },
+        {
+            "title": "Troubles bipolaires : vers la fin d'un cycle ?",
+            "id": "eec25be7-0111-405c-b1d3-b65476f2e69b",
+            "show": "La Science, CQFD",
+            "show_id": "dc59bf2c-a3f5-48b0-bd13-f7258761d52c",
+            "chapo": "Le trouble bipolaire touche 3 % des Français et se manifeste par des phases maniaques et dépressives souvent mal diagnostiquées. Ses causes sont mal comprises, mais des facteurs biologiques et environnementaux semblent être impliqués. Comment mieux comprendre ce trouble pour mieux le traiter ?",
+            "magnetotheque_id": "2025C48906S0112",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/la-science-cqfd/trouble-bipolaire-vers-la-fin-d-un-cycle-1354410",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/14312-22.04.2025-ITEMA_24110866-2025C48906S0112-NET_MFC_7837E688-A795-48B0-9C6F-8D77C4B4A565-21.mp3",
+            "duration": 3494,
+            "date": 1745333925,
+            "settings": [
+                "savoirs"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "« La bipolarité, c'est une maladie très dure »",
+                    "extrait": "« Eh bien voilà, il faut que je dois vous dire que je suis un maniaco dépressif. Alors, maniaco, ça veut dire excitation sous délire. Nous sommes dans un état second. Nous ne nous rendons pas plus compte du tout de ce qu'on fait. Et après nous passons dans la phase dépressive, et dans cette phase dépressive, nous nous reprochons de ce que nous avons fait dans la phase maniaque. C'est une maladie qui est très dure, qui est très difficile et qui est triste. »",
+                    "score": 95,
+                    "start": 106.56,
+                    "end": 137.671
+                },
+                {
+                    "titre": "Comment la stigmatisation influence-t-elle les patients ?",
+                    "extrait": "« Il souligne, il martèle la notion de stigmatisation, l'utilisation des mots, l'importance, le soutien de son environnement familial, la volonté de témoigner. Et c'est à la fois très émouvant et très actuel. »",
+                    "score": 90,
+                    "start": 254.014,
+                    "end": 267.12
+                },
+                {
+                    "titre": "Pourquoi le diagnostic du trouble bipolaire prend-il si longtemps ?",
+                    "extrait": "« Il faut généralement attendre 8 à 9 ans avant la pose d'un diagnostic. Mais sa prise en charge a profondément changé. »",
+                    "score": 85,
+                    "start": 33.626,
+                    "end": 39.346
+                },
+                {
+                    "titre": "« 15% des patients bipolaires non traités vont se suicider »",
+                    "extrait": "« D'abord le suicide. 15% des patients bipolaires non traités vont se suicider. Ce qui est très important, c'est la durée entre le début des symptômes et le diagnostic. »",
+                    "score": 92,
+                    "start": 740.548,
+                    "end": 753.15
+                },
+                {
+                    "titre": "La bipolarité, une maladie aux multiples visages",
+                    "extrait": "« Le trouble bipolaire de type 1, ça va être l'alternance d'épisodes dépressifs et de phases d'exaltation maniaque. Ces phases d'exaltation maniaque sont suffisamment sévères pour généralement nécessiter une hospitalisation. »",
+                    "score": 88,
+                    "start": 510.596,
+                    "end": 521.625
+                },
+                {
+                    "titre": "Comment la culture peut-elle déstigmatiser la bipolarité ?",
+                    "extrait": "« C'est important aussi nous on essaie de parler de la bipolarité par le biais de la culture et donc soit de soutenir des actions culturelles soit de parler de littérature ou d'œuvres cinématographiques qui vont parler de manière pertinente des troubles mentaux. »",
+                    "score": 87,
+                    "start": 3132.87,
+                    "end": 3152.046
                 }
             ]
         },
