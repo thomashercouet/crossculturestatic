@@ -1,6 +1,6 @@
 {
-    "date": "Mis à jour le 22/04/2025 à 14:03",
-    "unix": 1745323405,
+    "date": "Mis à jour le 22/04/2025 à 14:18",
+    "unix": 1745324327,
     "shows": [
         {
             "title": "\"La Reine des neiges\" de Pierre Senges ",
@@ -521,6 +521,42 @@
                     "score": 95,
                     "start": 79.872,
                     "end": 112.12
+                }
+            ]
+        },
+        {
+            "title": "Camilla, les bobos et les ruraux",
+            "id": "451cac99-5ed4-47e8-95f3-279e82784893",
+            "show": "Les Pieds sur terre",
+            "show_id": "beb83c10-402c-11e5-8314-005056a87c89",
+            "chapo": "Il y a huit ans, Camilla s'est installée avec sa femme dans un village typique de l'Yonne. Leur maison fait rêver leurs amis parisiens. Mais depuis qu'elles se sont mariées, et qu'il y a eu les élections, elles commencent à déchanter.",
+            "magnetotheque_id": "2025C6612S0112",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/les-pieds-sur-terre/camilla-les-bobos-et-les-ruraux-6108681",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/10078-22.04.2025-ITEMA_24110861-2025C6612S0112-NET_MFC_4F6BA01F-6756-4E8A-BCF2-17FF0461AD45-21.mp3",
+            "duration": 1920,
+            "date": 1745323125,
+            "settings": [
+                "temoignage"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "Comment une simple soirée barbecue a révélé des tensions culturelles ?",
+                    "extrait": "Et à un moment, en fait, Blandine s'arrête de boire pendant le repas parce qu'il faut qu'on rentre. Et là, quelqu'un veut lui servir à nouveau un verre de vin. Il dit « Non, je conduis. Ça va, tu peux quand même en boire un dernier. Vu la route que tu prends, de toute façon, il n'y aura pas les flics. Tu ne vas pas souffler. » Et Blandine finit par dire... Il n'y a peut-être personne, il n'y a peut-être pas danger, mais il y a les animaux, il y a des animaux qui traversent, surtout à cette heure-là, quand il fait nuit. Et là, la personne en face rigole et lui dit « Non, mais tu ne vas quand même pas lui donner du sentimentalisme sur le gibier. » Et puis là, il y en a une autre qui raconte, qui dit « Tiens, moi, c'est il n'y a pas longtemps, j'ai percuté du gibier, un chevreuil, il a dégueulassé ma voiture. » Nous, on réagit avec Blandine, oh là là, mais lui, le chevreuil, comment ça ? Ah ben, il est mort, le chevreuil ! Et donc, nous, on a été touchés de la mort de cet animal, on l'imagine. Et là, vraiment, il y en a plusieurs qui rigolent, dont cet homme qui voulait lui resservir du vin. Il ne faut peut-être pas déconner, et puis quoi encore ? Vous allez nous dire que vous êtes végétarienne, et tout ça. On dit, ben non, je ne suis pas végétarienne, mais quand même, je n'ai pas envie de causer la mort d'un animal, c'est... Je ne me réveille pas en me disant que je vais tuer du chevreuil ou du sanglier.",
+                    "start": 252.012,
+                    "end": 329.067
+                },
+                {
+                    "titre": "Pourquoi le mariage et la politique peuvent-ils diviser des amis ?",
+                    "extrait": "Et donc il se trouve que ce jour-là, en fait, c'était la veille du second tour des dernières élections présidentielles. Il y en a un qui dit « Vivement Marine ». Et donc, moi, je rigole, Blandine rigole. Parce que vraiment, en plus, depuis qu'on les connaissait, ils n'avaient jamais eu un propos limite. On ne s'était jamais entendu quelque chose. On se doutait qu'on n'était pas du même bord, mais passe-point. Et moi, je réponds en effet que ça m'embête ce second tour, de nouveau devoir voter Macron au second tour, mais bon, il n'y a pas le choix. Et là, ils me disent « si, il y a le choix ». Et les trois sont surpris « si, il y a le choix ». Et puis je creuse et je lui dis « mais t'as voté qui au premier tour ? » « J'ai voté Marine ». « Ah ! » Et là, il me dit, mais pourquoi ? Toi, t'as voté qui au premier tour ? J'ai dit, j'ai voté Mélenchon. Et là, avec Blandine, on s'est retrouvés bêtes.",
+                    "start": 457.86,
+                    "end": 520.546
+                },
+                {
+                    "titre": "Comment la transphobie ordinaire peut détruire des vies ?",
+                    "extrait": "Et en fait, un jeune homme qui est en effet assez compliqué, avec des tentatives de suicide très régulières, hebdomadaires, des scarifications quotidiennes sur les parties génitales, la poitrine, ce genre de choses. En effet, très compliqué. Mais sauf que j'ai une équipe qui l'appelle Bénédicte en permanence, lui disent elle en permanence, alors que lui est tout le temps en train de leur dire non, c'est Ben et c'est il. À un moment, mes collègues, je les reprends alors que je venais d'arriver, je leur dis mais il y a quand même de quoi devenir fou.",
+                    "start": 987.946,
+                    "end": 1020.269
                 }
             ]
         },
@@ -2835,6 +2871,36 @@
             ]
         },
         {
+            "title": "\"Ne Zha 2\" : aux origines du succès de l'animation chinoise",
+            "id": "e6ee511c-1cb0-4307-8106-f50290b79eb6",
+            "show": "Le Point culture",
+            "show_id": "25d4eded-ef3f-4106-9cca-09a53f4794dc",
+            "chapo": "À l'origine de l'animation chinoise se trouvent deux mouvements, celui d'une scène artistique plus confidentielle à l'origine de bien des innovations, et celui d'une création à visée internationale censée promouvoir la Chine.",
+            "magnetotheque_id": "2025C41196S0112",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/le-point-culture/ne-zha-2-aux-origines-du-succes-de-l-animation-chinoise-3339400",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/25658-22.04.2025-ITEMA_24111206-2025C41196S0112-NET_MFC_9BC7F12D-BC15-435D-B6E6-BB4EAD4630CA-21.mp3",
+            "duration": 588,
+            "date": 1745319600,
+            "settings": [
+                "actu"
+            ],
+            "limit": 2,
+            "extraits": [
+                {
+                    "titre": "Comment la Chine redéfinit l'animation mondiale ?",
+                    "extrait": "Le cinéma d'animation chinois contemporain, il est extrêmement récent et il émerge de façon encore plus récente sur la scène internationale. Il y a en gros deux grandes tendances. Il y a un cinéma qu'on va dire dissident ou en tout cas marginal, qui est celui d'auteurs pour le coup reconnus dans les festivals, comme je pense en particulier à Liu Jian, qui est l'auteur de Have a Nice Day, qu'on avait pu voir notamment à la...  au Festival de Berlin, ou des artistes comme Sun Chun, qui travaille plutôt entre les arts plastiques, les installations et l'art et l'animation, qui a fait l'objet de grandes expositions, notamment à Annecy en 2017. Mais là, ce qu'on découvre, c'est le versant le plus industriel de l'animation chinoise. C'est un mouvement qui, en fait, est beaucoup plus récent. Depuis, on va dire, une dizaine d'années, commencent à se produire en Chine des grosses productions, des productions de plus en plus pharaoniques, si j'ose dire, avec des technologies qui sont essentiellement celles de la 3D et qui ont pour vocation à être des blockbusters, d'abord sur leur marché intérieur.",
+                    "start": 66.665,
+                    "end": 129.257
+                },
+                {
+                    "titre": "Pourquoi Neza 2 est-il un phénomène en Chine ?",
+                    "extrait": "C'est un film qui, effectivement, bat tous les records en Chine, mais aussi au niveau international, grâce à son succès domestique, c'est-à-dire en Chine. 200 millions d'entrées, rien que sur le marché chinois. Donc, ça fait que le film se hisse parmi les films les plus vus, les films d'animation les plus vus de toute l'histoire de l'animation. Mais pour l'instant, c'est vraiment sur le marché chinois. En Chine, pourquoi ? Certainement parce que c'est un film à très grand spectacle. C'est un film qui réinvestit avec une véritable mastriale, la mythologie chinoise, qui multiplie les rebondissements, qui a aussi beaucoup de ruptures de ton entre les combats, les scènes comiques, etc. Et puis, c'est un film qui se réfère à une des personnalités les plus populaires en Chine, qui est Neza, qui fait partie complètement du panthéon chinois.",
+                    "start": 352.37,
+                    "end": 396.8
+                }
+            ]
+        },
+        {
             "title": "Lucioles, post-mortem et jouer nu dans une tente avec Marcial Di Fonzo Bo",
             "id": "bcae2093-aad3-40e8-a59f-3f1e8e713d1b",
             "show": "Comme un samedi ",
@@ -4857,6 +4923,45 @@
                     "score": 82,
                     "start": 291.026,
                     "end": 305.877
+                }
+            ]
+        },
+        {
+            "title": "Philippe Grandrieux, réalisateur, présente son livre-film \"NOX\"",
+            "id": "94fefc3f-01be-49f5-a19a-1ce656385b6e",
+            "show": "Les Midis de Culture",
+            "show_id": "32a14af6-fc87-4f4f-a06e-39ccf8587119",
+            "chapo": "Philippe Grandrieux, cinéaste au croisement du cinéma de genre et du cinéma expérimental, présente son nouveau livre-film “NOX”, composé de photogrammes d’un plan-séquence montrant le cri d’une femme. ",
+            "magnetotheque_id": "2025C51852S3112",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/les-midis-de-culture/philippe-grandrieux-realisateur-presente-son-livre-film-nox-1153091",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/12360-22.04.2025-ITEMA_24110859-2025C51852S3112-NET_MFC_A8B2514D-E271-4F42-A09C-E128E51D2176-21.mp3",
+            "duration": 1728,
+            "date": 1745321325,
+            "settings": [
+                "interview"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "Comment le noir devient une expérience sensorielle ?",
+                    "extrait": "« Oui, c'est-à-dire, c'est le rapport dans le fait que quand on feuillette le livre, enfin, quand on passe d'une page à l'autre, il y a le texte, il y a l'histoire, il y a le récit, bien sûr. Mais on a aussi travaillé, par exemple, avec Corinne sur la grosseur des mots. C'est-à-dire que tout d'un coup, il y a une phrase très petite, tout en haut de la page, dans le noir, comme « perdu dans le noir ». Et puis, on tourne la page et sur le visage, il y a deux ou trois mots, au contraire, très gros, qui envahissent l'image. Donc, en fait, il y a un rythme, il y a une sorte de défilement mesuré, qui est pris déjà dans du tempo. En ce sens-là, c'est un film-livre, au sens où passer d'une page à l'autre, c'est éprouver ce tempo, ce tempo de la lecture. mais aussi ce tempo physique de la sensation du livre. »",
+                    "score": 90,
+                    "start": 296.396,
+                    "end": 349.392
+                },
+                {
+                    "titre": "La puissance du cri : un langage universel",
+                    "extrait": "« Oui, en tout cas, si le lecteur accepte de se laisser glisser dans le livre et de se glisser dans les images et de venir buter comme ça sur ce visage, en fait le livre est fabriqué avec un seul visage, c'est comme un plan qui a été infiniment ralenti dont on aurait prélevé quelques secondes. Et on vient comme buter sans cesse d'une page à l'autre sur le visage, mais qui est dans des états très différents, des états d'exaltation, des états de désir, des états de cri, de peur. Donc on est sans cesse convoqué à être face à ce visage et le texte se glisse comme ça, dans et sur le visage. »",
+                    "score": 95,
+                    "start": 443.637,
+                    "end": 491.278
+                },
+                {
+                    "titre": "Pourquoi le cinéma est-il un miroir de notre humanité ?",
+                    "extrait": "« Oui, totalement. Je pense que ce lien entre l'effroi, entre la peur, entre la terreur et le plaisir, c'est un lien très constitutif de ce qu'on est, de la matière humaine. Mais la chose impressionnante avec les enfants, c'est que les enfants assez petits... Et c'était un spectacle de marionnettes, les marionnettes sont jamais filmées, il y avait tout un équipement assez lourd quand on a tourné cette scène, il y avait un travelling, la caméra 35, blimpé, c'était une grosse machinerie si vous voulez, il y avait de la lumière, on voit très peu mais... il y avait une certaine lumière qui permet justement de voir très peu et les enfants étaient totalement captifs captivés par le spectacle par le fait que le loup s'approche de Guignol Guignol ne voit pas le loup puisque le loup est derrière lui et Guignol se penche vers les enfants et dit mais pourquoi vous criez ? Les enfants crient le loup, le loup et quand Guignol se retourne le loup disparaît. »",
+                    "score": 92,
+                    "start": 1378.65,
+                    "end": 1451.248
                 }
             ]
         },
