@@ -1,6 +1,6 @@
 {
-    "date": "Mis à jour le 22/04/2025 à 19:01",
-    "unix": 1745341291,
+    "date": "Mis à jour le 22/04/2025 à 19:14",
+    "unix": 1745342084,
     "shows": [
         {
             "title": "\"La Reine des neiges\" de Pierre Senges ",
@@ -5189,6 +5189,52 @@
                     "score": 95,
                     "start": 971.071,
                     "end": 987.662
+                }
+            ]
+        },
+        {
+            "title": "Les retraités sont-ils plus privilégiés que les autres ?",
+            "id": "857f9e6f-7676-4fd2-a11b-3bc71b445f8a",
+            "show": "Questions du soir : le débat",
+            "show_id": "df67029c-4820-4a4b-83df-6c2c88bb5840",
+            "chapo": "Alors que le gouvernement souhaite élargir le champ des efforts budgétaires, la participation des retraités revient dans le débat : peut-on revoir leur contribution sans remettre en cause l’équilibre entre les générations ?",
+            "magnetotheque_id": "2025C36267S0112",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/les-retraites-sont-ils-plus-privilegies-que-les-autres-7631995",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/10175-22.04.2025-ITEMA_24110844-2025C36267S0112-NET_MFC_98E87C30-3AF1-45A2-94A0-39B9A3B99C41-21.mp3",
+            "duration": 2349,
+            "date": 1745341125,
+            "settings": [
+                "actu"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "Les retraités sont-ils vraiment des nantis ?",
+                    "extrait": "« Je pense encore une fois que le financement de la protection sociale, aujourd'hui, il incombe trop aux entreprises et aux travailleurs. Si tout le monde doit contribuer à l'effort de guerre en quelque sorte, pourquoi pas effectivement ? Mais essayer de faire croire que c'est une mesure de justice fiscale d'aller s'en prendre aux retraités qui gagnent 2000 euros par mois, ça me paraît vraiment très malhonnête. »",
+                    "score": 90,
+                    "start": 99.555,
+                    "end": 117.971
+                },
+                {
+                    "titre": "Les chiffres ne mentent pas : les retraités vivent mieux !",
+                    "extrait": "« Les retraités français vivent bien, très bien par rapport au reste de la population. On est l'un des seuls pays avancés dans lequel les retraités vivent mieux que la population dans son ensemble, pour laquelle les retraités ont un taux de pauvreté plus faible que le reste de la population, et en particulier beaucoup plus faible que les jeunes. »",
+                    "score": 95,
+                    "start": 186.741,
+                    "end": 205.971
+                },
+                {
+                    "titre": "Une injustice intergénérationnelle ?",
+                    "extrait": "« Les retraités ont signé un contrat léonin. Ils ont, quand ils étaient actifs, donné des retraites très peu satisfaisantes à la génération précédente. Donc la génération spécifique née dans les années 50... à verser des contributions faibles, finançant des retraites faibles pour la génération de ses parents, et ensuite elle exige de la nouvelle génération, en quelque sorte, des contributions très élevées pour financer des retraites très élevées pour elle-même. »",
+                    "score": 92,
+                    "start": 792.804,
+                    "end": 818.968
+                },
+                {
+                    "titre": "Le débat sur les retraites : une question de choix sociétal !",
+                    "extrait": "« Si un pays décide, parce que nous, on nous demande souvent à l'OCDE combien est-ce qu'on peut dépenser pour les retraites, il n'y a pas de réponse. C'est à la société de décider s'ils ont envie de dépenser 14% du PIB pour les retraites. »",
+                    "score": 88,
+                    "start": 1765.173,
+                    "end": 1776.608
                 }
             ]
         },
