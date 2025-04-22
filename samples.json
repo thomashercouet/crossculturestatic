@@ -1,6 +1,6 @@
 {
-    "date": "Mis à jour le 22/04/2025 à 19:27",
-    "unix": 1745342848,
+    "date": "Mis à jour le 22/04/2025 à 19:40",
+    "unix": 1745343642,
     "shows": [
         {
             "title": "\"La Reine des neiges\" de Pierre Senges ",
@@ -3375,6 +3375,45 @@
                     "score": 95,
                     "start": 93.849,
                     "end": 136.717
+                }
+            ]
+        },
+        {
+            "title": "L'IA peut-elle inventer des concepts ?",
+            "id": "855b68d7-ae25-4f6c-874e-0ff77f7631e6",
+            "show": "Questions du soir : l'idée",
+            "show_id": "18d2d677-e679-453c-aec9-76ddef22ddb4",
+            "chapo": "L’IA est aujourd'hui dans nos récits, oriente nos perceptions, façonne nos imaginaires : une \"hypnocratie\" est en marche. Ce pouvoir discret qui agit sur les consciences interroge notre rapport au réel. Alors, faut-il apprendre à penser avec, plutôt que contre, l’intelligence artificielle ?",
+            "magnetotheque_id": "2025C53458S0112",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-l-idee/l-ia-peut-elle-inventer-des-concepts-1122233",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/25343-22.04.2025-ITEMA_24110875-2025C53458S0112-NET_MFC_D85DC63A-7C2E-4E5D-9FB2-383DE242945E-21.mp3",
+            "duration": 1547,
+            "date": 1745342925,
+            "settings": [
+                "savoirs"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "L'hypnocratie : un nouveau pouvoir sur nos consciences ?",
+                    "extrait": "L'hypnocratie est le premier régime qui agit directement sur la conscience. Elle ne contrôle pas les corps, elle ne réprime pas les pensées, elle induit plutôt un état de transe permanent, un sommeil lucide, une transe fonctionnelle. L'éveil a été remplacé par le rêve guidé, la réalité par la suggestion continue. La tension est modulée comme une vague, les états émotionnels sont induits et manipulés, la suggestion se répète inlassablement et la réalité se dissout dans de multiples rêves guidés. L'esprit critique est doucement endormi et la perception est remodelée, couche par couche. Pendant ce temps, les écrans ne cessent de briller dans la nuit de la raison. L'information coule comme une rivière hypnotique tandis que le choc et la torpeur alternent dans un rythme étudié. L'expérience se fragmente et se multiplie en mille miroirs.",
+                    "score": 95,
+                    "start": 548.952,
+                    "end": 594.58
+                },
+                {
+                    "titre": "Comment l'IA redéfinit notre rapport à la réalité ?",
+                    "extrait": "Ce qui est intéressant c'est que les réseaux sociaux c'est une architecture qui met en contact les gens, mais le numérique en général, et c'est là le point de départ de l'hypnocratie, c'est la transformation de la réalité en information. C'est-à-dire qu'une table par exemple va devenir un ensemble de 0 et de 1, va être transformé en information compréhensible par un ordinateur, ça on sait. Donc ça aplatit en fait la réalité en transformant tout en suite de nombres qui sont calculables. À partir de là, on peut avoir un décrochage de la réalité tangible, matérielle, des effets et des causes qu'on connaît depuis des siècles. Et on va avoir une construction d'une espèce de superstructure informationnelle dans laquelle le réel, le faux, le factice va perdre peu à peu de la valeur.",
+                    "score": 90,
+                    "start": 380.723,
+                    "end": 423.247
+                },
+                {
+                    "titre": "L'hybridation entre l'humain et l'IA : une nouvelle ère de pensée ?",
+                    "extrait": "Je pense que ce que dit ce livre, cet objet philosophique, c'est qu'il y a quelque chose qui se produit quand on réfléchit, quand on s'hybride avec une réflexion artificielle qui nous fait questionner les limites de notre propre intelligence. Et Bruno Latour, qui est un philosophe qui a beaucoup travaillé sur la technique, a écrit un livre majeur dans les années 90 qui s'appelle « De la médiation technique », où il explique justement quelque chose qu'on oublie trop souvent, c'est qu'un étudiant et une IA, quand ils se mettent ensemble, ça crée une troisième entité, un troisième agent, il dit. C'est l'agent 1, c'est l'étudiant, l'agent 2, c'est l'IA et l'agent 3, on va dire, c'est l'étudiant plus l'IA qui va créer une entité hybride qui ne va pas réfléchir de la même manière.",
+                    "score": 92,
+                    "start": 856.577,
+                    "end": 899.46
                 }
             ]
         },
