@@ -1,6 +1,6 @@
 {
-    "date": "Mis à jour le 22/04/2025 à 17:43",
-    "unix": 1745336610,
+    "date": "Mis à jour le 22/04/2025 à 17:57",
+    "unix": 1745337469,
     "shows": [
         {
             "title": "\"La Reine des neiges\" de Pierre Senges ",
@@ -1613,6 +1613,73 @@
                     "score": 95,
                     "start": 365.997,
                     "end": 383.765
+                }
+            ]
+        },
+        {
+            "title": "“La ligne” d’Aharon Appelfeld avec Olivier Cohen et Valerie Zenatti",
+            "id": "1f35a4c0-3b79-4b85-9c72-0218ccbdf89a",
+            "show": "Le Book Club",
+            "show_id": "9919a6d4-3da2-4dd9-8103-77cef065f78d",
+            "chapo": "Aujourd’hui votre Book Club s'intéresse à “La ligne”, un roman d’Aharon Appelfeld, écrit en 1991 et enfin disponible en français. Malgré la disparition de l’auteur en 2018, son œuvre continue de se dévoiler grâce au travail d’édition d'Olivier Cohen et à la traduction de Valérie Zenatti.",
+            "magnetotheque_id": "2025C49162S0112",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/le-book-club/la-ligne-d-aharon-appelfeld-avec-olivier-cohen-et-valerie-zenatti-9922433",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/23875-22.04.2025-ITEMA_24110872-2025C49162S0112-NET_MFC_42545831-B518-447E-8857-701CC4AEB517-21.mp3",
+            "duration": 3561,
+            "date": 1745330325,
+            "settings": [
+                "interview"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "« Si j'avais dit ce que j'ai vécu, personne ne m'aurait cru. »",
+                    "extrait": "Aaron Appelfeld a cette phrase incroyable, il lui dit « Mais si j'avais dit ce que j'ai vécu, personne ne m'aurait cru. » Et tout à coup, c'était comme la foudre qui me tombait dessus. J'ai compris pourquoi il avait écrit tous ses romans, ses fictions, finalement.",
+                    "score": 95,
+                    "start": 270.781,
+                    "end": 297.109
+                },
+                {
+                    "titre": "La différence entre le témoignage et la littérature",
+                    "extrait": "Il y a une question qui me paraît très importante, c'est la différence entre le témoignage et la littérature, ou la fiction si vous préférez. Et je crois qu'on vit aujourd'hui dans une grande confusion. On publie énormément de témoignages, notamment sur la Shoah, et pendant longtemps, il y avait une espèce d'interdit, on ne pouvait pas écrire de fiction sur la Shoah.",
+                    "score": 90,
+                    "start": 540.194,
+                    "end": 573.145
+                },
+                {
+                    "titre": "« Je n'écris qu'un seul livre. »",
+                    "extrait": "Il disait toujours « je n'écris qu'un seul livre ». Et chaque roman est un chapitre de ce livre.",
+                    "score": 85,
+                    "start": 1606.515,
+                    "end": 1622.286
+                },
+                {
+                    "titre": "La méfiance d'Appelfeld envers les mots",
+                    "extrait": "Aaron Appelfeld, comme on vient de l'entendre, disait qu'il est entré en littérature avec une très grande méfiance à l'égard des mots. D'abord, il disait que le langage pouvait être dangereux, puisqu'effectivement, pendant la guerre, s'il parlait, on aurait reconnu son accent allemand.",
+                    "score": 88,
+                    "start": 2567.387,
+                    "end": 2603.344
+                },
+                {
+                    "titre": "« Ouvre ta bouche pour le muet. »",
+                    "extrait": "Une phrase qui m'avait fait rire, en même temps il disait « Ouvre ta bouche pour le muet ». Et tout d'un coup, je me dis, mais ça c'est Aaron Appelfeld.",
+                    "score": 92,
+                    "start": 2788.068,
+                    "end": 2810.902
+                },
+                {
+                    "titre": "La musicalité de l'écriture d'Appelfeld",
+                    "extrait": "Il avait ce rapport musical à l'écriture. Lorsqu'il relisait ses textes, il ne les lisait pas à haute voix, il fredonnait, comme s'il lisait de la musique, donc ça faisait « hum hum hum hum » comme ça, et il fredonnait tout son texte, comme s'il l'entendait, la prosodie, et qu'il corrigeait de la musique et non pas de l'écriture.",
+                    "score": 87,
+                    "start": 2986.422,
+                    "end": 3009.445
+                },
+                {
+                    "titre": "« Je fais plus confiance à mon corps qu'à mon cerveau. »",
+                    "extrait": "Il y a des années de cela, un train de nuit est passé dans l'une de mes petites gares et mon corps a aussitôt tressailli. Je fais plus confiance à mon corps qu'à mon cerveau. Il peut m'indiquer mes erreurs immédiatement.",
+                    "score": 89,
+                    "start": 1815.155,
+                    "end": 1827.379
                 }
             ]
         },
