@@ -1,6 +1,6 @@
 {
-    "date": "Mis à jour le 22/04/2025 à 15:08",
-    "unix": 1745327302,
+    "date": "Mis à jour le 22/04/2025 à 15:24",
+    "unix": 1745328258,
     "shows": [
         {
             "title": "\"La Reine des neiges\" de Pierre Senges ",
@@ -1904,6 +1904,73 @@
                     "score": 89,
                     "start": 2031.184,
                     "end": 2061.101
+                }
+            ]
+        },
+        {
+            "title": "Paris-Saclay : un plateau d’argent pour l’innovation",
+            "id": "e8eff9ff-1387-4bae-ab24-5d028f6633ad",
+            "show": "Entendez-vous l'éco ?",
+            "show_id": "ec20bd96-cdfc-44ce-8a1b-85c33cc8b7db",
+            "chapo": "Cluster scientifique et technologique d’envergure européenne, le campus de Paris-Saclay s'inscrit dans un territoire historiquement dédié à l'innovation. Aujourd'hui, il est un maillon déterminant de la stratégie française et européenne en matière d'intelligence artificielle. ",
+            "magnetotheque_id": "2025C29629S0112",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/entendez-vous-l-eco/paris-saclay-un-plateau-d-argent-pour-l-innovation-2824602",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/10081-22.04.2025-ITEMA_24110845-2025C29629S0112-NET_MFC_DAF85F13-36AD-4E58-88D2-B711648F2FD8-21.mp3",
+            "duration": 3555,
+            "date": 1745326725,
+            "settings": [
+                "savoirs"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "Comment Paris-Saclay est devenu le cœur de l'innovation en France ?",
+                    "extrait": "Paris-Saclay, un paradis sur Terre, la question se pose, mais surtout pour qui ? À la fois université, campus, cluster, communauté, plateau, territoire, le nom recouvre une très grande diversité de réalités portées par une ambition scientifique et industrielle fondée sur l'idée de l'économie.",
+                    "score": 90,
+                    "start": 180.92,
+                    "end": 197.612
+                },
+                {
+                    "titre": "Pourquoi le plateau de Saclay est-il un modèle unique en Europe ?",
+                    "extrait": "C'est un modèle qui nous vient justement de l'autre côté de l'Atlantique, parce que c'est vrai que le modèle de départ, c'est revendiqué en fait par les représentants de Paris-Saclay. C'est celui de la Silicon Valley, qui a été maintes fois répliqué et peut-être assez peu souvent égalé.",
+                    "score": 85,
+                    "start": 852.819,
+                    "end": 872.173
+                },
+                {
+                    "titre": "Qu'est-ce qui rend Paris-Saclay si spécial pour l'intelligence artificielle ?",
+                    "extrait": "Aujourd'hui, Paris-Saclay regroupe 41% des experts français de l'intelligence artificielle, 42 laboratoires de recherche spécialisés en IA et 110 start-up utilisant l'IA. Même si vous avez déjà signifié qu'attention, avec l'intelligence artificielle, ça voulait un peu tout et rien dire.",
+                    "score": 88,
+                    "start": 1878.04,
+                    "end": 1893.825
+                },
+                {
+                    "titre": "Comment l'histoire de Saclay remonte-t-elle au XVIIe siècle ?",
+                    "extrait": "On pourrait remonter l'histoire de l'innovation de ce territoire au XVIIe siècle ? Et puis après, vous pouvez revenir progressivement, comme le disait très bien l'archive, à des implantations progressives de grandes structures, des écoles et des universités qui ont été le terreau de Paris-Saclay.",
+                    "score": 92,
+                    "start": 660.268,
+                    "end": 679.392
+                },
+                {
+                    "titre": "Pourquoi l'espace est-il crucial pour la recherche scientifique ?",
+                    "extrait": "Il y a cette idée que pour être performant d'un point de vue scientifique, en fait, malgré l'idée d'une dématérialisation, il y a un besoin d'espace. Cette idée-là, on la retrouve depuis les années 50 jusqu'à aujourd'hui.",
+                    "score": 87,
+                    "start": 1276.208,
+                    "end": 1288.779
+                },
+                {
+                    "titre": "Comment le supercalculateur Jean Zay révolutionne-t-il la recherche ?",
+                    "extrait": "Le supercalculateur Jean Zay, implanté au sein du laboratoire Idris, est ouvert en 2019, soit deux ans après la fameuse publication qu'on évoquait à l'instant du rapport de Cédric Villani, qui, je le rappelle, était aussi à cette époque-là député de l'Essonne.",
+                    "score": 90,
+                    "start": 2383.288,
+                    "end": 2402.684
+                },
+                {
+                    "titre": "Quelles tensions l'aménagement du territoire a-t-il engendré à Saclay ?",
+                    "extrait": "Il y a eu une volonté de l'État, donc une échelle nationale, internationale, de créer et donc de décider d'utiliser ce territoire pour faire un cluster et un campus urbain mondialement réputé pour tous ces chercheurs et toutes les actions mises en œuvre et en même temps il y a une réalité de terrain.",
+                    "score": 89,
+                    "start": 3397.922,
+                    "end": 3420.74
                 }
             ]
         },
