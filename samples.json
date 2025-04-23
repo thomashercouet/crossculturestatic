@@ -1,6 +1,6 @@
 {
-    "date": "Mis à jour le 23/04/2025 à 12:36",
-    "unix": 1745404573,
+    "date": "Mis à jour le 23/04/2025 à 12:50",
+    "unix": 1745405441,
     "shows": [
         {
             "title": "Episodes 5 et 6",
@@ -840,6 +840,31 @@
             ]
         },
         {
+            "title": "Critique ciné : \"Simón de la montaña\" de Federico Luis ",
+            "id": "21d0ca37-236e-45b3-9603-28b7fcb60273",
+            "show": "Les Midis de Culture",
+            "show_id": "32a14af6-fc87-4f4f-a06e-39ccf8587119",
+            "chapo": "Nos critiques discutent de \"Simón de la montaña\", premier long-métrage du réalisateur argentin Federico Luis qui aborde les questions du handicap et de l'amitié.  ",
+            "magnetotheque_id": "2025C51852S1113",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/les-midis-de-culture/critique-cine-simon-de-la-montana-de-federico-luis-7874176",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/24613-23.04.2025-ITEMA_24112403-2025C51852S1113-NET_MFC_3EAE3E1A-7B4B-4B7F-A0CD-8D51B76BC41E-21.mp3",
+            "duration": 908,
+            "date": 1745403301,
+            "settings": [
+                "interview"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "« Le handicap, c'est une question de point de vue »",
+                    "extrait": "« Ce modèle-là, je parlais des freaks de Todd Browning, c'est un modèle un peu éculé. Donc là maintenant, c'est une question presque de point de vue. Sans doute que le film aurait été vachement plus intéressant s'il prenait le point de vue d'une des personnes de cette communauté. »",
+                    "score": 85,
+                    "start": 553.717,
+                    "end": 571.188
+                }
+            ]
+        },
+        {
             "title": "DIVERS ASPECTS DE LA PENSEE CONTEMPORAINE, émission du dimanche 20 avril 2025",
             "id": "9f1b9d40-dd65-43d6-bee2-85321fa037da",
             "show": "Divers aspects de la pensée contemporaine",
@@ -1461,6 +1486,45 @@
                     "score": 91,
                     "start": 246.701,
                     "end": 255.232
+                }
+            ]
+        },
+        {
+            "title": "Critique ciné : \"Simón de la montaña\" de Federico Luis & \"The Gazer\" de Ryan J. Sloan",
+            "id": "6c2e3f05-287c-42f7-b20a-7c04ae53e5c5",
+            "show": "Les Midis de Culture",
+            "show_id": "32a14af6-fc87-4f4f-a06e-39ccf8587119",
+            "chapo": "Au menu du débat critique, du cinéma étranger, avec deux premiers long-métrages de réalisateurs indépendants : \"Simón de la montaña\" de l'argentin Federico Luis et \"The Gazer\" de l'américain Ryan J. Sloan. ",
+            "magnetotheque_id": "2025C51852S0113",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/les-midis-de-culture/critique-cine-simon-de-la-montana-de-federico-luis-the-gazer-de-ryan-j-sloan-4883266",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/12360-23.04.2025-ITEMA_24112058-2025C51852S0113-NET_MFC_D1F87E4F-7759-4E2E-A8A0-4689F7AD6455-21.mp3",
+            "duration": 1649,
+            "date": 1745404125,
+            "settings": [
+                "interview"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "Pourquoi le handicap est-il si mal représenté au cinéma ?",
+                    "extrait": "\"C'est un film qui voudrait être méchant, mais qui en fait est très gentil. [...] On n'est pas dans le action mutante de Alex de la Iglesia avec ses handicapés terroristes, là, au bout du compte, on est quand même très très gentil.\"",
+                    "score": 85,
+                    "start": 370.916,
+                    "end": 391.992
+                },
+                {
+                    "titre": "Le regard du spectateur : voyeur ou empathique ?",
+                    "extrait": "\"C'est filmé vraiment au plus près des personnages, avec une caméra un peu brinque-ballante, qui se rapproche comme elle peut des personnages qu'elle filme et avec cette métaphore du personnage qui est vraiment à la fois un voyeur et un écouteur.\"",
+                    "score": 90,
+                    "start": 302.017,
+                    "end": 314.02
+                },
+                {
+                    "titre": "Le cinéma indépendant : un retour aux sources ?",
+                    "extrait": "\"C'est un film sur le cinéma qui a du mal à dépasser tout le tombereau de références qu'il convoque. [...] Qu'est-ce qu'on fait avec tout le cinéma qu'on aime ? Et est-ce qu'invoquer tout le cinéma qu'on aime, le citer de manière poster dans une chambre, est-ce que ça fait film ? Pour moi, non.\"",
+                    "score": 88,
+                    "start": 1067.671,
+                    "end": 1091.455
                 }
             ]
         },
@@ -2491,6 +2555,31 @@
                     "extrait": "Si personne ne remet les pendules à l'heure, alors Poutine gagne, dit-il. Son travail permet de restaurer notre dignité et prouver que l'Ukraine, en tant que nation, existe.",
                     "start": 283.313,
                     "end": 292.715
+                }
+            ]
+        },
+        {
+            "title": "Critique ciné : \"The Gazer\" de Ryan J. Sloan ",
+            "id": "82a8edbb-4702-48cd-8c99-f13af0f09bfd",
+            "show": "Les Midis de Culture",
+            "show_id": "32a14af6-fc87-4f4f-a06e-39ccf8587119",
+            "chapo": "Nos critiques discutent de \"The Gazer\" de Ryan J. Sloan, un film indépendant tourné en 16 milimètres qui nous présente Frankie, une femme atteinte d’une maladie dégénérative qui l’empêche de percevoir le temps.",
+            "magnetotheque_id": "2025C51852S2113",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/les-midis-de-culture/critique-cine-the-gazer-de-ryan-j-sloan-9793254",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/12360-23.04.2025-ITEMA_24112058-2025C51852S2113-NET_MFC_407E6759-BA02-41DD-AD83-89A4A022F804-21.mp3",
+            "duration": 642,
+            "date": 1745404200,
+            "settings": [
+                "interview"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "« Le film n'est que ça » : une critique acerbe du cinéma contemporain",
+                    "extrait": "« Le problème pour moi, et ça pose une question, c'est que le film n'est que ça. C'est-à-dire que c'est une sorte de grande boutique de fétiches, de choses que ce couple-là aime dans le cinéma. »",
+                    "score": 85,
+                    "start": 234.037,
+                    "end": 248.008
                 }
             ]
         },
