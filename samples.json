@@ -1,6 +1,6 @@
 {
-    "date": "Mis à jour le 23/04/2025 à 19:02",
-    "unix": 1745427738,
+    "date": "Mis à jour le 23/04/2025 à 19:16",
+    "unix": 1745428562,
     "shows": [
         {
             "title": "Comment le climat s'impose-t-il à nous ?",
@@ -5050,6 +5050,52 @@
                     "score": 85,
                     "start": 1358.259,
                     "end": 1372.038
+                }
+            ]
+        },
+        {
+            "title": "Le contrôle coercitif est-il au cœur des violences conjugales ?",
+            "id": "6f2a66fd-d9c9-4e11-93fa-bd6348322986",
+            "show": "Questions du soir : le débat",
+            "show_id": "df67029c-4820-4a4b-83df-6c2c88bb5840",
+            "chapo": "Peut-on comprendre les violences conjugales sans parler de contrôle coercitif ? Ce mécanisme insidieux, fait de pressions, d’isolement et de domination, apparaît de plus en plus comme un élément structurant des relations violentes. Pourtant, son existence est remise en cause.",
+            "magnetotheque_id": "2025C36267S0113",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/le-controle-coercitif-est-il-au-coeur-des-violences-conjugales-1000594",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/25659-23.04.2025-ITEMA_24112408-2025C36267S0113-NET_MFC_4EC8EA89-F8D0-4328-BA0C-AC8E2690BB75-21.mp3",
+            "duration": 2291,
+            "date": 1745427525,
+            "settings": [
+                "actu"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "« Le contrôle coercitif, c'est l'antichambre du féminicide »",
+                    "extrait": "« Pour moi, je dis souvent, parce que je l'ai constaté comme présidente de Cour d'Assise, que le contrôle coercitif, c'est l'antichambre du féminicide. »",
+                    "score": 95,
+                    "start": 490.208,
+                    "end": 499.41
+                },
+                {
+                    "titre": "« La violence psychologique est aussi destructrice que la violence physique »",
+                    "extrait": "« Je pense que le message que je voudrais faire passer, c'est que la violence psychologique, elle est aussi destructrice que la violence physique, que c'est la fabrique du féminicide. »",
+                    "score": 90,
+                    "start": 2102.124,
+                    "end": 2122.811
+                },
+                {
+                    "titre": "« Un quart de million de plaintes pour violence conjugale en France »",
+                    "extrait": "« La France compte un quart de million de plaintes pour violence conjugale, que sur ces plaintes, 85% sont des femmes, et sur ces femmes, dans 8 cas sur 10, les agresseurs ont des enfants avec elles. »",
+                    "score": 92,
+                    "start": 376.123,
+                    "end": 390.091
+                },
+                {
+                    "titre": "« Le contrôle coercitif, une atteinte aux droits fondamentaux »",
+                    "extrait": "« C'est une atteinte aux droits fondamentaux et aujourd'hui d'ailleurs comme ambassadrice pour les droits de l'homme, je le perçois aussi comme ça. »",
+                    "score": 88,
+                    "start": 935.053,
+                    "end": 942.073
                 }
             ]
         },
