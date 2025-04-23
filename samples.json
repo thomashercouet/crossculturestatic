@@ -1,6 +1,6 @@
 {
-    "date": "Mis à jour le 23/04/2025 à 16:17",
-    "unix": 1745417833,
+    "date": "Mis à jour le 23/04/2025 à 16:30",
+    "unix": 1745418620,
     "shows": [
         {
             "title": "Episodes 5 et 6",
@@ -1085,6 +1085,59 @@
                     "score": 88,
                     "start": 675.606,
                     "end": 726.225
+                }
+            ]
+        },
+        {
+            "title": "Une enquête sur les classiques littéraires pour les détextives en herbe, signée Clémentine Beauvais ! ",
+            "id": "2c5b4416-19c7-4ee2-bd5f-edb534c0dc5c",
+            "show": "Lectures jeunesse",
+            "show_id": "87557573-3bf0-43a2-a469-756ba2d4e324",
+            "chapo": "La romancière Clémentine Beauvais vient de sortir le premier tome d’une nouvelle série dans laquelle il est question d'un métier littérair intrigant, celui du \"détextive\".",
+            "magnetotheque_id": "2025C52120S0113",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/lectures-jeunesse/une-enquete-sur-les-classiques-litteraires-pour-les-detextives-en-herbe-signee-clementine-beauvais-4005354",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/24434-23.04.2025-ITEMA_24112067-2025C52120S0113-NET_MFC_4BA4771A-C5CF-499E-B692-847C4EEB5290-21.mp3",
+            "duration": 290,
+            "date": 1745416742,
+            "settings": [
+                "interview"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "Comment devenir un lecteur libre et critique ?",
+                    "extrait": "Ces ouvrages livrent des clés pour gagner en liberté et en plaisir de lecture. En malaxant une intrigue, on garde l'œil ouvert, on devient un lecteur qui ne se laisse pas complètement dominer par l'auteur, on aiguise son libre-arbitre pour se balader dans les histoires et faire connaissance autrement avec les œuvres.",
+                    "score": 90,
+                    "start": 240.43,
+                    "end": 258.029
+                },
+                {
+                    "titre": "Pourquoi les classiques cachent-ils des mystères ?",
+                    "extrait": "Le point de départ de tout cela est simple, il y a des erreurs judiciaires dans la réalité, alors pourquoi n'y en aurait-il pas dans la fiction ?",
+                    "score": 85,
+                    "start": 95.427,
+                    "end": 102.773
+                },
+                {
+                    "titre": "Le Petit Prince : un livre à ne pas prendre pour argent comptant !",
+                    "extrait": "Elle pointe des incohérences. Par exemple, ce boa qui a avalé un éléphant, c'est bizarre. Cet avion qui ne redécolle pas, c'est louche. Le narrateur, c'est qui au juste ?",
+                    "score": 88,
+                    "start": 191.211,
+                    "end": 201.716
+                },
+                {
+                    "titre": "Une enquête littéraire audacieuse !",
+                    "extrait": "C'est ambitieux, singulier et c'est aussi, pour moi, une réponse intelligente au discours assez injonctif qui ne fait qu'amplifier autour de la lecture et des jeunes adolescents.",
+                    "score": 87,
+                    "start": 216.009,
+                    "end": 225.077
+                },
+                {
+                    "titre": "Le plaisir de lire : une aventure à découvrir !",
+                    "extrait": "C'est presque un manifeste. Après cette enquête autour du Petit Prince, le prochain qui sortira à la rentrée de septembre, il sera consacré à un mystère dans Peter Pan.",
+                    "score": 89,
+                    "start": 229.081,
+                    "end": 239.83
                 }
             ]
         },
