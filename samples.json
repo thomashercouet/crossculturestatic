@@ -1,6 +1,6 @@
 {
-    "date": "Mis à jour le 23/04/2025 à 15:12",
-    "unix": 1745413932,
+    "date": "Mis à jour le 23/04/2025 à 15:25",
+    "unix": 1745414732,
     "shows": [
         {
             "title": "Episodes 5 et 6",
@@ -2125,6 +2125,73 @@
                     "score": 86,
                     "start": 1128.693,
                     "end": 1136.836
+                }
+            ]
+        },
+        {
+            "title": "\"Capitalisation\" : pourquoi confier son épargne à la finance ?",
+            "id": "66471bf9-3150-49d9-961d-2680b4ee9751",
+            "show": "Entendez-vous l'éco ?",
+            "show_id": "ec20bd96-cdfc-44ce-8a1b-85c33cc8b7db",
+            "chapo": "La dégringolade boursière qui a suivi l'annonce des droits de douane de Donald Trump a donné des sueurs froides aux retraités américains, dont une bonne partie de la retraite est placée sur les marchés financiers par des fonds de pension. La \"capitalisation\" fait peur, mais de quoi parle-t-on ?",
+            "magnetotheque_id": "2025C29629S0113",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/entendez-vous-l-eco/fonds-de-pension-pourquoi-confier-son-epargne-a-la-finance-1824385",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/10081-23.04.2025-ITEMA_24112044-2025C29629S0113-NET_MFC_CDC06180-FBE7-4738-809A-213E2EE7DCC9-21.mp3",
+            "duration": 3558,
+            "date": 1745413125,
+            "settings": [
+                "savoirs"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "Pourquoi les retraités américains craignent-ils la capitalisation ?",
+                    "extrait": "Alors pourquoi, lorsque les places financières tremblent, les retraités américains également ? Si en France, les retraites complémentaires sont gérées par répartition dans d'autres pays, au premier rang desquels on retrouve les Etats-Unis, c'est la capitalisation qui prévaut. Or, qui dit capitalisation, dit fonds de pension, qui gère ainsi les cotisations transformées en placements, pour le dire très grossièrement. Alors pourquoi ce choix d'avoir recours à des fonds de pension et se soumettre ainsi aux aléas de la finance ?",
+                    "score": 85,
+                    "start": 101.381,
+                    "end": 127.129
+                },
+                {
+                    "titre": "La capitalisation : un choix risqué pour les retraites ?",
+                    "extrait": "Ce marché mondial représenterait en 2023 54 000 milliards de dollars et représente pour certains pays plus du double de leur PIB. Alors comment de telles sommes sont-elles gérées ? Et surtout, comment a évolué la répartition du risque entre tous les acteurs concernés depuis les années 90 années ?",
+                    "score": 80,
+                    "start": 127.949,
+                    "end": 144.159
+                },
+                {
+                    "titre": "Les retraités américains face à l'inflation : un filet de sécurité ?",
+                    "extrait": "Bien sûr, l'OASDI, comme vous l'avez indiqué, c'est la sécurité sociale américaine. C'est un filet de sécurité dans la mesure où c'est géré par la puissance publique, c'est obligatoire, avec des taux de cotisation qui sont bien inférieurs à ceux qu'on connaît en France chez nous. Mais malgré tout, ça fait 6,2% pour les salariés, 6,2% pour les employeurs. Donc ça fait un niveau de cotisation qui est de 12% à comparer à nos 28% pour les salariés du privé chez nous.",
+                    "score": 75,
+                    "start": 572.307,
+                    "end": 603.984
+                },
+                {
+                    "titre": "Comment les fonds de pension peuvent-ils faire faillite ?",
+                    "extrait": "Alors, les fonds peuvent être gérés en interne et très souvent sont plutôt gérés en externe. D'accord ? Donc, en introduction, je vous ai indiqué qu'il y avait vraiment toute une multitude de fonds et que très souvent, il y avait cette confusion. Mais en vous indiquant quand même qu'il y avait une très forte liaison entre... Une partie des actifs, par exemple des fonds de pension, seront gérés par des... des assureurs seront gérés par des fonds de placement, donc peut-être par des mutual funds.",
+                    "score": 70,
+                    "start": 1100.733,
+                    "end": 1129.985
+                },
+                {
+                    "titre": "Les biais comportementaux des investisseurs : un danger pour les retraites ?",
+                    "extrait": "Il y a beaucoup de travaux en économie comportementale qui montrent que les individus ont des biais terribles sur... la diversification. Et par exemple, le premier biais qui est assez dévastateur, c'est de se dire qu'investir dans l'entreprise dans laquelle on travaille, c'est une bonne idée parce que justement, on la connaît bien. Parce qu'on a accès à l'information. Mais malgré tout, si l'entreprise fait faillite, on perd deux fois. On perd un salaire et on perd une promesse de retraite.",
+                    "score": 90,
+                    "start": 2796.599,
+                    "end": 2824.036
+                },
+                {
+                    "titre": "La capitalisation : un système inégalitaire ?",
+                    "extrait": "Il faut quand même bien intégrer le fait que ce soit les fonds collectifs, fonds de pension, ou les fonds de pension individuels, il y a des règles de prudence. Et les règles de prudence, on les trouve dans tous les pays. Donc soit aux Etats-Unis, il y a à la fois une loi fédérale qui régit le fonctionnement des fonds, mais il y a également, dans le cas des fonds publics, des réglementations qui peuvent être propres à leur état.",
+                    "score": 80,
+                    "start": 3076.756,
+                    "end": 3113.071
+                },
+                {
+                    "titre": "Les fonds de pension : un enjeu de pouvoir économique ?",
+                    "extrait": "Alors, effectivement, il y a une époque, jusqu'au milieu des années 2000, les fonds de pension étaient très actifs dans les assemblées générales d'actionnaires et ce qu'ils voulaient, c'était rechercher la performance. Donc, ils présentaient des résolutions dans ces assemblées générales en disant, ben voilà, le dirigeant d'entreprise a fait des mauvais choix stratégiques et donc la performance de l'action est très réduite. Donc, il faut... Il faut faire autre chose.",
+                    "score": 85,
+                    "start": 3506.374,
+                    "end": 3535.659
                 }
             ]
         },
