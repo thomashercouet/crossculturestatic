@@ -1,6 +1,6 @@
 {
-    "date": "Mis à jour le 23/04/2025 à 09:46",
-    "unix": 1745394396,
+    "date": "Mis à jour le 23/04/2025 à 09:59",
+    "unix": 1745395176,
     "shows": [
         {
             "title": "Episodes 5 et 6",
@@ -2242,45 +2242,6 @@
             ]
         },
         {
-            "title": "Jim Morrison Indoors/Outdoors de Christine Spianti 2/5",
-            "id": "be556d77-ef62-419c-80ae-55c759224232",
-            "show": "Le Feuilleton",
-            "show_id": "3c1c2e55-41a0-11e5-9fe0-005056a87c89",
-            "chapo": ".",
-            "magnetotheque_id": "2015C3480E0009",
-            "seo_url": "",
-            "mp3": "https://media.radiofrance-podcast.net/podcast09/13023-17.03.2015-ITEMA_20734246-2015C3480E0009-ITE_00072480_RSCE-21.mp3",
-            "duration": 1511,
-            "date": 1745349905,
-            "settings": [
-                "interview"
-            ],
-            "limit": 0,
-            "extraits": [
-                {
-                    "titre": "« La vraie poésie ne veut rien dire »",
-                    "extrait": "La vraie poésie ne veut rien dire, elle ne fait que révéler les possibles. Elle ouvre toutes les portes, à vous de franchir celle qui vous convient.",
-                    "score": 95,
-                    "start": 330.916,
-                    "end": 340.517
-                },
-                {
-                    "titre": "« Je suis le connecteur du plaisir et de l'angoisse »",
-                    "extrait": "J'ai ce pouvoir-là. Je suis le connecteur du plaisir et de l'angoisse. Je donne forme à tout ça. Avec des mots.",
-                    "score": 90,
-                    "start": 752.224,
-                    "end": 761.93
-                },
-                {
-                    "titre": "« Un concert rock, c'est de l'énergie mystique »",
-                    "extrait": "Un concert rock, d'après lui, c'est de l'énergie mystique. En 68, Jim a méthodiquement testé sur scène chaque passage de la Célébration du Lézard.",
-                    "score": 92,
-                    "start": 1289.031,
-                    "end": 1298.957
-                }
-            ]
-        },
-        {
             "title": "LES PIEDS SUR TERRE, émission du lundi 21 avril 2025",
             "id": "442e4e5a-c668-4c5e-ab8b-df3d3ae323a7",
             "show": "Les Pieds sur terre",
@@ -2316,6 +2277,45 @@
                     "score": 95,
                     "start": 745.121,
                     "end": 761.364
+                }
+            ]
+        },
+        {
+            "title": "Jim Morrison Indoors/Outdoors de Christine Spianti 2/5",
+            "id": "be556d77-ef62-419c-80ae-55c759224232",
+            "show": "Le Feuilleton",
+            "show_id": "3c1c2e55-41a0-11e5-9fe0-005056a87c89",
+            "chapo": ".",
+            "magnetotheque_id": "2015C3480E0009",
+            "seo_url": "",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/13023-17.03.2015-ITEMA_20734246-2015C3480E0009-ITE_00072480_RSCE-21.mp3",
+            "duration": 1511,
+            "date": 1745349905,
+            "settings": [
+                "interview"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "« La vraie poésie ne veut rien dire »",
+                    "extrait": "La vraie poésie ne veut rien dire, elle ne fait que révéler les possibles. Elle ouvre toutes les portes, à vous de franchir celle qui vous convient.",
+                    "score": 95,
+                    "start": 330.916,
+                    "end": 340.517
+                },
+                {
+                    "titre": "« Je suis le connecteur du plaisir et de l'angoisse »",
+                    "extrait": "J'ai ce pouvoir-là. Je suis le connecteur du plaisir et de l'angoisse. Je donne forme à tout ça. Avec des mots.",
+                    "score": 90,
+                    "start": 752.224,
+                    "end": 761.93
+                },
+                {
+                    "titre": "« Un concert rock, c'est de l'énergie mystique »",
+                    "extrait": "Un concert rock, d'après lui, c'est de l'énergie mystique. En 68, Jim a méthodiquement testé sur scène chaque passage de la Célébration du Lézard.",
+                    "score": 92,
+                    "start": 1289.031,
+                    "end": 1298.957
                 }
             ]
         },
