@@ -1,6 +1,6 @@
 {
-    "date": "Mis à jour le 23/04/2025 à 19:28",
-    "unix": 1745429301,
+    "date": "Mis à jour le 23/04/2025 à 19:41",
+    "unix": 1745430097,
     "shows": [
         {
             "title": "Comment le climat s'impose-t-il à nous ?",
@@ -2254,6 +2254,45 @@
                     "extrait": "Il y a ce phénomène d'oubli qui est vraiment interrogé et que l'exposition interroge aussi. On a d'ailleurs beaucoup cherché quand même les traces présentes de ces artistes dans l'institution.",
                     "start": 2501.603,
                     "end": 2511.067
+                }
+            ]
+        },
+        {
+            "title": "Face aux autocrates du monde entier : qui sommes-nous ?",
+            "id": "4f96bced-794d-45cc-b9b2-eb31555a53e6",
+            "show": "Questions du soir : l'idée",
+            "show_id": "18d2d677-e679-453c-aec9-76ddef22ddb4",
+            "chapo": "Alors qu’il s’était dressé contre les dérives autoritaires, le pape François meurt peu après une rencontre avec J.D. Vance. Un tournant, dans un monde où le pouvoir, tel que le décrit Giuliano da Empoli, s’exerce désormais par la technologie, la manipulation et le contrôle invisible des esprits.",
+            "magnetotheque_id": "2025C53458S0113",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-l-idee/face-aux-autocrates-du-monde-entier-qui-sommes-nous-1231509",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/25343-23.04.2025-ITEMA_24112075-2025C53458S0113-NET_MFC_E4F79A75-7DAA-439D-A42C-98F030FF51BC-21.mp3",
+            "duration": 1551,
+            "date": 1745429325,
+            "settings": [
+                "savoirs"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "Comment les autocrates exploitent la spiritualité ?",
+                    "extrait": "« Écoutez, je pense là aussi qu'ils sont, au fond, il faut bien voir que ces prédateurs-là ne sont que, vous avez nommé certains d'entre eux, ne sont que la répétition et la version contemporaine de figures très classiques. [...] ils mobilisent, c'est ce que j'appelle d'une certaine façon, je pense qu'on pourrait définir ça une forme de politique des profondeurs. »",
+                    "score": 90,
+                    "start": 199.215,
+                    "end": 257.403
+                },
+                {
+                    "titre": "L'Europe face aux prédateurs : un modèle à défendre ?",
+                    "extrait": "« [...] l'Europe reste malgré tout la tentative de mettre au service de l'épanouissement de chaque individu et d'ailleurs de la façon la plus inclusive possible les progrès que nous faisons, il y a quelque chose d'humaniste qui n'est peut-être pas, ça a été prouvé, ce n'est peut-être pas une exclusivité européenne, il y a sûrement d'autres formes d'humanisme qui se sont épanouies dans d'autres parties du monde. »",
+                    "score": 85,
+                    "start": 875.24,
+                    "end": 915.64
+                },
+                {
+                    "titre": "Pourquoi le droit ne suffit pas face aux autocrates ?",
+                    "extrait": "« [...] la défense des règles de droit n'est pas suffisante. [...] Sauf que ça n'a pas suffi, parce que face à quelqu'un qui vous dit « le droit, au fond, c'est une arnaque des puissants », [...] il faut être capable de défendre et de prouver qu'on peut résoudre les problèmes de façon plus efficace en respectant les formes aussi, et en respectant les règles et le droit. »",
+                    "score": 88,
+                    "start": 1104.083,
+                    "end": 1150.627
                 }
             ]
         },
