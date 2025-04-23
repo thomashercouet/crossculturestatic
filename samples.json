@@ -1,6 +1,6 @@
 {
-    "date": "Mis à jour le 23/04/2025 à 13:54",
-    "unix": 1745409296,
+    "date": "Mis à jour le 23/04/2025 à 14:07",
+    "unix": 1745410057,
     "shows": [
         {
             "title": "Episodes 5 et 6",
@@ -2507,6 +2507,45 @@
                     "score": 92,
                     "start": 1289.031,
                     "end": 1298.957
+                }
+            ]
+        },
+        {
+            "title": "Le dernier informé",
+            "id": "4f012780-e101-4f27-9b22-346ba7959818",
+            "show": "Les Pieds sur terre",
+            "show_id": "beb83c10-402c-11e5-8314-005056a87c89",
+            "chapo": "Olivier Grondeau était détenu par la République islamique d’Iran depuis le 12 octobre 2022. Il a été libéré jeudi 20 mars 2025. Nous avions commencé un dialogue avec lui. Dans cet épisode, on le retrouve avant Nowrouz, le Nouvel An Iranien, puis après sa libération, qu'il nous raconte.",
+            "magnetotheque_id": "2025C6612S0113",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/les-pieds-sur-terre/le-dernier-informe-1479855",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/18722-23.04.2025-ITEMA_24112036-2025C6612S0113-NET_MFC_1C9A986B-775B-47BD-993B-D904DD2967F1-21.mp3",
+            "duration": 1766,
+            "date": 1745409525,
+            "settings": [
+                "temoignage"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "« Je suis toujours le dernier informé »",
+                    "extrait": "« Moi, on m'en a fait un compte rendu assez succinct par téléphone. Je pense que certaines choses qui ont été expliquées l'ont été à condition qu'elles restent un peu à huis clos. Et en tout cas, surtout pas sur une ligne sur écoute par les autorités iranières. Donc, j'en sais pas beaucoup. Mais ce que je sais, c'est que le président s'est pas engagé sur une date précise de libération... et qu'il n'a pas caché son pessimisme par rapport à la situation de Jacques et Cécile en particulier. Mais à part ça, vous savez, moi on m'a toujours dit que je serais le dernier informé. Ça fait deux ans et demi qu'il y a des négociations en cours, bon je pense avec des phases d'accélération et de ralentissement, et on m'a toujours dit qu'une des lignes de communication de la diplomatie, c'était surtout de ne pas créer de faux espoirs aux familles et aux otages, Donc, on sera vraiment parmi les derniers informés. »",
+                    "score": 95,
+                    "start": 413.671,
+                    "end": 472.442
+                },
+                {
+                    "titre": "Comment un café instantané a changé ma vie ?",
+                    "extrait": "« Oui, c'est ça. Il était, je ne sais pas, 15h30. J'étais en train de verser du café instantané dans mon gobelet et je n'ai jamais pu le boire ce café. On est venu sur le pas de la porte de mon dortoir. On m'a fait signe de venir. C'était un peu l'heure de la sieste, donc on chuchotait. Et voilà, quelqu'un, un des prisonniers qui aidait à l'accueil de mon secteur. Il m'a dit, il faut que tu fasses tes affaires. Ils veulent t'envoyer en 209. Mais non. Dans les locaux des services de renseignement, comme Jacques et Cécile. »",
+                    "score": 90,
+                    "start": 923.19,
+                    "end": 959.664
+                },
+                {
+                    "titre": "« C'est un pays que j'aime, et on s'en va peut-être pour toujours »",
+                    "extrait": "« C'était un moment hyper fort parce qu'en plus, il devait être 18 heures, il y avait le soleil qui se couchait sur l'aéroport, il y avait un ciel tout enflammé, le soleil disparaissait à l'horizon et nous, on était en train de partir. Moi, j'ai été hyper ému parce que tout d'un coup, je leur ai dit « Mais attendez, mais moi, c'est un pays que j'aime. » Et on s'en va peut-être pour toujours. »",
+                    "score": 98,
+                    "start": 1432.415,
+                    "end": 1462.39
                 }
             ]
         },
