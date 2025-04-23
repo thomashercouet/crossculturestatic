@@ -1,6 +1,6 @@
 {
-    "date": "Mis à jour le 23/04/2025 à 11:05",
-    "unix": 1745399114,
+    "date": "Mis à jour le 23/04/2025 à 11:20",
+    "unix": 1745400052,
     "shows": [
         {
             "title": "Episodes 5 et 6",
@@ -339,6 +339,73 @@
                     "score": 92,
                     "start": 729.879,
                     "end": 736.48
+                }
+            ]
+        },
+        {
+            "title": "La résilience, guérir du mot ?",
+            "id": "a31ca952-0b3a-4183-b36f-c4f8d91b22bf",
+            "show": "Avec philosophie",
+            "show_id": "744d0dc6-dacc-4d71-a22c-af97eec7a56e",
+            "chapo": "La résilience, mot à la mode en politique, psychologie et développement personnel, interroge : à force d’usage, ne masque-t-elle pas une tendance à privilégier la responsabilité individuelle au détriment de la responsabilité collective et politique ?",
+            "magnetotheque_id": "2025C48904S0113",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/avec-philosophie/la-resilience-6908961",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/10467-23.04.2025-ITEMA_24112047-2025C48904S0113-NET_MFC_98F3023D-F8F2-4659-A244-E0066F3E180E-21.mp3",
+            "duration": 3549,
+            "date": 1745398725,
+            "settings": [
+                "savoirs"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "La résilience, un mot qui efface la souffrance ?",
+                    "extrait": "« Ce mot est devenu un réservoir pour ne plus penser, et plus grave, pour ne plus désigner la réalité. Une fois qu'on a dit « résilience », en fait, on s'est facilement donné l'autorisation de ne plus aller voir de près ce que ça donnait. »",
+                    "score": 90,
+                    "start": 324.478,
+                    "end": 339.643
+                },
+                {
+                    "titre": "La résilience, un concept qui masque la réalité politique ?",
+                    "extrait": "« La politique de la résilience, c'est l'effacement du politique. [...] Ce mot cliché qui ne pense plus et qui ne désigne plus la réalité permet de tout faire reposer sur l'individu. »",
+                    "score": 95,
+                    "start": 354.167,
+                    "end": 374.855
+                },
+                {
+                    "titre": "La souffrance, un sujet trop intime pour la politique ?",
+                    "extrait": "« La souffrance, elle est ce qu'il y a de plus intime. [...] Je ne vois pas en quoi ça doit pouvoir se confondre avec une politique nationale, internationale ou la géopolitique. »",
+                    "score": 85,
+                    "start": 453.517,
+                    "end": 467.168
+                },
+                {
+                    "titre": "La résilience, un mot qui divise ?",
+                    "extrait": "« Ce n'est pas du tout un bon mot. [...] Si on disait un but pour que ça aille mieux, là, ça irait et là, ce serait politique. »",
+                    "score": 88,
+                    "start": 431.186,
+                    "end": 439.949
+                },
+                {
+                    "titre": "La résilience, un concept essentialisé ?",
+                    "extrait": "« Le problème essentiel, c'est cette essentialisation de la notion de résilience, qui voudrait nous faire penser qu'il y a des résilients et il y a des non-résilients. »",
+                    "score": 92,
+                    "start": 819.371,
+                    "end": 832.124
+                },
+                {
+                    "titre": "La résilience, un mot qui appauvrit notre vocabulaire ?",
+                    "extrait": "« On a transformé la psyché humaine, qui est quand même très complexe, à deux colonnes. Il n'y a qu'une seule solution, la résilience. »",
+                    "score": 87,
+                    "start": 1028.408,
+                    "end": 1040.836
+                },
+                {
+                    "titre": "La résilience, un faux consensus ?",
+                    "extrait": "« L'idée que la résilience, ça permet d'énoncer, voilà un autre mot qui m'agace, une valeur hyper consensuelle, personne ne va dire qu'il est contre la résilience. »",
+                    "score": 90,
+                    "start": 738.753,
+                    "end": 765.477
                 }
             ]
         },
@@ -3625,6 +3692,54 @@
                     "score": 89,
                     "start": 1815.155,
                     "end": 1827.379
+                }
+            ]
+        },
+        {
+            "title": "Pourquoi sommes-nous responsables du climat ?",
+            "id": "01ede087-5950-4e96-b61c-7d6305c77dfd",
+            "show": "Le Pourquoi du comment : philo  ",
+            "show_id": "b6bd068b-da10-4d88-8d15-f0e1c87ed34b",
+            "chapo": "Le climat semble nous échapper, et pourtant, nous en sommes responsables. Entre causes humaines globales et effets subjectifs locaux, notre rôle est double : comprendre les interactions entre nature et société, et agir à toutes les échelles, même les plus modestes.",
+            "magnetotheque_id": "2025C45539E0063",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/le-pourquoi-du-comment-philo/pourquoi-sommes-nous-responsables-du-climat-1149719",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/22788-23.04.2025-ITEMA_24112079-2025C45539E0063-NET_MFC_77C980CF-F1C7-4F3E-A7F9-92A0999E382F-21.mp3",
+            "duration": 206,
+            "date": 1745398704,
+            "settings": [
+                "savoirs"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "Pourquoi le climat est-il à la fois extérieur et personnel ?",
+                    "extrait": "La notion de climat fait, pour ainsi dire, aujourd'hui, partie de notre climat. Elle est partout, elle semble nous dominer, en quelque sorte, avec ce paradoxe que, d'un côté, le climat ne dépend absolument pas de nous, ce sont des facteurs globaux, externes. C'est presque la notion la plus externe de toutes les notions externes, de cette notion d'environnement qu'Einstein, le grand physicien, définissait d'une manière géniale, comme toujours, en disant « l'environnement, c'est ce qui n'est pas moi, ce qui n'est pas nous, ce qui m'entoure ». Et le climat, en effet, semble ne pas dépendre de nous, ne pas dépendre des humains.",
+                    "start": 8.058,
+                    "end": 42.319
+                },
+                {
+                    "titre": "Comment notre responsabilité locale influence-t-elle le climat global ?",
+                    "extrait": "Mais la responsabilité vis-à-vis du climat se voit peut-être au mieux dans un usage local de la notion de climat. Ces climats qui, par exemple, en Bourgogne, déterminent des petits terroirs qui font la qualité unique, intime, presque étonnante, exceptionnel de certains vins par opposition à d'autres qui sont dans le climat voisin.",
+                    "start": 97.694,
+                    "end": 118.452
+                },
+                {
+                    "titre": "Le paradoxe du climat : entre causes objectives et effets subjectifs",
+                    "extrait": "Le paradoxe du climat, c'est que c'est un ensemble de causes objectives, mais qui produit un effet subjectif, un effet sur les vivants humains en particulier, qui dépend de leur rétroaction sur ces causes externes qui dominent absolument toute la planète et toutes les conditions de la vie.",
+                    "start": 68.297,
+                    "end": 84.625
+                },
+                {
+                    "titre": "Pourquoi le climat n'est pas qu'une question de météo ?",
+                    "extrait": "On n'agit pas sur un climat seulement en transformant des causes locales, une haie, un terroir, contrôler le sens du vent, l'exposition au soleil, non. On agit aussi sur un climat par des effets subjectifs et politiques d'ensemble.",
+                    "start": 180.141,
+                    "end": 194.573
+                },
+                {
+                    "titre": "« C'est l'atmosphère qui règne sur une société »",
+                    "extrait": "C'est une prise de conscience, c'est l'atmosphère qui règne sur une société. C'est cela peut-être qui permettra de tenir compte de tous les changements climatiques du monde.",
+                    "start": 194.593,
+                    "end": 203.874
                 }
             ]
         },
