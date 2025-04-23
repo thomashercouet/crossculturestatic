@@ -1,6 +1,6 @@
 {
-    "date": "Mis à jour le 23/04/2025 à 22:04",
-    "unix": 1745438659,
+    "date": "Mis à jour le 23/04/2025 à 22:17",
+    "unix": 1745439449,
     "shows": [
         {
             "title": "Comment le climat s'impose-t-il à nous ?",
@@ -4434,6 +4434,38 @@
                     "score": 87,
                     "start": 193.461,
                     "end": 198.444
+                }
+            ]
+        },
+        {
+            "title": "L’excès, l’abime ",
+            "id": "5db2b9a3-5b51-4785-9aca-79e0d16e7320",
+            "show": "Lectures du soir",
+            "show_id": "ee7280ad-40f6-11e5-9fe0-005056a87c89",
+            "chapo": " \"Tous les romans de Balzac sont les romans d’un homme particulier, mais cet homme particulier est engendré par le fait même d’écrire, par l’esthétique de l’écrivain, une esthétique du cycle et de la circonvolution, du transport et du débordement… \"",
+            "magnetotheque_id": "2025C17591E0077",
+            "seo_url": "",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/12024-23.04.2025-ITEMA_24112056-2025C17591E0077-ITE_00148952_RSCE-21.mp3",
+            "duration": 1177,
+            "date": 1745438174,
+            "settings": [
+                "interview"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "« La musique est infinie dans ses siennes »",
+                    "extrait": "« La musique est infinie dans les siennes. Nous sommes obligés d'accepter les idées du poète, le tableau du peintre, la statue du sculpteur. Mais chacun de nous interprète la musique au gré de sa douleur ou de sa joie, de ses espérances ou de son désespoir. Là où les autres arts cerclent nos pensées en les fixant sur une chose déterminée, la musique les déchaîne sur la nature entière qu'elle a le pouvoir de nous exprimer. »",
+                    "score": 95,
+                    "start": 431.838,
+                    "end": 460.419
+                },
+                {
+                    "titre": "Comment Balzac conjure l'abîme par l'excès ?",
+                    "extrait": "« La comédie humaine est une façon généralisée de conjurer face à l'abîme par son excès, de conjurer et d'éparpiller le génie de son auteur, quand bien même Balzac a dû en passer par une esthétique de la désillusion. On pourrait presque avancer qu'il y a chez Balzac une esthétique de l'autodestruction. »",
+                    "score": 90,
+                    "start": 799.094,
+                    "end": 819.906
                 }
             ]
         },
