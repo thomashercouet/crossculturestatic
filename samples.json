@@ -1,6 +1,6 @@
 {
-    "date": "Mis à jour le 23/04/2025 à 17:22",
-    "unix": 1745421735,
+    "date": "Mis à jour le 23/04/2025 à 17:35",
+    "unix": 1745422525,
     "shows": [
         {
             "title": "Episodes 5 et 6",
@@ -725,6 +725,59 @@
                     "score": 92,
                     "start": 726.073,
                     "end": 737.762
+                }
+            ]
+        },
+        {
+            "title": "Maud Vinet, la grande ordinatrice quantique",
+            "id": "697e4fa0-3ba8-47e4-82e7-26441a11a560",
+            "show": "La Science, CQFD",
+            "show_id": "dc59bf2c-a3f5-48b0-bd13-f7258761d52c",
+            "chapo": "L’ordinateur quantique ne cesse d’attirer les convoitises. Comment nos connaissances en microélectronique peuvent-elles accélérer le développement de ces machines ? Après des années à travailler sur le sujet, Maud Vinet  a co-fondé Quobly et souhaite commercialiser un ordinateur quantique.",
+            "magnetotheque_id": "2025C48906S0113",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/la-science-cqfd/maud-vinet-la-grande-ordinatrice-quantique-2078700",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/23118-23.04.2025-ITEMA_24112071-2025C48906S0113-NET_MFC_51109417-AC01-424F-86B0-6941AEE9E8C4-21.mp3",
+            "duration": 454,
+            "date": 1745420325,
+            "settings": [
+                "savoirs"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "Comment l'intrication quantique pourrait révolutionner nos communications ?",
+                    "extrait": "Si on génère des paires de photons dans la gamme de télécommunications et que les signaux de photons s'étalent sur un spectre de longueur d'onde ou de fréquence assez large, on peut utiliser un grand nombre de canaux en parallèle pour transporter cette intrication. Et donc cette propriété d'intrication peut être mise à profit entre plusieurs utilisateurs qui, eux, auraient accès chacun à un canal de fréquence différent et donc recréer un multiplexage dans la distribution d'intrications comme on a un multiplexage sur Internet, effectivement.",
+                    "score": 95,
+                    "start": 18.486,
+                    "end": 82.026
+                },
+                {
+                    "titre": "La promesse d'un Internet quantique : réalité ou fiction ?",
+                    "extrait": "C'est un peu les prémices de l'Internet quantique ? C'est un petit peu, voilà, exactement. C'est un peu dans ce but-là qu'on travaille. Parmi les projets que nous avons, par exemple, on est en train de mettre en place un lien fibré entre notre campus et le campus de Sorbonne Université, donc l'équipe de Leni Diamanti au Lipsis.",
+                    "score": 90,
+                    "start": 82.246,
+                    "end": 107.023
+                },
+                {
+                    "titre": "Des photons intriqués sur 30 kilomètres : un exploit scientifique !",
+                    "extrait": "Actuellement, les photons partent d'ici, font 30 kilomètres dans les fibres sous Paris, ils reviennent ici et ils sont toujours intriqués. Donc, ça commence effectivement à être quelque chose qui s'approche de la réalité.",
+                    "score": 92,
+                    "start": 132.73,
+                    "end": 145.077
+                },
+                {
+                    "titre": "Peut-on manipuler la lumière pour créer des états quantiques exotiques ?",
+                    "extrait": "Cette manipulation du faisceau de pompe s'imprime directement sur les corrélations que les photons intriqués emportent avec eux. Et ça, effectivement, nous donne une grande versatilité à l'état que nous pouvons générer. Et ça nous a permis de découvrir aussi la possibilité de faire de l'ingénierie d'état quantique de la lumière avec des propriétés parfois un peu étonnantes.",
+                    "score": 93,
+                    "start": 255.122,
+                    "end": 280.868
+                },
+                {
+                    "titre": "L'avenir du calcul quantique : vers des états plus complexes ?",
+                    "extrait": "Il y a sans doute l'intrication qui est une des ressources fondamentales pour faire du calcul quantique. Donc arriver à produire avec une grande efficacité des photons intriqués est sans doute une ressource intéressante.",
+                    "score": 88,
+                    "start": 339.502,
+                    "end": 358.696
                 }
             ]
         },
