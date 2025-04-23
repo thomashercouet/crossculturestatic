@@ -1,6 +1,6 @@
 {
-    "date": "Mis à jour le 23/04/2025 à 13:41",
-    "unix": 1745408473,
+    "date": "Mis à jour le 23/04/2025 à 13:54",
+    "unix": 1745409296,
     "shows": [
         {
             "title": "Episodes 5 et 6",
@@ -4202,6 +4202,45 @@
                     "score": 80,
                     "start": 2421.532,
                     "end": 2439.127
+                }
+            ]
+        },
+        {
+            "title": "Dominique Jakob & Brendan MacFarlane, architectes : \"Les ruines racontent nos histoires\" ",
+            "id": "64a256df-ad34-44d3-a8a0-82017a4282df",
+            "show": "Les Midis de Culture",
+            "show_id": "32a14af6-fc87-4f4f-a06e-39ccf8587119",
+            "chapo": "25 ans après la création de leur agence d'architecture, Dominique Jakob et Brendan MacFarlane représenteront le Pavillon français lors de la 19e Biennale d'architecture de Venise. ",
+            "magnetotheque_id": "2025C51852S3113",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/les-midis-de-culture/dominique-jakob-brendan-macfarlane-architectes-5819128",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/18723-23.04.2025-ITEMA_24112041-2025C51852S3113-NET_MFC_E27E13DD-2A81-4092-BD47-916897950513-21.mp3",
+            "duration": 1721,
+            "date": 1745407725,
+            "settings": [
+                "interview"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "Comment l'architecture peut-elle s'adapter à la crise climatique ?",
+                    "extrait": "\"Paris a eu cette capacité à se transformer à travers l'histoire. Le défi actuel de Paris, c'est de réussir son adaptation climatique, de réussir ses îlots de fraîcheur, de réussir la transformation des bâtiments. Il va falloir oser, mais ce ne sont pas que les espaces urbains qu'il va falloir transformer, c'est aussi l'habitat. L'architecture, c'est de vivre dans un endroit, que ce soit intérieur ou extérieur, et l'ensemble est architecture. Il faut aussi bien qu'on soit bien chez soi et qu'on soit bien dans la ville.\"",
+                    "score": 90,
+                    "start": 225.891,
+                    "end": 265.906
+                },
+                {
+                    "titre": "Pourquoi le voyage est-il essentiel pour les architectes ?",
+                    "extrait": "\"Le voyage est une source continue d'invention, de regard, d'échange, de curiosité. La curiosité, c'est ce qui nous tient éveillés. Dans le monde d'aujourd'hui, où on voit qu'il se referme, le voyage est pour l'éducation de l'architecte vraiment essentiel. C'est aller à la rencontre des autres, voir d'autres cultures, voir comment d'autres ont répondu aux mêmes problèmes, et cela nourrit votre imaginaire.\"",
+                    "score": 85,
+                    "start": 382.418,
+                    "end": 408.297
+                },
+                {
+                    "titre": "Les ruines racontent nos histoires : l'importance de l'histoire dans l'architecture",
+                    "extrait": "\"Nous pensons que nous tous, qu'on soit proches ou lointains, avons une conscience de ce qui a été là. Ce filigrane, ce lien entre des époques lointaines et aujourd'hui est extrêmement important pour savoir qui nous sommes. Nous nous imposons de ne pas effacer l'histoire. Les traces, même abîmées, racontent une histoire. Une ruine raconte une histoire.\"",
+                    "score": 88,
+                    "start": 859.19,
+                    "end": 885.824
                 }
             ]
         },
