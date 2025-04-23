@@ -1,6 +1,6 @@
 {
-    "date": "Mis à jour le 23/04/2025 à 20:59",
-    "unix": 1745434759,
+    "date": "Mis à jour le 23/04/2025 à 21:14",
+    "unix": 1745435696,
     "shows": [
         {
             "title": "Comment le climat s'impose-t-il à nous ?",
@@ -4881,6 +4881,73 @@
                     "score": 92,
                     "start": 1289.031,
                     "end": 1298.957
+                }
+            ]
+        },
+        {
+            "title": "Qu'est-ce qu'avoir des droits ?",
+            "id": "cca36869-f058-46f0-8554-cace6bf24b3e",
+            "show": "Esprit de justice",
+            "show_id": "cefbe758-c74f-4151-b65e-bc538b8ccd22",
+            "chapo": "Quelle est la nature des droits et qui sont ceux qui les possèdent ? En quoi toute théorie du droit et des droits est-elle aussi une théorie politique ? ",
+            "magnetotheque_id": "2025C27677S0113",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/esprit-de-justice/qu-est-ce-qu-avoir-des-droits-9771426",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/21447-23.04.2025-ITEMA_24112082-2025C27677S0113-NET_MFC_7BBBCBA0-C114-4775-A02F-0D69201542E4-21.mp3",
+            "duration": 3528,
+            "date": 1745434725,
+            "settings": [
+                "savoirs"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "Pourquoi les droits sont-ils plus qu'un simple privilège ?",
+                    "extrait": "Avoir des droits est une garantie d'égalité, qu'on comprend mieux d'ailleurs si on se rappelle que la reconnaissance des droits a mis fin à un système de privilèges.",
+                    "score": 85,
+                    "start": 103.232,
+                    "end": 111.679
+                },
+                {
+                    "titre": "Les droits sont-ils des propriétés ?",
+                    "extrait": "Faut-il penser les droits, donc les droits des individus, pour simplifier, comme des propriétés ? C'est une thèse qui a une très longue histoire, on la trouve illustrée, par exemple, chez Locke, qui fait de l'appropriation élémentaire.",
+                    "score": 80,
+                    "start": 992.944,
+                    "end": 1016.8
+                },
+                {
+                    "titre": "Comment les droits peuvent-ils devenir des devoirs ?",
+                    "extrait": "On pouvait être enfermé dans sa revendication d'un droit à la différence et que le droit à la différence pouvait devenir un devoir de différence.",
+                    "score": 75,
+                    "start": 1882.595,
+                    "end": 1891.603
+                },
+                {
+                    "titre": "Les droits de l'homme sont-ils en danger ?",
+                    "extrait": "Aujourd'hui, ce que l'on appelle l'illibéralisme... considère que la problématique des droits, des droits humains, n'a pas forcément la force et peut-être même doit être tout simplement remise en question.",
+                    "score": 90,
+                    "start": 1425.747,
+                    "end": 1457.725
+                },
+                {
+                    "titre": "Les droits sont-ils vraiment universels ?",
+                    "extrait": "Est-ce que cet universalisme du droit qui est aujourd'hui en difficulté ?",
+                    "score": 70,
+                    "start": 2004.47,
+                    "end": 2008.091
+                },
+                {
+                    "titre": "Comment les droits individuels peuvent-ils nuire au commun ?",
+                    "extrait": "Il existe, au moins à titre de revendication, et parfois pas seulement de revendication, des droits collectifs. Or, parler de droits collectifs implique nécessairement qu'on se pose la question quelle est la signification politique que comporte la reconnaissance de tel droit.",
+                    "score": 85,
+                    "start": 2897.835,
+                    "end": 2936.311
+                },
+                {
+                    "titre": "Les droits sont-ils des illusions ?",
+                    "extrait": "Il est évident que la liste, entre guillemets, des droits n'a cessé de s'élargir. On parle d'ailleurs couramment de droits de la première génération, qui sont principalement les grandes libertés, des droits de la deuxième génération, 1848, les droits sociaux qui apparaissent.",
+                    "score": 80,
+                    "start": 554.413,
+                    "end": 602.152
                 }
             ]
         },
