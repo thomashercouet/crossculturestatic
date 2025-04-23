@@ -1,6 +1,6 @@
 {
-    "date": "Mis à jour le 23/04/2025 à 09:59",
-    "unix": 1745395176,
+    "date": "Mis à jour le 23/04/2025 à 10:13",
+    "unix": 1745396001,
     "shows": [
         {
             "title": "Episodes 5 et 6",
@@ -1845,6 +1845,66 @@
                     "score": 90,
                     "start": 225.649,
                     "end": 250.706
+                }
+            ]
+        },
+        {
+            "title": "Les Payan et les Jullien, deux familles dans la Révolution",
+            "id": "3059409d-a196-43b0-80b7-f20b984fa077",
+            "show": "Le Cours de l'histoire",
+            "show_id": "0a41bdd2-4a6d-4fb2-b2d1-ca42d2dc5381",
+            "chapo": "Les Payan et les Jullien sont deux familles drômoises prises dans la tourmente de la Révolution française. Comment un événement politique d’une telle magnitude traverse-t-il une famille ? À quelles dissensions, divisions, solidarités et entraides donne-t-il lieu ?",
+            "magnetotheque_id": "2025C36128E0002",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/les-payan-et-les-jullien-deux-familles-dans-la-revolution-1156585",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/10076-23.04.2025-ITEMA_24112046-2025C36128E0002-NET_MFC_E09BBADC-277A-458F-8084-79C7B6A8014F-21.mp3",
+            "duration": 3520,
+            "date": 1745395118,
+            "settings": [
+                "savoirs"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "Comment la Révolution a redéfini la noblesse ?",
+                    "extrait": "Alors effectivement, les païens, ce sont des faux nobles, ils ont usurpé, comme vous le dites, la particule, parce qu'il faut remonter à la révocation de l'édite Nantes pour comprendre la stratégie sociale et culturelle de cette famille. Ce sont des nouveaux convertis, donc ils ont vraiment attendu la révocation de l'édite Nantes pour se convertir, être poussés à se convertir au catholicisme. Et donc ils vont tenter de redéfinir leur identité sociale en devenant nobles. Et donc cela passe par comportement noble et notamment l'usage abusif de la particule.",
+                    "start": 142.178,
+                    "end": 171.219
+                },
+                {
+                    "titre": "La Révolution, un bouleversement des stratégies sociales",
+                    "extrait": "Voilà, c'est ici qu'on saisit combien la révolution est une révolution, au sens où les stratégies sociales, en vue d'une ascension tout simplement, ne sont plus du tout les mêmes. Personne ne peut imaginer, même en 1787... Tout ce qu'on a en tête dans l'idée de stratégie d'ascension sociale va être complètement renversé.",
+                    "start": 272.682,
+                    "end": 294.248
+                },
+                {
+                    "titre": "Les femmes des Lumières : Rosalie Julien, une voix oubliée",
+                    "extrait": "Rosalie Julien, j'ai écrit dans mon livre « Écrivassière ». Ça m'a été beaucoup, beaucoup reprochée. Moi, c'est parce qu'il y a un moment, je n'en pouvais plus. Rosalie est une femme du XVIIIe siècle. Elle aime les lettres, elle aime la science. Elle va d'ailleurs beaucoup militer pour la vaccination. Parce qu'elle-même, elle s'est fait vacciner.",
+                    "start": 530.984,
+                    "end": 549.649
+                },
+                {
+                    "titre": "La correspondance, un trésor pour comprendre la Révolution",
+                    "extrait": "En intégrant les archives privées, ça donne de la chair au contenu et ça permet d'aller encore plus loin et de mieux comprendre les dessous, les coulisses concrètement, de savoir ce que ça veut dire faire la révolution en famille, mais faire la révolution tout court.",
+                    "start": 732.704,
+                    "end": 743.631
+                },
+                {
+                    "titre": "Les paillants et les Juliens : une amitié politique complexe",
+                    "extrait": "Il faut bien comprendre que pour les païens, la révolution, c'est une crise profonde d'identité, puisqu'ils doivent abandonner le modèle noble qu'ils ont construit. C'est une crise relationnelle, parce que tous les amis nobles avec lesquels ils étaient en lien, et localement, vont rompre avec les paillants.",
+                    "start": 1686.595,
+                    "end": 1704.39
+                },
+                {
+                    "titre": "La Révolution : un tourbillon d'idées et de passions",
+                    "extrait": "Il fallait bien que ces idées passent dans la société. Elles ne sont pas passées par un discours surplombant. Il y avait bien sûr les discours des hommes politiques, des députés, etc. Mais ce qui est très important, c'est de se rencontrer dans les cafés, dans les salons, et puis autour des affiches.",
+                    "start": 1315.157,
+                    "end": 1332.782
+                },
+                {
+                    "titre": "La peur et l'engagement : Rosalie Julien face à la Révolution",
+                    "extrait": "Elle entend le bruit des femmes qui partent à Versailles et elle a peur et elle le dit.",
+                    "start": 3422.505,
+                    "end": 3433.472
                 }
             ]
         },
