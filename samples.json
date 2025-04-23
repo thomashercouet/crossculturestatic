@@ -1,6 +1,6 @@
 {
-    "date": "Mis à jour le 23/04/2025 à 13:15",
-    "unix": 1745406914,
+    "date": "Mis à jour le 23/04/2025 à 13:28",
+    "unix": 1745407704,
     "shows": [
         {
             "title": "Episodes 5 et 6",
@@ -3486,6 +3486,38 @@
                     "score": 87,
                     "start": 3269.85,
                     "end": 3285.885
+                }
+            ]
+        },
+        {
+            "title": "Découvrir Georges Navel et \"trouver du merveilleux dans tout geste\" ",
+            "id": "dc5cb85a-89e1-4a62-9e05-8238e27100ef",
+            "show": "Le Point culture",
+            "show_id": "25d4eded-ef3f-4106-9cca-09a53f4794dc",
+            "chapo": "Rééditions ou inédits, plusieurs écrits de Georges Navel nous font découvrir le parcours et la sensibilité d'un auteur qui fut aussi ouvrier et paysan, anarchiste, déserteur et soldat. C'est un homme du XXe siècle européen, marqué par les guerres comme par les idéaux. ",
+            "magnetotheque_id": "2025C41196S0113",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/le-point-culture/decouvrir-georges-navel-et-trouver-du-merveilleux-dans-tout-geste-9318986",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/21829-23.04.2025-ITEMA_24112084-2025C41196S0113-NET_MFC_9A6BBA97-4690-4517-B7C4-66A060956F72-21.mp3",
+            "duration": 585,
+            "date": 1745406000,
+            "settings": [
+                "actu"
+            ],
+            "limit": 2,
+            "extraits": [
+                {
+                    "titre": "« La vie ne mérite d'être vécue que pour que l'on s'émerveille »",
+                    "extrait": "« D'ailleurs, il le dit lui-même, la vie ne mérite d'être vécue que pour que l'on s'émerveille. Et en fait, il va apprendre à ralentir le geste, à essayer d'être attentif au temps présent, à boire du temps pur. Et c'est ça qui est important. Si on ne vit pas l'instant, eh bien, j'aurais envie de dire presque à quoi bon continuer. »",
+                    "score": 95,
+                    "start": 336.721,
+                    "end": 360.067
+                },
+                {
+                    "titre": "Comment Georges Navelle a transformé le travail en jeu ?",
+                    "extrait": "« Exactement, en fait, il découvre... il passe d'un métier à un autre, il est tout le temps en train d'essayer de fuir, et en même temps, il trouve parfois du merveilleux, parce qu'en fait, c'est une quête de l'enchantement. »",
+                    "score": 90,
+                    "start": 323.391,
+                    "end": 335.98
                 }
             ]
         },
