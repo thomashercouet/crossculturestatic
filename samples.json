@@ -1,6 +1,6 @@
 {
-    "date": "Mis à jour le 23/04/2025 à 12:10",
-    "unix": 1745403012,
+    "date": "Mis à jour le 23/04/2025 à 12:24",
+    "unix": 1745403883,
     "shows": [
         {
             "title": "Episodes 5 et 6",
@@ -3401,6 +3401,53 @@
             ]
         },
         {
+            "title": "Véronique Margron : l’Eglise en quête de renouveau ",
+            "id": "cea90b91-3bcb-4190-bca5-122efc205198",
+            "show": "France Culture va plus loin (l'Invité(e) des Matins)",
+            "show_id": "7431a6a7-481b-11e5-9fe0-005056a87c89",
+            "chapo": "Le jour de Pâques enregistre un record du nombre de baptêmes alors que les révélations sur les crimes sexuels dans l'Eglise s'accumule. Comme comprendre ce phénomène ? ",
+            "magnetotheque_id": "2025C16450S0111",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/france-culture-va-plus-loin-l-invite-e-des-matins/paques-9827153",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/13983-21.04.2025-ITEMA_24109726-2025C16450S0111-NET_MFC_D1E52C65-5E6D-4BA9-863F-862E19F346D7-21.mp3",
+            "duration": 2314,
+            "date": 1745217900,
+            "settings": [
+                "actu",
+                "interview"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "Pourquoi l'Église attire-t-elle de nouveaux baptisés malgré les scandales ?",
+                    "extrait": "\"Je ne sais pas si je suis étonnée, à vrai dire, ce sont les chemins mystérieux de la foi, les chemins mystérieux de chacun, dans une dimension spirituelle qu'il découvre importante dans sa vie. Donc, moi, je ne peux que m'en réjouir avant tout pour tous ces baptisés.\"",
+                    "score": 85,
+                    "start": 68.864,
+                    "end": 85.812
+                },
+                {
+                    "titre": "L'Église, une contre-culture ?",
+                    "extrait": "\"À vrai dire, comme cela, je n'en pense pas grand-chose. Je n'ai pas lu l'édito de Jean-Pierre Denis, mais d'abord, je pense qu'il faut arrêter de penser le catholicisme comme une culture. Ceci lui a fait beaucoup de mal.\"",
+                    "score": 80,
+                    "start": 204.708,
+                    "end": 215.901
+                },
+                {
+                    "titre": "Comment l'Église peut-elle répondre aux quêtes identitaires ?",
+                    "extrait": "\"En tout cas, ce peut être un début du chemin. On prend les gens là où ils sont et non pas comme on voudrait qu'ils soient. Heureusement. Je pense que, de fait, aujourd'hui, toutes les incertitudes cumulées peuvent mener à un réel questionnement identitaire.\"",
+                    "score": 90,
+                    "start": 293.232,
+                    "end": 307.95
+                },
+                {
+                    "titre": "\"La morale que l'Église doit incarner est d'abord humaine\"",
+                    "extrait": "\"Je pense que la morale qu'elle peut chercher à incarner, c'est d'abord une morale humaine. Autrement dit, à la mesure du possible des femmes et des hommes que nous sommes.\"",
+                    "score": 88,
+                    "start": 517.963,
+                    "end": 528.17
+                }
+            ]
+        },
+        {
             "title": "Reims polar 2025, avec Kiyoshi Kurosawa",
             "id": "63cf31f2-f739-408b-a791-8f39c55de8ab",
             "show": "Mauvais genres",
@@ -3465,53 +3512,6 @@
                     "score": 86,
                     "start": 1819.784,
                     "end": 1824.404
-                }
-            ]
-        },
-        {
-            "title": "Véronique Margron : l’Eglise en quête de renouveau ",
-            "id": "cea90b91-3bcb-4190-bca5-122efc205198",
-            "show": "France Culture va plus loin (l'Invité(e) des Matins)",
-            "show_id": "7431a6a7-481b-11e5-9fe0-005056a87c89",
-            "chapo": "Le jour de Pâques enregistre un record du nombre de baptêmes alors que les révélations sur les crimes sexuels dans l'Eglise s'accumule. Comme comprendre ce phénomène ? ",
-            "magnetotheque_id": "2025C16450S0111",
-            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/france-culture-va-plus-loin-l-invite-e-des-matins/paques-9827153",
-            "mp3": "https://media.radiofrance-podcast.net/podcast09/13983-21.04.2025-ITEMA_24109726-2025C16450S0111-NET_MFC_D1E52C65-5E6D-4BA9-863F-862E19F346D7-21.mp3",
-            "duration": 2314,
-            "date": 1745217900,
-            "settings": [
-                "actu",
-                "interview"
-            ],
-            "limit": 0,
-            "extraits": [
-                {
-                    "titre": "Pourquoi l'Église attire-t-elle de nouveaux baptisés malgré les scandales ?",
-                    "extrait": "\"Je ne sais pas si je suis étonnée, à vrai dire, ce sont les chemins mystérieux de la foi, les chemins mystérieux de chacun, dans une dimension spirituelle qu'il découvre importante dans sa vie. Donc, moi, je ne peux que m'en réjouir avant tout pour tous ces baptisés.\"",
-                    "score": 85,
-                    "start": 68.864,
-                    "end": 85.812
-                },
-                {
-                    "titre": "L'Église, une contre-culture ?",
-                    "extrait": "\"À vrai dire, comme cela, je n'en pense pas grand-chose. Je n'ai pas lu l'édito de Jean-Pierre Denis, mais d'abord, je pense qu'il faut arrêter de penser le catholicisme comme une culture. Ceci lui a fait beaucoup de mal.\"",
-                    "score": 80,
-                    "start": 204.708,
-                    "end": 215.901
-                },
-                {
-                    "titre": "Comment l'Église peut-elle répondre aux quêtes identitaires ?",
-                    "extrait": "\"En tout cas, ce peut être un début du chemin. On prend les gens là où ils sont et non pas comme on voudrait qu'ils soient. Heureusement. Je pense que, de fait, aujourd'hui, toutes les incertitudes cumulées peuvent mener à un réel questionnement identitaire.\"",
-                    "score": 90,
-                    "start": 293.232,
-                    "end": 307.95
-                },
-                {
-                    "titre": "\"La morale que l'Église doit incarner est d'abord humaine\"",
-                    "extrait": "\"Je pense que la morale qu'elle peut chercher à incarner, c'est d'abord une morale humaine. Autrement dit, à la mesure du possible des femmes et des hommes que nous sommes.\"",
-                    "score": 88,
-                    "start": 517.963,
-                    "end": 528.17
                 }
             ]
         },
@@ -3932,6 +3932,66 @@
                     "score": 95,
                     "start": 161.569,
                     "end": 204.273
+                }
+            ]
+        },
+        {
+            "title": "Cinéma : Make Hollywood Great Again",
+            "id": "3a5ff7b8-a637-423d-8d1c-64b97588d981",
+            "show": "Cultures Monde",
+            "show_id": "2358bc00-3f62-11e5-8314-005056a87c89",
+            "chapo": "L'industrie hollywoodienne, qui a longtemps été le promoteur le plus efficace des valeurs et du \"modèle\" américain, s'attire désormais les foudres de l'administration Trump, qui tente de mettre un frein aux supposées dérives inclusives et progressistes du cinéma.",
+            "magnetotheque_id": "2025C16756S0113",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/cultures-monde/cinema-make-hollywood-great-again-8281120",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/11701-23.04.2025-ITEMA_24112062-2025C16756S0113-NET_MFC_E867DCC7-15A8-431E-AFC4-AEFD901CC80B-21.mp3",
+            "duration": 3482,
+            "date": 1745402325,
+            "settings": [
+                "savoirs"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "Comment Hollywood se transforme sous Trump ?",
+                    "extrait": "L'industrie hollywoodienne, qui a longtemps été le promoteur le plus efficace des valeurs et du \"modèle\" américain, s'attire désormais les foudres de l'administration Trump, qui tente de mettre un frein aux supposées dérives inclusives et progressistes du cinéma.",
+                    "score": 85,
+                    "start": 1881.067,
+                    "end": 1904.172
+                },
+                {
+                    "titre": "Le cinéma américain face à la censure : un retour au maccarthysme ?",
+                    "extrait": "Une photo comme symbole, celle de Charlie Chaplin par Richard Avidon en 1952. Chaplin a les cheveux blancs, il regarde l'objectif plein de malice dans les yeux et ses deux index au-dessus des oreilles, il famine d'être le diable. Un avion l'attend qui doit l'éloigner des Etats-Unis où il ne retournera que 20 ans plus tard.",
+                    "score": 90,
+                    "start": 202.277,
+                    "end": 218.628
+                },
+                {
+                    "titre": "La diversité à Hollywood : un enjeu politique ?",
+                    "extrait": "L'enquête diligentée par Brendan Carr, mais à la demande de Trump, vise officiellement à interroger la manière dont Disney mène ses politiques DEI, donc Diversity, Equity and Inclusion. La FCC est quand même une organisation, j'allais dire, pseudo-indépendante, en tout cas qui ne l'est plus beaucoup.",
+                    "score": 88,
+                    "start": 448.648,
+                    "end": 472.211
+                },
+                {
+                    "titre": "Hollywood : entre silence et résistance face à Trump",
+                    "extrait": "Oui, je pense que le mot d'ordre c'est la prudence, effectivement. Pour autant, je pense que ce silence est peut-être à prendre avec des pincettes, c'est-à-dire que, oui, les Oscars ont quand même marqué ce silence et ont été critiqués par beaucoup, justement, pour cette absence de politisation.",
+                    "score": 87,
+                    "start": 296.489,
+                    "end": 314.929
+                },
+                {
+                    "titre": "Le rôle flou des ambassadeurs de Trump à Hollywood",
+                    "extrait": "C'est très flou en fait, et c'est ça qui est intéressant, c'est-à-dire qu'on voit bien l'objectif de Trump, nommer quand même ses trois acteurs, John Voight, Mel Gibson, Sylvester Stallone, trois acteurs fort vieillissants, trois hommes blancs, six genres, il y a vraiment cette volonté de balayer ce qu'il considère être comme une industrie woke.",
+                    "score": 89,
+                    "start": 1118.035,
+                    "end": 1154.061
+                },
+                {
+                    "titre": "La polarisation d'Hollywood : un reflet de la société américaine ?",
+                    "extrait": "Absolument, je pense que vraiment on aperçoit aux Etats-Unis, mais pas que, une polarisation des opinions, une polarisation politique, et Hollywood, en tant qu'industrie du divertissement, doit répondre à ses publics, et je suis tout à fait d'accord, n'oublions pas l'objectif d'Hollywood, il est effectivement, je pense, avant tout économique, avant d'être idéologique !",
+                    "score": 86,
+                    "start": 2029.365,
+                    "end": 2047.962
                 }
             ]
         },
