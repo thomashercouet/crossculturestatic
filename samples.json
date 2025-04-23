@@ -1,6 +1,6 @@
 {
-    "date": "Mis à jour le 23/04/2025 à 16:43",
-    "unix": 1745419392,
+    "date": "Mis à jour le 23/04/2025 à 16:58",
+    "unix": 1745420330,
     "shows": [
         {
             "title": "Episodes 5 et 6",
@@ -1851,6 +1851,73 @@
                     "score": 89,
                     "start": 2031.184,
                     "end": 2061.101
+                }
+            ]
+        },
+        {
+            "title": "Le théâtre infiltre la bande dessinée avec Genís Rigol",
+            "id": "a1703f71-278c-4c70-b62f-e74c23e0810d",
+            "show": "Le Book Club",
+            "show_id": "9919a6d4-3da2-4dd9-8103-77cef065f78d",
+            "chapo": "Aujourd’hui dans votre Book Club, la bande dessinée \"Brunilda à la Plata\" pour explorer les tourments de la création artistique.\nDans son dernier album, Genís Rigol nous plonge dans l’univers burlesque d’un dramaturge en pleine représentation qui ne parvient pas à finir sa pièce.",
+            "magnetotheque_id": "2025C49162S0113",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/le-book-club/le-theatre-infiltre-la-bande-dessinee-avec-genis-rigol-6567765",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/23875-23.04.2025-ITEMA_24112072-2025C49162S0113-NET_MFC_CF0D53B7-8C63-4934-977D-93F0EB668488-21.mp3",
+            "duration": 3557,
+            "date": 1745416725,
+            "settings": [
+                "interview"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "Comment la lecture a façonné ma relation avec mon père ?",
+                    "extrait": "\"Pour moi, de lire, c'était une manière de connecter avec mon père. Parce qu'il était toujours dans son bureau de travail, il était professeur, mais il était part d'une génération de professeurs qu'ils ont grandi en dictature, en dictature franquiste. Et alors, le moment dans lequel ils ont commencé à travailler à l'école publique, c'était le moment de la transition. Et je pense que pour sa génération, ils s'ont vraiment engagés à l'éducation.\"",
+                    "score": 90,
+                    "start": 133.321,
+                    "end": 166.975
+                },
+                {
+                    "titre": "La peur de l'échec : un moteur créatif ?",
+                    "extrait": "\"À force de te comparer aux autres dramaturges, tu deviens le fruit de ton propre masochisme. Quand je pense aux auteurs que j'admire comme Zalmira, je sais qu'ils ne me considéreront jamais comme l'un des leurs. C'est comme s'ils voyaient le vrai moi.\"",
+                    "score": 95,
+                    "start": 2813.081,
+                    "end": 2829.339
+                },
+                {
+                    "titre": "Le théâtre comme métaphore de la vie : une réflexion profonde",
+                    "extrait": "\"Il y a cette espèce de représentation, parfois qu'est ce qui arrive avant, si on peut la nostra identité créer pour l'idée que nous avons de nous même ou nous avons cette idée parce qu'il y a un certain comportement précis dans la société.\"",
+                    "score": 85,
+                    "start": 2184.935,
+                    "end": 2203.582
+                },
+                {
+                    "titre": "Pourquoi la création artistique est-elle si angoissante ?",
+                    "extrait": "\"Il y a un moment dans les flashbacks, dans les souvenirs des personnages de la dramaturge, que c'est comme un peu la génesis de sa peur, s'explique un peu d'où vient tout ce moment d'insegurité. Parce qu'avant ça, il a une relation avec la création plus naïve, plus instinctive, on va dire.\"",
+                    "score": 90,
+                    "start": 1619.687,
+                    "end": 1641.551
+                },
+                {
+                    "titre": "La légèreté comme antidote à l'angoisse créative",
+                    "extrait": "\"De poser ça, de faire des blagues autour de ça, d'exagérer, ça m'a permis de travailler avec une légèreté que d'autre manière ne sera pas possible.\"",
+                    "score": 88,
+                    "start": 2955.617,
+                    "end": 2967.35
+                },
+                {
+                    "titre": "Le rêve comme source d'inspiration : une expérience unique",
+                    "extrait": "\"C'était un rêve un peu conscient, un peu... Éveillé. Oui. Et je me souviens bien, il y avait un moment que j'étais dehors les rêves, comme dans un cinéma, et à l'écran, il y avait les rêves.\"",
+                    "score": 92,
+                    "start": 1125.247,
+                    "end": 1145.795
+                },
+                {
+                    "titre": "La quête de l'authenticité dans la création",
+                    "extrait": "\"Qu'importe les efforts fournis, la seule chose que je peux espérer, c'est ne pas me ridiculiser. Mais mon vieux, ne sois pas si dur avec toi-même, tu m'entends ? Simplement, tu ne peux pas apprendre à devenir bon ?\"",
+                    "score": 94,
+                    "start": 2781.185,
+                    "end": 2794.027
                 }
             ]
         },
@@ -4077,60 +4144,6 @@
             ]
         },
         {
-            "title": "Présentation - Forains et fêtes foraines",
-            "id": "af7a7abf-5002-4998-a357-aa37bd6e5672",
-            "show": "Les Nuits de France Culture",
-            "show_id": "4ff3693f-6e66-11e5-8e9e-005056a87c89",
-            "chapo": "Cette Nuit d'archives nous immerge dans l’univers sonore des fêtes foraines : récits de forains, ambiances festives, témoignages d’artistes, souvenirs d’enfance et clins d’œil au cinéma et à la chanson révèlent toute la richesse d’un monde à part. Que la fête commence...",
-            "magnetotheque_id": "2025C3372E0246",
-            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/les-nuits-de-france-culture/presentation-forains-et-fetes-foraines-1ere-diffusion-20-04-2025-7643939",
-            "mp3": "https://media.radiofrance-podcast.net/podcast09/13915-20.04.2025-ITEMA_24108926-2025C3372E0246-NET_MFC_71ABE7FF-0982-4BA2-9B1D-F48F4C408A43-21.mp3",
-            "duration": 216,
-            "date": 1745100231,
-            "settings": [
-                "interview",
-                "temoignage"
-            ],
-            "limit": 0,
-            "extraits": [
-                {
-                    "titre": "« Tuer l'ennui dans le cœur et la tête des gens »",
-                    "extrait": "Fête foraine, forain, de l'étrange féerie qui, depuis des siècles, transporte de ville en ville ses phénomènes et ses attractions pour, comme le chantait Piaf, « Tuer l'ennui dans le cœur et la tête des gens »",
-                    "score": 90,
-                    "start": 126.757,
-                    "end": 142.355
-                },
-                {
-                    "titre": "Comment les forains perpétuent un art populaire ?",
-                    "extrait": "On y découvrira tout un monde et tout un peuple jaloux de sa liberté qui depuis toujours n'aura jamais cessé de s'adapter aux mœurs et aux innovations techniques de son temps pour perpétuer ce qui est à la fois un art populaire et un mode de vie.",
-                    "score": 85,
-                    "start": 150.721,
-                    "end": 167.432
-                },
-                {
-                    "titre": "La magie des fêtes foraines : un monde à part",
-                    "extrait": "Fête foraine, forain, des mots nimbés de lumière et de mystère, auxquels sont accrochés les émerveillements et les peurs de notre enfance, l'ivresse de liberté de nos adolescents et nos mélancolies d'adultes.",
-                    "score": 88,
-                    "start": 104.563,
-                    "end": 119.498
-                },
-                {
-                    "titre": "Pourquoi la Foire du Trône est-elle si emblématique ?",
-                    "extrait": "Comme elle est des fêtes foraines de France la plus grande, la plus emblématique, ce seront souvent les échos de la Foire du Trône, d'hier et d'avant-hier, que nous ferons entendre les archives de cette nuit que nous consacrons aux fêtes foraines et aux forains.",
-                    "score": 82,
-                    "start": 61.685,
-                    "end": 77.392
-                },
-                {
-                    "titre": "« Tournez ma neige » : l'appel à la fête !",
-                    "extrait": "Alors à présent, tournez ma neige, et nous préparons la monnaie pour embarquer à bord de la grande roue, du grand 8, du train fantôme, et aujourd'hui, à bord de machines à faire monter, tourner, virer toujours plus vite, toujours plus haut, à faire hurler toujours plus fort.",
-                    "score": 87,
-                    "start": 167.892,
-                    "end": 186.555
-                }
-            ]
-        },
-        {
             "title": "Médias : les Etats-Unis perdent leur voix",
             "id": "971256f8-7634-4fe4-93a7-ed9fa05764ef",
             "show": "Cultures Monde",
@@ -4187,6 +4200,60 @@
                     "score": 82,
                     "start": 2475.76,
                     "end": 2493.577
+                }
+            ]
+        },
+        {
+            "title": "Présentation - Forains et fêtes foraines",
+            "id": "af7a7abf-5002-4998-a357-aa37bd6e5672",
+            "show": "Les Nuits de France Culture",
+            "show_id": "4ff3693f-6e66-11e5-8e9e-005056a87c89",
+            "chapo": "Cette Nuit d'archives nous immerge dans l’univers sonore des fêtes foraines : récits de forains, ambiances festives, témoignages d’artistes, souvenirs d’enfance et clins d’œil au cinéma et à la chanson révèlent toute la richesse d’un monde à part. Que la fête commence...",
+            "magnetotheque_id": "2025C3372E0246",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/les-nuits-de-france-culture/presentation-forains-et-fetes-foraines-1ere-diffusion-20-04-2025-7643939",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/13915-20.04.2025-ITEMA_24108926-2025C3372E0246-NET_MFC_71ABE7FF-0982-4BA2-9B1D-F48F4C408A43-21.mp3",
+            "duration": 216,
+            "date": 1745100231,
+            "settings": [
+                "interview",
+                "temoignage"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "« Tuer l'ennui dans le cœur et la tête des gens »",
+                    "extrait": "Fête foraine, forain, de l'étrange féerie qui, depuis des siècles, transporte de ville en ville ses phénomènes et ses attractions pour, comme le chantait Piaf, « Tuer l'ennui dans le cœur et la tête des gens »",
+                    "score": 90,
+                    "start": 126.757,
+                    "end": 142.355
+                },
+                {
+                    "titre": "Comment les forains perpétuent un art populaire ?",
+                    "extrait": "On y découvrira tout un monde et tout un peuple jaloux de sa liberté qui depuis toujours n'aura jamais cessé de s'adapter aux mœurs et aux innovations techniques de son temps pour perpétuer ce qui est à la fois un art populaire et un mode de vie.",
+                    "score": 85,
+                    "start": 150.721,
+                    "end": 167.432
+                },
+                {
+                    "titre": "La magie des fêtes foraines : un monde à part",
+                    "extrait": "Fête foraine, forain, des mots nimbés de lumière et de mystère, auxquels sont accrochés les émerveillements et les peurs de notre enfance, l'ivresse de liberté de nos adolescents et nos mélancolies d'adultes.",
+                    "score": 88,
+                    "start": 104.563,
+                    "end": 119.498
+                },
+                {
+                    "titre": "Pourquoi la Foire du Trône est-elle si emblématique ?",
+                    "extrait": "Comme elle est des fêtes foraines de France la plus grande, la plus emblématique, ce seront souvent les échos de la Foire du Trône, d'hier et d'avant-hier, que nous ferons entendre les archives de cette nuit que nous consacrons aux fêtes foraines et aux forains.",
+                    "score": 82,
+                    "start": 61.685,
+                    "end": 77.392
+                },
+                {
+                    "titre": "« Tournez ma neige » : l'appel à la fête !",
+                    "extrait": "Alors à présent, tournez ma neige, et nous préparons la monnaie pour embarquer à bord de la grande roue, du grand 8, du train fantôme, et aujourd'hui, à bord de machines à faire monter, tourner, virer toujours plus vite, toujours plus haut, à faire hurler toujours plus fort.",
+                    "score": 87,
+                    "start": 167.892,
+                    "end": 186.555
                 }
             ]
         },
