@@ -1,91 +1,7 @@
 {
-    "date": "Mis à jour le 24/04/2025 à 18:35",
-    "unix": 1745512514,
+    "date": "Mis à jour le 25/04/2025 à 09:00",
+    "unix": 1745564443,
     "shows": [
-        {
-            "title": "Comment le climat s'impose-t-il à nous ?",
-            "id": "269f74ef-a3e8-4d56-a558-d8631a125d27",
-            "show": "Le Pourquoi du comment : philo  ",
-            "show_id": "b6bd068b-da10-4d88-8d15-f0e1c87ed34b",
-            "chapo": "Le climat s’impose à nous à la fois comme une réalité globale, apparemment hors de notre portée, et comme un ressenti intime. Pourtant, il est affecté par nos actions. Pour y répondre, commençons par transformer nos climats humains, politiques et sociaux.",
-            "magnetotheque_id": "2025C45539E0061",
-            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/le-pourquoi-du-comment-philo/comment-le-climat-s-impose-t-il-a-nous-2617702",
-            "mp3": "https://media.radiofrance-podcast.net/podcast09/22838-21.04.2025-ITEMA_24109742-2025C45539E0061-NET_MFC_FAA02719-0F92-4ED3-90BD-38BCF9663484-21.mp3",
-            "duration": 211,
-            "date": 1745225909,
-            "limit": 0,
-            "facts": [
-                {
-                    "phrase": "Le changement climatique se ressent souvent par des détails surprenants, comme une chaleur en janvier ou une tempête en juillet.",
-                    "extrait": "Il semble que l'on ne s'aperçoive du changement climatique, même s'il est global, que lorsqu'il vient nous affecter par des petits détails. Par exemple, tout à coup, effectivement, une chaleur anormale en plein mois de janvier ou au contraire...  Une tempête de neige en plein mois de juillet.",
-                    "start": 12.141,
-                    "end": 28.58
-                },
-                {
-                    "phrase": "Le climat est un équilibre global, influencé par des facteurs géo-scientifiques et géo-climatiques qui affectent la Terre dans son ensemble.",
-                    "extrait": "On pense qu'on peut appeler climat en fait les facteurs externes. d'un équilibre global dont dépendent les vivants dans un milieu donné.",
-                    "start": 41.553,
-                    "end": 49.698
-                },
-                {
-                    "phrase": "Le climat a une double nature : il est à la fois un phénomène global et une expérience subjective qui nous touche au quotidien.",
-                    "extrait": "Il y a ainsi une sorte de deux extrêmes dans la notion du climat. Deux extrêmes qui font que, d'ailleurs, dans les deux cas, nous ressentons comme une impuissance vis-à-vis du climat.",
-                    "start": 69.742,
-                    "end": 81.73
-                },
-                {
-                    "phrase": "Les changements climatiques globaux ne sont plus indépendants de nos actions humaines, comme le montrent les sciences.",
-                    "extrait": "D'abord, le climat, comme ensemble de facteurs externes,  qui domine les équilibres planétaires, les équilibres du vivant, le climat, le principal changement qui affecte la notion de climat, c'est justement que dans sa dimension globale elle-même, elle cesse d'être indépendante de nous.",
-                    "start": 142.878,
-                    "end": 159.735
-                },
-                {
-                    "phrase": "Les climato-sceptiques ne peuvent ignorer les preuves scientifiques qui montrent l'impact humain sur le climat.",
-                    "extrait": "Les climato-sceptiques peuvent dire ce qu'ils veulent, la causalité scientifique est ce qu'elle est, les prédictions seront vérifiées, elles commencent à l'être et les causalités humaines sur le climat commencent à être redoutablement démontrées.",
-                    "start": 170.606,
-                    "end": 184.077
-                },
-                {
-                    "phrase": "Pour prendre conscience des changements climatiques, il suffit d'observer les petits changements dans notre climat humain.",
-                    "extrait": "Eh bien, la réponse est simple. Il faut un petit changement de climat. Non pas attendre les grandes tempêtes ou les grandes catastrophes, mais plutôt des petits changements de climat politique.",
-                    "start": 194.946,
-                    "end": 204.774
-                }
-            ],
-            "settings": [
-                "savoirs"
-            ],
-            "extraits": [
-                {
-                    "titre": "Comment le climat nous affecte-t-il au quotidien ?",
-                    "extrait": "Il semble que l'on ne s'aperçoive du changement climatique, même s'il est global, que lorsqu'il vient nous affecter par des petits détails. Par exemple, tout à coup, effectivement, une chaleur anormale en plein mois de janvier ou au contraire... Une tempête de neige en plein mois de juillet. Ce sont ces petits détails sensibles sur nous qui nous font sentir l'importance du changement climatique, alors que justement la notion de climat désigne plutôt quelque chose de global et d'extérieur à nous.",
-                    "score": 85,
-                    "start": 12.141,
-                    "end": 41.513
-                },
-                {
-                    "titre": "Le paradoxe du climat : entre global et intime",
-                    "extrait": "Il y a ainsi une sorte de deux extrêmes dans la notion du climat. Deux extrêmes qui font que, d'ailleurs, dans les deux cas, nous ressentons comme une impuissance vis-à-vis du climat. D'un côté, il y a cette notion globale qui semble indépendante de notre action. Et de l'autre côté, il y a cette sensation infinitésimale, ce petit sentiment subjectif de l'ambiance, de l'atmosphère, ce petit sentiment que le climat a changé, que oui, en effet, il y a quelque chose de bizarre.",
-                    "score": 90,
-                    "start": 69.742,
-                    "end": 105.544
-                },
-                {
-                    "titre": "Peut-on vraiment changer le climat ?",
-                    "extrait": "Aujourd'hui, en effet, il y a un double renversement de la notion de climat. D'abord, le climat, comme ensemble de facteurs externes, qui domine les équilibres planétaires, les équilibres du vivant, le climat, le principal changement qui affecte la notion de climat, c'est justement que dans sa dimension globale elle-même, elle cesse d'être indépendante de nous.",
-                    "score": 88,
-                    "start": 137.636,
-                    "end": 159.735
-                },
-                {
-                    "titre": "Les petites actions peuvent-elles changer le climat ?",
-                    "extrait": "Eh bien, la réponse est simple. Il faut un petit changement de climat. Non pas attendre les grandes tempêtes ou les grandes catastrophes, mais plutôt des petits changements de climat politique. Faire que les grandes questions climatiques entrent dans nos climats humains.",
-                    "score": 92,
-                    "start": 194.946,
-                    "end": 208.717
-                }
-            ]
-        },
         {
             "title": "Maud Vinet, la grande ordinatrice quantique",
             "id": "697e4fa0-3ba8-47e4-82e7-26441a11a560",
@@ -508,38 +424,6 @@
             ]
         },
         {
-            "title": "Le patrimoine accueille l'art contemporain",
-            "id": "1812fdc6-28a0-4e17-8262-a15c8c953447",
-            "show": "Le Point culture",
-            "show_id": "25d4eded-ef3f-4106-9cca-09a53f4794dc",
-            "chapo": "Jusqu'en 2026, sept grands monuments vont accueillir des oeuvres contemporaines. Le Mont-Saint-Michel, le château de Pierrefonds ou les Tours de la Chaîne à La Rochelle dialoguent avec des sculptures, des installations et des oeuvres picturales.",
-            "magnetotheque_id": "2025C41196S0111",
-            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/le-point-culture/le-patrimoine-accueille-l-art-contemporain-2537356",
-            "mp3": "https://media.radiofrance-podcast.net/podcast09/25658-21.04.2025-ITEMA_24110072-2025C41196S0111-NET_MFC_3B105E40-0135-4072-83C2-0DC2D713412B-21.mp3",
-            "duration": 481,
-            "date": 1745233200,
-            "settings": [
-                "actu"
-            ],
-            "limit": 2,
-            "extraits": [
-                {
-                    "titre": "Comment l'art contemporain redéfinit notre patrimoine ?",
-                    "extrait": "L'idée, c'est de proposer une rencontre, un dialogue entre sept monuments nationaux et des œuvres majeures de la collection contemporaine du Centre National des Arts Plastiques. [...] le patrimoine, il est toujours vivant. Il a été créé jadis par des artistes qui étaient contemporains et en fait, on perpétue cette histoire en permettant cette rencontre permanente.",
-                    "score": 95,
-                    "start": 65.123,
-                    "end": 90.716
-                },
-                {
-                    "titre": "Pourquoi le carrosse de Xavier Veillant est-il une œuvre révolutionnaire ?",
-                    "extrait": "Cette œuvre a été choisie spécifiquement parce qu'elle dialogue avec ce château de Cadillac, déjà par l'époque, c'est l'époque du XVIIe siècle. [...] le monument dialogue directement avec l'œuvre elle-même et va du coup... Faire une nouvelle médiation pour le public, ça permet aussi de comprendre des choses au-delà de ce qu'un guide ou ce qu'un document de visite va pouvoir apporter comme élément.",
-                    "score": 90,
-                    "start": 225.649,
-                    "end": 250.706
-                }
-            ]
-        },
-        {
             "title": "Découvrir Georges Navel et \"trouver du merveilleux dans tout geste\" ",
             "id": "dc5cb85a-89e1-4a62-9e05-8238e27100ef",
             "show": "Le Point culture",
@@ -736,59 +620,6 @@
             ]
         },
         {
-            "title": "\"Recueillement\" de Charles Baudelaire, quand la douleur devient compagne",
-            "id": "e2417eae-51a0-4cd8-93af-8fca6421ab8b",
-            "show": "L'Instant poésie",
-            "show_id": "f69ae1d2-f2b6-44a9-b803-7d809a03be95",
-            "chapo": "Dans ce poème, Charles Baudelaire personnifie la douleur qui agite son âme et avec laquelle il ne fait qu’un, s’adressant à elle pour l’apaiser.",
-            "magnetotheque_id": "2025C53416E0036",
-            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/l-instant-poesie/recueillement-de-charles-baudelaire-quand-la-douleur-devient-compagne-8601321",
-            "mp3": "https://media.radiofrance-podcast.net/podcast09/13025-04.04.2025-ITEMA_24083178-2025C53416E0036-ITE_00149191_RSCE-21.mp3",
-            "duration": 326,
-            "date": 1745264124,
-            "settings": [
-                "interview"
-            ],
-            "limit": 0,
-            "extraits": [
-                {
-                    "titre": "« Sois sage, ô ma douleur » : un appel à la sérénité face à la souffrance",
-                    "extrait": "« Sois sage, ô ma douleur, et tiens-toi plus tranquille. Tu réclamais le soir, il descend, le voici, une atmosphère obscure enveloppe la ville, aux uns portant la paix, aux autres le souci. »",
-                    "score": 95,
-                    "start": 34.263,
-                    "end": 51.304
-                },
-                {
-                    "titre": "La sagesse de la douleur : comment l'accepter sans se laisser submerger ?",
-                    "extrait": "« Ma douleur, donne-moi la main, viens par ici, loin d'eux. Vois se pencher les défuntes années, sur les balcons du ciel en robe surannée, surgir du fond des eaux le regret souriant. »",
-                    "score": 90,
-                    "start": 61.072,
-                    "end": 86.907
-                },
-                {
-                    "titre": "Arrête de ressasser : la clé pour avancer dans la vie",
-                    "extrait": "« Arrête, c'est un peu le truc de la mouche contre la vitre. Vous voyez une mouche, elle n'arrête pas de se cogner contre la vitre, pourtant la fenêtre qui est entrebâillée, elle est juste à 20 centimètres. »",
-                    "score": 85,
-                    "start": 213.59,
-                    "end": 225.259
-                },
-                {
-                    "titre": "La douleur comme compagne : une relation à apprivoiser",
-                    "extrait": "« C'est quelqu'un qui souffre épouvantablement, mais qui dit, c'est pas grave, ça va aller, tu calmes. »",
-                    "score": 88,
-                    "start": 112.101,
-                    "end": 117.326
-                },
-                {
-                    "titre": "« La douce nuit qui marche » : une métaphore puissante de l'apaisement",
-                    "extrait": "« Entends, ma chère, entends la douce nuit qui marche. »",
-                    "score": 92,
-                    "start": 67.34,
-                    "end": 86.907
-                }
-            ]
-        },
-        {
             "title": "1936 : les Olympiades populaires de Barcelone ou les contre-Jeux de Berlin",
             "id": "178ac880-9f80-4dd4-828d-3e77f682f64d",
             "show": "Les Nuits de France Culture",
@@ -853,66 +684,6 @@
                     "score": 91,
                     "start": 3495.709,
                     "end": 3509.537
-                }
-            ]
-        },
-        {
-            "title": "Des solutions croisées pour dénouer la douleur",
-            "id": "b57c4c5b-601f-416f-9e7a-ba0c2e54f4e6",
-            "show": "Le Grand Reportage",
-            "show_id": "b06537aa-40f1-11e5-9fe0-005056a87c89",
-            "chapo": "La douleur est le premier motif de consultation aux urgences et chez les médecins généralistes. 20% des adultes souffrent de douleurs chroniques, installées dans la durée, avec des répercussions sur leur vie personnelle et professionnelle. Comment la prise en charge évolue-t-elle ?",
-            "magnetotheque_id": "2025C9549S0108",
-            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/le-grand-reportage/des-solutions-croisees-pour-denouer-la-douleur-1624918",
-            "mp3": "https://media.radiofrance-podcast.net/podcast09/10084-18.04.2025-ITEMA_24107283-2025C9549S0108-NET_MFC_0915B359-AE5D-43DF-B79D-1CDAC75C0B64-21.mp3",
-            "duration": 3496,
-            "date": 1744991911,
-            "settings": [
-                "actu"
-            ],
-            "limit": 0,
-            "extraits": [
-                {
-                    "titre": "« La douleur, c'était moi »",
-                    "extrait": "« Je peux vous dire que je me suis vraiment construite avec la douleur à une époque. Moi, il m'a demandé quand j'avais 15-16 ans ce que c'était la douleur. La douleur, c'était juste, c'était moi. C'était la seule chose qui me définissait. J'avais mal et j'étais malade. Je me suis séparée en partie à cause de cette douleur qui devenait invivable, je pense, pour tout le monde. »",
-                    "score": 95,
-                    "start": 17.403,
-                    "end": 40.17
-                },
-                {
-                    "titre": "Comment la douleur chronique transforme des vies ?",
-                    "extrait": "« Dès lors, la douleur n'est plus un signal, mais une constante qui prend toute la place, un mal en soi qui gâche des vies, abîme des corps et creuse des traumatismes parfois plus profonds encore que la douleur même. »",
-                    "score": 90,
-                    "start": 84.524,
-                    "end": 95.956
-                },
-                {
-                    "titre": "La douleur, un coût caché de 12 milliards d'euros par an !",
-                    "extrait": "« On estime que la non prise en charge de la douleur engendre un surcoût de 12 milliards d'euros par an pour notre système de santé. »",
-                    "score": 85,
-                    "start": 124.697,
-                    "end": 131.862
-                },
-                {
-                    "titre": "« La pelote de laine de la douleur »",
-                    "extrait": "« Pour décrire la douleur chronique, la pédiatre Catherine de Volder que j'ai rencontrée à Amiens utilise la métaphore de la pelote de laine. C'est un enchevêtrement dans lequel il peut y avoir un choc de départ qui cause une lésion physique. Mais cet accident peut survenir à un moment où on est fragile émotionnellement. »",
-                    "score": 88,
-                    "start": 166.012,
-                    "end": 182.253
-                },
-                {
-                    "titre": "« La mémoire de la douleur »",
-                    "extrait": "« Il y a une forme de mémoire de la douleur et donc je ressens les mêmes symptômes que les symptômes que j'avais quand j'avais la névralgie. »",
-                    "score": 92,
-                    "start": 470.505,
-                    "end": 479.835
-                },
-                {
-                    "titre": "Pourquoi l'auto-évaluation de la douleur est-elle cruciale ?",
-                    "extrait": "« C'est cette échelle de 1 à 10 que tout le monde connaît désormais, mais c'est quelque chose qui est assez récent finalement, que les médecins s'en remettent à ce que dit le patient de sa propre douleur ? »",
-                    "score": 87,
-                    "start": 2725.821,
-                    "end": 2736.913
                 }
             ]
         },
@@ -1019,59 +790,6 @@
             ]
         },
         {
-            "title": "23 ans après le 21 avril 2002, où en est la dédiabolisation du Rassemblement national ?",
-            "id": "a64d6282-99e1-47fa-b309-00696f4b750e",
-            "show": "Le Billet politique",
-            "show_id": "7656aae3-b20b-11e5-8e9e-005056a87c89",
-            "chapo": "Le parti n'emploie plus le mot \"race\", mais ne renie rien des fondamentaux du père fondateur, Jean-Marie Le Pen. Que change la condamnation de Marine Le Pen en première instance à cette stratégie mise sur pied dans les années 2010 ? ",
-            "magnetotheque_id": "2025C22191S0111",
-            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/le-billet-politique/le-billet-politique-du-lundi-21-avril-2025-5486273",
-            "mp3": "https://media.radiofrance-podcast.net/podcast09/13917-21.04.2025-ITEMA_24109723-2025C22191S0111-NET_MFC_D793FF89-AA7D-4B45-B925-B07B8AEFFA59-21.mp3",
-            "duration": 319,
-            "date": 1745216400,
-            "settings": [
-                "actu"
-            ],
-            "limit": 0,
-            "extraits": [
-                {
-                    "titre": "La dédiabolisation du RN : un mythe ?",
-                    "extrait": "En réalité, c'est sans doute le concept de dédiabolisation lui-même qui devrait être à repenser pour le parti frontiste car il comporte en son sein la réponse à la question. Derrière le préfixe, les idées dangereuses ou diabolisées sont encore là. On les entend dans le nom même de la stratégie. La dédiabolisation surgit à la fin des années 80, mais assumée comme telle durant la période Philippot au début des années 2010. Si elle produit des résultats pour amener le parti par deux fois au second tour en 2017 et 2022, le parti atteint aujourd'hui une forme de notabilisation qui peut lui être préjudiciable. On ne peut pas être dans le système et anti-système. C'est soit l'un soit l'autre, surtout à l'heure des prédateurs.",
-                    "score": 95,
-                    "start": 217.377,
-                    "end": 259.133
-                },
-                {
-                    "titre": "Marine Le Pen : victime de sa propre stratégie ?",
-                    "extrait": "Or, depuis trois semaines et la condamnation de Marine Le Pen, le parti est hésitant sur sa stratégie, au point de ne pas nommer de successeur avant le résultat du procès en appel, tout en anticipant un congrès en 2026 au cas où, au point de dire qu'ils ont confiance en la justice tout en la jugeant politisée, Au point de tordre la définition de l'état de droit, s'il va à l'encontre de la principale intéressée, un en même temps dédiabolisé qui ne pourra pas durer longtemps.",
-                    "score": 90,
-                    "start": 282.746,
-                    "end": 307.149
-                },
-                {
-                    "titre": "Le RN, premier parti de France ? Attention aux illusions !",
-                    "extrait": "Certes, le parti a progressé dans les urnes et les esprits comme jamais. Certes, il a conquis des villes, une quinzaine, des sièges de députés, un tiers. Mais aucune région, aucun département et trois sénateurs en 23 ans. Certes, le parti a mis de côté dans son discours ses obsessions antisémites. tenter de cacher ces éléments radicaux, mais interdit certains médias de couvrir ces meetings de peur de les voir ressortir.",
-                    "score": 85,
-                    "start": 115.443,
-                    "end": 141.435
-                },
-                {
-                    "titre": "Le retour de bâton : LR face au RN",
-                    "extrait": "Et LR, qui organise son congrès interne, semble pouvoir compter sur 100 000 votants, le double d'il y a deux mois, et vient concurrencer le RN sur son terrain comme un retour de bâton, au point que les repères sont brouillés. Prenons la dernière proposition du candidat à la présidence de LR, Laurent Wauquiez, le 8 avril dernier, d'envoyer des personnes sous OQTF à Saint-Pierre-et-Miquelon. Le RN s'en est immédiatement écarté afin d'apparaître comme plus lisse ou plus raisonnable que son concurrent de droite, sans forcément rappeler ce qu'ils feraient, eux, des personnes sous OQTF.",
-                    "score": 88,
-                    "start": 147.54,
-                    "end": 179.119
-                },
-                {
-                    "titre": "Le dilemme du RN : entre héritage et modernité",
-                    "extrait": "Sauf que la période de deuil de la famille aujourd'hui aux manettes et le refus du parti de remettre en cause son héritage constitue un plafond de verre. Comme on l'a vu aux dernières élections législatives de 2024 où le front républicain et la participation massive du second tour, 66%, ont atténué les 10,6 millions de voix du premier.",
-                    "score": 92,
-                    "start": 72.051,
-                    "end": 91.636
-                }
-            ]
-        },
-        {
             "title": "Comment le climat peut-il changer ?",
             "id": "3f082d4a-eb3d-4933-9596-3e4afcb99af6",
             "show": "Le Pourquoi du comment : philo  ",
@@ -1146,32 +864,6 @@
                     "score": 95,
                     "start": 365.997,
                     "end": 383.765
-                }
-            ]
-        },
-        {
-            "title": "États-Unis - Salvador : l’entente sécuritaire",
-            "id": "873620c6-a447-416e-b5e1-86affc869c19",
-            "show": "Les Enjeux internationaux",
-            "show_id": "481f078d-4810-11e5-9fe0-005056a87c89",
-            "chapo": "Donald Trump fait du Salvador sa nouvelle prison. Les Etats-Unis y ont, depuis mars 2025, exporté plus de 250 immigrés. ",
-            "magnetotheque_id": "2025C3305S0111",
-            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/les-enjeux-internationaux/etats-unis-salvador-l-entente-securitaire-2802945",
-            "mp3": "https://media.radiofrance-podcast.net/podcast09/13305-21.04.2025-ITEMA_24109701-2025C3305S0111-NET_MFC_0DF192A2-BE21-4680-B92B-65D8B8BBB296-21.mp3",
-            "duration": 826,
-            "date": 1745211120,
-            "settings": [
-                "actu",
-                "interview"
-            ],
-            "limit": 0,
-            "extraits": [
-                {
-                    "titre": "\"Donald Trump fait du Salvador sa nouvelle prison\"",
-                    "extrait": "\"Eh bien, ce centre de détention, donc cette prison, en fait, a été mise en place par le président Boukele. Elle a été construite ex nihilo pour accueillir des milliers de prisonniers. Ces prisonniers sont retenus dans des... appelés des cages, ils sont retenus, ils sont très nombreux dans les mêmes endroits, ils sont tous dans des tenues très limitées, ils ont des sous-vêtements blancs, ils sont tous tondus dès qu'ils arrivent dans cette prison, et le président Bukele a mis en place tout un système d'administration pénitentiaire très visible, avec des policiers, des personnes qui gardent ces prisons, Et cette prison a aussi un petit caractère un peu panoptique, puisqu'elle est faite aussi pour voir justement tous ces prisonniers. Et le président Boukhali met beaucoup en scène, lui-même et ses proches, dans cette prison, en montrant toutes les personnes qui y sont emprisonnées.\"",
-                    "score": 95,
-                    "start": 53.895,
-                    "end": 110.794
                 }
             ]
         },
@@ -1314,66 +1006,6 @@
             ]
         },
         {
-            "title": "Sur un air de jazz : donner formes au cosmopolitisme panafricain du Paris noir",
-            "id": "b1fbef56-da58-47d8-931f-ed8a62361bdb",
-            "show": "Allons-y voir !",
-            "show_id": "f56d5212-be5f-4dce-bb92-ced8fe2aebb9",
-            "chapo": "La musique est l'un des catalyseurs des nombreuses expériences noires du Paris noir des années 50 qui s'expose au Centre Pompidou. Elle a autant fourni aux arts visuels de quoi représenter les luttes qu’un langage émancipateur et une éthique dont une constellation d'artistes se sont emparés. ",
-            "magnetotheque_id": "2025C53469E0015",
-            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/allons-y-voir/sur-un-air-de-jazz-donner-formes-au-cosmopolitisme-panafricain-du-paris-noir-7329160",
-            "mp3": "https://media.radiofrance-podcast.net/podcast09/13090-20.04.2025-ITEMA_24108923-2025C53469E0015-NET_MFC_5B4109AB-4EA4-4D2F-8ECD-4201EE645AAB-21.mp3",
-            "duration": 3631,
-            "date": 1745154029,
-            "settings": [
-                "interview"
-            ],
-            "limit": 0,
-            "extraits": [
-                {
-                    "titre": "Comment le jazz a redéfini le cosmopolitisme à Paris ?",
-                    "extrait": "En 1981, l'artiste africain-américain Romarie Bearden composait une série de 19 collages dont la forme même, colorée, fragmentée, collective et indisciplinée, disait l'idéal d'un cosmopolitisme panafricain. Il le disait ou plutôt il l'improvisait sur un air de jazz. Et c'est vrai que lorsqu'on pense aujourd'hui à la présence des artistes noirs dans le Paris de l'après-guerre, on voit d'abord cela, des musiciens de jazz. Qu'est-ce que cela dit et qu'est-ce que cela cache ? Puisque, on le sait bien, dès qu'on ouvre les yeux sur une présence, c'est autre chose que l'on rend invisible.",
-                    "start": 53.308,
-                    "end": 89.496
-                },
-                {
-                    "titre": "La mémoire de l'esclavage : un cœur ténébreux de l'art contemporain",
-                    "extrait": "Il est un cœur ténébreux à cette exposition, comme à toute réflexion sur la condition noire aujourd'hui. C'est la mémoire de l'esclavage et de l'Atlantique noire, le passage du milieu, que Romarey Bearden avait aussi donné à voir dans son Black Odyssée. Et comment alors oublier la voix d'Edouard Glissant, poète du tout-monde, qui appelait à restaurer les imaginaires, à réunir toutes les histoires, pour lutter contre l'horreur.",
-                    "start": 127.527,
-                    "end": 152.257
-                },
-                {
-                    "titre": "Pourquoi préserver les langues du monde est essentiel ?",
-                    "extrait": "Plus il y a de langues du monde que nous allons préserver, même si elles sont parlées par dix personnes ou vingt personnes, plus il y a de langues du monde que nous préservons, plus nous préservons l'imaginaire des humanités.",
-                    "start": 191.783,
-                    "end": 205.173
-                },
-                {
-                    "titre": "Le jazz : une musique politique et savante",
-                    "extrait": "Ce que nous avons oublié aussi, en folklorisant un peu cette image chromo du Paris noir des jazzmen, c'est combien le jazz est une musique politique et une musique savante.",
-                    "start": 2541.336,
-                    "end": 2560.122
-                },
-                {
-                    "titre": "L'art comme dialogue entre les hommes et la nature",
-                    "extrait": "L'art est l'expression d'un dialogue, d'une part entre l'homme et la nature, d'autre part entre l'homme et les autres hommes, mais encore entre l'homme et soi-même.",
-                    "start": 3144.404,
-                    "end": 3165.932
-                },
-                {
-                    "titre": "Comment le collage devient une arme politique ?",
-                    "extrait": "Bearden comprend très rapidement que lui aussi, il va pouvoir s'approprier ce langage pour en faire une forme engagée. Le collage est une arme politique.",
-                    "start": 688.453,
-                    "end": 706.784
-                },
-                {
-                    "titre": "La condition noire et la lutte contre l'oubli",
-                    "extrait": "Il y a ce phénomène d'oubli qui est vraiment interrogé et que l'exposition interroge aussi. On a d'ailleurs beaucoup cherché quand même les traces présentes de ces artistes dans l'institution.",
-                    "start": 2501.603,
-                    "end": 2511.067
-                }
-            ]
-        },
-        {
             "title": "Face aux autocrates du monde entier : qui sommes-nous ?",
             "id": "4f96bced-794d-45cc-b9b2-eb31555a53e6",
             "show": "Questions du soir : l'idée",
@@ -1409,45 +1041,6 @@
                     "score": 88,
                     "start": 1104.083,
                     "end": 1150.627
-                }
-            ]
-        },
-        {
-            "title": "Les tournées du facteur",
-            "id": "f1d1b1ad-c443-4fab-9861-dd425947402a",
-            "show": "Une histoire particulière",
-            "show_id": "0ad98f5d-a973-418f-93f8-ee974c963957",
-            "chapo": "En tant que facteur, Ferdinand Cheval a distribué des milliers de cartes postales, créées elles-mêmes en 1872. Ont-elles été source d’inspiration pour la construction de son Palais Idéal ?",
-            "magnetotheque_id": "2025C26160E0029",
-            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/une-histoire-particuliere/les-tournees-du-facteur-6758397",
-            "mp3": "https://media.radiofrance-podcast.net/podcast09/23117-19.04.2025-ITEMA_24107984-2025C26160E0029-ITE_00149459_RSCE-21.mp3",
-            "duration": 1740,
-            "date": 1745063936,
-            "settings": [
-                "temoignage"
-            ],
-            "limit": 0,
-            "extraits": [
-                {
-                    "titre": "Comment une pierre a changé la vie du facteur Cheval ?",
-                    "extrait": "Il trébuche sur une pierre. Il fouille dans la terre, découvre une pierre extraordinaire et il se dit « si la nature veut faire la sculpture, je ferai la maçonnerie et l'architecture ». Mais ça, ça commence par le fait de tomber sur une pierre, ce qui est quand même une rencontre avec le paysage un peu marquante, un peu singulière ! Mais c'est ce qui va donner, ensuite, ces 33 ans de construction du palais.",
-                    "score": 95,
-                    "start": 292.072,
-                    "end": 320.224
-                },
-                {
-                    "titre": "La marche comme source d'inspiration : un facteur pas comme les autres !",
-                    "extrait": "C'est-à-dire qu'on a une pensée qui se met en mouvement tous les jours au travers de 40 km de marche, qui devient de 40 km de rêverie, de réflexion, d'observation de la nature, jusqu'à déboucher le soir sur une construction. Mais tout ça, ça vient de la marche, ça vient de ces tournées, c'est à la fois là qu'ils ramassent les pierres, c'est là qu'ils pensent aussi.",
-                    "score": 90,
-                    "start": 341.197,
-                    "end": 362.608
-                },
-                {
-                    "titre": "Le facteur Cheval : un homme au service de son pays, mais comment ?",
-                    "extrait": "Il dit qu'il n'a pas servi son pays en tant que militaire, mais qu'il l'a servi comme bon nombre de ses compagnons en étant facteur rural. Facteur rural, en plus, c'est une dénomination des postes qui fait qu'en fait il a une paille qui est bien moindre qu'un facteur en ville alors que l'effort, lui, n'est pas réduit, au contraire.",
-                    "score": 85,
-                    "start": 391.516,
-                    "end": 411.075
                 }
             ]
         },
@@ -1646,119 +1239,6 @@
             ]
         },
         {
-            "title": "Des courants catholiques plus conservateurs émergent aux Etats-Unis, quitte à être parfois en désaccord avec le Vatican",
-            "id": "0a85da3a-1549-4eb6-ae0a-9d6439451969",
-            "show": "La Revue de presse internationale",
-            "show_id": "bd43a733-4811-11e5-9fe0-005056a87c89",
-            "chapo": "Alors que le nombre de catholiques aux Etats-Unis a diminué ces dernières années, une branche très conservatrice est elle en train de se réveiller.",
-            "magnetotheque_id": "2025C22811S0111",
-            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/la-revue-de-presse-internationale/la-revue-de-presse-internationale-emission-du-lundi-21-avril-2025-2514740",
-            "mp3": "https://media.radiofrance-podcast.net/podcast09/10901-21.04.2025-ITEMA_24109712-2025C22811S0111-NET_MFC_B9704A75-4965-420B-9F3F-320F03DDCD88-21.mp3",
-            "duration": 299,
-            "date": 1745214120,
-            "settings": [
-                "actu"
-            ],
-            "limit": 0,
-            "extraits": [
-                {
-                    "titre": "Pourquoi les catholiques conservateurs se réveillent-ils aux États-Unis ?",
-                    "extrait": "Alors que le nombre de catholiques décline dans le pays, une branche très conservatrice, elle, est en train de se réveiller. Et avec elle, d'anciennes pratiques refont surface, comme par exemple la messe en latin ou encore le port du voile pour les femmes. Ces catholiques fervents, traditionnalistes, sont peu nombreux mais influents, nous dit l'article.",
-                    "score": 85,
-                    "start": 17.034,
-                    "end": 35.444
-                },
-                {
-                    "titre": "Le vice-président des États-Unis en désaccord avec le pape ?",
-                    "extrait": "Le vice-président Vance est un catholique. Il a été baptisé en 2019, mais il n'est pas sur la même longueur d'onde que le pape François sur certaines questions, notamment l'immigration, avant son hospitalisation. D'ailleurs, le pape a publié une réprimande cinglante à l'administration Trump pour leur politique d'immigration.",
-                    "score": 90,
-                    "start": 56.766,
-                    "end": 73.273
-                },
-                {
-                    "titre": "Comment l'Église tente de séduire les jeunes ?",
-                    "extrait": "Le New York Times, qui publie pour pas qu'un long article sur les nouveaux visages du catholicisme aux Etats-Unis. Il raconte par exemple ces tentatives de l'église qui essayent de parler aux jeunes et proposent des programmes de sport ou encore le Theology on Tap, une série de conférences organisées dans les bars. Si les jeunes ne viennent pas à l'église pour apprendre sur Jésus, pourquoi ne pas amener Jésus là où ils sont, explique un membre du clergé.",
-                    "score": 80,
-                    "start": 82.54,
-                    "end": 108.925
-                },
-                {
-                    "titre": "Les femmes âgées victimes de violences conjugales : un sujet tabou",
-                    "extrait": "Quand on parle de violence conjugale, on pense tout de suite à une jeune femme ou à une mère avec de jeunes enfants. Les femmes âgées ne sont pas dans les campagnes de prévention. Et à l'inverse, on n'imagine pas non plus un homme âgé comme violent. Ces femmes victimes se confondent donc à des services et des politiques publiques non adaptées.",
-                    "score": 88,
-                    "start": 176.191,
-                    "end": 193.44
-                },
-                {
-                    "titre": "Des drones sur l'Everest : une révolution pour l'escalade ?",
-                    "extrait": "L'avantage du drone, c'est qu'il est rapide. Il faut 6 à 7 heures à un Sherpa pour aller du camp de base au premier campement de l'Everest, là où le drone prend 6 à 7 minutes. Les drones servent également à ramasser des déchets. Près de 500 kg ont pu être descendus du camp de base l'année dernière.",
-                    "score": 82,
-                    "start": 243.31,
-                    "end": 258.787
-                }
-            ]
-        },
-        {
-            "title": "Médias : les Etats-Unis perdent leur voix",
-            "id": "971256f8-7634-4fe4-93a7-ed9fa05764ef",
-            "show": "Cultures Monde",
-            "show_id": "2358bc00-3f62-11e5-8314-005056a87c89",
-            "chapo": "Le 14 mars dernier, Donald Trump gelait les financements de l’Agence des Etats-Unis pour les médias mondiaux, estimant que ces derniers ne représentaient pas les intérêts du pays à l'international. Historiquement, ils ont pourtant été pensés comme des outils de promotion du soft power américain... ",
-            "magnetotheque_id": "2025C16756S0111",
-            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/cultures-monde/medias-les-etats-unis-perdent-leur-voix-2586793",
-            "mp3": "https://media.radiofrance-podcast.net/podcast09/11701-21.04.2025-ITEMA_24109722-2025C16756S0111-NET_MFC_7DC83A15-F000-4EFA-9E44-CD57742457E6-21.mp3",
-            "duration": 3436,
-            "date": 1745229525,
-            "settings": [
-                "savoirs"
-            ],
-            "limit": 0,
-            "extraits": [
-                {
-                    "titre": "Comment Trump redéfinit le soft power américain ?",
-                    "extrait": "Donald Trump a entrepris d'attaquer systématiquement les institutions de la puissance douce, ce soft power auquel le père du concept, Joseph Nye, dit que le président actuel n'a tout simplement rien compris.",
-                    "score": 85,
-                    "start": 44.838,
-                    "end": 61.312
-                },
-                {
-                    "titre": "La mort annoncée de Voice of America ?",
-                    "extrait": "Quand j'ai appris que 1300 de mes collègues avaient été suspendus immédiatement avec salaire, et dans un e-mail disant qu'ils ne pouvaient plus travailler, qu'ils ne pouvaient pas entrer dans le bâtiment, je savais à ce moment-là que Voice of America allait mourir très rapidement.",
-                    "score": 90,
-                    "start": 100.86,
-                    "end": 117.124
-                },
-                {
-                    "titre": "Les médias américains face à la dérive autoritaire",
-                    "extrait": "Il y a quand même encore aux États-Unis... la possibilité de saisir la justice et la justice est en train d'essayer d'exercer son pouvoir de contrôle. Ce qui met en danger les journalistes tant de Voice of America que de Radio Free Europe, Radio Liberty, c'est que même s'ils bénéficient de fonds qui ont déjà été votés par le Congrès, il faudrait que d'abord leurs journalistes ne soient pas licenciés.",
-                    "score": 80,
-                    "start": 382.753,
-                    "end": 420.947
-                },
-                {
-                    "titre": "La guerre de l'information : un enjeu crucial",
-                    "extrait": "Il s'agit surtout de diffuser un point de vue états-unien sur les choses, d'assurer aussi un certain pluralisme dans des pays qui ne le permettent pas, où on écoute ses programmes en ondes courtes seulement dans l'intimité des foyers.",
-                    "score": 75,
-                    "start": 186.165,
-                    "end": 197.887
-                },
-                {
-                    "titre": "Trump et la voix de l'Amérique : un contrôle idéologique ?",
-                    "extrait": "La mission de Carrie Lake est celle d'une idéologue plus que d'une gestionnaire administrative ici. Ce n'est pas le quart de milliard qu'elle évoque qui pose problème pour le budget américain. C'est véritablement le projet et la parole de ces radios.",
-                    "score": 88,
-                    "start": 2154.778,
-                    "end": 2172.151
-                },
-                {
-                    "titre": "Les médias chinois : une stratégie d'influence redoutable",
-                    "extrait": "CGTN, par exemple, la chaîne d'information chinoise en continu, diffusée à l'international et supervisée directement par le département chinois de la propagande. Certains de ces journalistes parlent un anglais parfait et ont, eux aussi, appris à manier l'ironie pour mieux séduire notamment une audience étatsunienne.",
-                    "score": 82,
-                    "start": 2475.76,
-                    "end": 2493.577
-                }
-            ]
-        },
-        {
             "title": "Les Payan et les Jullien, deux familles dans la Révolution",
             "id": "3059409d-a196-43b0-80b7-f20b984fa077",
             "show": "Le Cours de l'histoire",
@@ -1906,105 +1386,6 @@
             ]
         },
         {
-            "title": "Le pape pour parrain, histoires de conversions en famille",
-            "id": "5ea61932-8125-480c-a0c9-0b4985b85fbe",
-            "show": "Le Cours de l'histoire",
-            "show_id": "0a41bdd2-4a6d-4fb2-b2d1-ca42d2dc5381",
-            "chapo": "Dans la Rome du 16ᵉ siècle, le prosélytisme de l'Église catholique s'intensifie afin de renforcer sa prééminence. La trajectoire d'une famille de banquiers juifs illustre les stratégies mises en place pour inciter à la conversion et met en lumière les coûts et bénéfices du changement de religion.",
-            "magnetotheque_id": "2025C36128E0003",
-            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/le-pape-pour-parrain-histoires-de-conversions-en-famille-1875264",
-            "mp3": "https://media.radiofrance-podcast.net/podcast09/10076-21.04.2025-ITEMA_24109705-2025C36128E0003-ITE_00149360_RSCE-21.mp3",
-            "duration": 3537,
-            "date": 1745222335,
-            "settings": [
-                "savoirs"
-            ],
-            "limit": 0,
-            "extraits": [
-                {
-                    "titre": "Comment la conversion peut changer une vie ?",
-                    "extrait": "\"Un baptême ne peut en aucun cas être annulé. Votre fils est chrétien pour l'éternité.\"",
-                    "score": 90,
-                    "start": 64.623,
-                    "end": 69.225
-                },
-                {
-                    "titre": "Les juifs de Rome : entre opportunités et contraintes",
-                    "extrait": "\"Les Juifs de Rome sont des citoyens romains. Imparfaitement citoyens, parce que n'étant pas catholiques, ils ne peuvent pas accéder à des fonctions de commandement. Mais pour autant, ils sont pleinement romains, ils partagent totalement cette culture de la romanité...\"",
-                    "score": 85,
-                    "start": 663.977,
-                    "end": 677.868
-                },
-                {
-                    "titre": "Le ghetto de Rome : un espace de ségrégation et de commerce",
-                    "extrait": "\"Le ghetto est ouvert dans la journée, puisque c'est aussi un lieu commerçant, puisque les gens vont chez les prêteurs mettre leurs objets en gage et faire leurs courses dans le ghetto également.\"",
-                    "score": 80,
-                    "start": 231.429,
-                    "end": 241.397
-                },
-                {
-                    "titre": "Pourquoi le pape a-t-il besoin de convertir les juifs ?",
-                    "extrait": "\"Le pape, à Rome, a une communauté juive à sa main, dont il est l'évêque, et là, il entend montrer que lui aussi est capable de convertir les juifs, comme le font les jésuites au Japon...\"",
-                    "score": 88,
-                    "start": 1467.91,
-                    "end": 1490.388
-                },
-                {
-                    "titre": "La conversion : un acte de foi ou un acte stratégique ?",
-                    "extrait": "\"Il ne faut pas oublier que la conversion n'est pas simplement un changement de religion. Et d'ailleurs, il n'est même pas sûr que ces convertis aient au début une foi ferme.\"",
-                    "score": 87,
-                    "start": 2022.16,
-                    "end": 2038.941
-                },
-                {
-                    "titre": "Les paris sur les papes : un jeu d'argent au cœur de Rome",
-                    "extrait": "\"À Rome, on parie énormément. On parie sur l'élection des papes et sur la création des cardinaux. Création qui se faisait parfois d'une façon tout à fait inattendue.\"",
-                    "score": 92,
-                    "start": 1643.771,
-                    "end": 1655.722
-                },
-                {
-                    "titre": "La pression sociale derrière la conversion : un dilemme familial",
-                    "extrait": "\"Les membres de la famille Corcos, qui sont passés de l'autre côté, sont reçus comment dans la société romaine ?... Il y a un préjugé contre les juifs, mais il n'y a pas de préjugé de pureté de sang.\"",
-                    "score": 89,
-                    "start": 3315.217,
-                    "end": 3323.542
-                }
-            ]
-        },
-        {
-            "title": "Jim Morrison Indoors/Outdoors de Christine Spianti 1/5",
-            "id": "e976fae8-c06e-478b-88fe-91c38cf4059d",
-            "show": "Le Feuilleton",
-            "show_id": "3c1c2e55-41a0-11e5-9fe0-005056a87c89",
-            "chapo": ".",
-            "magnetotheque_id": "2015C3480E0008",
-            "seo_url": "",
-            "mp3": "https://media.radiofrance-podcast.net/podcast09/13023-16.03.2015-ITEMA_20733843-2015C3480E0008-ITE_00072479_RSCE-21.mp3",
-            "duration": 1494,
-            "date": 1745263491,
-            "settings": [
-                "interview"
-            ],
-            "limit": 0,
-            "extraits": [
-                {
-                    "titre": "« La poésie est notre lutte contre l'obscurité »",
-                    "extrait": "Dylan Thomas dit que la poésie est utile au moins pour une raison. C'est la chronique de notre lutte personnelle avec l'obscurité, notre combat pour la lumière. Jim, après l'amour, la lumière.",
-                    "score": 95,
-                    "start": 1194.949,
-                    "end": 1211.094
-                },
-                {
-                    "titre": "« Quand les vents de Santa Ana soufflent, tout change »",
-                    "extrait": "On dit que quand les vents de Santa Anna soufflent, il y a des crimes, des accidents de voiture, des noyades, des overdoses. Pamela, fais attention à toi. Le vent du désert brûle même les humains, de l'intérieur. Un baiser d'adieu sec et calme.",
-                    "score": 90,
-                    "start": 1037.697,
-                    "end": 1060.975
-                }
-            ]
-        },
-        {
             "title": "Brève histoire de l’Internationale, hymne du mouvement ouvrier",
             "id": "b111e7e1-422a-427b-b729-2567e01948a5",
             "show": "Les Nuits de France Culture",
@@ -2074,89 +1455,6 @@
                     "score": 92,
                     "start": 1742.296,
                     "end": 1749.954
-                }
-            ]
-        },
-        {
-            "title": "Critique BD : \"Krimi\" d'Alex W. Inker et Thibault Vermot & \"Moheeb sur le parking\" de Clara Lodewick",
-            "id": "96d4202d-e12c-4f04-bb90-64f9c2c3a404",
-            "show": "Les Midis de Culture",
-            "show_id": "32a14af6-fc87-4f4f-a06e-39ccf8587119",
-            "chapo": "Au programme du débat critique, de la bande dessinée, avec \"Krimi\" d'Alex W. Inker et Thibault Vermot, et \"Moheeb sur le parking\" de Clara Lodewick.",
-            "magnetotheque_id": "2025C51852S0111",
-            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/les-midis-de-culture/critique-bd-krimi-d-alex-w-inker-et-thibault-vermot-moheeb-sur-le-parking-de-clara-lodewick-7094240",
-            "mp3": "https://media.radiofrance-podcast.net/podcast09/12360-21.04.2025-ITEMA_24109718-2025C51852S0111-NET_MFC_185670E6-E4DA-4776-BE11-247F9FAC62B2-21.mp3",
-            "duration": 1661,
-            "date": 1745231325,
-            "settings": [
-                "interview"
-            ],
-            "limit": 0,
-            "extraits": [
-                {
-                    "titre": "Comment l'art peut-il changer le monde ?",
-                    "extrait": "Le premier chapitre de ce livre, c'est quand même « Changer le monde ». Ça commence avec une citation de Desnos. Il faut savoir que Robert Desnos est un poète résistant, mort dans un camp nazi, et qui dit, alors la phrase... Oui, vous nous la dites, la citation ? Le fantôme sort de la salle, au bras du spectateur, dans une ville transformée par l'imagination, le destin suit un autre cours. Je pense que c'est ce qui se passe avec M. le maudit, le monument du cinéma. On pensait avoir peut-être tout dit sur M. le maudit, on ne l'avait jamais dit en bande dessinée, et cette bande dessinée est là pour le dire.",
-                    "start": 161.575,
-                    "end": 195.329
-                },
-                {
-                    "titre": "La responsabilité de la société face à la criminalité",
-                    "extrait": "C'est aussi la question qui est posée par la scénariste du film, on parlait du scénariste du livre, on peut parler aussi de la scénariste du film, Théa Fon Arboux, qui elle était une nazie, qui était la deuxième femme de Fritz Lang, mais qu'il y a toute cette question de la responsabilité de la société par rapport à ces mass murder qui arrivent, on parlait de la différence entre le réel et la fiction, toute cette imprication. Il faut aussi rappeler que M. le maudit est le premier film expressionniste documentaire de Fritz Lang, lui-même s'est beaucoup documenté pour faire ce livre, avec les inspecteurs de police, etc., Et elle dit que quand un crime est commis, c'est toute la société qui est responsable à un niveau ou à un autre.",
-                    "start": 842.231,
-                    "end": 889.414
-                },
-                {
-                    "titre": "L'isolement des mineurs réfugiés : un cri silencieux",
-                    "extrait": "C'est un livre extrêmement béhavioriste. Elle l'observe, ce jeune homme, qui garde sa part de mystère. On ne sait pas trop pourquoi, on ne sait même pas du tout pourquoi est-ce qu'il est parti. On ne sait même pas quelle est sa relation à sa mère. On sait que c'est une relation très sensitive, là encore presque olfactive, puisqu'il garde en permanence autour du poignet un foulard qui est appartenu à sa mère, qu'il renifle sans cesse. Et surtout, c'est la dimension mineure, précisément, qu'elle montre. C'est-à-dire qu'elle montre que c'est un gamin. C'est un gamin, mais surtout, c'est quelqu'un dont les gens vont se servir.",
-                    "start": 1379.552,
-                    "end": 1411.343
-                }
-            ]
-        },
-        {
-            "title": "Véronique Margron : l’Eglise en quête de renouveau ",
-            "id": "cea90b91-3bcb-4190-bca5-122efc205198",
-            "show": "France Culture va plus loin (l'Invité(e) des Matins)",
-            "show_id": "7431a6a7-481b-11e5-9fe0-005056a87c89",
-            "chapo": "Le jour de Pâques enregistre un record du nombre de baptêmes alors que les révélations sur les crimes sexuels dans l'Eglise s'accumule. Comme comprendre ce phénomène ? ",
-            "magnetotheque_id": "2025C16450S0111",
-            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/france-culture-va-plus-loin-l-invite-e-des-matins/paques-9827153",
-            "mp3": "https://media.radiofrance-podcast.net/podcast09/13983-21.04.2025-ITEMA_24109726-2025C16450S0111-NET_MFC_D1E52C65-5E6D-4BA9-863F-862E19F346D7-21.mp3",
-            "duration": 2314,
-            "date": 1745217900,
-            "settings": [
-                "actu",
-                "interview"
-            ],
-            "limit": 0,
-            "extraits": [
-                {
-                    "titre": "Pourquoi l'Église attire-t-elle de nouveaux baptisés malgré les scandales ?",
-                    "extrait": "\"Je ne sais pas si je suis étonnée, à vrai dire, ce sont les chemins mystérieux de la foi, les chemins mystérieux de chacun, dans une dimension spirituelle qu'il découvre importante dans sa vie. Donc, moi, je ne peux que m'en réjouir avant tout pour tous ces baptisés.\"",
-                    "score": 85,
-                    "start": 68.864,
-                    "end": 85.812
-                },
-                {
-                    "titre": "L'Église, une contre-culture ?",
-                    "extrait": "\"À vrai dire, comme cela, je n'en pense pas grand-chose. Je n'ai pas lu l'édito de Jean-Pierre Denis, mais d'abord, je pense qu'il faut arrêter de penser le catholicisme comme une culture. Ceci lui a fait beaucoup de mal.\"",
-                    "score": 80,
-                    "start": 204.708,
-                    "end": 215.901
-                },
-                {
-                    "titre": "Comment l'Église peut-elle répondre aux quêtes identitaires ?",
-                    "extrait": "\"En tout cas, ce peut être un début du chemin. On prend les gens là où ils sont et non pas comme on voudrait qu'ils soient. Heureusement. Je pense que, de fait, aujourd'hui, toutes les incertitudes cumulées peuvent mener à un réel questionnement identitaire.\"",
-                    "score": 90,
-                    "start": 293.232,
-                    "end": 307.95
-                },
-                {
-                    "titre": "\"La morale que l'Église doit incarner est d'abord humaine\"",
-                    "extrait": "\"Je pense que la morale qu'elle peut chercher à incarner, c'est d'abord une morale humaine. Autrement dit, à la mesure du possible des femmes et des hommes que nous sommes.\"",
-                    "score": 88,
-                    "start": 517.963,
-                    "end": 528.17
                 }
             ]
         },
@@ -2317,45 +1615,6 @@
             ]
         },
         {
-            "title": "Le procès",
-            "id": "440e6faa-e4b3-4b3e-8f0d-7e9da30c0dc2",
-            "show": "Une histoire particulière",
-            "show_id": "0ad98f5d-a973-418f-93f8-ee974c963957",
-            "chapo": "1902 : le Palais Idéal est édité en carte postale et son image peut circuler dans le monde entier. Mais très vite, le facteur Cheval comprend que l’argent de la vente revient uniquement au photographe. Il s’en insurge.",
-            "magnetotheque_id": "2025C26160E0030",
-            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/une-histoire-particuliere/le-proces-7488438",
-            "mp3": "https://media.radiofrance-podcast.net/podcast09/23117-20.04.2025-ITEMA_24108928-2025C26160E0030-ITE_00149460_RSCE-21.mp3",
-            "duration": 1730,
-            "date": 1745150328,
-            "settings": [
-                "temoignage"
-            ],
-            "limit": 0,
-            "extraits": [
-                {
-                    "titre": "Comment le facteur Cheval a défié la propriété intellectuelle ?",
-                    "extrait": "\"Le procès du facteur cheval est important parce qu'il met en balance la liberté de photographier et le respect des droits d'autrui, le respect des droits du photographe, le respect des droits de l'architecte, le respect des droits du propriétaire.\"",
-                    "score": 90,
-                    "start": 1266.569,
-                    "end": 1280.037
-                },
-                {
-                    "titre": "Pourquoi le facteur Cheval a-t-il voulu faire des cartes postales ?",
-                    "extrait": "\"Sans doute parce qu'il était fier de sa création. Il se considérait aussi comme un auteur sur ses cartes postales. D'ailleurs, il le mentionne. Il a vécu cette révolution de la carte postale.\"",
-                    "score": 85,
-                    "start": 1524.62,
-                    "end": 1537.358
-                },
-                {
-                    "titre": "\"C'était un homme acharné au travail\" : le portrait du facteur Cheval",
-                    "extrait": "\"Étant jeune, vous savez madame, je n'ai pas bien réalisé. Mais tout ce que j'ai admiré là-dedans, ils ne sont peut-être pas tous du même avis, mais moi j'estime qu'il avait un courage extrême pour travailler comme ça, un homme acharné au travail.\"",
-                    "score": 88,
-                    "start": 1618.571,
-                    "end": 1635.307
-                }
-            ]
-        },
-        {
             "title": "Critique ciné : \"Simón de la montaña\" de Federico Luis & \"The Gazer\" de Ryan J. Sloan",
             "id": "6c2e3f05-287c-42f7-b20a-7c04ae53e5c5",
             "show": "Les Midis de Culture",
@@ -2391,66 +1650,6 @@
                     "score": 88,
                     "start": 1067.671,
                     "end": 1091.455
-                }
-            ]
-        },
-        {
-            "title": "En Russie, des peuples autochtones en danger à cause de la guerre en Ukraine",
-            "id": "27446dfc-3446-4007-a082-9af549f6d8f7",
-            "show": "Le Reportage de la rédaction",
-            "show_id": "d4d69370-481a-11e5-9fe0-005056a87c89",
-            "chapo": "Des peuples autochtones et minorités nationales de Russie sont mobilisés de façon disproportionnée, parfois de force, pour la guerre en Ukraine. Des ONG locales de défense des droits de l'homme dénoncent cette situation, bien qu'elles soient qualifiées de \"terroristes\" par le pouvoir.",
-            "magnetotheque_id": "2025C13845S0111",
-            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/le-reportage-de-la-redaction/en-russie-des-peuples-autochtones-en-danger-a-cause-de-la-guerre-en-ukraine-6848595",
-            "mp3": "https://media.radiofrance-podcast.net/podcast09/12009-21.04.2025-ITEMA_24109717-2025C13845S0111-NET_MFC_0DD453DF-CC0C-4EBF-813E-7FB97C8010BF-21.mp3",
-            "duration": 265,
-            "date": 1745213340,
-            "settings": [
-                "actu"
-            ],
-            "limit": 0,
-            "extraits": [
-                {
-                    "titre": "« Les citoyens issus des républiques nationales sont utilisés comme chair à canon »",
-                    "extrait": "« Il s'agit d'utiliser les citoyens issus des républiques nationales comme chers à canons. »",
-                    "score": 95,
-                    "start": 78.166,
-                    "end": 83.99
-                },
-                {
-                    "titre": "« Une extrême pauvreté a été créée de toutes pièces pour contrôler la population »",
-                    "extrait": "« À tout va, une extrême pauvreté a été mise en place et créée de toutes pièces pour faciliter le contrôle de la population. »",
-                    "score": 90,
-                    "start": 99.961,
-                    "end": 106.604
-                },
-                {
-                    "titre": "« Moscou vit sur le dos de ses colonies »",
-                    "extrait": "« Je les appelle des colonies parce que c'est ce qu'elles sont. Ces territoires ne font que survivre alors qu'ils regorgent de ressources naturelles. »",
-                    "score": 92,
-                    "start": 155.802,
-                    "end": 164.592
-                },
-                {
-                    "titre": "« Les autorités russes ont classé comme terroristes 170 organisations régionales »",
-                    "extrait": "« Pour réduire au silence les mouvements contestataires nés au lendemain de la guerre à grande échelle, les autorités russes ont classé comme terroristes 170 organisations régionales. »",
-                    "score": 88,
-                    "start": 175.104,
-                    "end": 190.38
-                },
-                {
-                    "titre": "« Là-bas, il n'y a absolument personne pour aider les gens »",
-                    "extrait": "« Là-bas, il n'y a absolument personne pour aider les gens. Les autorités peuvent venir, emmener les gens, personne ne les aidera. »",
-                    "score": 87,
-                    "start": 219.082,
-                    "end": 227.508
-                },
-                {
-                    "titre": "« Certains peuples autochtones risquent désormais de disparaître »",
-                    "extrait": "« Selon la rapporteuse spéciale pour les droits de l'homme auprès de l'ONU, en raison des pertes causées par la guerre, certains peuples autochtones risquent désormais de disparaître. »",
-                    "score": 91,
-                    "start": 246.701,
-                    "end": 255.232
                 }
             ]
         },
@@ -2580,60 +1779,6 @@
             ]
         },
         {
-            "title": "\"La Maison et le Monde\" de Satyajit Ray, deux visages de l'indépendantisme indien",
-            "id": "22d611b0-1142-4aa1-8511-051b1588d63a",
-            "show": "Les Nuits de France Culture",
-            "show_id": "4ff3693f-6e66-11e5-8e9e-005056a87c89",
-            "chapo": "",
-            "magnetotheque_id": "2021C3372E0178",
-            "seo_url": "",
-            "mp3": "https://media.radiofrance-podcast.net/podcast09/13915-21.04.2025-ITEMA_24109217-2021C3372E0178-NET_MFC_58B55802-9081-4C3B-B3C5-1378C036E5EC-21.mp3",
-            "duration": 2642,
-            "date": 1745190815,
-            "settings": [
-                "interview",
-                "temoignage"
-            ],
-            "limit": 0,
-            "extraits": [
-                {
-                    "titre": "Comment la passion peut-elle détruire ?",
-                    "extrait": "« On voit, autant que je me souvienne de mes jeunes années, à l'époque où j'étais, je pense, militant trotskiste, c'est-à-dire que ça remonte à 30 ans, et autant que, au-delà des idées qui pouvaient être les miennes, et qui étaient l'idée de « on ne fait pas de révolution sans casser deux », Robespierre, la terreur, l'utilité de la terreur, etc., etc. Donc, la fin justifie les moyens, toute la fin, toute la problématique des mains sales, etc. Autant que je me souvienne, ces idées étaient génératrices d'une passion, d'une passion, qu'au fond, je goûtais pour elle-même. »",
-                    "score": 90,
-                    "start": 1065.137,
-                    "end": 1110.999
-                },
-                {
-                    "titre": "La dualité de la civilisation et de la passion",
-                    "extrait": "« Il y a quand même une opposition entre les deux sur ce point là. Entre le raffinement et la passion. Et ce personnage raffiné nous semble quand même bien faible dans le début du film. Quand on voit justement la passion, l'emportement, l'aspect viril qu'a Shandip par rapport à Nikhil, qui lui est au contraire complètement fait dans la douceur, il y a quand même une héroïsation du personnage de Shandip qui marche très très bien, je trouve, et qui marche particulièrement bien aux yeux de Bhimala. »",
-                    "score": 85,
-                    "start": 1184.832,
-                    "end": 1226.766
-                },
-                {
-                    "titre": "La quête de la vérité dans l'amour",
-                    "extrait": "« Je voudrais vous voir avancer jusqu'au cœur du monde extérieur, pour y rencontrer la réalité. Vous n'êtes pas faites pour vivre toujours dans le monde des conventions et des soins ménagers. Il faut que nous nous rencontrions, que nous nous connaissions l'un l'autre dans le monde véritable, pour que notre amour aussi soit véritable. »",
-                    "score": 95,
-                    "start": 817.93,
-                    "end": 834.015
-                },
-                {
-                    "titre": "La renaissance culturelle face à l'occupation",
-                    "extrait": "« Ce qui est étonnant dans ce renouveau Bengali, c'est la façon dont il avait réussi à... Je dirais, engranger, à digérer une certaine somme de culture occidentale pour en ressortir la profondeur de sa propre culture. Voilà, oui. Parce que c'est ça le renouveau bengali, c'est une renaissance nationaliste, en tout cas d'un sentiment et d'une culture nationaliste, en face d'une occupation étrangère, mais en face duquel on a un rapport d'hommes cultivés. »",
-                    "score": 88,
-                    "start": 467.845,
-                    "end": 496.634
-                },
-                {
-                    "titre": "La beauté de la souffrance",
-                    "extrait": "« C'est-à-dire que cette perfection, parce qu'effectivement, c'est ça que vise Nikhil, elle est tout de même perverse. C'est-à-dire que si Nikhil meurt à la fin, c'est parce qu'il s'est rendu compte précisément que cette perfection était inatteignable d'une part, mais que d'autre part... la volonté même de cette perfection, il y avait de la perversion dedans. »",
-                    "score": 92,
-                    "start": 1830.007,
-                    "end": 1849.297
-                }
-            ]
-        },
-        {
             "title": "Critique littérature : \"Drama Doll\" de Rose Vidal",
             "id": "fee7d1b1-daed-4afe-b628-e09eacaf6693",
             "show": "Les Midis de Culture",
@@ -2659,59 +1804,6 @@
             ]
         },
         {
-            "title": "Qu’est-ce qui fait le goût du chocolat ?  ",
-            "id": "34392951-62f8-459b-846b-d2b3656696e0",
-            "show": "La Question du jour",
-            "show_id": "1f460354-6799-455b-bdc7-ddb15c0d88fb",
-            "chapo": "Alors que le week-end de Pâques est une occasion de déguster le chocolat sous toutes ses formes, qu'est-ce qui détermine le goût du chocolat ? A quelle étape du processus de fabrication le goût du chocolat se fixe-t-il ? Doit-on son goût à la provenance des fèves, à la torréfaction, au confiseur ? ",
-            "magnetotheque_id": "2025C26356S0111",
-            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/la-question-du-jour/qu-est-ce-qui-fait-le-gout-du-chocolat-3750816",
-            "mp3": "https://media.radiofrance-podcast.net/podcast09/22898-21.04.2025-ITEMA_24110076-2025C26356S0111-NET_MFC_A02254E9-F683-4D7A-BD1E-927A89581BF8-21.mp3",
-            "duration": 489,
-            "date": 1745212920,
-            "settings": [
-                "interview"
-            ],
-            "limit": 0,
-            "extraits": [
-                {
-                    "titre": "Comment le terroir façonne le goût du chocolat ?",
-                    "extrait": "A mon sens, ça représente à peu près 60% des arômes qu'on va trouver dans un chocolat. C'est vraiment la signature du chocolat, plus que le type génétique de cacaoyer.",
-                    "score": 85,
-                    "start": 172.464,
-                    "end": 181.922
-                },
-                {
-                    "titre": "La fermentation : le secret du goût du chocolat ?",
-                    "extrait": "Nous avons déterminé assez rapidement que les températures de fermentation allaient fixer des arômes dans les fèves.",
-                    "score": 90,
-                    "start": 224.687,
-                    "end": 232.827
-                },
-                {
-                    "titre": "Le mucilage : la clé des arômes cachés du chocolat ?",
-                    "extrait": "Quand vous goûtez cette pulpe, vous décelez des arômes déjà ? Oui, il y a beaucoup d'arômes.",
-                    "score": 80,
-                    "start": 106.903,
-                    "end": 112.684
-                },
-                {
-                    "titre": "La torréfaction : un art délicat pour révéler les saveurs",
-                    "extrait": "À partir du moment où, lors de la torréfaction... les parfums que j'ai notés sur mon petit carnet apparaissent, on va suivre cette espèce de chemin organoleptique.",
-                    "score": 88,
-                    "start": 353.614,
-                    "end": 370.53
-                },
-                {
-                    "titre": "Des chocolats aux arômes uniques : l'importance de l'environnement",
-                    "extrait": "Nous avons, par exemple, trois parcelles au Mexique qui ne sont éloignées que de quelques kilomètres les unes des autres, avec le même mix de cacao dans chacune, sauf que l'environnement est différent.",
-                    "score": 87,
-                    "start": 277.524,
-                    "end": 287.15
-                }
-            ]
-        },
-        {
             "title": "Extinction des dinosaures : y a-t-il eu un déclin avant la météorite ?",
             "id": "3b8923da-af35-4a36-b08d-7c0619993388",
             "show": "Avec sciences",
@@ -2733,46 +1825,6 @@
                     "score": 95,
                     "start": 79.872,
                     "end": 112.12
-                }
-            ]
-        },
-        {
-            "title": "La famille, c’est tout une histoire",
-            "id": "87061882-10d0-4ed0-b294-dd5a95488efb",
-            "show": "À voix nue",
-            "show_id": "b4534f1d-40f8-11e5-9fe0-005056a87c89",
-            "chapo": "Comment la petite fille née du silence est devenue une adolescente que la langue a sauvée. \n",
-            "magnetotheque_id": "2025C3500E0071",
-            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/a-voix-nue/la-famille-c-est-tout-une-histoire-7329227",
-            "mp3": "https://media.radiofrance-podcast.net/podcast09/10351-20.04.2025-ITEMA_24108907-2025C3500E0071-ITE_00149374_RSCE-21.mp3",
-            "duration": 1736,
-            "date": 1745258333,
-            "settings": [
-                "interview",
-                "temoignage"
-            ],
-            "limit": 0,
-            "extraits": [
-                {
-                    "titre": "Comment la langue a sauvé une vie ?",
-                    "extrait": "« Je pense que mon histoire de famille est extrêmement romanesque, mais elle a été aussi très douloureuse. [...] J'ai tendance à ne pas en parler parce que la douleur est encore là, je pense. Et aussi parce que j'ai toujours peur, puisque c'est ce que j'ai vécu enfant, d'être réduite à ça. »",
-                    "score": 90,
-                    "start": 285.578,
-                    "end": 341.556
-                },
-                {
-                    "titre": "L'injonction à l'excellence et à l'effacement",
-                    "extrait": "« L'effacement certainement, à la fois en tant que fille, mais en tant que cette fille-là, venant de cette histoire-là. [...] Il fallait être reconnaissante, et la reconnaissance passait par mes réussir et prouver que les gens avaient eu raison de m'aider quelque part. »",
-                    "score": 85,
-                    "start": 1288.781,
-                    "end": 1319.353
-                },
-                {
-                    "titre": "La force des femmes dans l'ombre",
-                    "extrait": "« J'ai vraiment eu des exemples de sororité dès l'enfance. [...] Il y avait des solidarités féminines très fortes qui se créent en dehors de consciences militantes ou politiques. »",
-                    "score": 80,
-                    "start": 1191.884,
-                    "end": 1205.192
                 }
             ]
         },
@@ -2993,45 +2045,6 @@
             ]
         },
         {
-            "title": "L’alcool au féminin ",
-            "id": "98a311f0-dd92-449a-b3e3-0e6df1ae2165",
-            "show": "Carnets de santé",
-            "show_id": "7ffb451e-81bf-4793-9062-294a734f5d58",
-            "chapo": "Depuis 30 ans, le nombre d'hommes consommant de l'alcool diminue. A l'inverse, les femmes sont de plus en plus nombreuses à boire de l'alcool en France. Comment expliquer cette hausse ? Quelle prévention adopter ? Comment aider ces femmes ? ",
-            "magnetotheque_id": "2025C53457S0109",
-            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/carnets-de-sante/l-alcool-au-feminin-9418572",
-            "mp3": "https://media.radiofrance-podcast.net/podcast09/25394-19.04.2025-ITEMA_24108323-2025C53457S0109-NET_MFC_CB3CFEA6-D48F-468D-8782-9CFF8DECC4A4-21.mp3",
-            "duration": 1712,
-            "date": 1745058525,
-            "settings": [
-                "savoirs"
-            ],
-            "limit": 0,
-            "extraits": [
-                {
-                    "titre": "« On n'est pas alcoolique par hasard »",
-                    "extrait": "\"On n'est pas alcoolique par hasard, et qu'il faut donc à tout prix respecter les paroles et les souffrances de ces femmes qui se cachent.\"",
-                    "score": 90,
-                    "start": 139.229,
-                    "end": 160.961
-                },
-                {
-                    "titre": "Comment l'alcool devient une obsession ?",
-                    "extrait": "\"L'alcool est une obsession, c'est-à-dire, pour venir à cette émission, j'aurais déjà consommé sans doute peut-être la moitié d'une bouteille de vodka. Je suis obligée d'avoir ma dose d'alcool, et en fait, je suis droguée.\"",
-                    "score": 95,
-                    "start": 213.74,
-                    "end": 239.266
-                },
-                {
-                    "titre": "« Je suis une femme, il y a beaucoup d'hommes. J'ai perdu ma dignité. »",
-                    "extrait": "\"À cause de quoi ? De la honte ? Ah bah oui. Vous êtes par terre. Marina, je suis une femme. Il y a beaucoup d'hommes. J'ai perdu ma dignité. Je ne veux plus revoir personne.\"",
-                    "score": 92,
-                    "start": 726.073,
-                    "end": 737.762
-                }
-            ]
-        },
-        {
             "title": "Google : quels sont les enjeux de ce \"procès du siècle\" ? ",
             "id": "d670a02b-cd50-4d10-999c-453b3dce404e",
             "show": "Un monde connecté",
@@ -3060,59 +2073,6 @@
                     "score": 90,
                     "start": 99.787,
                     "end": 118.177
-                }
-            ]
-        },
-        {
-            "title": "Comment l'auteur n'est pas propriétaire de son oeuvre",
-            "id": "2c8ba251-face-44dd-9a09-e5834f41473c",
-            "show": "Va savoir",
-            "show_id": "804153d4-b53b-4774-812e-25eed86f5aef",
-            "chapo": "Alors qu’en France, en mars 2025, éditeurs et auteurs ont attaqué en justice Meta pour pillage par les IA génératives, une histoire de vrai-faux auteur hongkongais inventée par un éditeur italien qui enseigne le \"Prompt thinking\" repose la question du droit d’auteur… pas toujours ce qu'on croit.",
-            "magnetotheque_id": "2025C53486S0111",
-            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/va-savoir/comment-l-auteur-n-est-pas-proprietaire-de-son-oeuvre-1947000",
-            "mp3": "https://media.radiofrance-podcast.net/podcast09/25339-21.04.2025-ITEMA_24109738-2025C53486S0111-NET_MFC_696299BD-6511-4C0D-A875-CAFC72690F92-21.mp3",
-            "duration": 249,
-            "date": 1745218200,
-            "settings": [
-                "actu"
-            ],
-            "limit": 0,
-            "extraits": [
-                {
-                    "titre": "L'auteur, un mythe ?",
-                    "extrait": "« On a tendance à tenir pour acquis que l'auteur est le propriétaire de son œuvre. »",
-                    "score": 85,
-                    "start": 51.6,
-                    "end": 57.808
-                },
-                {
-                    "titre": "Le droit d'auteur : une illusion ?",
-                    "extrait": "« L'idée de l'auteur comme activité professionnelle susceptible d'être rémunérée, ça vient après, et on est loin du consensus. »",
-                    "score": 90,
-                    "start": 82.152,
-                    "end": 88.093
-                },
-                {
-                    "titre": "L'œuvre, un bien marchand ?",
-                    "extrait": "« En France, l'œuvre n'est pas un bien marchand comme les autres. »",
-                    "score": 88,
-                    "start": 122.6,
-                    "end": 125.061
-                },
-                {
-                    "titre": "L'auteur face à l'IA : qui détient les droits ?",
-                    "extrait": "« Est-ce qu'alors on peut imaginer un auteur non humain ? »",
-                    "score": 92,
-                    "start": 227.56,
-                    "end": 229.922
-                },
-                {
-                    "titre": "La littérature industrielle : un dévoiement ?",
-                    "extrait": "« Gagner sa vie en tirant profit de sa plume ? C'était vulgaire, voire carrément de la prostitution. »",
-                    "score": 87,
-                    "start": 193.461,
-                    "end": 198.444
                 }
             ]
         },
@@ -3276,31 +2236,6 @@
                     "score": 92,
                     "start": 1378.65,
                     "end": 1451.248
-                }
-            ]
-        },
-        {
-            "title": "Des restes d’Homme de Denisova identifiés à Taïwan",
-            "id": "4d7c6bdd-98ff-4d45-8a55-041eb65719dd",
-            "show": "Avec sciences",
-            "show_id": "741f4a16-597e-4952-8578-348b2f8307ca",
-            "chapo": "Une publication parue dans la revue Science annonce l'appartenance d'une mandibule découverte dans le détroit de Penghu, à Taïwan, à l'espèce Homo denisovensis. Une découverte importante pour cette espèce encore mal connue malgré des données génétiques importantes.",
-            "magnetotheque_id": "2025C26620S0111",
-            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/avec-sciences/des-restes-d-homme-de-denisova-identifies-a-taiwan-4200773",
-            "mp3": "https://media.radiofrance-podcast.net/podcast09/21421-21.04.2025-ITEMA_24109741-2025C26620S0111-NET_MFC_87832410-67C5-4963-AF12-302BF8AC2309-21.mp3",
-            "duration": 316,
-            "date": 1745211420,
-            "settings": [
-                "savoirs"
-            ],
-            "limit": 1,
-            "extraits": [
-                {
-                    "titre": "Comment une mandibule a révélé l'existence d'une nouvelle espèce humaine ?",
-                    "extrait": "Il faut savoir que la population de Denisova, c'est une population... qui est complètement nouvelle, qu'on ne connaissait pas avant 2010, avant la découverte d'un ADN particulier qui n'était ni Néandertalia ni Homo sapiens. Et on a essayé depuis 2010 de reconstituer cette population fossile, de savoir quelle était son expansion géographique, quel était son âge. Et on a fait énormément de travaux, et en particulier on s'est rendu compte que c'est une population fossile, qui, à partir des gènes qu'elle a laissés dans les humains actuels, devaient être répartis sur une grande zone de l'Asie, y compris dans le sud-ouest asiatique.",
-                    "score": 95,
-                    "start": 93.849,
-                    "end": 136.717
                 }
             ]
         },
@@ -3664,36 +2599,6 @@
             ]
         },
         {
-            "title": "Intoxication des agents conversationnels : quand la France est la cible d'opérations russes de désinformations ! ",
-            "id": "97b48fa1-eff3-445e-9b90-e130c6d3c88f",
-            "show": "Un monde connecté",
-            "show_id": "274c0b2b-c347-4748-8989-eb3f08ae5273",
-            "chapo": "Un rapport de l'organisation américaine NewsGuard qui lutte contre la désinformation révèle une importante campagne russe qui vise la France en \"intoxiquant\" les agents conversationnels.   ",
-            "magnetotheque_id": "2025C52117S0111",
-            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/un-monde-connecte/intoxication-des-agents-conversationnels-quand-la-france-est-la-cible-d-operations-russes-de-desinformations-1288882",
-            "mp3": "https://media.radiofrance-podcast.net/podcast09/25658-21.04.2025-ITEMA_24110072-2025C52117S0111-NET_MFC_FFA7E491-BFBF-411C-A730-646530BBF6DB-21.mp3",
-            "duration": 202,
-            "date": 1745218500,
-            "settings": [
-                "actu"
-            ],
-            "limit": 2,
-            "extraits": [
-                {
-                    "titre": "Comment les agents conversationnels sont manipulés par la désinformation ?",
-                    "extrait": "L'organisation américaine NewsGuard, qui lutte contre la désinformation, vient de révéler dans un rapport une importante opération de manipulation. Elle a identifié cinq faux récits qui circulent activement sur les réseaux sociaux, avec près de 40 000 publications entre décembre et mars. Il s'agit entre autres d'une vidéo d'un migrant tchadien qui affirme avoir violé une jeune fille française de 12 ans. Une autre prétendant montrer un groupe islamiste qui menace d'incendier la cathédrale Notre-Dame. Ou encore le témoignage d'un ancien élève de Birgitte Macron qui l'accuse d'abus sexuels lorsqu'il était mineur. Dans le cadre de cette dernière vidéo, l'identité est bien celle d'un ancien élève de la première dame. Mais son visage a été cloné et détourné avec des outils de deepfake.",
-                    "start": 27.966,
-                    "end": 68.577
-                },
-                {
-                    "titre": "L'empoisonnement des IA : une menace d'avenir !",
-                    "extrait": "Ce qui signifie que ces agents entraînent leur modèle sur des sites erronés. Cet empoisonnement des IA génératives est une réelle menace d'avenir. Je pense que vous le constatez comme moi. De plus en plus d'utilisateurs emploient ChatGPT, DeepSeek ou Perplexity pour s'informer sans forcément demander ou vérifier les sources. L'effet d'autorité de la machine conversationnelle qui délivre une information unique comme étant la vérité, est un puissant levier d'amplification et de légitimation pour les agents de la déstabilisation.",
-                    "start": 147.955,
-                    "end": 176.178
-                }
-            ]
-        },
-        {
             "title": "Réforme des concours : les enseignants seront-ils mieux formés ? ",
             "id": "f99242a5-120a-46c8-8652-62cdb8e9b128",
             "show": "La Question du jour",
@@ -4005,99 +2910,6 @@
             ]
         },
         {
-            "title": "Howard Zinn (1922-2010), l’autre visage de l’Amérique",
-            "id": "a391f3b4-5fd3-4692-ab2d-fbe49cee290e",
-            "show": "Toute une vie",
-            "show_id": "06ce6d98-44e6-11e5-9fe0-005056a87c89",
-            "chapo": "Howard Zinn a changé notre regard sur les États-Unis. Il est l’un des rares intellectuels qui ont à la fois écrit, questionné et vécu l’histoire, pour y trouver une forme d’espérance en l’humanité.",
-            "magnetotheque_id": "2025C3330E0011",
-            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/toute-une-vie/howard-zinn-1922-2010-l-autre-visage-de-l-amerique-2731430",
-            "mp3": "https://media.radiofrance-podcast.net/podcast09/10471-20.04.2025-ITEMA_24108909-2025C3330E0011-ITE_00148551_RSCE-21.mp3",
-            "duration": 3532,
-            "date": 1745164725,
-            "settings": [
-                "interview",
-                "temoignage"
-            ],
-            "limit": 0,
-            "extraits": [
-                {
-                    "titre": "Comment Howard Zinn a défié l'histoire officielle ?",
-                    "extrait": "\"Si la vision de l'Histoire des Etats-Unis par Wardzine dérange autant Donald Trump et ses partisans, c'est qu'elle touche un point sensible. Elle révèle la part d'ombre du rêve américain. Plongée au cœur des événements qui ont marqué le XXe siècle, Wardzine a bouleversé notre façon d'aborder l'Histoire en renversant les perspectives.\"",
-                    "score": 95,
-                    "start": 150.347,
-                    "end": 169.145
-                },
-                {
-                    "titre": "Pourquoi Howard Zinn est-il un héros méconnu ?",
-                    "extrait": "\"Howard Zinn, c'est celui qui a fait découvrir aux Américains leur vrai visage, c'est-à-dire leur vraie histoire. Et c'est vrai que c'est beaucoup plus fort encore aux États-Unis qu'en France, c'est ce décalage qu'il y a entre ce qu'on appelle le récit national, qui fait beaucoup de mythologie et de mythes, un peu de l'histoire, alors il y a des grands trucs comme ça qui restent.\"",
-                    "score": 90,
-                    "start": 1600.447,
-                    "end": 1617.299
-                },
-                {
-                    "titre": "L'impact d'une voix dissidente : Zinn et la guerre du Vietnam",
-                    "extrait": "\"Je dirais qu'avant même d'être universitaire, pour moi, Wardzine, c'est un lanceur d'alerte. Ce n'est pas un intellectuel au sens où on l'entend aujourd'hui. Il est parmi les premiers, si ce n'est le premier universitaire qui dira publiquement et qui rédigera un texte extrêmement important en ce sens, en 1967, appelant au retrait immédiat des troupes états-uniennes du Vietnam.\"",
-                    "score": 92,
-                    "start": 1442.275,
-                    "end": 1465.319
-                },
-                {
-                    "titre": "Comment Zinn a redéfini l'histoire américaine ?",
-                    "extrait": "\"L'histoire populaire des États-Unis, c'est un ouvrage qui retrace les grandes luttes sociales qui ont émergé aux États-Unis depuis la découverte des Amériques par Christophe Colomb jusqu'au premier mandat de George W. Bush. C'est un contre-manuel d'histoire.\"",
-                    "score": 88,
-                    "start": 1817.263,
-                    "end": 1834.538
-                },
-                {
-                    "titre": "Pourquoi la lutte des classes est-elle si méconnue aux États-Unis ?",
-                    "extrait": "\"Vraiment, le terme de « classe » ne fait pas partie du vocabulaire américain. On se voit comme une société sans classe. Il y a eu des luttes classiques tout au cours de l'histoire de l'Amérique du Sud. Depuis le début, avant la guerre de la révolution, il y a eu des luttes, des luttes de nourriture ici en Boston, des rebellions de servants contre maîtres.\"",
-                    "score": 85,
-                    "start": 2040.716,
-                    "end": 2069.03
-                },
-                {
-                    "titre": "L'héritage de Zinn : une histoire d'espoir et de résistance",
-                    "extrait": "\"Il faut, je crois, qu'on ait la foi dans l'effet que peuvent produire nos actions. Il faut continuer à essayer. Comme quand on essaye d'allumer un feu, la première allumette ne marche pas. Seconde allumette, troisième allumette, au bout de la vingtième, toujours rien ne se passe. Et puis, on allume une allumette exactement comme on l'avait fait avant. Et là, un feu prend.\"",
-                    "score": 93,
-                    "start": 3202.322,
-                    "end": 3238.484
-                },
-                {
-                    "titre": "Comment Zinn a révélé les vérités cachées de l'histoire américaine ?",
-                    "extrait": "\"Déconstruire des mythes, surtout aux Etats-Unis, c'est énorme en fait. Parce que c'est vraiment ancré. Quand on écoute comment le personnel politique s'accapare des grands mythes américains et les utilise, y compris pour faire la guerre, c'est pas rien.\"",
-                    "score": 89,
-                    "start": 2654.071,
-                    "end": 2669.414
-                }
-            ]
-        },
-        {
-            "title": "Critique BD : \"Krimi\" d'Alex W. Inker et Thibault Vermot, magistral et phénoménal",
-            "id": "aa123e0b-85b7-4abe-9bc2-f823fe793ff8",
-            "show": "Les Midis de Culture",
-            "show_id": "32a14af6-fc87-4f4f-a06e-39ccf8587119",
-            "chapo": "Les critiques discutent de Krimi d'Alex W. Inker et Thibault Vermot.",
-            "magnetotheque_id": "2025C51852S1111",
-            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/les-midis-de-culture/critique-bd-krimi-d-alex-w-inker-et-thibault-vermot-8729681",
-            "mp3": "https://media.radiofrance-podcast.net/podcast09/12360-21.04.2025-ITEMA_24109718-2025C51852S1111-NET_MFC_242C1EF1-C435-4A00-8E17-1E65E7623263-21.mp3",
-            "duration": 987,
-            "date": 1745230501,
-            "settings": [
-                "interview"
-            ],
-            "limit": 0,
-            "extraits": [
-                {
-                    "titre": "« L'art peut changer le monde »",
-                    "extrait": "« Le premier chapitre de ce livre, c'est quand même « Changer le monde ». Ça commence avec une citation de Desnos. Il faut savoir que Robert Desnos est un poète résistant, mort dans un camp nazi, et qui dit, alors la phrase... Oui, vous nous la dites, la citation ? Le fantôme sort de la salle au bras du spectateur Dans une ville transformée par l'imagination Le destin suit un autre cours Je pense que c'est ce qui se passe avec M. le maudit. »",
-                    "score": 95,
-                    "start": 161.569,
-                    "end": 204.273
-                }
-            ]
-        },
-        {
             "title": "Episodes 3 et 4",
             "id": "0037e213-bfb6-47aa-b469-a5de62d8387c",
             "show": "LSD, la série documentaire",
@@ -4161,31 +2973,6 @@
                     "score": 94,
                     "start": 2252.305,
                     "end": 2261.719
-                }
-            ]
-        },
-        {
-            "title": "Critique BD : \"Moheeb sur le parking\" de Clara Lodewick",
-            "id": "0a3c318a-799c-4a50-afc4-0007fbb35408",
-            "show": "Les Midis de Culture",
-            "show_id": "32a14af6-fc87-4f4f-a06e-39ccf8587119",
-            "chapo": "Les critiques discutent de \"Moheeb sur le parking\" de Clara Lodewick.",
-            "magnetotheque_id": "2025C51852S2111",
-            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/les-midis-de-culture/critique-bd-moheeb-sur-le-parking-de-clara-lodewick-1850456",
-            "mp3": "https://media.radiofrance-podcast.net/podcast09/12360-21.04.2025-ITEMA_24109718-2025C51852S2111-NET_MFC_5543A3C3-D887-411B-ABC9-4F17448DF42F-21.mp3",
-            "duration": 675,
-            "date": 1745231400,
-            "settings": [
-                "interview"
-            ],
-            "limit": 0,
-            "extraits": [
-                {
-                    "titre": "« C'est un livre extrêmement béhavioriste. »",
-                    "extrait": "« Oui, mais justement, elle n'en tire pas trop, comment dire, matière à pathos. C'est-à-dire que c'est un livre extrêmement béhavioriste. Elle l'observe, ce jeune homme, qui garde sa part de mystère. On ne sait pas trop pourquoi, on ne sait même pas du tout pourquoi est-ce qu'il est parti. On ne sait même pas quelle est sa relation à sa mère. On sait que c'est une relation très sensitive, là encore presque olfactive, puisqu'il garde en permanence autour du poignet un foulard qui est appartenu à sa mère, qu'il renifle... Qu'il renifle sans cesse. Et surtout, c'est la dimension mineure, précisément, qu'elle montre. C'est-à-dire qu'elle montre que c'est un gamin. C'est un gamin, mais surtout, c'est quelqu'un dont les gens vont se servir. Et c'est ça qui est le plus étonnant, le plus juste, sans doute, dedans. C'est qu'il est là, il est à disposition, en fait. Et les gens passent, et certains vont se servir de lui, avec les meilleures intentions du monde. Par exemple, un jeune garçon, dont on suspecte que c'est un jeune homosexuel dans son lycée, qui n'est pas très bien... qui rêverait de partir lui aussi, de quitter sa maman, et qui voit en lui une sorte de modèle de liberté, d'audace, etc. Sauf que lui, le soir, il rentre chez lui, il rentre chez sa maman. Et pendant la journée, il va taper la balle avec lui sur ce parking, mais c'est le premier à se servir de lui. Puis un jour, ce garçon disparaît. Et là, c'est sa mère qui arrive en disant, mais est-ce que tu ne sais pas où est-ce qu'il est parti ? Et puis tiens, il est là ce jeune garçon, si je le prenais comme fils de remplacement ? Et s'il me permettait de guérir de ma dépression, etc. Et en fait, ce gamin est sans cesse utilisé par des gens, y compris par ses amis. Il y en a deux autres qui sont autour de lui. Il y en a un qui est un peu dragueur, qui vit une histoire d'amour clandestine avec une jeune fille. Il y en a un qui le méprise, qui le traite de paysan sans cesse, parce que lui vient d'une famille de lettrés, d'universitaires à Kaboul. Et lui, à chaque fois, il est là sur ce parking et puis... Et puis, il a ses moments à la fois d'hypersensibilité au monde, et ça, c'est très bien rendu par des onomatopées de tous ces petits bruits qu'il peut y avoir sur un parking. Et on sent que Clara Ludwig, qui vit dans un van, autant que je sache, a beaucoup étudié ces non-lieux où il se passe plein de choses, où des oiseaux se font tuer par des chats... où on écrase un escargot sans faire exprès, où tout fait du bruit. Et puis il y a des moments d'absence totale où il se retrouve coupé du monde et là tous les bruits disparaissent. Et c'est très rare en bande dessinée qu'on arrive à rendre aussi bien l'ambiance sonore et l'état psychologique de quelqu'un qui est... qui est en pleine dissociation, en fait, entre cette hypersensibilité au monde dans lequel il est et un monde intérieur en train de s'effondrer, de s'écrouler et où personne ne l'aide, en fait. Il y a des gens qui l'aident, mais à chaque fois, notamment une association, mais à chaque fois, on se dit, mais pourquoi est-ce qu'il aide ? Et quels sont leurs ressorts cachés, l'intérêt qu'ils vont y trouver ? Donc, c'est un livre très cruel, en même temps. »",
-                    "score": 95,
-                    "start": 388.589,
-                    "end": 561.15
                 }
             ]
         },
