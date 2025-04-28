@@ -1,6 +1,6 @@
 {
-    "date": "Mis à jour le 28/04/2025 à 07:43",
-    "unix": 1745819026,
+    "date": "Mis à jour le 28/04/2025 à 07:56",
+    "unix": 1745819812,
     "shows": [
         {
             "title": "Syrie, corps gravé : autour de Najah Albukaï",
@@ -452,6 +452,59 @@
                     "score": 88,
                     "start": 992.469,
                     "end": 1001.315
+                }
+            ]
+        },
+        {
+            "title": "ENQUETE #CHINATARGETS : La stratégie de Pékin pour museler ses opposants en France",
+            "id": "76a8c5b0-c87b-4ffa-af69-89c4544cc8ca",
+            "show": "Le Reportage de la rédaction",
+            "show_id": "d4d69370-481a-11e5-9fe0-005056a87c89",
+            "chapo": "A l’issue d’une enquête internationale coordonnée par l’ICIJ, la cellule investigation de Radio France révèle que plus d’une centaine d’opposants au régime chinois ont été pris pour cible ces dernières années à travers le monde, y compris en France.",
+            "magnetotheque_id": "2025C13845S0118",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/le-reportage-de-la-redaction/enquete-chinatargets-la-strategie-de-pekin-pour-museler-ses-opposants-en-france-6804245",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/12009-28.04.2025-ITEMA_24116954-2025C13845S0118-NET_MFC_222FDA60-7D8A-46A9-9A0F-311D2CB48C20-21.mp3",
+            "duration": 311,
+            "date": 1745818140,
+            "settings": [
+                "actu"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "« Nous savons que votre fils s'est livré à des activités contraires aux lois chinoises »",
+                    "extrait": "« Ils ont appelé mes parents pour m'empêcher d'organiser des manifestations. Ils leur ont dit « Nous savons que votre fils s'est livré à des activités contraires aux lois chinoises, en Chine et à l'étranger. Nous pourrions fermer les yeux là-dessus, mais cette fois, le grand leader vient en France. Donc si votre fils fait quelque chose d'embarrassant pour le grand leader, ce sera difficile à gérer pour nous. »",
+                    "score": 95,
+                    "start": 80.825,
+                    "end": 102.135
+                },
+                {
+                    "titre": "La justice française instrumentalisée par Pékin ?",
+                    "extrait": "« Ce qu'ils veulent, c'est envoyer un message aux dissidents. Nous sommes capables d'exporter, en utilisant l'état de droit que par ailleurs méprise, ici en France, nous sommes capables d'exporter toutes les méthodes possibles pour vous suivre, vous intimider, vous baïonner, voire vous persécuter, y compris en instrumentalisant la justice française. »",
+                    "score": 90,
+                    "start": 248.558,
+                    "end": 264.977
+                },
+                {
+                    "titre": "« Je me retrouve être harcelée par la justice pour un jet de peinture »",
+                    "extrait": "« Je suis française depuis dix ans maintenant. Je n'avais jamais imaginé, évidemment, dans cette patrie de, entre guillemets, de droits humains. Je me retrouve être harcelée par la justice pour un jet de peinture sur un pauvre kakimono d'un état totalitaire et génocidaire. »",
+                    "score": 88,
+                    "start": 210.682,
+                    "end": 226.765
+                },
+                {
+                    "titre": "Des opposants chinois ciblés en France : un phénomène inquiétant",
+                    "extrait": "« Plus de 100 membres de la diaspora chinoise ouïgoure et tibétaine à travers le monde ont été ciblés par Pékin ces dernières années pour avoir critiqué les autorités chinoises. »",
+                    "score": 85,
+                    "start": 7.614,
+                    "end": 24.644
+                },
+                {
+                    "titre": "« J'espère que tu ne fais pas de bêtises » : l'intimidation à distance",
+                    "extrait": "« Il a dit « Voilà, je suis entouré par des amis chinois. Puisque je n'ai pas de réseau sur mon téléphone, ils m'ont emprunté leur téléphone. J'espère que tu vas bien en France. J'espère que tu ne fais pas de bêtises. Ce que tu fais ne va pas à l'encontre de politiques du gouvernement chinois. » C'est intimidant sur le moment. »",
+                    "score": 87,
+                    "start": 121.479,
+                    "end": 140.045
                 }
             ]
         },
