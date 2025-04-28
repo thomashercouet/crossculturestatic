@@ -1,6 +1,6 @@
 {
-    "date": "Mis à jour le 28/04/2025 à 12:03",
-    "unix": 1745834618,
+    "date": "Mis à jour le 28/04/2025 à 12:17",
+    "unix": 1745835460,
     "shows": [
         {
             "title": "Syrie, corps gravé : autour de Najah Albukaï",
@@ -974,6 +974,66 @@
                     "score": 92,
                     "start": 1642.484,
                     "end": 1657.23
+                }
+            ]
+        },
+        {
+            "title": "Droits de douane, diplomatie : le sursaut patriotique",
+            "id": "f48a7840-c343-4aea-9e1f-ab1e8e1a2a9c",
+            "show": "Cultures Monde",
+            "show_id": "2358bc00-3f62-11e5-8314-005056a87c89",
+            "chapo": "Depuis le 9 avril, le Canada, en réponse aux taxes américaines, impose des tarifs douaniers de 25% sur certains produits en provenance des États-Unis. Cette riposte s’accompagne d’un sursaut patriotique face aux ambitions d’annexion de Donald Trump, qui remet en cause la souveraineté du pays.",
+            "magnetotheque_id": "2025C16756S0118",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/cultures-monde/droits-de-douane-diplomatie-le-sursaut-patriotique-3394774",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/11701-28.04.2025-ITEMA_24116957-2025C16756S0118-NET_MFC_A38747A2-D074-4E9E-924C-9BACC2FADD92-21.mp3",
+            "duration": 3472,
+            "date": 1745834325,
+            "settings": [
+                "savoirs"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "« Nous ne serons jamais votre 51e État »",
+                    "extrait": "Nous pouvons être vos meilleurs amis, votre meilleur voisin, votre meilleur allié, mais nous ne serons jamais votre 51e État.",
+                    "score": 95,
+                    "start": 186.928,
+                    "end": 193.111
+                },
+                {
+                    "titre": "Le Canada face à l'éléphant américain : un défi constant",
+                    "extrait": "Pierre-Eliott Trudeau disait en son temps qu'être voisin des Etats-Unis, c'est de toute façon dormir avec un éléphant. Même quand la bête est placide, on subit chacun de ses mouvements ou de ses grognements.",
+                    "score": 90,
+                    "start": 62.364,
+                    "end": 79.556
+                },
+                {
+                    "titre": "Le patriotisme canadien : un réveil inattendu",
+                    "extrait": "Il y a eu comme tout un discours sur le fait que le Canada était un état post-national qui n'avait pas véritablement d'identité nationale mais uniquement des valeurs communes donc on était un petit peu dans cette vision du Canada et là tout d'un coup devant ces menaces de guerre commerciale... ça a créé un réveil patriotique auprès des Canadiens.",
+                    "score": 92,
+                    "start": 906.232,
+                    "end": 963.668
+                },
+                {
+                    "titre": "Les droits de douane : un coup dur pour l'économie canadienne",
+                    "extrait": "Plusieurs constructeurs automobiles comme Stellantis ou General Motors ont annoncé des mises au chômage technique ou partiel et des employés de l'industrie automobile s'inquiètent, notamment dans cette ville canadienne de Windsor au sud-ouest de l'Ontario.",
+                    "score": 88,
+                    "start": 382.651,
+                    "end": 395.118
+                },
+                {
+                    "titre": "« Elbows up ! » : le cri de ralliement canadien",
+                    "extrait": "« Elbows up », « coudes levés » ou « jouets des coudes », c'est une expression qui vient du « hockey », ça veut dire se protéger contre le joueur adverse, c'est le cri de ralliement de tous les Canadiens qui manifestent aujourd'hui.",
+                    "score": 85,
+                    "start": 1123.871,
+                    "end": 1143.612
+                },
+                {
+                    "titre": "La frontière entre le Canada et les États-Unis : un symbole de tensions",
+                    "extrait": "La bibliothèque a été construite sur la frontière, comme vous l'avez dit. C'était un symbole de cette relation amicale que le Canada et les États-Unis partageaient. Et si la porte se trouve du côté américain... les Canadiens doivent se présenter d'abord aux agents de douane américains pour pouvoir ensuite rentrer dans la bibliothèque.",
+                    "score": 87,
+                    "start": 2133.547,
+                    "end": 2159.267
                 }
             ]
         },
