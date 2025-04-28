@@ -1,5 +1,521 @@
 {
-    "date": "Mis à jour le 27/04/2025 à 18:18",
-    "unix": 1745770703,
-    "shows": []
+    "date": "Mis à jour le 28/04/2025 à 06:41",
+    "unix": 1745815309,
+    "shows": [
+        {
+            "title": "Syrie, corps gravé : autour de Najah Albukaï",
+            "id": "91534648-197a-407f-a402-3d4cfcefe35f",
+            "show": "Allons-y voir !",
+            "show_id": "f56d5212-be5f-4dce-bb92-ced8fe2aebb9",
+            "chapo": "Que reste-t-il, après la faillite de notre croyance dans la capacité des images à soulever l’indignation du monde ? Ce presque rien de beauté que l’on appelle art mais que l’on pourrait aussi bien appeler humanité, et qui se donne notamment à voir dans le travail de l'artiste syrien Najah Albukaï.",
+            "magnetotheque_id": "2025C53469E0016",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/allons-y-voir/syrie-corps-grave-autour-de-najah-albukai-3642318",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/13090-27.04.2025-ITEMA_24116140-2025C53469E0016-NET_MFC_4EE02553-FB47-4EC5-9166-34D7F52676D5-21.mp3",
+            "duration": 3630,
+            "date": 1745758827,
+            "settings": [
+                "interview"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "« Ce presque rien de beauté »",
+                    "extrait": "Que reste-t-il alors ? Je vous l'ai dit, ce presque rien de beauté que l'on appelle art, mais que l'on pourrait tout aussi bien appeler humanité.",
+                    "score": 90,
+                    "start": 123.665,
+                    "end": 132.471
+                },
+                {
+                    "titre": "« L'art comme résistance »",
+                    "extrait": "Ce qui m'intéresse, ce n'est pas de faire de belles choses, je fais seulement ce qui me paraît nécessaire, avez-vous déclaré Najah Al-Boukaï.",
+                    "score": 85,
+                    "start": 463.306,
+                    "end": 472.628
+                },
+                {
+                    "titre": "« La mémoire gravée »",
+                    "extrait": "C'est le passage à la technique de la gravure, ce qui m'a aidé à continuer de tracer les dessins que j'avais commencés après mes incarcérations.",
+                    "score": 80,
+                    "start": 262.258,
+                    "end": 274.026
+                },
+                {
+                    "titre": "« La déshumanisation face à l'art »",
+                    "extrait": "Ce que je dis, je crois, et Najah, à mon avis, dans son attitude, le confirme, c'est que la vie était tue, je dirais. La vie était tue malgré tout. Et qu'au sein de cet enfer, il y a quand même quelque chose de presque rien de vie qui s'affirme.",
+                    "score": 88,
+                    "start": 989.245,
+                    "end": 1008.752
+                },
+                {
+                    "titre": "« La beauté dans l'horreur »",
+                    "extrait": "C'est horriblement beau. Il y a quelque chose quand même dans la terreur que vous mettez, je dirais, que vous rendez visible dans un geste qui est un geste aussi, on va parler de la terreur, Cécile Boëx, mais un geste qui est artistique.",
+                    "score": 87,
+                    "start": 1277.268,
+                    "end": 1294.825
+                },
+                {
+                    "titre": "« La nécessité de documenter l'horreur »",
+                    "extrait": "Il faut documenter le désastre, il faut documenter la tragédie.",
+                    "score": 82,
+                    "start": 2374.728,
+                    "end": 2388.421
+                },
+                {
+                    "titre": "« Les images de la résistance »",
+                    "extrait": "La spécificité de la guerre civile syrienne, c'est qu'elle est contemporaine du smartphone. L'arrivée du smartphone, les Facebook et la série des superstars.",
+                    "score": 84,
+                    "start": 1462.085,
+                    "end": 1475.238
+                }
+            ]
+        },
+        {
+            "title": "Survivre et raconter",
+            "id": "0a87c294-4446-4a48-8151-bb716ffbe72c",
+            "show": "Une histoire particulière",
+            "show_id": "0ad98f5d-a973-418f-93f8-ee974c963957",
+            "chapo": "Serpouhi Hovaghian se cache de familles en familles grecques jusqu’en 1918. Tout autour d’elle, c’est l’horreur : maisons saccagées, boutiques pillées, notables lynchés en place publique. ",
+            "magnetotheque_id": "2025C26160E0034",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/une-histoire-particuliere/survivre-et-raconter-8707125",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/16408-27.04.2025-ITEMA_24116145-2025C26160E0034-ITE_00149740_RSCE-21.mp3",
+            "duration": 1761,
+            "date": 1745755158,
+            "settings": [
+                "temoignage"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "« Un génocide, c'est couper les ADN »",
+                    "extrait": "« Ma grand-mère, elle a sauvé son fils, elle s’est sauvée, et elle a sauvé son ADN, quand même, qui est de là. C’est extraordinaire, ça. Parce que c’est ça, un génocide, c’est couper les ADN, couper les trajets humains. Couper les enfants qui viendront après. Eh oui, c’est ça. Et moi, elle m’a sauvée. Elle a voulu que je naisse, d’une certaine façon. »",
+                    "score": 95,
+                    "start": 475.568,
+                    "end": 497.668
+                },
+                {
+                    "titre": "Comment un carnet a changé une vie ?",
+                    "extrait": "« Je trouve un petit carnet comme ça. Je me dis, mais alors, c’est quoi ce carnet ? J’ouvre, c’est en arménien, la plupart. Il y a 70 pages, donc il y a 30 pages en arménien, 30 pages en français et 10 pages en grec. Et je vois les pages en français. 15 avril, ils sont toujours à notre poursuite, blablabla, blablabla. Je dis mais attends, c’est pas... Et je reconnais l’écriture, je dis mais c’est son carnet. »",
+                    "score": 90,
+                    "start": 569.415,
+                    "end": 601.567
+                },
+                {
+                    "titre": "« C’était comme des contes des mille et une nuits »",
+                    "extrait": "« Mais, comme elle était vivante devant moi, c’était comme des contes des mille et une nuits. À la fin, ça se finit bien. C’était triste, le chemin, mais la résolution était gaie. »",
+                    "score": 88,
+                    "start": 194.758,
+                    "end": 205.368
+                }
+            ]
+        },
+        {
+            "title": " « Avec un prénom comme le mien… »  ",
+            "id": "72fc5baf-8ed1-45bd-ade2-c9bf475d389f",
+            "show": "À voix nue",
+            "show_id": "b4534f1d-40f8-11e5-9fe0-005056a87c89",
+            "chapo": "Israël Nisand évoque ici son appétence précoce pour les grandes questions bioéthiques, l’obstétrique étant une spécialité où les formidables progrès de la technique ces dernières décennies ont suscité des questions « sociétales » sans pareil.  ",
+            "magnetotheque_id": "2024C3500E0208",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/a-voix-nue/avec-un-prenom-comme-le-mien-1697539",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/10351-27.04.2025-ITEMA_24116124-2024C3500E0208-ITE_00144430_RSCE-21.mp3",
+            "duration": 1745,
+            "date": 1745863139,
+            "settings": [
+                "interview",
+                "temoignage"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "« L'iniquité me gêne terriblement »",
+                    "extrait": "« Ce n'est pas que j'aime la bagarre, mais j'ai du mal à assumer l'iniquité. Et l'iniquité, notamment quand elle concerne les femmes... Peut-être que ça me vient de ma mère, mais le fait de ne pas considérer les femmes au même titre que les hommes et le fait d'avoir à leur égard des injustices me gêne terriblement. Au point que ça m'empêche de respirer, ça m'empêche de dormir et j'éprouve le besoin de dire ça, ça ne va pas, même si ça ne plaît pas. »",
+                    "score": 95,
+                    "start": 169.795,
+                    "end": 201.464
+                },
+                {
+                    "titre": "« Ne fais pas à autrui ce que tu ne voudrais pas qu'on te fasse »",
+                    "extrait": "« Ne fais pas à autrui ce que tu ne voudrais pas qu'on te fasse. Et ça, c'est une grille morale qui m'a toujours guidé. »",
+                    "score": 90,
+                    "start": 276.586,
+                    "end": 286.195
+                },
+                {
+                    "titre": "« Les femmes aisées ne mouraient pas »",
+                    "extrait": "« Elles sont mortes. Et il y en avait 300 qui mouraient chaque année en France, c'est-à-dire une par jour. Mais les femmes aisées ou qui avaient des relations ou un réseau ne mouraient pas. Première injustice insupportable au point que je me suis dit... »",
+                    "score": 92,
+                    "start": 320.961,
+                    "end": 345.087
+                }
+            ]
+        },
+        {
+            "title": "La Nuit des Faits divers 9/13 : Jean Vautrin : \"L'invention est constamment en dessous de la réalité du fait divers\"",
+            "id": "b38fd296-431d-4451-8d99-fec63a3a2637",
+            "show": "Les Nuits de France Culture",
+            "show_id": "4ff3693f-6e66-11e5-8e9e-005056a87c89",
+            "chapo": "",
+            "magnetotheque_id": "2020C3372E0284",
+            "seo_url": "",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/13915-28.04.2025-ITEMA_24116426-2020C3372E0284-NET_MFC_84A742D8-16B8-4D8A-A821-1145477293B9-21.mp3",
+            "duration": 2755,
+            "date": 1745798665,
+            "settings": [
+                "interview",
+                "temoignage"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "« L'invention est constamment en dessous de la réalité »",
+                    "extrait": "« Je crois qu'on est tous capables quelque part d'être acculés aux faits divers. On est tous des gens capables d'être des grands schizophrènes et d'un seul coup de lâcher une bombe. Enfin je pense que moi si j'avais pas l'écriture je serais quelque part quelqu'un qui aurait des secteurs de sa vie à cacher. »",
+                    "score": 95,
+                    "start": 429.721,
+                    "end": 463.502
+                },
+                {
+                    "titre": "Pourquoi le fait divers fascine-t-il autant ?",
+                    "extrait": "« Le fait divers, à 80%, c'est chez les pauvres. C'est quand même une chose frappante, ça. »",
+                    "score": 90,
+                    "start": 312.348,
+                    "end": 318.572
+                },
+                {
+                    "titre": "« Détective, c'est un journal qui répond à une clientèle »",
+                    "extrait": "« Moi je trouve que c'était un journal qui répondait à une clientèle et qui faisait de son mieux dans le domaine poétique. »",
+                    "score": 85,
+                    "start": 125.343,
+                    "end": 143.036
+                },
+                {
+                    "titre": "Comment la réalité dépasse-t-elle la fiction ?",
+                    "extrait": "« Mais comme la réalité dépasse souvent la fiction, on a l'impression qu'on invente tellement ce qui se passe, c'est extraordinaire. Mais en réalité, c'est toujours réel. »",
+                    "score": 92,
+                    "start": 295.358,
+                    "end": 304.203
+                },
+                {
+                    "titre": "« Le fait divers est un fait éternel »",
+                    "extrait": "« Le fait divers n'est pas un fait de société, le fait divers est un fait éternel. L'histoire de l'homme commence par un fait divers, l'assassinat d'un frère cadet par son aîné. »",
+                    "score": 88,
+                    "start": 1280.494,
+                    "end": 1289.924
+                }
+            ]
+        },
+        {
+            "title": "Les chemins de la connaissance - Brésil : Des chantiers de l'Amazonie au désert du Nordeste 6/7 (1ère diff : 07/06/1976)",
+            "id": "5550380b-ac47-4350-a28e-7e634573a845",
+            "show": "Les Nuits de France Culture",
+            "show_id": "4ff3693f-6e66-11e5-8e9e-005056a87c89",
+            "chapo": "Par Gilles Lapouge - Avec Gilles Lapouge (producteur à France Culture) et Raymond Cantel (professeur de lettres à la Sorbonne, spécialiste de littérature portugaise)",
+            "magnetotheque_id": "2024C3372E0297",
+            "seo_url": "",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/13915-28.04.2025-ITEMA_24116426-2024C3372E0297-NET_MFC_4EF5825A-D6DA-4441-B9C9-D9DB4C937D6D-21.mp3",
+            "duration": 1078,
+            "date": 1745792397,
+            "settings": [
+                "interview",
+                "temoignage"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "Comment la littérature de Cordel façonne la société brésilienne ?",
+                    "extrait": "Eh bien, elle est multiple. Elle a une fonction pédagogique, d'abord. Elle a appris à lire. Elle a suscité des vocations d'analphabètes qui ont voulu apprendre à lire. Et ceci, on en a de nombreux exemples. Elle apporte aussi l'évasion à des gens qui ont une vie très difficile, étant donné les conditions géographiques et climatiques. Elle apporte aussi l'information. Dans l'intérieur du Nord-Est, il n'y a vraiment pas de journal. Et jusqu'à ces dernières années, on peut dire qu'elle apportait l'information. Et elle apportait l'information politique, économique, l'information des accidents, etc.",
+                    "start": 302.095,
+                    "end": 337.897
+                },
+                {
+                    "titre": "La littérature populaire : un miroir de la société brésilienne ?",
+                    "extrait": "Il y a de très très rares foillettes de subversion, et pratiquement pas à l'heure actuelle. Par contre, en faveur de l'ordre établi et du rétablissement de cet ordre sans cesse en frein, les titres sont innombrables. Et la menace du jugement dernier, par exemple, est quelque chose de très fréquent. Les mini-jupes, les cheveux longs sont censurés impitoyablement.",
+                    "start": 391.958,
+                    "end": 413.704
+                }
+            ]
+        },
+        {
+            "title": "Anaïs Nin (1903-1977), écrire sa vie comme un mythe",
+            "id": "c9b9146a-ecc1-42bc-97c4-bf7a47d1f064",
+            "show": "Toute une vie",
+            "show_id": "06ce6d98-44e6-11e5-9fe0-005056a87c89",
+            "chapo": "De ses onze ans jusqu’à sa mort, Anaïs Nin n’a cessé d’écrire son \"Journal\", où elle transforme ses épreuves en aventures et son existence en un voyage mythologique dans le labyrinthe de sa psyché. Portrait d’une “illusionniste au pouvoir réel”. ",
+            "magnetotheque_id": "2025C3330E0003",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/toute-une-vie/anais-nin-1903-1977-ecrire-sa-vie-comme-un-mythe-3057414",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/23117-27.04.2025-ITEMA_24116143-2025C3330E0003-ITE_00148017_RSCE-21.mp3",
+            "duration": 3479,
+            "date": 1745769476,
+            "settings": [
+                "interview",
+                "temoignage"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "Comment Anaïs Nin a transformé sa douleur en art ?",
+                    "extrait": "\"Si ma vie n'était pas heureuse, de toute façon, je la considérais comme un roman. C'était une façon de me consoler, de faire que tout ce qui m'arrivait était intéressant, quand même.\"",
+                    "score": 95,
+                    "start": 48.515,
+                    "end": 61.806
+                },
+                {
+                    "titre": "Pourquoi le journal d'Anaïs Nin est-il son chef-d'œuvre ?",
+                    "extrait": "\"Elle comprend très tôt que ce journal va être la pierre angulaire de sa vie.\"",
+                    "score": 90,
+                    "start": 228.007,
+                    "end": 236.87
+                },
+                {
+                    "titre": "Anaïs Nin : une voix pour les femmes de son temps ?",
+                    "extrait": "\"Elle va devenir, de façon un peu biaisée d'ailleurs, une forme d'icône du féminisme, en tout cas dans certains milieux de la jeunesse américaine.\"",
+                    "score": 85,
+                    "start": 2646.117,
+                    "end": 2654.162
+                },
+                {
+                    "titre": "La quête d'Anaïs Nin : entre folie et création",
+                    "extrait": "\"Il y a une fissure en moi, et que la folie est toujours possible. Les allers-retours avec la folie sont toujours plus ou moins là.\"",
+                    "score": 88,
+                    "start": 1182.992,
+                    "end": 1188.289
+                },
+                {
+                    "titre": "Comment Anaïs Nin a défié les normes de son époque ?",
+                    "extrait": "\"Je crois que j'aurais pu peut-être mentir au journal, sans la psychanalyse, que chaque fois qu'il y avait une grande crise dans ma vie, je me retournais vers ça.\"",
+                    "score": 92,
+                    "start": 1792.249,
+                    "end": 1802.027
+                },
+                {
+                    "titre": "Anaïs Nin et la magie de l'écriture : une drogue ?",
+                    "extrait": "\"Je dois, chaque jour, alléger ma vie dans le rêve. Sinon, la banalité, les déformations, les limites s'incrustent dans chaque geste comme de la rouille.\"",
+                    "score": 94,
+                    "start": 1354.604,
+                    "end": 1366.873
+                }
+            ]
+        },
+        {
+            "title": "Cinéma : quelles réalisations depuis MeToo ?",
+            "id": "561a83b4-f60a-4387-8d46-8f87c4be74e5",
+            "show": "Le Grand Reportage",
+            "show_id": "b06537aa-40f1-11e5-9fe0-005056a87c89",
+            "chapo": "Huit ans après la naissance du mouvement Me Too aux États-Unis et les révélations en France des actrices comme Adèle Haenel, Judith Godrèche ou encore Charlotte Arnoult, le monde du cinéma semble prendre conscience des violences. Mais comment agit-il pour lutter contre celles-ci ?",
+            "magnetotheque_id": "2025C9549S0115",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/le-grand-reportage/grand-reportage-emission-du-vendredi-25-avril-2025-9988553",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/10084-25.04.2025-ITEMA_24114551-2025C9549S0115-NET_MFC_39DD545B-AFA9-492B-AD49-5A3D2FEFAB8B-21.mp3",
+            "duration": 3500,
+            "date": 1745596711,
+            "settings": [
+                "actu"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "Comment le cinéma peut-il changer les rapports hommes-femmes ?",
+                    "extrait": "La femme, elle est mise en scène comme étant un objet de désir. Et changer cette image de la femme au cinéma, ça pourrait aussi changer les rapports entre les hommes et les femmes au sein d'un tournage.",
+                    "score": 90,
+                    "start": 15.916,
+                    "end": 25.977
+                },
+                {
+                    "titre": "Des témoignages accablants sur le harcèlement dans le cinéma",
+                    "extrait": "Il y a le second assistant qui sur un tournage répond à la scripte qui lui demande une information technique « Je te donne le nombre de gigas si tu me suces ». Le scénariste César Rizé qui propose des conseils à une étudiante de la FEMIS en échange d'une fellation. Le réalisateur qui lance à la cantonade que tout le monde veut toucher le beau cul de telle actrice. Le chef opérateur qui viole la jeune technicienne qu'il héberge lors d'un tournage.",
+                    "score": 95,
+                    "start": 52.642,
+                    "end": 75.95
+                },
+                {
+                    "titre": "Le tournant du cinéma face aux violences sexistes",
+                    "extrait": "Que ce soit de manière volontaire, militante, engagée ou contrainte, la profession ne peut plus faire comme si elle n'était pas au courant de ces situations-là et elle est très responsable et très engagée dans les réponses qui sont apportées.",
+                    "score": 85,
+                    "start": 37.5,
+                    "end": 50.106
+                },
+                {
+                    "titre": "Le harcèlement sexuel, un fléau systémique dans le cinéma",
+                    "extrait": "C'est un secteur qui a pris conscience des situations inadmissibles qui pouvaient exister à l'occasion des tournages, à l'occasion des festivals, à l'occasion de la promotion des films, à l'occasion de la préparation des films...",
+                    "score": 88,
+                    "start": 1574.583,
+                    "end": 1588.652
+                },
+                {
+                    "titre": "La mixité choisie : une solution temporaire ?",
+                    "extrait": "Je pense que c'est pas une fin en soi non plus. Si on dit que la mixité choisie, c'est une fois en soi, c'est-à-dire que les femmes ou les minorités de genre, ou en tout cas des personnes qui subissent des discriminations, ne travaillent ou ne se rencontrent qu'entre elles, qu'entre personnes concernées, comment on fait société, en fait ?",
+                    "score": 92,
+                    "start": 547.208,
+                    "end": 571.462
+                },
+                {
+                    "titre": "Le cinéma d'auteur face à l'hypocrisie de la représentation",
+                    "extrait": "Souvent ce sont des personnes blanches et bourgeoises qui réalisent ces films là donc je les trouve pas hyper légitimes et du coup je trouve qu'il y a une certaine hypocrisie, un peu le bon vouloir, bien pensant, on veut parler des gens précaires mais sans comprendre et sans même l'avoir vécu donc j'ai un peu des limites avec ça.",
+                    "score": 87,
+                    "start": 742.935,
+                    "end": 759.445
+                },
+                {
+                    "titre": "Les référents harcèlement : un rôle essentiel mais sous-estimé",
+                    "extrait": "Il faut que les employeurs comprennent que c'est faux, les problèmes sont là. Et c'est justement des personnes qui vont pouvoir potentiellement signaler au plus vite des situations pour pouvoir justement les faire cesser et réagir rapidement.",
+                    "score": 90,
+                    "start": 1184.066,
+                    "end": 1196.707
+                }
+            ]
+        },
+        {
+            "title": "\"Les braises\" de Sandor Maraï  1/5",
+            "id": "af8f3090-f61f-43af-a0ec-bcf5fed179aa",
+            "show": "Le Feuilleton",
+            "show_id": "3c1c2e55-41a0-11e5-9fe0-005056a87c89",
+            "chapo": ".",
+            "magnetotheque_id": "2022C3480E0147",
+            "seo_url": "",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/11495-28.04.2025-ITEMA_24111340-2022C3480E0147-ITE_00129236_RSCE-21.mp3",
+            "duration": 1681,
+            "date": 1745868478,
+            "settings": [
+                "interview"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "« La vie est faite d'obligations, la musique doit être, elle aussi, supportée. »",
+                    "extrait": "« La vie est faite d'obligations, la musique doit être, elle aussi, supportée. »",
+                    "score": 85,
+                    "start": 1438.052,
+                    "end": 1447.48
+                },
+                {
+                    "titre": "Pourquoi le souvenir s'efface-t-il avec le temps ?",
+                    "extrait": "« Dans le temps qui s'écoule, rien ne se perd. Mais petit à petit, tout pâlit, comme ces très vieilles photographies faites sur une plaque métallique. La lumière et le temps effacent leurs traits nets et caractéristiques. »",
+                    "score": 90,
+                    "start": 649.406,
+                    "end": 663.398
+                },
+                {
+                    "titre": "« Celui qui ne peut supporter cela n'est pas intéressant. »",
+                    "extrait": "« Un jour ou l'autre, nous devons perdre l'être que nous aimons. Celui qui ne peut supporter cela n'est pas intéressant. »",
+                    "score": 88,
+                    "start": 992.469,
+                    "end": 1001.315
+                }
+            ]
+        },
+        {
+            "title": "Fuir les massacres",
+            "id": "2c1a2af4-9867-4e02-b3f9-df3baaf11cb5",
+            "show": "Une histoire particulière",
+            "show_id": "0ad98f5d-a973-418f-93f8-ee974c963957",
+            "chapo": "Au déclenchement du génocide en 1915, la jeune femme perd son mari et sa fille. Sur la route des massacres, elle confie son fils à une paysanne turque. Elle se retrouve seule face à son destin.",
+            "magnetotheque_id": "2025C26160E0033",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/une-histoire-particuliere/fuir-les-massacres-5679630",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/18722-26.04.2025-ITEMA_24115487-2025C26160E0033-ITE_00149622_RSCE-21.mp3",
+            "duration": 1817,
+            "date": 1745668814,
+            "settings": [
+                "temoignage"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "« Destin, ô misérable destin, jusqu'à quand me tortureras-tu ? »",
+                    "extrait": "« Destin, ô misérable destin, jusqu'à quand me tortureras-tu ? Comme si tu m'avais envoyé un éclair pour percer le fond de mon cœur. Ils m'ont laissé priver de mon enfant. J'espère encore du bonheur pour toi. »",
+                    "score": 95,
+                    "start": 723.582,
+                    "end": 739.968
+                },
+                {
+                    "titre": "Comment une mère a-t-elle fait le choix déchirant de confier son fils ?",
+                    "extrait": "« Elle décide, voilà, elle le donne. Elle dit comme ça, il a une chance de s'en sortir. C'est le choix de Sophie. Il a une chance de s'en sortir, avec moi, non. »",
+                    "score": 90,
+                    "start": 707.384,
+                    "end": 716.724
+                },
+                {
+                    "titre": "« Nous sommes les orphelins de ce monde, sans patrie, sans foyer. »",
+                    "extrait": "« Nous sommes les orphelins de ce monde, sans patrie, sans foyer. Notre seule espérance dépendra de nos forces, avec le courage de notre vaillante jeunesse. »",
+                    "score": 92,
+                    "start": 1227.891,
+                    "end": 1238.537
+                }
+            ]
+        },
+        {
+            "title": "La vaccination",
+            "id": "faaa3fe5-283d-4ed0-89d0-5efa7774e28d",
+            "show": "Carnets de santé",
+            "show_id": "7ffb451e-81bf-4793-9062-294a734f5d58",
+            "chapo": "Depuis le premier vaccin contre la variole en 1796, de nombreux autres ont été découverts. Quels vaccins existent aujourd’hui avec quels bénéfices et quels risques ? Comment expliquer la défiance envers les vaccins ? \n",
+            "magnetotheque_id": "2025C53457S0116",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/carnets-de-sante/la-vaccination-6898723",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/25394-26.04.2025-ITEMA_24115520-2025C53457S0116-NET_MFC_7404CD73-CD1B-4E4C-8859-A60E44E0D667-21.mp3",
+            "duration": 1718,
+            "date": 1745663325,
+            "settings": [
+                "savoirs"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "« 154 millions de vies sauvées grâce aux vaccins »",
+                    "extrait": "154 millions de vies sauvées, avant tout celles des nourrissons, c'est ce qu'ont permis les vaccins depuis 50 ans. Mais l'histoire commence bien avant, en 1796, Edward Jenner, médecin de campagne anglaise, crée le premier vaccin efficace au monde, celui contre la variole, maladie qui sera grâce à cela déclarée éradiquée en 1980. Aujourd'hui, les vaccins est à protéger contre plus de 20 maladies potentiellement mortelles et le nombre de morts d'enfants a diminué de plus de 50% au cours des 30 dernières années.",
+                    "score": 95,
+                    "start": 8.327,
+                    "end": 34.629
+                },
+                {
+                    "titre": "« La vaccination, un geste de solidarité »",
+                    "extrait": "La vaccination, c'est aussi un geste de solidarité, on se protège, d'accord ? Mais on protège aussi ceux qui n'ont pas accès au vaccin, les enfants qui vivent dans des pays défavorisés ou les enfants qui, chez nous, n'ont pas droit à la vaccination, parce que ça existe.",
+                    "score": 90,
+                    "start": 342.556,
+                    "end": 353.339
+                },
+                {
+                    "titre": "« La défiance envers les vaccins : un phénomène français »",
+                    "extrait": "Il y a une défiance qui existe vis-à-vis des vaccins dans le monde, mais c'est particulièrement frappant dans notre pays, il faut bien le dire. Et par exemple, certains estiment que les maladies contre lesquelles on se vaccine, devenant aujourd'hui rares, grâce à la vaccination, on pourrait ne plus se vacciner. Alors si on arrête, elles vont revenir, ça c'est certain.",
+                    "score": 92,
+                    "start": 1203.18,
+                    "end": 1219.412
+                }
+            ]
+        },
+        {
+            "title": "L'Instant poésie de Denis Lavant 1/25 : \"Comment dire\" de Samuel Beckett, ou l’exploration de l’indicible",
+            "id": "be284487-5d0e-4ac1-91ab-ed317c7ab073",
+            "show": "L'Instant poésie",
+            "show_id": "f69ae1d2-f2b6-44a9-b803-7d809a03be95",
+            "chapo": ".",
+            "magnetotheque_id": "2024C53416E0021",
+            "seo_url": "",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/13025-30.09.2024-ITEMA_23875172-2024C53416E0021-ITE_00144290_RSCE-21.mp3",
+            "duration": 421,
+            "date": 1745869016,
+            "settings": [
+                "interview"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "« Folie que de vouloir croire, entrevoir quoi ? »",
+                    "extrait": "Folie que de vouloir croire, entrevoir quoi ? Quoi ? Comment dire ? Et où ? Que de vouloir croire, entrevoir quoi ? Où ? Comment dire ? Là. Là-bas. Loin. Loin, là, là-bas. À peine. Loin, là, là-bas, à peine. Quoi ? Quoi ? Comment dire ? Vu tout ceci, tout ceci-ci, folie que de voir quoi ? Entrevoir, croire entrevoir, vouloir croire entrevoir, loin, là, là-bas, à peine, quoi ? Folie que d'y vouloir croire, entrevoir, quoi ? Quoi ? Comment dire ? Comment dire ? Comme tout poème, comme dirait Jean-Pierre Siméon, ça s'inscrit dans du silence. Du silence avant et du silence après. Et la parole se sculpte à cet instant-là dans le présent. Pour moi, c'est flagrant dans ce court poème qui est tout le temps en suspens, en attente. Comment dire ? Est-ce que c'est une question, une affirmation ? C'est en point de suspension. C'est avec un tiret. Folie. Folie que de... Que de... Comment dire ? C'est une exploration dans l'indicible.",
+                    "score": 95,
+                    "start": 107.682,
+                    "end": 204.967
+                },
+                {
+                    "titre": "« Beckett, un guide vers le néant jubilatoire »",
+                    "extrait": "Et ce qui est merveilleux, ce qui est irremplaçable avec Beckett, c'est sa manière d'avancer avec son œil bleu irlandais, d'avancer vers le néant, d'avancer dans un entonnoir sans scier et en étant toujours conséquent de ne rien lâcher ou de revenir en arrière. Et là, il fait l'expérience de comment dire ? Folie. Folie que d'hommes. Que d'hommes. Comment dire ? Et il avance jusqu'à essayer de voir. Comment dire ? Voir. Entrevoir. Croire entrevoir. Vouloir croire entrevoir. Folie que de vouloir croire entrevoir quoi ? Il creuse un sillon et nous emmène, si on la mérite, vers cette quête de néant, d'invisible, de soi, du rapport à sa propre finitude, mais qui n'est jamais morbide, qui est toujours jubilatoire. Voilà pourquoi je l'aime.",
+                    "score": 90,
+                    "start": 348.248,
+                    "end": 411.561
+                },
+                {
+                    "titre": "« Comment dire l'indicible ? »",
+                    "extrait": "Beckett, il va à la moelle des choses, de la quête. Et à mon sens, c'est un poème qui résonne très fort avec le mode de travail de Beckett, comment il travaille sur le langage. C'est de creuser. C'est un sillon qui se trace avec le langage et qui enquête, qui cherche. Comment dire ? Avec la voix de Caroline Mounier. Folie. Folie que d'homme. Que d'homme. Comment dire ? Folie que de somme. Depuis. Folie depuis ce... Donner. Folie donner ce que de... Vu... Folie vue ce... ce... comment dire... ceci, ce ceci, ceci-ci. Tout ce ceci-ci. Folie donnée tout ce... vu. Folie vue tout ce ceci-ci que de... que de... comment dire... voir, entrevoir, croire entrevoir...",
+                    "score": 85,
+                    "start": 29.2,
+                    "end": 103.854
+                }
+            ]
+        }
+    ]
 }
