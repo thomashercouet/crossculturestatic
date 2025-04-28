@@ -1,6 +1,6 @@
 {
-    "date": "Mis à jour le 28/04/2025 à 16:53",
-    "unix": 1745852011,
+    "date": "Mis à jour le 28/04/2025 à 17:07",
+    "unix": 1745852822,
     "shows": [
         {
             "title": "Syrie, corps gravé : autour de Najah Albukaï",
@@ -1223,6 +1223,73 @@
                     "score": 80,
                     "start": 869.208,
                     "end": 881.372
+                }
+            ]
+        },
+        {
+            "title": "Au cœur d’une maison hantée avec Jean-Baptiste del Amo  ",
+            "id": "cb2fb1f8-ba6a-494b-b271-17ffed23437b",
+            "show": "Le Book Club",
+            "show_id": "9919a6d4-3da2-4dd9-8103-77cef065f78d",
+            "chapo": "Aujourd'hui on vous propose d'entrer avec un groupe d’adolescents dans une maison abandonnée au pouvoir étrange. Dans son dernier roman, notre invité Jean Baptiste Del Amo livre un récit horrifique situé à Saint Auch dans les années 90 et explore les rêves et les désillusions d’une époque. ",
+            "magnetotheque_id": "2025C49162S0118",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/le-book-club/au-coeur-d-une-maison-hantee-avec-jean-baptiste-del-amo-3256993",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/23875-28.04.2025-ITEMA_24116966-2025C49162S0118-NET_MFC_F5A3440C-2684-4EF5-88AB-7FC1969EA940-21.mp3",
+            "duration": 3546,
+            "date": 1745848725,
+            "settings": [
+                "interview"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "Pourquoi la littérature doit-elle nous bousculer ?",
+                    "extrait": "\"J'ai une horreur absolue de cette littérature thérapeutique qu'on essaie de nous vendre aujourd'hui, une littérature qui fait du bien. Pour moi, ça n'est absolument pas la vocation de la littérature. Vous, vous voulez être bousculé, déplacé.\"",
+                    "score": 95,
+                    "start": 520.306,
+                    "end": 531.45
+                },
+                {
+                    "titre": "Comment la maison hantée devient-elle un miroir de nos peurs ?",
+                    "extrait": "\"J'ai pensé que finalement cet univers qu'ils vont découvrir à l'intérieur de la maison pouvait être un univers organique qui se nourrirait et se construirait de leurs rêves, de leurs peurs, de leurs obsessions en tentant finalement d'assimiler leur expérience pour advenir, pour se produire, pour exister.\"",
+                    "score": 90,
+                    "start": 2006.215,
+                    "end": 2032.012
+                },
+                {
+                    "titre": "La littérature comme espace de respiration : pourquoi est-ce essentiel ?",
+                    "extrait": "\"Je crois qu'il est urgent de défendre la fiction, de défendre l'imaginaire, et que c'est ce que je recherche en tant que lecteur, c'est ce dont je me nourris aussi. Parce que pour moi, c'est un espace aussi de respiration qui rend le monde habitable et la vie possible.\"",
+                    "score": 92,
+                    "start": 2839.848,
+                    "end": 2855.519
+                },
+                {
+                    "titre": "Comment la peur et le désir façonnent-ils notre réalité ?",
+                    "extrait": "\"La maison qui devient une entité agissante, qui n'est pas seulement que des murs figés dans une époque passée. Mais plus ça va, plus en effet, c'est presque la comparaison qui me vient, mais c'est complètement débile. C'est presque une intelligence artificielle qui va se nourrir de leurs désirs, de leurs peurs, de leurs angoisses.\"",
+                    "score": 88,
+                    "start": 2039.196,
+                    "end": 2072.879
+                },
+                {
+                    "titre": "Pourquoi la discontinuité est-elle au cœur de notre expérience ?",
+                    "extrait": "\"Cette question de discontinuité, d'expérience à côté du réel. Peut-être que les livres aussi sont des portes ouvertes sur les fantômes, voire des fantômes eux-mêmes. Ils mettent en scène des fantômes, ils ouvrent des espaces parallèles, ils nous font éprouver d'autres expériences subjectives à côté du réel.\"",
+                    "score": 89,
+                    "start": 2660.208,
+                    "end": 2678.42
+                },
+                {
+                    "titre": "Comment la littérature peut-elle nous aider à comprendre notre humanité ?",
+                    "extrait": "\"Je crois que la vocation de la littérature n'est pas de dire le réel, mais d'essayer d'atteindre, à percer quelque chose du réel et de dévoiler ce qui se cache derrière. Et il me semble que la forme, la poésie, l'imaginaire, ce sont les seules voies qui permettent d'accéder à cette vérité-là.\"",
+                    "score": 91,
+                    "start": 1521.265,
+                    "end": 1537.473
+                },
+                {
+                    "titre": "Pourquoi l'adolescence est-elle un terrain fertile pour la fiction ?",
+                    "extrait": "\"Il y a aussi des chemins très singuliers que vous dessinez. Qu'est-ce qui pourrait les relier toutes alors, ces adolescences-là ? Et si on essaye d'aller un peu plus loin, d'en capter l'inquiétante étrangeté ?\"",
+                    "score": 87,
+                    "start": 1693.264,
+                    "end": 1702.449
                 }
             ]
         },
