@@ -1,6 +1,6 @@
 {
-    "date": "Mis à jour le 28/04/2025 à 07:56",
-    "unix": 1745819812,
+    "date": "Mis à jour le 28/04/2025 à 08:09",
+    "unix": 1745820595,
     "shows": [
         {
             "title": "Syrie, corps gravé : autour de Najah Albukaï",
@@ -609,6 +609,59 @@
                     "score": 92,
                     "start": 1203.18,
                     "end": 1219.412
+                }
+            ]
+        },
+        {
+            "title": "La revue de presse internationale, émission du lundi 28 avril 2025",
+            "id": "147f1490-5a9f-49c0-80ad-83b7f5d3da5b",
+            "show": "La Revue de presse internationale",
+            "show_id": "bd43a733-4811-11e5-9fe0-005056a87c89",
+            "chapo": "",
+            "magnetotheque_id": "2025C22811S0118",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/la-revue-de-presse-internationale/la-revue-de-presse-internationale-emission-du-lundi-28-avril-2025-4878050",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/10901-28.04.2025-ITEMA_24116949-2025C22811S0118-NET_MFC_003E77F8-9E45-4C0B-BC52-841164C65967-21.mp3",
+            "duration": 380,
+            "date": 1745818920,
+            "settings": [
+                "actu"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "Elon Musk et la pollution : un scandale environnemental à Memphis ?",
+                    "extrait": "Elon Musk accusé avec sa start-up d'intelligence artificielle générative XAI installée à Memphis de violer le droit des habitants à un environnement propre et sain. En causant une pollution monstre de l'air et de l'eau, rapportent le Guardian et l'émission Democracy Now, le tout près de quartiers historiquement noirs et défavorisés.",
+                    "score": 85,
+                    "start": 20.492,
+                    "end": 40.263
+                },
+                {
+                    "titre": "La colère des habitants : \"Nous savons que le méthane provoque davantage de crises d'asthme !\"",
+                    "extrait": "« Je suis en train d’avoir un petit morceau qui a été mis dans des boîtes de cartes de milliers de personnes à travers la ville de Memphis, qui nous mentent sur la pollution de l'église de l'église de l'église de l'église de l'église de l'église de l'église de l'église de l'église de l'église de l'église. »",
+                    "score": 90,
+                    "start": 157.372,
+                    "end": 168.021
+                },
+                {
+                    "titre": "Racisme environnemental : Elon Musk dans le viseur des élus du Tennessee",
+                    "extrait": "Cet élu du Tennessee affirme à Democracy Now qu'Elon Musk perpétue le racisme environnemental en ignorant les souhaits des habitants de Memphis.",
+                    "score": 80,
+                    "start": 215.752,
+                    "end": 223.801
+                },
+                {
+                    "titre": "Une explosion meurtrière en Iran : incompétence ou négligence ?",
+                    "extrait": "De nombreux Iraniens accusent donc les autorités d'incompétence. Et se demande, note encore la BBC, comment une telle quantité de matériaux inflammables a-t-elle pu être laissée dans le port sans les précautions nécessaires ?",
+                    "score": 75,
+                    "start": 326.768,
+                    "end": 338.293
+                },
+                {
+                    "titre": "Une tragédie nationale : l'explosion qui a secoué l'Iran",
+                    "extrait": "Ce lundi, Catherine, est un jour de deuil national en Iran. Un deuil qui se transforme en colère après qu'une énorme explosion dans le plus grand port commercial du pays, à Shahid Rajai, a tué au moins 40 personnes et fait plus de 1200 blessés dans le sud du pays.",
+                    "score": 85,
+                    "start": 264.397,
+                    "end": 281.56
                 }
             ]
         },
