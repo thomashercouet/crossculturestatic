@@ -1,6 +1,6 @@
 {
-    "date": "Mis à jour le 28/04/2025 à 08:48",
-    "unix": 1745822924,
+    "date": "Mis à jour le 28/04/2025 à 09:01",
+    "unix": 1745823717,
     "shows": [
         {
             "title": "Syrie, corps gravé : autour de Najah Albukaï",
@@ -662,6 +662,53 @@
                     "score": 92,
                     "start": 1203.18,
                     "end": 1219.412
+                }
+            ]
+        },
+        {
+            "title": "De la guerre commerciale à la crise financière ?",
+            "id": "af5c18d0-78ca-48ac-a69f-1a5bf4de1650",
+            "show": "France Culture va plus loin (l'Invité(e) des Matins)",
+            "show_id": "7431a6a7-481b-11e5-9fe0-005056a87c89",
+            "chapo": "Alors que les États-Unis ont décidé d’entrer dans un rapport de force avec leurs partenaires commerciaux, les pays ciblés semblent démunis. Pourtant, il existe des leviers pour résister à la pression, à commencer par le dollar. Comment le système financier peut-il limiter la casse ? ",
+            "magnetotheque_id": "2025C16450S0118",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/france-culture-va-plus-loin-l-invite-e-des-matins/de-la-guerre-commerciale-a-la-crise-financiere-9042858",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/25479-28.04.2025-ITEMA_24116968-2025C16450S0118-NET_MFC_BE2DE15D-FB20-4CDB-8EAF-44270DC1032D-21.mp3",
+            "duration": 2247,
+            "date": 1745822700,
+            "settings": [
+                "actu",
+                "interview"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "La guerre commerciale : un jeu d'échecs géopolitique",
+                    "extrait": "\"Ce qui est sûr ici, c'est qu'on voit que les Etats-Unis ont une grande peur de la Chine, ce qui est justifié par le fait que la Chine devient, et on le voit vraiment, une puissance majeure sur le plan économique, sur le plan financier aussi, on reviendra. Et les Etats-Unis, on a l'impression, sont prêts à tout faire, et ça va absolument dans tous les sens, il est difficile quelquefois de reconstruire cette logique, mais pour écarter la Chine.\"",
+                    "score": 90,
+                    "start": 114.777,
+                    "end": 136.403
+                },
+                {
+                    "titre": "Le dollar en danger : la fin d'une ère ?",
+                    "extrait": "\"Le dollar, qu'est-ce que c'est ? Le dollar, c'est 50% des réserves mondiales. Ça veut dire que les banques centrales, toutes les banques centrales, ont généralement la moitié de leurs réserves en dollars.\"",
+                    "score": 85,
+                    "start": 508.23,
+                    "end": 518.334
+                },
+                {
+                    "titre": "Trump et la dépréciation du dollar : un risque pour l'économie mondiale ?",
+                    "extrait": "\"Mais en même temps, le problème de faire ça, et on va y revenir, je sais, c'est que ça rend le dollar plus faible sur la scène internationale. C'est-à-dire qu'en fait, déprécier le dollar, faire baisser le taux de change du dollar, fait qu'il y a moins de gens dans le monde qui vont vouloir détenir les dollars.\"",
+                    "score": 88,
+                    "start": 481.735,
+                    "end": 497.283
+                },
+                {
+                    "titre": "Vers une triade monétaire : le futur du dollar, de l'euro et du yuan",
+                    "extrait": "\"Dans 10 ans, je pense que les Chinois auront libéralisé la sphère financière, leur compte capital, comme on dit, et qu'il y aura trois devises. L'euro sera toujours là, mais il faudra quand même qu'on arrive à améliorer la gouvernance économique et politique de la zone euro.\"",
+                    "score": 92,
+                    "start": 1642.484,
+                    "end": 1657.23
                 }
             ]
         },
