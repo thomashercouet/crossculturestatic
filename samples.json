@@ -1,6 +1,6 @@
 {
-    "date": "Mis à jour le 28/04/2025 à 15:52",
-    "unix": 1745848322,
+    "date": "Mis à jour le 28/04/2025 à 16:05",
+    "unix": 1745849131,
     "shows": [
         {
             "title": "Syrie, corps gravé : autour de Najah Albukaï",
@@ -979,6 +979,60 @@
                     "score": 75,
                     "start": 100.29,
                     "end": 111.097
+                }
+            ]
+        },
+        {
+            "title": "La naissance du racisme 1/4 : L'héritage grec en question",
+            "id": "75dcbe12-4977-489d-a30d-83823a418717",
+            "show": "LSD, la série documentaire",
+            "show_id": "fb8db8c6-20b0-4189-977e-07f112c3de79",
+            "chapo": "",
+            "magnetotheque_id": "2022C26362E8110",
+            "seo_url": "",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/10177-13.06.2022-ITEMA_23057110-2022C26362E8110-ITE_00129805_RSCE-21.mp3",
+            "duration": 3492,
+            "date": 1745855888,
+            "settings": [
+                "temoignage"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "« Ne donnez pas à manger aux Congolais, ils sont nourris » : l'héritage des zoos humains",
+                    "extrait": "Il y avait un zoo humain à Bruxelles pour l'exposition universelle de 58. C'est le dernier grand zoo humain en Europe. Et donc, presque 600 Congolais étaient dans les villages pendant quelques semaines. Après, c'était fermé parce que le public belge comportait très raciste. Il y avait des gens qui donnaient des bananes aux enfants. Février 2022. Visite de l'Africa Museum de Tervurenne, dans la banlieue de Bruxelles, sur le site même où les colons belges exposèrent des congolais comme des animaux, il y a à peine plus de 60 ans, en 1958. L'exposition en cours retrace l'engouement des Européens pour les zoos humains, liés aux expositions coloniales du XIXe siècle. On proposait aux visiteurs d'alors des villages nègres, cerclés de barrières où il n'était pas rare de lire, comme ici à Tervurenne, « Ne donnez pas à manger aux Congolais, ils sont nourris ». Des mises en scène que plus d'un milliard de personnes ont pu découvrir à travers le monde, de Hambourg à Chicago, de Paris à Tokyo.",
+                    "start": 9.754,
+                    "end": 86.336
+                },
+                {
+                    "titre": "Comment le racisme a-t-il été façonné par l'histoire ?",
+                    "extrait": "Cette certitude d'être du bon côté de la barrière au mépris de l'autre ne date certainement pas du XIXe siècle et des zoos humains. Pour la plupart des historiens, le racisme serait né à l'époque moderne, conséquence de la traite transatlantique et de l'esclavage des sociétés coloniales européennes aux Amériques, qui fixèrent une hiérarchie raciale, du nègre au blanc, dont nous mesurons toujours les effets.",
+                    "start": 290.896,
+                    "end": 314.024
+                },
+                {
+                    "titre": "« Ici, ce n'est pas l'Afrique » : des micro-agressions qui perdurent",
+                    "extrait": "À la fin de l'exposition, deux jeunes femmes font face à un mur blanc, où elles ont affiché ce qu'elles nomment pudiquement des micro-agressions. Où l'on constate que la barrière est loin d'avoir disparu. En fait, ce mur s'appelle « Déjà entendu, déjà dit ». Ce sont tous des phrases que des personnes issues d'origine africaine ont déjà entendues. Puis on a fait une liste et on a choisi de cette manière-là. C'est vraiment les phrases clichés qu'on entend souvent, même tous les jours.",
+                    "start": 103.548,
+                    "end": 134.678
+                },
+                {
+                    "titre": "Le racisme, un héritage vieux comme l'humanité ?",
+                    "extrait": "L'historien Benjamin Isaac, dans son ouvrage « L'invention du racisme », parle de proto-racisme pour qualifier l'Antiquité. Car le racisme n'a pas attendu d'être nommé pour exister. De là à dire qu'il est aussi vieux que l'humanité.",
+                    "start": 334.244,
+                    "end": 352.772
+                },
+                {
+                    "titre": "« Les Grecs étaient persuadés de leur supériorité » : une vision qui perdure",
+                    "extrait": "Les Grecs et les Romains étaient persuadés de leur supériorité et ils avançaient des arguments pour la justifier. Benjamin Isaac. Le fait est qu'ils ne se contentaient pas de penser « Nous sommes meilleurs ». Ils expliquaient pourquoi ils l'étaient, et cette manière de voir a été assimilée par le monde occidental.",
+                    "start": 607.917,
+                    "end": 634.579
+                },
+                {
+                    "titre": "« Les esclaves sont par nature dotés de moins de capacités » : la justification d'Aristote",
+                    "extrait": "Aristote explique aussi qu'en fait il y a une gamme hiérarchique des êtres ordonnés dans le premier livre de la politique d'Aristote, avec les femmes, les enfants, les esclaves, qui tous jouissent plus ou moins de capacités par rapport au modèle absolu qu'est le citoyen comme homme libre.",
+                    "start": 2006.473,
+                    "end": 2029.499
                 }
             ]
         },
