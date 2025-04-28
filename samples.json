@@ -1,6 +1,6 @@
 {
-    "date": "Mis à jour le 28/04/2025 à 22:03",
-    "unix": 1745870612,
+    "date": "Mis à jour le 28/04/2025 à 22:16",
+    "unix": 1745871399,
     "shows": [
         {
             "title": "Tuerie dans un lycée de Nantes / L'éducation populaire, quelles relations avec l'école ?",
@@ -1773,6 +1773,38 @@
                     "score": 88,
                     "start": 1280.494,
                     "end": 1289.924
+                }
+            ]
+        },
+        {
+            "title": "Le Tour de France",
+            "id": "18f5af46-391a-418f-871d-4abe512b3aff",
+            "show": "Lectures du soir",
+            "show_id": "ee7280ad-40f6-11e5-9fe0-005056a87c89",
+            "chapo": "\" Le Tour dispose d’une véritable géographie homérique. Comme dans l’Odyssée, la course est ici à la fois périple d’épreuves et exploration totale des limites terrestres. \"",
+            "magnetotheque_id": "2025C17591E0065",
+            "seo_url": "",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/12024-28.04.2025-ITEMA_24116953-2025C17591E0065-ITE_00148850_RSCE-21.mp3",
+            "duration": 1221,
+            "date": 1745870231,
+            "settings": [
+                "interview"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "« Le Tour de France, une épopée moderne »",
+                    "extrait": "« Le Tour de France connaît à fond cette gloire d'une fausse vie privée où l'affront et l'accolade sont les formes majorées de la relation humaine. »",
+                    "score": 95,
+                    "start": 187.996,
+                    "end": 195.02
+                },
+                {
+                    "titre": "« La géographie du Tour, un véritable mythe »",
+                    "extrait": "« Le tour dispose donc d'une véritable géographie homérique. Comme dans l'Odyssée, la course est ici à la fois périple d'épreuves et exploration totale des limites terrestres. »",
+                    "score": 90,
+                    "start": 470.841,
+                    "end": 481.89
                 }
             ]
         },
