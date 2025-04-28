@@ -1,7 +1,75 @@
 {
-    "date": "Mis à jour le 28/04/2025 à 21:11",
-    "unix": 1745867492,
+    "date": "Mis à jour le 28/04/2025 à 21:27",
+    "unix": 1745868447,
     "shows": [
+        {
+            "title": "Tuerie dans un lycée de Nantes / L'éducation populaire, quelles relations avec l'école ?",
+            "id": "22bf67f2-a19d-444e-9acf-cdda9fb2d02f",
+            "show": "Être et savoir",
+            "show_id": "020a8b79-45b1-11e5-9fe0-005056a87c89",
+            "chapo": "Dans ce numéro, Etre et savoir s'interroge : les temps de loisirs des enfants doivent-ils répondre à des objectifs éducatifs ? \nMais suite à l'attaque au couteau dans un lycée de Nantes, l'émission s'ouvre sur l'actualité : faut-il sécuriser les établissements ?",
+            "magnetotheque_id": "2025C14993S0118",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/etre-et-savoir/bibliotheques-quand-la-lecture-n-a-pas-de-prix-3706361",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/11192-28.04.2025-ITEMA_24116950-2025C14993S0118-NET_MFC_1282E914-3484-4849-8E09-1FE806076BE5-21.mp3",
+            "duration": 3528,
+            "date": 1745866725,
+            "settings": [
+                "actu",
+                "interview"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "Pourquoi la sécurisation des écoles pourrait aggraver l'insécurité ?",
+                    "extrait": "Eh bien écoutez, j'ai jamais pensé que sa réaction, c'est une réaction à chaud. Parce que ça paraît démesuré et ça paraît presque légèrement délirant de parler de portique de sécurité dans un cas isolé. C'est quand même un événement qui ne se produit pas souvent, voire jamais en France, hormis quelques faits divers ces dernières années qui sont systématiquement singuliers. Ce débat-là, il avait lieu aux États-Unis dans les années 90-2000, au point que c'est quelque chose qui existe aux États-Unis. Sachant que les school shootings aux Etats-Unis on est sur des centaines d'épisodes par an et on sait qu'aux Etats-Unis ça n'a pas apporté ses fruits du tout, bien au contraire on peut se demander même si ça ne met pas un peu en situation de présence de quelque chose qui représente une menace en gros ça n'a pas un effet pervers ça n'amène pas l'inverse que ça cherche à produire c'est-à-dire un sentiment de sécurité est-ce que ça n'amènerait pas au contraire un sentiment d'insécurité à l'école ?",
+                    "score": 90,
+                    "start": 132.601,
+                    "end": 190.255
+                },
+                {
+                    "titre": "L'éducation populaire : un pilier invisible de la société ?",
+                    "extrait": "L'éducation populaire concerne au moins deux tiers des enfants et adolescents français avec les temps périscolaires en primaire, puis les colonies de vacances par exemple, les centres d'animation et mille et une activités de loisirs. Vous en avez sûrement une en tête, chers auditeurs et auditrices. Mais comment penser les enjeux éducatifs quand ils ne sont plus scolaires, quand il n'y a plus d'évaluation par exemple, dans une société si tournée vers la compétition et la réussite comme un enjeu très très fort d'éducation de nos enfants ?",
+                    "score": 85,
+                    "start": 585.735,
+                    "end": 615.021
+                },
+                {
+                    "titre": "Comment l'éducation populaire peut-elle transformer la société ?",
+                    "extrait": "C'est-à-dire que la Ligue est structurée ainsi, elle est un mouvement d'éducation populaire qui s'adresse à toutes les personnes à tous les âges de la vie et donc elle est un grand mouvement fédérateur d'associations. Et par ailleurs, elle est un mouvement complémentaire de l'école publique et elle agit y compris au sein de l'école publique. Donc à côté et à côté, on va plutôt parler des jeunes, des enfants, des ados et puis des jeunes qui se tournent vers les métiers d'éducateur ou d'animateur animatrice.",
+                    "score": 80,
+                    "start": 762.237,
+                    "end": 794.264
+                },
+                {
+                    "titre": "L'éducation populaire face à la crise démocratique : un enjeu crucial ?",
+                    "extrait": "La relation de l'éducation populaire aujourd'hui avec les milieux populaires, c'est une vraie question au moment où il y a cette crise démocratique qui est profonde. où il y a une crise, où il y a une urgence sociale qui est profonde aussi. Je pense que les dispositifs qu'on a pu connaître, qui reposaient sur l'aller vers, aller vers les populations, etc., c'est quelque chose qui doit évoluer vers l'agir ensemble.",
+                    "score": 88,
+                    "start": 3110.214,
+                    "end": 3143.51
+                },
+                {
+                    "titre": "« L'état de la pédopsychiatrie française est extrêmement préoccupant »",
+                    "extrait": "Ce qu'on sait, en revanche, ce qu'on sait bien, c'est que l'état de la pédopsychiatrie française est extrêmement préoccupant, et là c'est un euphémisme, mais pas seulement la pédopsychiatrie, la médecine scolaire, qui est en extrêmement mauvais état, qui est complètement délaissée.",
+                    "score": 92,
+                    "start": 426.563,
+                    "end": 456.086
+                },
+                {
+                    "titre": "Comment l'éducation populaire peut-elle répondre aux défis contemporains ?",
+                    "extrait": "Il s'agit dans nos activités, dans ce que nous faisons autour de l'école, avec l'accompagnement parental aussi, non pas de proposer de l'activité, mais d'associer les personnes, y compris à l'élaboration du projet, de façon à changer de paradigme, à respecter les personnes, à les accueillir citoyennement.",
+                    "score": 87,
+                    "start": 3332.313,
+                    "end": 3356.9
+                },
+                {
+                    "titre": "« Le dernier kilomètre, c'est le premier » : une réflexion sur l'éducation populaire",
+                    "extrait": "Nous mettons en place des politiques publiques qui sont définies par des gens fort compétents, de l'administration centrale, mais aussi de cabinets extérieurs qui sont très compétents. Et puis, cette politique publique qui pourtant a été pensée magnifiquement, dans le dernier kilomètre, elle ne rencontre pas les personnes pour lesquelles elle a été inventée. Et quand on est, comme moi, une militante de l'éducation populaire face à cette interrogation, on se dit, mais le dernier kilomètre, c'est le premier. Le dernier kilomètre, c'est le premier. C'est le premier pour les personnes. Pour les personnes et pour les acteurs.",
+                    "score": 90,
+                    "start": 2411.328,
+                    "end": 2453.226
+                }
+            ]
+        },
         {
             "title": " « Avec un prénom comme le mien… »  ",
             "id": "72fc5baf-8ed1-45bd-ade2-c9bf475d389f",
