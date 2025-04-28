@@ -1,6 +1,6 @@
 {
-    "date": "Mis à jour le 28/04/2025 à 10:58",
-    "unix": 1745830718,
+    "date": "Mis à jour le 28/04/2025 à 11:11",
+    "unix": 1745831509,
     "shows": [
         {
             "title": "Syrie, corps gravé : autour de Najah Albukaï",
@@ -756,6 +756,52 @@
                     "score": 92,
                     "start": 1227.891,
                     "end": 1238.537
+                }
+            ]
+        },
+        {
+            "title": "Pourquoi a-t-on peur de la disproportion ?",
+            "id": "3d812649-0b35-45c6-9b25-dcd08ea2afa0",
+            "show": "Le Pourquoi du comment : philo  ",
+            "show_id": "b6bd068b-da10-4d88-8d15-f0e1c87ed34b",
+            "chapo": "Face à l'infini et à l'irrationnel, l'humain cherche la proportion pour se rassurer. Heidegger critiquait cette maîtrise du monde par la raison, mais notre peur de la disproportion révèle aussi un besoin vital d'équilibre entre les êtres.",
+            "magnetotheque_id": "2025C45539E0065",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/le-pourquoi-du-comment-philo/pourquoi-a-t-on-peur-de-la-disproportion-4685986",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/22788-28.04.2025-ITEMA_24116974-2025C45539E0065-NET_MFC_91C98C66-9356-44D5-A2DF-071FF554C66A-21.mp3",
+            "duration": 224,
+            "date": 1745830721,
+            "settings": [
+                "savoirs"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "« La raison, c'est la mesure du monde »",
+                    "extrait": "La raison, c'est la mesure du monde, c'est la commensurabilité du monde, c'est un rapport. Et le mot « logos », en grec, désigne là aussi la notion de rapport, de mettre en rapport, même si le même Heidegger... Dans ses étymologies spéculatives, avait cherché un autre sens au mot logos, le mot cueillir, le mot rassembler, d'une autre façon que simplement mathématiques dans la proportion du monde que produisent les mathématiques.",
+                    "score": 85,
+                    "start": 71.342,
+                    "end": 95.571
+                },
+                {
+                    "titre": "Pourquoi avons-nous peur de la disproportion ?",
+                    "extrait": "Oui, nous avons peur, en un certain sens, nous avons peur de la disproportion. Nous avons peur de ce qui échappe à la rationalité, à la commensurabilité du monde. Mais est-ce une erreur ? Est-ce, comme Heidegger le pensait, une faute métaphysique ? Est-ce une réduction du monde à la technique ? Ou bien cela ne vient-il pas aussi d'une véritable hantise humaine ?",
+                    "score": 90,
+                    "start": 177.395,
+                    "end": 198.281
+                },
+                {
+                    "titre": "L'angoisse humaine face à l'irrationnel",
+                    "extrait": "Oui, nous avons besoin d'une proportion, peut-être est cela le sens profond de la raison, non pas comme domination du monde, mais comme équilibre entre les hommes.",
+                    "score": 88,
+                    "start": 212.485,
+                    "end": 221.548
+                },
+                {
+                    "titre": "« La disproportion des effets ne se mesure pas à la causalité des actes »",
+                    "extrait": "Oui, nous avons peur des réactions disproportionnées, des passions sans mesure, du fait que pour une petite insulte on déclenche une guerre sans fin, du fait que la disproportion des effets ne se mesure pas à la causalité des actes, à la mesure des actes.",
+                    "score": 92,
+                    "start": 198.341,
+                    "end": 212.445
                 }
             ]
         },
