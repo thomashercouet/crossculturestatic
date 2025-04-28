@@ -1,6 +1,6 @@
 {
-    "date": "Mis à jour le 28/04/2025 à 11:24",
-    "unix": 1745832279,
+    "date": "Mis à jour le 28/04/2025 à 11:39",
+    "unix": 1745833169,
     "shows": [
         {
             "title": "Syrie, corps gravé : autour de Najah Albukaï",
@@ -756,6 +756,66 @@
                     "score": 92,
                     "start": 1227.891,
                     "end": 1238.537
+                }
+            ]
+        },
+        {
+            "title": "Un psychiatre en terres damnées",
+            "id": "41de531b-dbf5-4170-8760-e00d47cf86d5",
+            "show": "Avec philosophie",
+            "show_id": "744d0dc6-dacc-4d71-a22c-af97eec7a56e",
+            "chapo": "La pensée de Frantz Fanon est souvent réduite à sa charge politique. Ses écrits psychiatriques, moins connus, expriment pourtant déjà son caractère révolutionnaire, alors qu'il appelait à une refonte complète de l'ethnopsychiatrie de l'époque, préalable nécessaire à la décolonisation des cerveaux.",
+            "magnetotheque_id": "2025C48904S0118",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/avec-philosophie/un-psychiatre-en-terres-damnees-3724087",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/10467-28.04.2025-ITEMA_24116943-2025C48904S0118-NET_MFC_4FA4E6CF-FFF1-4FDF-B846-07CAE0F1DCD2-21.mp3",
+            "duration": 3551,
+            "date": 1745830725,
+            "settings": [
+                "savoirs"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "Comment le racisme façonne notre perception de la douleur ?",
+                    "extrait": "« Le racisme entraîne de la douleur. Et d'ailleurs, ça a été théorisé par deux Anglais dans Alien and Alienist, qui est un livre qui n'a pas été traduit en français. Alien and Alienist, de Robert Littlewood et Maurice Lipsetge, qui démontrent justement que ce racisme... des équipes médicales, parce que c'est quand même un travail qui est fait sur la vision par les psychiatres et par les autres médecins des malades psychiatriques en Angleterre. Et il démontre ainsi qu'il y a... une aggravation des symptômes, mais surtout que les traitements étaient toujours des traitements beaucoup plus traumatiques.",
+                    "start": 1138.69,
+                    "end": 1194.014
+                },
+                {
+                    "titre": "Frantz Fanon : un psychiatre en quête d'humanité",
+                    "extrait": "« Ce qui l'intéressait, c'était l'homme. Et plus que l'homme, c'était l'humain. Et ce qui l'intéressait, à partir justement de cette expérience qu'il avait vécue dans son corps, qui était celle d'être différent, cette expérience très pénible du racisme, lui a intimé l'ordre, en quelque sorte, de lire. Parce que sa question, c'était, qui suis-je ? Puisque je suis si différent, puisque je suis visiblement différent, puisque je suis radicalement différent, qui suis-je ? »",
+                    "start": 417.26,
+                    "end": 453.115
+                },
+                {
+                    "titre": "La déshumanisation des colonisés : un constat accablant",
+                    "extrait": "« Je me dois d'affirmer que l'arabe, aliéné permanent dans son pays, vit dans un état de dépersonnalisation absolue. Le statut de l'Algérie, une déshumanisation systématique. Or, le pari absurde était de vouloir coûte que coûte faire exister quelques valeurs, alors que le non-droit, l'inégalité, le meurtre multicotidien de l'homme sont érigés en principes législatifs. »",
+                    "start": 2916.867,
+                    "end": 2941.289
+                },
+                {
+                    "titre": "Fanon et la psychiatrie : un regard critique sur l'aliénation",
+                    "extrait": "« Pendant près de trois ans, je me suis mis totalement au service de ce pays et des hommes qui l'habitent. Je n'éménageais ni mes efforts ni mon enthousiasme. Pas un morceau de mon action qui n'est exigé comme horizon l'émergence unanimement souhaitée d'un monde valable. Mais que sont l'enthousiasme et le souci de l'homme, si journellement la réalité est tissée de mensonges, de lâchetés, du mépris de l'homme ? »",
+                    "start": 2861.56,
+                    "end": 2886.279
+                },
+                {
+                    "titre": "La douleur des patients nord-africains : un mal invisible",
+                    "extrait": "« Le patient nord-africain raconte sa douleur qui devient de plus en plus sienne, il l'expose avec volubilité, il la saisit dans l'espace, la met sous le nez du médecin, il la prend, la touche de ses dix doigts, elle grossit à vue d'œil, il la ramasse sur toute la surface de son corps. Cette maladie répartie sur tout le corps, dit-il, cette souffrance continue, l'attitude la plus facile et à laquelle on est plus ou moins rapidement conduit est, de la part du médecin, la négation de toute morbidité, c'est-à-dire spécifique. »",
+                    "start": 811.534,
+                    "end": 846.34
+                },
+                {
+                    "titre": "Fanon : un précurseur de l'ethnopsychiatrie moderne",
+                    "extrait": "« Il a peut-être pas suffisamment insisté sur cet échec de cette psychothérapie institutionnelle chez les patients algériens qui, au départ, donc, ont été confrontés à quelque chose de purement occidental, hérité de Saint-Alban. Et c'est pour cette raison que, là, progressivement, Fanon prend conscience de l'importance de la spécificité culturelle de l'Algérie, des Algériens, du fait que cette culture a été niée, oubliée, effacée dans l'hôpital. »",
+                    "start": 2545.639,
+                    "end": 2599.885
+                },
+                {
+                    "titre": "La lettre de démission de Fanon : un cri de désespoir",
+                    "extrait": "« Ma décision est de ne pas assurer une responsabilité coûte que coûte sous le fallacieux prétexte qu'il n'y a rien d'autre à faire. Pour toutes ces raisons, j'ai l'honneur, monsieur le ministre, de vous demander de bien vouloir accepter ma démission et de mettre fin à ma mission en Algérie, avec l'assurance de ma considération distinguée. »",
+                    "start": 2956.435,
+                    "end": 2977.166
                 }
             ]
         },
