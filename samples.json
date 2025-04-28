@@ -1,6 +1,6 @@
 {
-    "date": "Mis à jour le 28/04/2025 à 07:30",
-    "unix": 1745818242,
+    "date": "Mis à jour le 28/04/2025 à 07:43",
+    "unix": 1745819026,
     "shows": [
         {
             "title": "Syrie, corps gravé : autour de Najah Albukaï",
@@ -66,6 +66,31 @@
                     "score": 84,
                     "start": 1462.085,
                     "end": 1475.238
+                }
+            ]
+        },
+        {
+            "title": "À qui profiterait la proportionnelle ?",
+            "id": "8c8cc86e-2ef4-4c55-a8fb-634fcf025945",
+            "show": "La Question du jour",
+            "show_id": "1f460354-6799-455b-bdc7-ddb15c0d88fb",
+            "chapo": "F. Bayrou entamera le 28 avril une consultation avec les partis pour faire avancer la proportionnelle aux législatives. Région, département ou système mixte : les modalités restent à trancher, avec un débat attendu à l’automne. Quelles sont les conséquences politiques d'un scrutin proportionnel ? ",
+            "magnetotheque_id": "2025C26356S0118",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/la-question-du-jour/a-qui-profiterait-la-proportionnelle-9587731",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/22898-28.04.2025-ITEMA_24117319-2025C26356S0118-NET_MFC_337D432F-1E17-43E8-BBC3-658470E8CB8C-21.mp3",
+            "duration": 507,
+            "date": 1745817720,
+            "settings": [
+                "interview"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "« La France est le seul pays à conserver le scrutin majoritaire à deux tours »",
+                    "extrait": "Aujourd'hui, en Europe, la France est le seul pays qui conserve pour les élections législatives le mode de scrutin majoritaire à deux tours. Tous les autres, avec des variantes, ont adopté le mode de scrutin proportionnel.",
+                    "score": 95,
+                    "start": 128.6,
+                    "end": 142.07
                 }
             ]
         },
