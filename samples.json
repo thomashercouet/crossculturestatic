@@ -1,6 +1,6 @@
 {
-    "date": "Mis à jour le 28/04/2025 à 08:22",
-    "unix": 1745821360,
+    "date": "Mis à jour le 28/04/2025 à 08:35",
+    "unix": 1745822148,
     "shows": [
         {
             "title": "Syrie, corps gravé : autour de Najah Albukaï",
@@ -224,6 +224,59 @@
                     "score": 88,
                     "start": 1280.494,
                     "end": 1289.924
+                }
+            ]
+        },
+        {
+            "title": "Déserts médicaux : le gouvernement a-t-il (déjà) renoncé ? ",
+            "id": "a0debc71-e2d5-4387-9a2b-191f06005f69",
+            "show": "Le Billet politique",
+            "show_id": "7656aae3-b20b-11e5-8e9e-005056a87c89",
+            "chapo": "Régulation, vacations \"obligatoires\" dans des déserts médicaux... Face à des praticiens en colère, le gouvernement tergiverse. ",
+            "magnetotheque_id": "2025C22191S0118",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/le-billet-politique/deserts-medicaux-le-gouvernement-a-t-il-deja-renonce-3005440",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/13917-28.04.2025-ITEMA_24116958-2025C22191S0118-NET_MFC_E3AC808F-2D76-4C76-8577-5E4A769C6028-21.mp3",
+            "duration": 248,
+            "date": 1745821200,
+            "settings": [
+                "actu"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "« Nous n'accepterons plus que des millions de Français se retrouvent sans accès normal aux soins »",
+                    "extrait": "« Nous n'accepterons plus que des millions et des millions de Français se retrouvent sans accès normal aux soins. »",
+                    "score": 90,
+                    "start": 40.729,
+                    "end": 49.045
+                },
+                {
+                    "titre": "Le gouvernement face à la colère des médecins : « C'est une question de solidarité, de fraternité »",
+                    "extrait": "« C'est une question de solidarité, de fraternité, pas le choix. La situation est trop grave. »",
+                    "score": 85,
+                    "start": 56.248,
+                    "end": 62.972
+                },
+                {
+                    "titre": "« Deux jours par mois dans les zones en manque de médecins, est-ce que ce sont deux jours obligatoires ? »",
+                    "extrait": "« Deux jours par mois dans les zones en manque de médecins, est-ce que ce sont deux jours obligatoires ? Non, ce n'est pas deux jours obligatoires, c'est une proposition pour inciter. »",
+                    "score": 80,
+                    "start": 72.416,
+                    "end": 83.079
+                },
+                {
+                    "titre": "« Un malaise plutôt » : le revirement du gouvernement sur les déserts médicaux",
+                    "extrait": "« Un malaise plutôt. En réalité, vendredi, François Bayrou avait déjà nuancé son exigence. »",
+                    "score": 75,
+                    "start": 106.831,
+                    "end": 111.416
+                },
+                {
+                    "titre": "« La régulation n'est pas un gros mot » : une solution pour les déserts médicaux ?",
+                    "extrait": "« Dans un système solidaire comme le nôtre, la régulation n'est pas un gros mot. »",
+                    "score": 70,
+                    "start": 234.008,
+                    "end": 237.649
                 }
             ]
         },
