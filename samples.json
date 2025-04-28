@@ -1,6 +1,6 @@
 {
-    "date": "Mis à jour le 28/04/2025 à 12:43",
-    "unix": 1745837025,
+    "date": "Mis à jour le 28/04/2025 à 14:15",
+    "unix": 1745842515,
     "shows": [
         {
             "title": "Syrie, corps gravé : autour de Najah Albukaï",
@@ -222,6 +222,31 @@
                     "score": 88,
                     "start": 194.758,
                     "end": 205.368
+                }
+            ]
+        },
+        {
+            "title": "Critique comédie musicale : \"Titanique\", un voyage graveleux au cœur de la pop culture gay américaine",
+            "id": "91cb6ef3-73da-4cfd-8825-e75ede81741b",
+            "show": "Les Midis de Culture",
+            "show_id": "32a14af6-fc87-4f4f-a06e-39ccf8587119",
+            "chapo": "Nos critiques discutent de \"Titanique\", comédie musicale déjantée \"made in Broadway\" mise en scène par Tye Blue, qui mêle chansons iconiques de Céline Dion, rires et chaos.",
+            "magnetotheque_id": "2025C51852S1118",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/les-midis-de-culture/critique-comedie-musicale-au-lido-titanique-revisite-les-tubes-de-celine-dion-dans-un-musical-camp-3065495",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/18723-28.04.2025-ITEMA_24116937-2025C51852S1118-NET_MFC_3F36A0D9-7D03-4BFC-8A30-19F655C9040D-21.mp3",
+            "duration": 854,
+            "date": 1745835301,
+            "settings": [
+                "interview"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "\"Céline Dion, une icône mal comprise : un voyage au cœur de la pop culture gay américaine\"",
+                    "extrait": "\"C'est un voyage au cœur de la pop culture gay et pas queer, vraiment gay américaine. C'est absolument génial, sans doute, si vous allez le voir à Off-Broadway, que vous avez toutes les références, que vous êtes aux Etats-Unis, que vous êtes face à un public conquis avec cette troupe. Mais alors, c'est très difficile à recevoir quand on est en France, pour plein de raisons, notamment parce que je pense qu'une bonne partie du public n'a pas tout à fait les rêves ni la culture. Et surtout, c'est la chose la plus intéressante, mais aussi sans doute la plus déceptive. On ne parle pas de la même Céline Dion, les Américains et nous.\"",
+                    "score": 95,
+                    "start": 97.027,
+                    "end": 127.131
                 }
             ]
         },
@@ -467,6 +492,45 @@
                     "score": 90,
                     "start": 675.656,
                     "end": 683.343
+                }
+            ]
+        },
+        {
+            "title": "Maud Le Pladec, chorégraphe pour \"Static Shot\" ",
+            "id": "ca49327d-df76-4228-8f40-5cde229dadb9",
+            "show": "Les Midis de Culture",
+            "show_id": "32a14af6-fc87-4f4f-a06e-39ccf8587119",
+            "chapo": "La chorégraphe Maud Le Pladec reprend sa création \"Static Shot\", interprétée par les danseurs du Ballet de Lorraine. Un spectacle à la fois pop et abstrait, pensé à partir d’images cinématographiques, qui joue avec le son, l’espace et le temps, dans un crescendo permanent.",
+            "magnetotheque_id": "2025C51852S3118",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/les-midis-de-culture/maud-le-pladec-choregraphe-pour-static-shot-3735459",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/12360-28.04.2025-ITEMA_24116955-2025C51852S3118-NET_MFC_490BC7DF-D7E7-4958-93EE-E30668F807B3-21.mp3",
+            "duration": 1722,
+            "date": 1745839725,
+            "settings": [
+                "interview"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "Comment la danse transcende les mots ?",
+                    "extrait": "\"La danse se passe des mots, quand même, même si elle est souvent sous-tendue. Parce qu'on est quand même, surtout dans la danse contemporaine, on parle beaucoup, finalement. Moi, lorsque j'ai mis une intention de projet, il faut quand même que je la partage avec toutes les équipes, et en l'occurrence avec les danseurs. Mais quand même, elle se passe des mots et moi, ce dont parle Valérie Donzeli, je le ressens, c'est-à-dire que j'ai été et je le reste une grande spectatrice de danse parce que j'ai l'impression en fait que j'ai une forme de connexion avec l'invisible, c'est-à-dire un monde, tout le monde qui est là mais qu'on ne voit pas, qui ne parle pas mais qui nous, je ne sais pas, la poétique, l'invisible, les esprits...\"",
+                    "score": 95,
+                    "start": 638.065,
+                    "end": 678.651
+                },
+                {
+                    "titre": "La danse : un cri de résistance !",
+                    "extrait": "\"Il faut qu'on reste vivant et je crois que... Et ça crie, en tout cas Static Shot pousse ce cri-là. Et on a donc ces 26 danseurs qui ont des tenues très différentes les uns des autres. Alors on en a certains qui sont très urbains, d'autres qu'on pourrait dire plutôt tuffeurs, clubbers. D'autres c'est plus sensuel, beaucoup plus sexy, un peu soirée. Qui sont-ils tous ces gens-là ?\"",
+                    "score": 90,
+                    "start": 336.564,
+                    "end": 371.095
+                },
+                {
+                    "titre": "Pourquoi la danse est-elle l'art le plus vivant ?",
+                    "extrait": "\"Je crois que toute l'idée de la danse, c'est ça, c'est de transcender finalement cette enveloppe physique et de voir comment on peut se réinventer tout le temps et créer un imaginaire de corps... et s'inventer des corps, et sentir encore des nouvelles sensations. C'est vraiment, je pense, l'art le plus vivant du monde, pour moi, à mon sens.\"",
+                    "score": 92,
+                    "start": 938.863,
+                    "end": 962.502
                 }
             ]
         },
@@ -892,6 +956,45 @@
             ]
         },
         {
+            "title": "LES PIEDS SUR TERRE, émission du lundi 28 avril 2025",
+            "id": "bab2571e-fada-4f18-828a-67fb6bba5ea7",
+            "show": "Les Pieds sur terre",
+            "show_id": "beb83c10-402c-11e5-8314-005056a87c89",
+            "chapo": "",
+            "magnetotheque_id": "2025C6612S0118",
+            "seo_url": "",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/10078-28.04.2025-ITEMA_24116956-2025C6612S0118-NET_MFC_2B53826C-6B43-4F0A-92D3-C707569636CC-21.mp3",
+            "duration": 1821,
+            "date": 1745841525,
+            "settings": [
+                "temoignage"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "Comment la taille peut-elle devenir un fardeau ?",
+                    "extrait": "« L'expérience de la très grande taille, écrit-elle, fait évoluer ces femmes du côté des géantes, des femmes qui font peur, des femmes qui gênent, des femmes disgracieuses. Bien loin du cliché des femmes douces, fragiles, petites, passives, graciles, des femmes dominées physiquement par les hommes qui les environnent, qu'ils soient compagnons, camarades, pères, frères, collègues ou inconnus. »",
+                    "score": 95,
+                    "start": 66.415,
+                    "end": 90.401
+                },
+                {
+                    "titre": "« Up with People a sauvé ma vie »",
+                    "extrait": "« Up with People, pour moi, ça m’a sauvé la vie. »",
+                    "score": 90,
+                    "start": 670.095,
+                    "end": 671.515
+                },
+                {
+                    "titre": "Comment surmonter les blessures de l'enfance ?",
+                    "extrait": "« C’était constamment la peur. Il ne faut pas que je devienne encore plus moche que ce que je ne suis. »",
+                    "score": 85,
+                    "start": 486.469,
+                    "end": 491.265
+                }
+            ]
+        },
+        {
             "title": "La vaccination",
             "id": "faaa3fe5-283d-4ed0-89d0-5efa7774e28d",
             "show": "Carnets de santé",
@@ -974,6 +1077,45 @@
                     "score": 92,
                     "start": 1642.484,
                     "end": 1657.23
+                }
+            ]
+        },
+        {
+            "title": "Critique spectacle vivant : \"Titanique\" & \"Une mouette\"",
+            "id": "178dd6d7-1cd5-4f3d-9984-d53bed9b4885",
+            "show": "Les Midis de Culture",
+            "show_id": "32a14af6-fc87-4f4f-a06e-39ccf8587119",
+            "chapo": "Au programme du débat critique, du spectacle vivant, avec la comédie musicale \"Titanique\" de Marla Mindelle, Constantine Rousouli et Tye Blue au Lido et la mise en scène d'\"Une mouette\" par Elsa Granat d’après Anton Tchekhov à la Comédie-Française.",
+            "magnetotheque_id": "2025C51852S0118",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/les-midis-de-culture/critique-spectacle-vivant-titanique-une-mouette-3749297",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/12360-28.04.2025-ITEMA_24116955-2025C51852S0118-NET_MFC_8209C29F-4A09-41FB-8C99-00822A5F0ABF-21.mp3",
+            "duration": 1651,
+            "date": 1745836125,
+            "settings": [
+                "interview"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "Pourquoi la culture gay américaine ne passe pas en France ?",
+                    "extrait": "\"C'est un voyage au cœur de la pop culture gay et pas queer, vraiment gay américaine. C'est absolument génial, sans doute, si vous allez le voir à Off-Broadway, que vous avez toutes les références, que vous êtes aux Etats-Unis, que vous êtes face à un public conquis avec cette troupe. Mais alors, c'est très difficile à recevoir quand on est en France, pour plein de raisons, notamment parce que je pense qu'une bonne partie du public n'a pas tout à fait les rêves ni la culture.\"",
+                    "score": 85,
+                    "start": 96.98,
+                    "end": 120.212
+                },
+                {
+                    "titre": "Le spectacle vivant ou le produit marketing ?",
+                    "extrait": "\"C'est-à-dire que c'est vraiment au cordeau. Il y a un rythme qu'on a nulle part ailleurs. Les chorégraphies sont au millimètre près. On sent qu'ils tournent ça depuis mille ans. C'est supramétrisé. Ce qui fait aussi que l'émotion ne peut pas poindre, ou l'émotion dans toute son ampleur. Parce que c'est tellement cadenassé... que, en fait, ça devient un produit.\"",
+                    "score": 90,
+                    "start": 469.14,
+                    "end": 489.236
+                },
+                {
+                    "titre": "Céline Dion : une figure populaire déformée ?",
+                    "extrait": "\"C'est la Céline Dion des grandes chansons américaines. Et en fait, nous, c'est qui notre Céline Dion ? C'est la chanson qui chante Goldman, qu'on a vu à 14 ans, avec ses dents pas refaites. Et là, on est sur un spectacle qui prend le contre-pied, vraiment, deux interprétations de cette figure populaire.\"",
+                    "score": 80,
+                    "start": 869.208,
+                    "end": 881.372
                 }
             ]
         },
@@ -1087,6 +1229,61 @@
                     "score": 85,
                     "start": 264.397,
                     "end": 281.56
+                }
+            ]
+        },
+        {
+            "title": "Critique théâtre : Elsa Granat met en scène \"Une mouette\" d'après Anton Tchekhov",
+            "id": "6e361bcf-5504-427b-858c-3079a6c2474a",
+            "show": "Les Midis de Culture",
+            "show_id": "32a14af6-fc87-4f4f-a06e-39ccf8587119",
+            "chapo": "Nos critiques discutent d'\"Une mouette\", une réécriture contemporaine de \"La mouette\" de Tchekhov mise en scène par Elsa Granat à la Comédie Française.",
+            "magnetotheque_id": "2025C51852S2118",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/les-midis-de-culture/critique-theatre-une-mouette-mise-en-scene-par-elsa-granat-d-apres-anton-tchekhov-5224214",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/12360-28.04.2025-ITEMA_24116955-2025C51852S2118-NET_MFC_F5A87712-72CB-4A5F-A032-77C0198438C9-21.mp3",
+            "duration": 799,
+            "date": 1745836200,
+            "settings": [
+                "interview"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "« Qu'est-ce que c'est performer ? »",
+                    "extrait": "C'est un spectacle qui interroge la notion de performance. Qu'est-ce que c'est performer ? Qu'est-ce que c'est le travail ? Qu'est-ce que c'est être une femme qui performe ? Et qu'est-ce que c'est la vulnérabilité ?",
+                    "score": 95,
+                    "start": 106.859,
+                    "end": 116.503
+                }
+            ]
+        },
+        {
+            "title": "Année de la mer 2025 : Camille Étienne investit le musée d'Orsay ",
+            "id": "766c54ea-df15-406a-bd0c-f5e8b2f08a17",
+            "show": "Le Point culture",
+            "show_id": "25d4eded-ef3f-4106-9cca-09a53f4794dc",
+            "chapo": "À travers des lectures, du théâtre, de la danse, du chant, le musée d'Orsay accueille les 29 et 30 avril un parcours performatif pour célébrer les océans afin d'explorer notre rapport sensible à ces étendues d'eau, centrales dans les enjeux liés au changement climatique. ",
+            "magnetotheque_id": "2025C41196S0118",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/le-point-culture/impressions-de-la-mer-on-peut-toucher-par-le-sensible-6474130",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/21829-28.04.2025-ITEMA_24116978-2025C41196S0118-NET_MFC_5D109DEA-F310-44EA-A98A-B88A53F82720-21.mp3",
+            "duration": 607,
+            "date": 1745838000,
+            "settings": [
+                "actu"
+            ],
+            "limit": 2,
+            "extraits": [
+                {
+                    "titre": "« L'art est un anti-destin » : Camille Étienne sur le pouvoir de l'art face à la catastrophe climatique",
+                    "extrait": "Eh bien, c'est une question assez perturbante, parce que je n'ai pas envie de répondre non plus en disant que l'art va tout changer, qu'il suffit de faire quelques pas d'œufs pour que les courbes s'inversent, ou bien que... que quelques phrases de théâtre aussi jolies soient-elles on va faire descendre les degrés dans l'atmosphère j'en suis bien consciente que l'art ne peut pas tout mais il y a cette phrase de Malraux qui disait que l'art est un anti-destin et je suis partie de là et c'est pour ça que j'ai accepté ces deux soirs avec Orsay en me disant en fait c'est peut-être ça, c'est des moments où on va retrouver cette envie irrémédiable d'étonner la catastrophe donc pour moi c'est un élan, c'est peut-être que ça mais c'est un élan qui nous manque terriblement en ce moment donc trouver un endroit pour se rassembler pour ralentir, pour se taire, pour être face à aussi l'histoire.",
+                    "start": 150.401,
+                    "end": 196.361
+                },
+                {
+                    "titre": "Pourquoi la France est-elle le leader mondial des enjeux maritimes ?",
+                    "extrait": "La France est, honnêtement, d'un point de vue diplomatique, un des plus forts, si ce n'est le plus fort pays en ce qui concerne l'océan. On est le deuxième espace maritime mondial juste après les Etats-Unis et de peu. Et par ailleurs, on est les seuls à faire partie de la Convention de la mer. Les Etats-Unis ne font pas partie de la Convention de la mer. Donc ça veut dire que quand il y a des négociations internationales sur la mer, vraiment la France est le plus important, est numéro un. Donc ce que fait la France dans ses politiques sur l'océan, c'est regarder vraiment pour le coup du monde entier.",
+                    "start": 113.576,
+                    "end": 140.896
                 }
             ]
         },
