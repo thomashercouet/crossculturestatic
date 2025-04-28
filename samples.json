@@ -1,6 +1,6 @@
 {
-    "date": "Mis à jour le 28/04/2025 à 10:06",
-    "unix": 1745827600,
+    "date": "Mis à jour le 28/04/2025 à 10:20",
+    "unix": 1745828418,
     "shows": [
         {
             "title": "Syrie, corps gravé : autour de Najah Albukaï",
@@ -123,6 +123,66 @@
                     "score": 85,
                     "start": 73.642,
                     "end": 81.244
+                }
+            ]
+        },
+        {
+            "title": "Surveillants, matons, \"hommes à tout faire de la pénitentiaire\" : qui sont-ils ?",
+            "id": "e16ff065-9b15-4a2d-aeaf-c4f68a2d50f4",
+            "show": "Va savoir",
+            "show_id": "804153d4-b53b-4774-812e-25eed86f5aef",
+            "chapo": "Après une flambée de harcèlement contre les surveillants de prison, une vingtaine d'interpellations a eu lieu ce lundi 28 avril 2025 pour réagir face à la dégradation du sort de ceux qui exercent un métier méconnu. Pourtant des données au long cours existent grâce à un rapport récent, très riche.",
+            "magnetotheque_id": "2025C53486S0118",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/va-savoir/surveillants-matons-hommes-a-tout-faire-de-la-penitentiaire-qui-sont-ils-8422126",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/25339-28.04.2025-ITEMA_24116972-2025C53486S0118-NET_MFC_156F2F24-BA03-40A6-A27B-CECD70FCECE3-21.mp3",
+            "duration": 227,
+            "date": 1745823000,
+            "settings": [
+                "actu"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "Pourquoi les surveillants de prison se sentent-ils de moins en moins comme des agents de réinsertion ?",
+                    "extrait": "A l'entrée à l'ENAP, l'école nationale de l'administration pénitentiaire, un aspirant surveillant se voit d'abord comme chargé d'aider à la réinsertion du détenu. C'est sa première mission, à ses yeux, juste après le début de la formation. Et puis ça passe, 14 ans, 25 ans plus tard, la première mission c'est d'abord de maintenir l'ordre, ça double au fil de l'étude au long cours.",
+                    "score": 85,
+                    "start": 90.284,
+                    "end": 108.079
+                },
+                {
+                    "titre": "Le choc des missions : de la réinsertion à la gestion du désordre",
+                    "extrait": "Mais maintenir l'ordre, ça veut dire quoi ? Avant tout, ne pas faire de vagues. Mais pas pour autant faire respecter la discipline. Surtout si l'on interroge les surveillants sur ce qu'ils pensent des attentes de l'administration pénitentiaire. Pour eux, ce que veut leur hiérarchie, c'est ne pas faire de bruit, quitte à acheter le silence, s'asseoir sur certaines règles en gros.",
+                    "score": 90,
+                    "start": 108.459,
+                    "end": 124.122
+                },
+                {
+                    "titre": "Un chiffre qui fait réfléchir : seulement 9% des surveillants pensent à prévenir les évasions",
+                    "extrait": "Et puis un chiffre qui m'a frappé, empêcher les évasions par exemple, ce n'est cité comme mission que par 9% des surveillants.",
+                    "score": 80,
+                    "start": 143.21,
+                    "end": 148.953
+                },
+                {
+                    "titre": "Comment la famille devient-elle un soutien crucial pour les surveillants de prison ?",
+                    "extrait": "Plus les surveillants avancent dans la carrière et plus ils citent la famille comme un appui crucial. Et ça prend d'autant plus de sens qu'aujourd'hui le harcèlement des surveillants passe aussi par les familles.",
+                    "score": 75,
+                    "start": 157.001,
+                    "end": 165.81
+                },
+                {
+                    "titre": "Les nerfs solides : une qualité essentielle pour les surveillants de prison",
+                    "extrait": "Mais le plus intéressant, c'est de voir que l'idée d'avoir, je cite, « les nerfs solides » explose à mesure que le surveillant s'installe dans son métier. Avoir les nerfs solides pour faire face, c'est 7% des réponses à la sortie de l'école et c'est plus de 3 fois plus 25 ans plus tard !",
+                    "score": 88,
+                    "start": 179.68,
+                    "end": 191.869
+                },
+                {
+                    "titre": "La psychologisation du métier : un changement de perception chez les surveillants",
+                    "extrait": "Et cette psychologisation du métier, ça fait penser à ce que le sociologue Olivier Schwartz avait mis en évidence dans le rapport des classes populaires au travail, pour faire face, mais aussi pour trouver du sens.",
+                    "score": 82,
+                    "start": 208.935,
+                    "end": 217.658
                 }
             ]
         },
@@ -340,6 +400,73 @@
                     "extrait": "Il y a de très très rares foillettes de subversion, et pratiquement pas à l'heure actuelle. Par contre, en faveur de l'ordre établi et du rétablissement de cet ordre sans cesse en frein, les titres sont innombrables. Et la menace du jugement dernier, par exemple, est quelque chose de très fréquent. Les mini-jupes, les cheveux longs sont censurés impitoyablement.",
                     "start": 391.958,
                     "end": 413.704
+                }
+            ]
+        },
+        {
+            "title": "Empire khmer, il était Angkor une fois",
+            "id": "6360c5ed-591d-467d-aac1-a8c6c38f5da0",
+            "show": "Le Cours de l'histoire",
+            "show_id": "0a41bdd2-4a6d-4fb2-b2d1-ca42d2dc5381",
+            "chapo": "Entre le 9ᵉ et le 13ᵉ siècle, les rois khmers imposent leur pouvoir sur un espace bien plus large que le Cambodge actuel. Des temples-montagnes aux canaux fluviaux, les souverains khmers font progressivement du site d’Angkor le centre de leur pouvoir et le symbole sur terre de la cité céleste.",
+            "magnetotheque_id": "2025C36128S0118",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/empire-khmer-il-etait-angkor-une-fois-4890563",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/10076-28.04.2025-ITEMA_24116942-2025C36128S0118-NET_MFC_22A51BB0-95A3-4FDF-8972-D990BCA6857B-21.mp3",
+            "duration": 3535,
+            "date": 1745827125,
+            "settings": [
+                "savoirs"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "Comment Angkor est devenu le symbole d'une civilisation perdue ?",
+                    "extrait": "Le seul nom d'Encore projette dans nos esprits un monde dans lequel la richesse des constructions est aussi dense que la forêt qui les accueille. Même si la forêt semble impénétrable, il n'en va pas de même pour l'histoire qui, elle, est étudiée, travaillée sans cesse, encore et encore.",
+                    "score": 90,
+                    "start": 4.9,
+                    "end": 23.827
+                },
+                {
+                    "titre": "Pourquoi la non-compréhension de l'histoire d'Angkor ajoute au mystère ?",
+                    "extrait": "La non-compréhension de l'histoire, ça ajoute au mystère. Sauf que historiennes, historiens sont là pour nous aider à saisir l'histoire.",
+                    "score": 85,
+                    "start": 162.639,
+                    "end": 171.688
+                },
+                {
+                    "titre": "Angkor : un empire ou un royaume ?",
+                    "extrait": "Ne serait-ce qu'à travers l'expansion territoriale d'Angkor qui, à son apogée, va couvrir le sud du Vietnam, le sud du Laos, aussi une grande partie de la Thaïlande, donc s'étend bien au-delà des frontières actuelles du Cambodge.",
+                    "score": 88,
+                    "start": 3185.478,
+                    "end": 3202.055
+                },
+                {
+                    "titre": "Comment les rois khmers ont-ils façonné leur territoire ?",
+                    "extrait": "C'est toute cette anthropisation du terroir, du territoire sur une très vaste surface qui caractérise finalement l'accumulation de l'investissement humain dans cette région d'Ankor qui sera donc capitale des rois Khmer pendant presque mille ans.",
+                    "score": 92,
+                    "start": 1631.496,
+                    "end": 1653.026
+                },
+                {
+                    "titre": "Quelle est la clé de voûte du royaume khmer ?",
+                    "extrait": "On comprend mieux ce rôle de clé de voûte que je lui attribue souvent au sein du royaume. Tout part du roi et revient au roi.",
+                    "score": 87,
+                    "start": 2112.086,
+                    "end": 2129.711
+                },
+                {
+                    "titre": "Pourquoi le roi khmer n'est pas un dieu mais une autorité sacrée ?",
+                    "extrait": "Le roi au Cambodge n'est pas un dieu, contrairement à d'autres pays. Il n'est pas divinisé, mais il est l'autorité suprême.",
+                    "score": 89,
+                    "start": 923.747,
+                    "end": 931.209
+                },
+                {
+                    "titre": "Comment la redécouverte d'Angkor a-t-elle fasciné le monde ?",
+                    "extrait": "C'est cette redécouverte qui nous fascine et ces temples, et c'est très juste ce que disait Christophe Pottier, toute la question des sources, elle est là.",
+                    "score": 90,
+                    "start": 675.656,
+                    "end": 683.343
                 }
             ]
         },
