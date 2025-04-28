@@ -1,6 +1,6 @@
 {
-    "date": "Mis à jour le 28/04/2025 à 15:05",
-    "unix": 1745845526,
+    "date": "Mis à jour le 28/04/2025 à 15:39",
+    "unix": 1745847552,
     "shows": [
         {
             "title": "Syrie, corps gravé : autour de Najah Albukaï",
@@ -926,6 +926,59 @@
                     "score": 92,
                     "start": 198.341,
                     "end": 212.445
+                }
+            ]
+        },
+        {
+            "title": "De la maison de famille au Airbnb, le choix des propriétaires de résidences secondaires",
+            "id": "f3366791-a1c6-4943-8dd0-92a5366143ea",
+            "show": "Entendez-vous l'éco ?",
+            "show_id": "ec20bd96-cdfc-44ce-8a1b-85c33cc8b7db",
+            "chapo": " La France compte 3,3 millions de résidences secondaires, un record à l’échelle européenne. Quel est leur rôle dans la crise du logement qui sévit actuellement ? Et comment réguler leur implantation sans augmenter les inégalités ?",
+            "magnetotheque_id": "2025C29629S0118",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/entendez-vous-l-eco/posseder-une-residence-secondaire-est-il-condamnable-3334771",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/10081-28.04.2025-ITEMA_24116940-2025C29629S0118-NET_MFC_DA6DDF86-9010-456D-8E0F-7198E788740C-21.mp3",
+            "duration": 174,
+            "date": 1745845125,
+            "settings": [
+                "savoirs"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "Comment Chamonix est devenue un cimetière de chalets ?",
+                    "extrait": "Un cimetière de chalets, voilà de quoi est composé l'environnement et le paysage au quotidien des 9000 habitants de Chamonix. Une ville qui a perdu 10% de sa population en 25 ans et pour cause 70% des résidences y sont secondaires, d'où les volets fermés de la vaste majorité des habitations.",
+                    "score": 95,
+                    "start": 9.891,
+                    "end": 28.328
+                },
+                {
+                    "titre": "La régulation radicale des résidences secondaires à Chamonix",
+                    "extrait": "Cette réalité a entraîné une réaction de la part de la mairie depuis le 13 avril dernier. Il est tout simplement interdit de construire un logement si celui-ci est destiné à être justement une résidence secondaire. Une régulation radicale qui en dit long sur l'évolution du rapport des Français à ces fameuses résidences secondaires.",
+                    "score": 90,
+                    "start": 28.908,
+                    "end": 47.342
+                },
+                {
+                    "titre": "Les résidences secondaires : un investissement lucratif",
+                    "extrait": "Ces dernières détenues à 34% par des ménages aisés sont passées du statut de maison de campagne familiale à un véritable investissement que la location touristique permet de faire fructifier.",
+                    "score": 85,
+                    "start": 47.382,
+                    "end": 57.67
+                },
+                {
+                    "titre": "La maison de campagne : un rêve devenu un marché",
+                    "extrait": "Nous voilà revenus au bon temps, au bon temps des week-ends à la campagne, mais il ne s'agit plus comme avant, comme il n'y a pas tellement longtemps, il faut le dire, de gagner un coin de forêt pour y trouver une auberge ou, si vous voulez, pour déjeuner sur l'herbe en famille.",
+                    "score": 80,
+                    "start": 80.873,
+                    "end": 92.977
+                },
+                {
+                    "titre": "Une maison de campagne : un rapport malsain ?",
+                    "extrait": "Elle est marrante, elle voulait que j'aille écrire dans sa maison de campagne pour être au calme. Elle m'a proposé de me filer les clés quand je voulais. Attends, mais c'est bizarre de proposer sa maison comme ça à quelqu'un qu'on ne connaît pas. Ça restait en un rapport un peu malsain, non ?",
+                    "score": 75,
+                    "start": 100.29,
+                    "end": 111.097
                 }
             ]
         },
