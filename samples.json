@@ -1,6 +1,6 @@
 {
-    "date": "Mis à jour le 28/04/2025 à 09:01",
-    "unix": 1745823717,
+    "date": "Mis à jour le 28/04/2025 à 09:14",
+    "unix": 1745824494,
     "shows": [
         {
             "title": "Syrie, corps gravé : autour de Najah Albukaï",
@@ -91,6 +91,38 @@
                     "score": 95,
                     "start": 128.6,
                     "end": 142.07
+                }
+            ]
+        },
+        {
+            "title": "Quand l'influenceur Aqababe relance la traque de Xavier Dupont de Ligones ! ",
+            "id": "417b1d0b-0fbf-43bc-998f-5105058626e3",
+            "show": "Un monde connecté",
+            "show_id": "274c0b2b-c347-4748-8989-eb3f08ae5273",
+            "chapo": "Depuis le 18 avril, des centaines de milliers de personnes sont abonnées à un canal instagram de l'influenceur people Aqababe pour partager informations ou rumeurs autour de cet homme devenu une obsession française. ",
+            "magnetotheque_id": "2025C52117S0118",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/un-monde-connecte/quand-l-influenceur-aqababe-relance-la-traque-de-xavier-dupont-de-ligones-8464040",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/21713-28.04.2025-ITEMA_24116425-2025C52117S0118-NET_MFC_DB086E59-E84C-488A-9281-811A52EA219F-21.mp3",
+            "duration": 189,
+            "date": 1745823300,
+            "settings": [
+                "actu"
+            ],
+            "limit": 2,
+            "extraits": [
+                {
+                    "titre": "Comment un influenceur relance la traque d'un meurtrier présumé ?",
+                    "extrait": "Depuis le 18 avril, des centaines de milliers de personnes sont abonnées à un canal instagram de l'influenceur people Aqababe pour partager informations ou rumeurs autour de cet homme devenu une obsession française.",
+                    "score": 90,
+                    "start": 59.189,
+                    "end": 73.082
+                },
+                {
+                    "titre": "\"Il mise à fond sur ses chipis, et il aurait des chipis au placé à Interpol\"",
+                    "extrait": "Il mise à fond sur ses chipis, alors ses chipis c'est le nom qu'il donne à sa communauté, et il aurait des chipis au placé à Interpol ou dans les arcanes judiciaires.",
+                    "score": 85,
+                    "start": 73.642,
+                    "end": 81.244
                 }
             ]
         },
