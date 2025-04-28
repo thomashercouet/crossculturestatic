@@ -1,6 +1,6 @@
 {
-    "date": "Mis à jour le 28/04/2025 à 07:04",
-    "unix": 1745816682,
+    "date": "Mis à jour le 28/04/2025 à 07:18",
+    "unix": 1745817487,
     "shows": [
         {
             "title": "Syrie, corps gravé : autour de Najah Albukaï",
@@ -295,6 +295,36 @@
             ]
         },
         {
+            "title": "Une nouvelle couleur produite en stimulant l'œil humain",
+            "id": "308e0737-79b5-4e90-b01f-f41d579c7393",
+            "show": "Avec sciences",
+            "show_id": "741f4a16-597e-4952-8578-348b2f8307ca",
+            "chapo": "Dans un papier de la revue Science Advances, des chercheurs affirment avoir fait percevoir une nouvelle couleur à cinq personnes en stimulant leur rétine grâce à un laser.",
+            "magnetotheque_id": "2025C26620S0118",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/avec-sciences/une-nouvelle-couleur-produite-en-stimulant-l-oeil-humain-7170508",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/21713-28.04.2025-ITEMA_24116425-2025C26620S0118-NET_MFC_10E118BA-7533-4840-8C58-554B1B5FDB21-21.mp3",
+            "duration": 319,
+            "date": 1745816220,
+            "settings": [
+                "savoirs"
+            ],
+            "limit": 1,
+            "extraits": [
+                {
+                    "titre": "Une couleur jamais vue auparavant : comment est-ce possible ?",
+                    "extrait": "Les scientifiques l'ont nommé holo, ce serait une forme de ver bleuté très profond, un petit peu comme du ver sarcelle. C'est totalement inédit, comme je le disais, puisqu'en activant une seule population de cellules à la fois, on produit une configuration qui n'existe pas normalement. Et on ne savait donc pas, avant cette expérience, si le cerveau serait capable d'interpréter ce message. Pour moi, c'est intéressant, parce qu'il montre qu'un des futurs projets qui étudient de rétablir la vision, ou plutôt rétablir les couleurs à la personne qui a des problèmes pour voir les couleurs rouges, on pourrait leur redonner la possibilité de voir des couleurs.",
+                    "start": 189.98,
+                    "end": 236.883
+                },
+                {
+                    "titre": "Une couleur jamais vue auparavant : comment est-ce possible ?",
+                    "extrait": "Les scientifiques l'ont nommé holo, ce serait une forme de ver bleuté très profond, un petit peu comme du ver sarcelle. C'est totalement inédit, comme je le disais, puisqu'en activant une seule population de cellules à la fois, on produit une configuration qui n'existe pas normalement. Et on ne savait donc pas, avant cette expérience, si le cerveau serait capable d'interpréter ce message. Pour moi, c'est intéressant, parce qu'il montre qu'un des futurs projets qui étudient de rétablir la vision, ou plutôt rétablir les couleurs à la personne qui a des problèmes pour voir les couleurs rouges, on pourrait leur redonner la possibilité de voir des couleurs.",
+                    "start": 189.98,
+                    "end": 236.883
+                }
+            ]
+        },
+        {
             "title": "Cinéma : quelles réalisations depuis MeToo ?",
             "id": "561a83b4-f60a-4387-8d46-8f87c4be74e5",
             "show": "Le Grand Reportage",
@@ -436,6 +466,32 @@
                     "score": 92,
                     "start": 1227.891,
                     "end": 1238.537
+                }
+            ]
+        },
+        {
+            "title": "Russie / Ukraine : la paix au défi de l'intégrité territoriale",
+            "id": "eb9072b5-8b0d-4f06-9054-653dabefb84b",
+            "show": "Les Enjeux internationaux",
+            "show_id": "481f078d-4810-11e5-9fe0-005056a87c89",
+            "chapo": "Alors que la Russie poursuit l’intensification de son occupation des territoires ukrainiens et a lancé le 24 avril son attaque la plus meurtrière contre Kiev depuis un an, le ministre russe des Affaires étrangères a déclaré peu après que la Russie était prête à négocier un accord de paix.",
+            "magnetotheque_id": "2025C3305S0118",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/les-enjeux-internationaux/russie-ukraine-la-paix-au-defi-de-l-integrite-territoriale-3281600",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/25657-28.04.2025-ITEMA_24117316-2025C3305S0118-NET_MFC_BE48B2D5-B0C8-4B41-BE95-AD4127C63DB3-21.mp3",
+            "duration": 804,
+            "date": 1745815920,
+            "settings": [
+                "actu",
+                "interview"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "« La prime ne peut pas être donnée à celui qui a attaqué »",
+                    "extrait": "« Le problème moral qui se pose dans cette négociation, c'est que la prime ne peut pas être donnée à celui qui a attaqué. C'est ça la question. »",
+                    "score": 95,
+                    "start": 266.228,
+                    "end": 277.489
                 }
             ]
         },
