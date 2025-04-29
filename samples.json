@@ -1,6 +1,6 @@
 {
-    "date": "Mis à jour le 29/04/2025 à 14:04",
-    "unix": 1745928270,
+    "date": "Mis à jour le 29/04/2025 à 14:14",
+    "unix": 1745928889,
     "shows": [
         {
             "title": "De quoi les guerres civiles sont-elles le nom ?",
@@ -2254,6 +2254,45 @@
                     "score": 92,
                     "start": 471.599,
                     "end": 483.472
+                }
+            ]
+        },
+        {
+            "title": "Volontourisme, 15 jours pour sauver le monde",
+            "id": "48587a4e-0fcb-4a7f-a2f5-4ca744d91147",
+            "show": "Les Pieds sur terre",
+            "show_id": "beb83c10-402c-11e5-8314-005056a87c89",
+            "chapo": "Chloé débarque à Hanoï pour enseigner l’anglais à des enfants. Une action solidaire qui lui coûte 1 500 euros. Florence, dentiste, part à Madagascar avec une association. Elle extrait des dizaines de dents dans des conditions inacceptables. Chacune croyait faire le bien, mais le doute s’installe.",
+            "magnetotheque_id": "2025C6612S0119",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/les-pieds-sur-terre/volontourisme-15-jours-pour-sauver-le-monde-7698457",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/18722-29.04.2025-ITEMA_24118156-2025C6612S0119-NET_MFC_B8B4919F-6B2E-49F4-8A6C-CCE7C9D915D2-21.mp3",
+            "duration": 1766,
+            "date": 1745927925,
+            "settings": [
+                "temoignage"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "« Nos enfants, pour vous, c'est des chiots »",
+                    "extrait": "« De toute façon, nos enfants, pour vous, c'est des chiots, vous venez, vous jouez avec eux, vous repartez. »",
+                    "score": 95,
+                    "start": 521.957,
+                    "end": 529.318
+                },
+                {
+                    "titre": "Comment le volontourisme peut-il être un piège ?",
+                    "extrait": "« On était complètement inutiles. C'était juste un peu nous pour nous donner des trucs à faire. Et en fait, c'était la colonie de vacances. »",
+                    "score": 90,
+                    "start": 391.263,
+                    "end": 398.62
+                },
+                {
+                    "titre": "« C'est plus on extrait de dents, plus c'est valorisé »",
+                    "extrait": "« Moi, ce qui m'a beaucoup gênée aussi, c'est le fait qu'on comptait le nombre de dents extraites. Plus on extrait de dents et plus c'est valorisé. »",
+                    "score": 88,
+                    "start": 1037.175,
+                    "end": 1069.08
                 }
             ]
         },
