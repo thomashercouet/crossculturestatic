@@ -1,6 +1,6 @@
 {
-    "date": "Mis à jour le 29/04/2025 à 15:58",
-    "unix": 1745935097,
+    "date": "Mis à jour le 29/04/2025 à 16:11",
+    "unix": 1745935903,
     "shows": [
         {
             "title": "De quoi les guerres civiles sont-elles le nom ?",
@@ -819,6 +819,60 @@
                     "score": 90,
                     "start": 63.935,
                     "end": 80.468
+                }
+            ]
+        },
+        {
+            "title": "La naissance du racisme 2/4 : L'exclusion par la pureté de sang",
+            "id": "17c370a1-8390-4979-aa07-1c6071197948",
+            "show": "LSD, la série documentaire",
+            "show_id": "fb8db8c6-20b0-4189-977e-07f112c3de79",
+            "chapo": "",
+            "magnetotheque_id": "2022C26362E8111",
+            "seo_url": "",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/10177-28.04.2025-ITEMA_24116427-2022C26362E8111-ITE_00129807_RSCE-21.mp3",
+            "duration": 3418,
+            "date": 1745942210,
+            "settings": [
+                "temoignage"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "Comment la pureté de sang a façonné l'Espagne moderne ?",
+                    "extrait": "L'exclusion par la pureté de sang. Un documentaire de Stéphane Bonnefoi, édifié Mariani. Il n'y a pas de juifs aujourd'hui. Il y a seulement de l'église. Et il y a des synagogues qui sont devenus des églises ? C'est des synagogues qui sont restés à Toledo, oui. La Synagogue du Transito, c'est-à-dire le transito de Notre Seigneur. Et la Synagogue de Santa Maria Blanche, c'est la Synagogue de Shmuela Lévi. L'homme qui a bâti la Synagogue, avec son argent, il a été trésorier, le roi Pedro Ier, de Castille à la moitié du XIVe siècle.",
+                    "start": 204.037,
+                    "end": 252.385
+                },
+                {
+                    "titre": "Pourquoi l'Espagne a-t-elle expulsé ses Juifs en 1492 ?",
+                    "extrait": "En 1492, les rois catholiques conquièrent ce qu'il reste de territoire aux musulmans de la péninsule ibérique, l'émirat de Grenoble, puis expulsent les juifs d'Espagne. L'exil frappe tous ceux qui, un siècle plus tôt, avaient refusé de recevoir le baptême pour devenir des conversos, des nouveaux chrétiens, par opposition à ces vieux chrétiens dont les veines ne véhiculaient pas de sang juif.",
+                    "start": 304.659,
+                    "end": 331.839
+                },
+                {
+                    "titre": "La limpieza de sangre : un racisme avant l'heure ?",
+                    "extrait": "Ces statues divisent aujourd'hui les historiens. Certains y voient une discrimination de nature religieuse, quand d'autres parlent, pour la première fois de l'histoire, d'un phénomène que nous nommons aujourd'hui racisme, dont le fondement est de nature biologique. La limpieza de sangre, la pureté de sang, fait référence à la biologie, à la race, à la dimension corporelle des individus.",
+                    "start": 378.951,
+                    "end": 410.039
+                },
+                {
+                    "titre": "Comment la généalogie a-t-elle déterminé le destin des individus en Espagne ?",
+                    "extrait": "Il faut bien comprendre qu'au XVe et XVIe siècle, en particulier dans la péninsule ibérique, mais aussi dans d'autres parties de l'Europe, la société est très ouverte, très dynamique, et les possibilités de promotion sociale sont nombreuses. Et c'est précisément au sein de ces classes moyennes, qui aspirent et recherchent la promotion sociale, que sont créés des outils, des instruments pour empêcher d'autres groupes qui font partie de ces mêmes classes de pouvoir accéder aux mêmes objectifs.",
+                    "start": 926.076,
+                    "end": 961.642
+                },
+                {
+                    "titre": "La tragédie des morisques : un héritage oublié ?",
+                    "extrait": "Les expulsions des maurisques, le decret a été proclamé par Philippe III en janvier 1609, statuant l'expulsion de tous les maurisques du royaume de la couronne de l'Espagne. 350.000 selon les calculs de Henri Lapierre dans sa journée musulmane. Il parle de presque 350.000 musulmans qui ont été expulsés vers la Berbérie.",
+                    "start": 2215.22,
+                    "end": 2248.984
+                },
+                {
+                    "titre": "Pourquoi la pureté de sang est-elle toujours d'actualité ?",
+                    "extrait": "Il se trouve que l'Espagne était un pays qui a subi pendant une période, une longue période médiévale, sur une partie de son territoire, l'installation d'autorités politiques islamiques. Lesquelles autorités politiques islamiques ont exercé leur pouvoir sur une population autochtone, et j'insiste sur le terme d'autochtone qui était en majorité chrétienne et en minorité juive.",
+                    "start": 512.293,
+                    "end": 538.451
                 }
             ]
         },
