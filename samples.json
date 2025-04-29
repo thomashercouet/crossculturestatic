@@ -1,6 +1,6 @@
 {
-    "date": "Mis à jour le 29/04/2025 à 16:50",
-    "unix": 1745938215,
+    "date": "Mis à jour le 29/04/2025 à 17:44",
+    "unix": 1745941460,
     "shows": [
         {
             "title": "De quoi les guerres civiles sont-elles le nom ?",
@@ -1698,6 +1698,66 @@
             ]
         },
         {
+            "title": "Champignons : cèpes à la maison",
+            "id": "ee565ded-31ee-490c-8bf2-dee828860be1",
+            "show": "La Science, CQFD",
+            "show_id": "dc59bf2c-a3f5-48b0-bd13-f7258761d52c",
+            "chapo": "Les champignons sont partout : de la confiture aux réacteurs de Tchernobyl. Ils sont essentiels aux écosystèmes et ont permis l’apparition de la vie sur Terre. S’ils peuvent être bénéfiques, ce sont aussi de redoutables parasites. Comment les champignons influencent-ils la vie sur Terre ?",
+            "magnetotheque_id": "2025C48906S0119",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/la-science-cqfd/champignons-cepes-a-la-maison-5202683",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/14312-29.04.2025-ITEMA_24118183-2025C48906S0119-NET_MFC_FB8BAC1E-3DBC-4445-9323-743F6A22BA8F-21.mp3",
+            "duration": 3494,
+            "date": 1745938725,
+            "settings": [
+                "savoirs"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "Comment les champignons ont changé notre vision du vivant ?",
+                    "extrait": "« À l'époque, on avait une vision très binaire du vivant. Donc si ça ne bougeait pas c'était des plantes, si ça bougeait c'était des animaux. Et forcément les champignons ça ne bouge pas beaucoup, en tout cas on ne les voit pas à l'œil nu bouger. »",
+                    "score": 85,
+                    "start": 858.586,
+                    "end": 871.271
+                },
+                {
+                    "titre": "Le champignon le plus grand du monde : un géant caché !",
+                    "extrait": "« C'est le humongous fungus, comme ils disent aux États-Unis, c'est l'armilière couleur de miel qui couvre 10 km². Alors c'est approximativement 1300 stades de foot, pour vous représenter. »",
+                    "score": 90,
+                    "start": 443.819,
+                    "end": 456.522
+                },
+                {
+                    "titre": "Les champignons : des alliés ou des ennemis ?",
+                    "extrait": "« Grâce à eux, on a des millions de vies qui ont été sauvées par la découverte de la pénicilline. Et puis, ils causent aussi plus de 2,5 millions de décès chaque année. »",
+                    "score": 88,
+                    "start": 2435.101,
+                    "end": 2442.983
+                },
+                {
+                    "titre": "Les champignons, ces architectes invisibles de notre écosystème !",
+                    "extrait": "« On estime à 90% de la biomasse des plantes mortes qui est décomposée par les champignons. Et s'il n'y avait pas de champignons... on aurait de graves problèmes puisqu'à les plantes consommer tout le CO2 qu'il y a dans l'atmosphère. »",
+                    "score": 92,
+                    "start": 1995.014,
+                    "end": 2009.165
+                },
+                {
+                    "titre": "Les champignons : champions de la reproduction complexe !",
+                    "extrait": "« La reproduction des champignons, c'est tellement compliqué. Ils peuvent se reproduire de façon sexuée, mais aussi asexuées, c'est-à-dire faire du clonage. »",
+                    "score": 87,
+                    "start": 558.314,
+                    "end": 570.497
+                },
+                {
+                    "titre": "Un champignon qui zombifie les cigales : un scénario de film d'horreur ?",
+                    "extrait": "« Donc, c'est sur les cigales périodiques. Donc, les cigales périodiques, c'est des cigales qui émergent tous les 13 à 17 ans... Et donc là, le champignon, lui, il va directement vers les parties génitales de la cigale, mâle ou femelle. »",
+                    "score": 95,
+                    "start": 2757.406,
+                    "end": 2774.527
+                }
+            ]
+        },
+        {
             "title": "Les États-Unis ont-ils pour ambition de vassaliser l'Ukraine ?",
             "id": "024738bc-8edf-4706-bc71-4b405c847446",
             "show": "Questions du soir : le débat",
@@ -2275,6 +2335,73 @@
                     "score": 95,
                     "start": 106.859,
                     "end": 116.503
+                }
+            ]
+        },
+        {
+            "title": "\"Manon Lescaut\" de l’Abbé Prévost ",
+            "id": "3a9ca246-081d-4c06-98ad-316c3fa61456",
+            "show": "Le Book Club",
+            "show_id": "9919a6d4-3da2-4dd9-8103-77cef065f78d",
+            "chapo": "Aujourd’hui nous explorons \"Manon Lescaut\" de l’Abbé Prévost, l’une des œuvres au programme du bac français. Avec deux professeurs, on en analyse le texte, ses enjeux et on vous donne quelques conseils méthodologiques pour réussir l'épreuve, le jour J.",
+            "magnetotheque_id": "2025C49162S0119",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/le-book-club/manon-lescaut-de-l-abbe-prevost-5524353",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/23875-29.04.2025-ITEMA_24118189-2025C49162S0119-NET_MFC_BBD51FC3-9C9A-4BCD-8819-33328892FD9F-21.mp3",
+            "duration": 3553,
+            "date": 1745935125,
+            "settings": [
+                "interview"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "« La passion amoureuse, un coup mortel pour nos désirs »",
+                    "extrait": "« Hélas, si, monsieur. Que voulez-vous que fasse une vie seule contre la volonté de tous ? »",
+                    "score": 85,
+                    "start": 10.652,
+                    "end": 14.852
+                },
+                {
+                    "titre": "« Manon Lescaut : un roman d'amour ou un récit de manipulation ? »",
+                    "extrait": "« C'est un coup de force de l'abbé Prévost d'avoir rendu ces personnages en marge d'une certaine façon héroïque. »",
+                    "score": 90,
+                    "start": 743.394,
+                    "end": 751.934
+                },
+                {
+                    "titre": "« La passion abolit-elle la liberté ? »",
+                    "extrait": "« Est-ce que la passion abolit la liberté ? »",
+                    "score": 80,
+                    "start": 909.987,
+                    "end": 911.818
+                },
+                {
+                    "titre": "« La fidélité, une sotte vertu ? »",
+                    "extrait": "« Crois-tu qu'on puisse être bien tendre lorsqu'on manque de pain ? La faim me causerait quelques méprises fatales. »",
+                    "score": 88,
+                    "start": 2204.3,
+                    "end": 2210.197
+                },
+                {
+                    "titre": "« Desgrieux, l'amoureux aveugle »",
+                    "extrait": "« Desgrieux, c'est quelqu'un qui n'apprend pas grand-chose, qui reste enfermé dans une forme d'égocentrisme. »",
+                    "score": 87,
+                    "start": 2804.055,
+                    "end": 2812.38
+                },
+                {
+                    "titre": "« Manon, la figure de l'absente »",
+                    "extrait": "« D'aucuns disent même que c'est la figure de l'absente et qu'on a beau avoir donné le titre Manon Lescaut à ce livre-là, elle règne presque par son mystère et par son absence. »",
+                    "score": 92,
+                    "start": 1697.649,
+                    "end": 1716.547
+                },
+                {
+                    "titre": "« La tragédie de l'amour : un tombeau littéraire »",
+                    "extrait": "« C'est une forme de métaphorisation de la tombe. »",
+                    "score": 89,
+                    "start": 3091.852,
+                    "end": 3095.856
                 }
             ]
         },
