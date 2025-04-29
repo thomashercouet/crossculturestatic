@@ -1,6 +1,6 @@
 {
-    "date": "Mis à jour le 29/04/2025 à 12:31",
-    "unix": 1745922719,
+    "date": "Mis à jour le 29/04/2025 à 14:04",
+    "unix": 1745928270,
     "shows": [
         {
             "title": "De quoi les guerres civiles sont-elles le nom ?",
@@ -1893,6 +1893,38 @@
             ]
         },
         {
+            "title": "La galerie Perrotin mise sur le hors les murs pour élargir son public",
+            "id": "c867a2f5-2183-4e78-a3e0-4882e068a626",
+            "show": "Le Point culture",
+            "show_id": "25d4eded-ef3f-4106-9cca-09a53f4794dc",
+            "chapo": "Les galeries sont des lieux gratuits et ouverts au public, mais y mettre les pieds ne va pas de soi pour nombre de personnes. Comme d'autres établissements culturels, les galeries telle Perrotin s'orientent vers des publics plus lointains, en s'exportant hors les murs.",
+            "magnetotheque_id": "2025C41196S0119",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/le-point-culture/l-art-hors-les-murs-cherche-de-nouveaux-publics-5807556",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/21829-29.04.2025-ITEMA_24118201-2025C41196S0119-NET_MFC_2231D0DF-3E8B-4671-9033-292C69541922-21.mp3",
+            "duration": 596,
+            "date": 1745924400,
+            "settings": [
+                "actu"
+            ],
+            "limit": 2,
+            "extraits": [
+                {
+                    "titre": "« L'art est pour tous » : La galerie Perrotin s'engage à élargir son public",
+                    "extrait": "« Pour nous, c'est effectivement une façon de dire que finalement, l'art est pour tous. Il n'y a pas de mauvaise manière de commencer à s'intéresser à l'art. »",
+                    "score": 90,
+                    "start": 196.402,
+                    "end": 204.266
+                },
+                {
+                    "titre": "Comment l'art peut surprendre au détour d'un hôtel ?",
+                    "extrait": "« Cet effet de surprise-là, c'est aussi quelque chose qui peut donner un accès privilégié à l'art après ? »",
+                    "score": 85,
+                    "start": 259.707,
+                    "end": 263.947
+                }
+            ]
+        },
+        {
             "title": "LES PIEDS SUR TERRE, émission du lundi 28 avril 2025",
             "id": "bab2571e-fada-4f18-828a-67fb6bba5ea7",
             "show": "Les Pieds sur terre",
@@ -1932,6 +1964,42 @@
             ]
         },
         {
+            "title": "Critique littérature : \"Toronto\" d'Elisabeth Benoit & \"La vie continuée de Nelly Arcan\" de Johanne Rigoulot ",
+            "id": "bc430422-25f1-4b6a-ab76-ed999270bdb7",
+            "show": "Les Midis de Culture",
+            "show_id": "32a14af6-fc87-4f4f-a06e-39ccf8587119",
+            "chapo": "Au programme du débat critique, de la littérature, avec deux romans : \"Toronto\" d'Elisabeth Benoit et \"La vie continuée de Nelly Arcan\" de Johanne Rigoulot.",
+            "magnetotheque_id": "2025C51852S0119",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/les-midis-de-culture/critique-litterature-toronto-d-elisabeth-benoit-la-vie-continuee-de-nelly-arcan-de-johanne-rigoulot-7831443",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/12360-29.04.2025-ITEMA_24118178-2025C51852S0119-NET_MFC_05C16B69-B882-4A06-B0C5-DAE358CB5665-21.mp3",
+            "duration": 1659,
+            "date": 1745922525,
+            "settings": [
+                "interview"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "Comment la littérature peut-elle révéler le masculinisme ?",
+                    "extrait": "« Toronto » d'Elisabeth Benoît est un roman qui s'est laissé piéger par le discours masculiniste. C'est un roman qui pose des questions politiques, notamment une fascination tout à fait malaisante autour des ultra-riches qui n'est jamais questionnée ni remise en cause. Ce livre nous montre les discours masculinistes à l'œuvre et nous montre la réduction du témoignage d'Amber Heard en gros à la parole d'une sadique manipulatrice qui est finalement la coupable de l'affaire. C'est un roman contre-révolutionnaire, un roman qui s'est posé des questions à partir de Johnny Depp et a donné des réponses tout en essayant de maintenir une neutralité de bonne aloi qui est, en fait, un choix politique délétère.",
+                    "start": 146.891,
+                    "end": 191.267
+                },
+                {
+                    "titre": "La violence du récit : un écho du masculinisme ?",
+                    "extrait": "Il y a une violence dans ce livre, il y a vraiment la production d'un discours violent, ça c'est clair. Au fur et à mesure de la lecture, étant donné qu'il y a quand même la place très importante de cette narratrice, il n'y a pas que les procès-verbaux, cette prise de parole nous aide quand même à comprendre qu'on est devant quelqu'un qui est en train de monter des témoignages. Ce livre nous montre que derrière l'apparente neutralité, il y a des choix qui sont faits et des choix qui sont vraiment à charge.",
+                    "start": 760.841,
+                    "end": 796.999
+                },
+                {
+                    "titre": "Nelly Arcan : une voix féminine sacrifiée ?",
+                    "extrait": "Nelly Arcan, sa carrière littéraire s'est arrêtée. C'est quand même un désastre humain, contrairement, et tant mieux, aux autres. Donc il y a quand même une singularité de cette histoire. Et là, le livre, à mon sens, choisit un cas. On est au risque de rejouer le côté spectaculaire avec le côté un peu trash et le suicide qui s'est ajouté à ça parce que parmi ces figures de femmes qui écrivent, qui vont à la télévision, Nelly Arcan est un miroir à la fois de la mère et de beaucoup de destins féminins.",
+                    "start": 1379.421,
+                    "end": 1412.647
+                }
+            ]
+        },
+        {
             "title": "Année de la mer 2025 : Camille Étienne investit le musée d'Orsay ",
             "id": "766c54ea-df15-406a-bd0c-f5e8b2f08a17",
             "show": "Le Point culture",
@@ -1958,6 +2026,31 @@
                     "extrait": "La France est, honnêtement, d'un point de vue diplomatique, un des plus forts, si ce n'est le plus fort pays en ce qui concerne l'océan. On est le deuxième espace maritime mondial juste après les Etats-Unis et de peu. Et par ailleurs, on est les seuls à faire partie de la Convention de la mer. Les Etats-Unis ne font pas partie de la Convention de la mer. Donc ça veut dire que quand il y a des négociations internationales sur la mer, vraiment la France est le plus important, est numéro un. Donc ce que fait la France dans ses politiques sur l'océan, c'est regarder vraiment pour le coup du monde entier.",
                     "start": 113.576,
                     "end": 140.896
+                }
+            ]
+        },
+        {
+            "title": "Critique littérature : \"La vie continuée de Nelly Arcan\" de Johanne Rigoulot ",
+            "id": "23e38f2e-ede2-4fb9-88a3-ff31e3afe783",
+            "show": "Les Midis de Culture",
+            "show_id": "32a14af6-fc87-4f4f-a06e-39ccf8587119",
+            "chapo": "Les critiques discutent de \"La vie continuée de Nelly Arcan\", roman autofictionnel de Johanne Rigoulot autour de la figure de l'autrice féministe québécoise.",
+            "magnetotheque_id": "2025C51852S2119",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/les-midis-de-culture/critique-litterature-la-vie-continuee-de-nelly-arcan-de-johanne-rigoulot-5488516",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/12360-29.04.2025-ITEMA_24118178-2025C51852S2119-NET_MFC_9062815B-4DEF-419E-978D-D84F2CD7FFFF-21.mp3",
+            "duration": 666,
+            "date": 1745922600,
+            "settings": [
+                "interview"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "« Nelly Arcan, un miroir de la féminité et de la souffrance »",
+                    "extrait": "« Nelly Arcan est un miroir, à la fois de la mère et de beaucoup de destins féminins. »",
+                    "score": 95,
+                    "start": 385.975,
+                    "end": 392.841
                 }
             ]
         },
@@ -2218,6 +2311,31 @@
                     "score": 95,
                     "start": 128.6,
                     "end": 142.07
+                }
+            ]
+        },
+        {
+            "title": "Critique littérature : \"Toronto\" d'Elisabeth Benoit, désarçonnant roman du backlash masculiniste ",
+            "id": "64f71341-6173-4303-be2d-665961f630ee",
+            "show": "Les Midis de Culture",
+            "show_id": "32a14af6-fc87-4f4f-a06e-39ccf8587119",
+            "chapo": "Les critiques discutent de \"Toronto\", second roman de l'autrice québécoise Elisabeth Benoit, qui revient sur l'affaire Depp-Heard et s'intéresse à l'emballement médiatique au sujet de ce procès.",
+            "magnetotheque_id": "2025C51852S1119",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/les-midis-de-culture/critique-litterature-toronto-d-elisabeth-benoit-2649045",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/12360-29.04.2025-ITEMA_24118178-2025C51852S1119-NET_MFC_0453B3A5-B6AA-4076-9622-4EA21D01095D-21.mp3",
+            "duration": 995,
+            "date": 1745921701,
+            "settings": [
+                "interview"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "« Ce roman est un acte de storytelling masculiniste »",
+                    "extrait": "« C'est-à-dire que le masculinisme c'est quand même une narration. Et le masculinisme c'est déjà du storytelling. Et qu'est-ce que c'est le masculinisme ? C'est une masculinité, en fait, du ressentiment. Et donc c'est un sentiment de revanche. »",
+                    "score": 95,
+                    "start": 516.38,
+                    "end": 528.201
                 }
             ]
         },
