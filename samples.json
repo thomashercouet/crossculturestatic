@@ -1,6 +1,6 @@
 {
-    "date": "Mis à jour le 29/04/2025 à 12:06",
-    "unix": 1745921160,
+    "date": "Mis à jour le 29/04/2025 à 12:21",
+    "unix": 1745922079,
     "shows": [
         {
             "title": "De quoi les guerres civiles sont-elles le nom ?",
@@ -1541,6 +1541,66 @@
                     "score": 90,
                     "start": 2913.563,
                     "end": 2943.477
+                }
+            ]
+        },
+        {
+            "title": "Élections fédérales : Justin Trudeau, un bilan contesté",
+            "id": "bb142b62-9c90-45b5-b2d8-9e62e5edbfad",
+            "show": "Cultures Monde",
+            "show_id": "2358bc00-3f62-11e5-8314-005056a87c89",
+            "chapo": "Fin avril, l'ancien Premier ministre intérimaire Mark Carney et son Parti libéral ont été donnés vainqueur des élections fédérales canadiennes. Une victoire qui se traduit par le maintien des libéraux au pouvoir, malgré la démission de leur chef du Parti, Justin Trudeau, en janvier dernier.",
+            "magnetotheque_id": "2025C16756S0119",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/cultures-monde/elections-federales-justin-trudeau-un-bilan-conteste-5523770",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/11701-29.04.2025-ITEMA_24118180-2025C16756S0119-NET_MFC_20208FDE-049C-4851-9B40-899588846A2B-21.mp3",
+            "duration": 3490,
+            "date": 1745920725,
+            "settings": [
+                "savoirs"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "Comment Marc Carnet a redressé le Parti libéral en un temps record ?",
+                    "extrait": "« Marc Carnet a réussi à faire à son parti ce qu'on pourrait appeler en football une sorte de remontada, vous l'avez souligné. Le parti était en dessous de la barre des 20% à la fin de l'année, et puis là, il est aux alentours de 43%. »",
+                    "score": 90,
+                    "start": 308.033,
+                    "end": 339.011
+                },
+                {
+                    "titre": "Pourquoi le Canada ne sera jamais le 51e État des États-Unis ?",
+                    "extrait": "« L'Amérique veut notre terre, nos ressources, notre eau, notre pays. Jamais. Nous devons reconnaître la réalité selon laquelle notre monde a fondamentalement changé. »",
+                    "score": 95,
+                    "start": 70.681,
+                    "end": 84.526
+                },
+                {
+                    "titre": "Le bilan de Justin Trudeau : un héritage contesté ?",
+                    "extrait": "« Il est mitigé, il y a un certain nombre de critiques, notamment sur le plan économique, mais il y avait surtout une grande lassitude de la part des Canadiens. »",
+                    "score": 85,
+                    "start": 1901.668,
+                    "end": 1911.798
+                },
+                {
+                    "titre": "Pierre Poilièvre : le petit Trump canadien ?",
+                    "extrait": "« Pierre Poilièvre a mené une campagne finalement assez correcte. Certains observateurs pensaient qu'ils devraient démissionner après l'élection parce qu'il n'avait pas réussi à obtenir la victoire pour son parti mais finalement son résultat, le résultat des conservateurs montre qu'il représente une certaine tendance tout de même assez forte du Canada. »",
+                    "score": 88,
+                    "start": 905.776,
+                    "end": 936.001
+                },
+                {
+                    "titre": "Comment l'immigration façonne le paysage politique canadien ?",
+                    "extrait": "« On parle là aussi de l'immigration européenne, mais on fera un épisode entier sur cette question jeudi. »",
+                    "score": 80,
+                    "start": 1321.764,
+                    "end": 1326.789
+                },
+                {
+                    "titre": "Le Canada face à la menace d'annexion : un électorat divisé !",
+                    "extrait": "« Donc, oui, je pense que M. Carné va devoir diriger pour tous les Canadiens. Et c'est aussi, justement, avec cette dualité-là dans le vote. »",
+                    "score": 87,
+                    "start": 537.863,
+                    "end": 545.705
                 }
             ]
         },
