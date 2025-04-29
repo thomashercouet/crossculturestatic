@@ -1,6 +1,6 @@
 {
-    "date": "Mis à jour le 29/04/2025 à 15:06",
-    "unix": 1745931976,
+    "date": "Mis à jour le 29/04/2025 à 15:20",
+    "unix": 1745932823,
     "shows": [
         {
             "title": "De quoi les guerres civiles sont-elles le nom ?",
@@ -1302,6 +1302,45 @@
             ]
         },
         {
+            "title": "Pauline Bureau et Céline Milliat-Baumgartner : \"On se construit avec nos enfances et nos souvenirs erronés\"",
+            "id": "bf728a94-ff45-4fcb-9416-b590ec9603ce",
+            "show": "Les Midis de Culture",
+            "show_id": "32a14af6-fc87-4f4f-a06e-39ccf8587119",
+            "chapo": "Comment se construire à partir et au travers d’un événement tragique ? Pauline Bureau met en scène l’auteure et interprète Céline Milliat-Baumgartner dans \"Les Bijoux de pacotille\", une traversée tendre et pudique du deuil.  ",
+            "magnetotheque_id": "2025C51852S3119",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/les-midis-de-culture/pauline-bureau-et-celine-milliat-baumgartner-pour-la-piece-les-bijoux-de-pacotille-7922720",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/12360-29.04.2025-ITEMA_24118178-2025C51852S3119-NET_MFC_0919EF14-3420-4A9C-A849-E6FAC249BA72-21.mp3",
+            "duration": 1748,
+            "date": 1745926125,
+            "settings": [
+                "interview"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "Comment le théâtre peut-il faire revivre les disparus ?",
+                    "extrait": "« Oui, je trouve ça très beau ce qu'il dit sur le théâtre et il y a en tout cas dans la volonté d'écrire cette histoire et puis de la jouer chez moi une volonté de me réapproprier cette histoire comme si je l'avais raté à l'époque en fait, comme si l'accident m'avait enlevé. À la fois mes parents et à la fois les souvenirs qui allaient avec et une partie de l'enfance, en fait. Et je pense qu'écrire et jouer cette histoire et continuer à la jouer, c'est une façon à la fois de les faire revivre, mais aussi de me réapproprier, moi, cette chose qu'on m'a enlevée. Et de fixer aussi. Et d'en faire quelque chose, ouais. De le fixer. D'en refaire du vivant, en fait, aussi, de cette mort-là, quoi. »",
+                    "score": 95,
+                    "start": 910.629,
+                    "end": 957.339
+                },
+                {
+                    "titre": "Pourquoi nos souvenirs d'enfance sont-ils si différents ?",
+                    "extrait": "« Et en fait, ça j'aime bien parce qu'on a tous ça. Et un frère et une sœur n'ont pas le même souvenir plus tard adulte d'un même événement. Et ça, je trouve ça fascinant, en vrai. »",
+                    "score": 90,
+                    "start": 987.963,
+                    "end": 998.408
+                },
+                {
+                    "titre": "Le théâtre : un espace de partage et de résonance émotionnelle",
+                    "extrait": "« En fait, c'est un partage avec le public. Et je n'aurais pas pu le faire de toute façon toute seule, c'est impossible. Et sans Pauline, sans toute cette équipe artistique qui a accompagné le spectacle, qui l'a construit. Enfin, moi, j'ai vraiment l'impression qu'on est douze, en fait, sur scène, au moins, parce que chacun y a mis de sa touche artistique... sonore, visuel et de sa sensibilité. »",
+                    "score": 92,
+                    "start": 469.032,
+                    "end": 521.093
+                }
+            ]
+        },
+        {
             "title": "James Webb : la réionisation sort de l'ombre",
             "id": "c2a8e119-ce34-4535-a909-adf03762abc3",
             "show": "La Science, CQFD",
@@ -1700,6 +1739,73 @@
                     "score": 87,
                     "start": 121.479,
                     "end": 140.045
+                }
+            ]
+        },
+        {
+            "title": "Supermarché, où le commerce fait institution",
+            "id": "2e4de79c-5aa0-459a-a99d-9a80a2fa6c12",
+            "show": "Entendez-vous l'éco ?",
+            "show_id": "ec20bd96-cdfc-44ce-8a1b-85c33cc8b7db",
+            "chapo": "Alors que le modèle de l'hypermarché bat de l'aile depuis une dizaine d'années, les consommateurs français, quoique de plus en plus mobiles, semblent faire leurs courses de moins en moins loin. La préférence pour le \"super\" plutôt que pour \"l'hyper\" signe-t-elle le retour du commerce de proximité ?",
+            "magnetotheque_id": "2025C29629S0119",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/entendez-vous-l-eco/supermarche-ou-le-commerce-fait-institution-4343737",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/10081-29.04.2025-ITEMA_24118165-2025C29629S0119-NET_MFC_16955A34-1918-4E0C-941A-28978EF1539B-21.mp3",
+            "duration": 3545,
+            "date": 1745931525,
+            "settings": [
+                "savoirs"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "Pourquoi les hypermarchés sont-ils en crise ?",
+                    "extrait": "\"Nous avons cédé l'entièreté du parc hypermarché et supermarché. Vous l'avez dit, plus de 425 magasins ont été cédés à des concurrents de la grande distribution. Donc nous sommes aujourd'hui le leader de la petite distribution avec les 7700 points de vente répartis sur tout le territoire en France. Donc le groupe se recentre sur la proximité, le commerce de proximité. Donc c'est une stratégie de développement auquel je crois profondément.\"",
+                    "score": 90,
+                    "start": 238.068,
+                    "end": 261.823
+                },
+                {
+                    "titre": "L'hypermarché, un modèle en surcapacité ?",
+                    "extrait": "\"Il est arrivé à maturité. C'est-à-dire que le chiffre d'affaires, les ventes globales de ce format depuis les années 90 n'ont pas progressé. Alors oui, avec l'inflation, etc. Mais si on déflate le chiffre d'affaires global des hypermarchés, il n'a pas progressé alors que leurs surfaces ont continué de progresser.\"",
+                    "score": 85,
+                    "start": 479.975,
+                    "end": 507.688
+                },
+                {
+                    "titre": "Le commerce de proximité, la nouvelle tendance ?",
+                    "extrait": "\"Nous voyons que nos clients viennent très régulièrement, ils achètent moins. Ça permet aussi le commerce de proximité de gérer son budget, on dépense moins dans le commerce de proximité. Pourquoi ? Parce que l'on vient acheter ce dont on a besoin ?\"",
+                    "score": 88,
+                    "start": 299.365,
+                    "end": 310.468
+                },
+                {
+                    "titre": "La fin des hypermarchés, une réalité ?",
+                    "extrait": "\"Il y a vraisemblablement un petit peu des deux, mais l'hypermarché, effectivement, est remis en cause depuis une quinzaine d'années. Donc ce format serait désormais inadapté, notamment à nos pratiques de consommation, qui ne s'inscrivent pas nécessairement dans la proximité.\"",
+                    "score": 92,
+                    "start": 328.437,
+                    "end": 348.157
+                },
+                {
+                    "titre": "Comment la grande distribution a-t-elle changé nos habitudes ?",
+                    "extrait": "\"L'hypermarché est un sexagénaire qui se porte très bien. Il reste depuis les années 80 le magasin préféré des Français pour leurs achats de produits de grande consommation. Ceux-ci leur consacrent un tiers de leurs dépenses alimentaires et 17% de leurs achats non alimentaires.\"",
+                    "score": 87,
+                    "start": 1051.666,
+                    "end": 1065.191
+                },
+                {
+                    "titre": "Le modèle économique des hypermarchés est-il obsolète ?",
+                    "extrait": "\"Il y a un décalage entre une réalité économique et une réalité spatiale, c'est ce que vous dites ? Exactement. Et si on, par analogie avec l'agriculture, si on regarde les rendements au mètre carré de ces magasins-là, ils ont chuté de l'ordre de 25 à 30% dans l'intervalle entre les années 90 et aujourd'hui.\"",
+                    "score": 89,
+                    "start": 508.427,
+                    "end": 524.056
+                },
+                {
+                    "titre": "La grande distribution face à l'essor du e-commerce !",
+                    "extrait": "\"Pour la première fois, ce sont les premiers à être touchés par ces tensions. Et dans le même temps, on constate que le commerce alimentaire de proximité, là je parle vraiment des boulangers, de l'artisanat commercial, enfin, on réussit à maintenir au moins leur chiffre d'affaires, voire même à connaître des progressions de chiffre d'affaires.\"",
+                    "score": 91,
+                    "start": 717.114,
+                    "end": 741.416
                 }
             ]
         },
