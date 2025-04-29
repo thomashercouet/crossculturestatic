@@ -1,6 +1,6 @@
 {
-    "date": "Mis à jour le 29/04/2025 à 11:03",
-    "unix": 1745917433,
+    "date": "Mis à jour le 29/04/2025 à 11:47",
+    "unix": 1745920059,
     "shows": [
         {
             "title": "De quoi les guerres civiles sont-elles le nom ?",
@@ -268,6 +268,73 @@
                 "titre':'« La guerre civile, un processus politique complexe »','extrait':'« Les guerres civiles ne commencent pas par le bas. Elles commencent toujours par des mécanismes politiques. Et c'est ça qui est central quand on fait de l'analyse. Quand on regarde les vraies guerres civiles, c'est comme ça. Par exemple, la Turquie, qui est en guerre civile depuis les années 80, c'est le PKK qui a déclenché la guerre civile. C'est pas les Kurdes contre les Turcs. Vous voyez, c'est toujours des phénomènes politiques. »",
                 "score': 92}}]}},{",
                 "titre':'« La guerre civile, un processus politique complexe »','extrait':'« Les guerres civiles ne commencent pas par le bas. Elles commencent toujours par des mécanismes politiques. Et c'est ça qui est central quand on fait de l'analyse. Quand on regarde les vraies guerres civiles, c'est comme ça. Par exemple, la Turquie, qui est en guerre"
+            ]
+        },
+        {
+            "title": "Naît-on noir ou le devient-on ?",
+            "id": "3108f5d6-d2ef-432f-b769-e12145db811b",
+            "show": "Avec philosophie",
+            "show_id": "744d0dc6-dacc-4d71-a22c-af97eec7a56e",
+            "chapo": "Pour Fanon, on devient noir par le regard de l’Autre. À partir de l’expérience vécue, il dénonce le racisme et propose une \"phénoménologie critique\" de la race, tout en gardant une distance ambiguë vis-à-vis de la Négritude.",
+            "magnetotheque_id": "2025C48904S0119",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/avec-philosophie/nait-on-noir-ou-le-devient-on-1662846",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/10467-29.04.2025-ITEMA_24118168-2025C48904S0119-NET_MFC_2A3521B6-232E-4805-9B20-FC890141132D-21.mp3",
+            "duration": 3502,
+            "date": 1745917125,
+            "settings": [
+                "savoirs"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "« La négritude, un renversement du stigmate »",
+                    "extrait": "Aimé Césaire souligne combien ce concept est ce qu'on appelle parfois un renversement du stigmate, c'est-à-dire que le mot négritude permet d'afficher haut et fort toute la honte pleine d'oppression qui est attachée à l'individu noir dans le regard de ceux qui l'ont si longtemps appelé « nègre ».",
+                    "score": 90,
+                    "start": 184.905,
+                    "end": 207.921
+                },
+                {
+                    "titre": "« Être noir, c'est un combat contre l'oppression »",
+                    "extrait": "Césaire dit : « Je suis de la race de ceux qu'on opprime, faites des nègres un peuple de vainqueurs, je crois quant à moi qu'il n'y aurait pas du tout de négritude », soulignant que la négritude est le nom de l'oppression, pas d'une identité.",
+                    "score": 85,
+                    "start": 529.68,
+                    "end": 546.282
+                },
+                {
+                    "titre": "« Le regard de l'Autre nous définit »",
+                    "extrait": "Fanon affirme : « Le noir chez lui au XXe siècle ignore le moment où son infériorité passe par l'autre. C'est l'Européen qui crée le noir et fait découvrir à ce noir sa noirceur. »",
+                    "score": 95,
+                    "start": 1736.597,
+                    "end": 1756.434
+                },
+                {
+                    "titre": "« La négritude, un processus d'émancipation »",
+                    "extrait": "Mickaëlle Provost explique que chez Césaire, la négritude est un devenir, une réappropriation qui permet de porter une voix, de ne plus être seulement un objet du discours raciste.",
+                    "score": 88,
+                    "start": 547.784,
+                    "end": 570.937
+                },
+                {
+                    "titre": "« La lutte pour l'identité est un acte de résistance »",
+                    "extrait": "Ouria Bentouami souligne que la négritude a pour but de dire, attention, interrogeons quand même cette inclination que nous avons à ne pas être africain, et que cette détestation du noir en soi a une histoire.",
+                    "score": 87,
+                    "start": 691.283,
+                    "end": 714.756
+                },
+                {
+                    "titre": "« La culture est un champ de bataille »",
+                    "extrait": "Fanon déclare que la culture encapsulée, végétative, depuis la domination étrangère, est revalorisée, mais il critique cette revalorisation qui ne repense pas la culture de l'intérieur.",
+                    "score": 89,
+                    "start": 904.976,
+                    "end": 924.878
+                },
+                {
+                    "titre": "« La liberté est une tâche collective et singulière »",
+                    "extrait": "Fanon insiste sur le fait que l'exercice critique de se libérer est une tâche qui doit être exercée par chacun, et que la liberté est une épreuve de soi.",
+                    "score": 92,
+                    "start": 2902.867,
+                    "end": 2918.909
+                }
             ]
         },
         {
@@ -1672,6 +1739,31 @@
                     "extrait": "« Ma décision est de ne pas assurer une responsabilité coûte que coûte sous le fallacieux prétexte qu'il n'y a rien d'autre à faire. Pour toutes ces raisons, j'ai l'honneur, monsieur le ministre, de vous demander de bien vouloir accepter ma démission et de mettre fin à ma mission en Algérie, avec l'assurance de ma considération distinguée. »",
                     "start": 2956.435,
                     "end": 2977.166
+                }
+            ]
+        },
+        {
+            "title": "Pourquoi la raison est-elle un équilibre ?",
+            "id": "33e14527-b8d0-411a-a695-fe4682ec4540",
+            "show": "Le Pourquoi du comment : philo  ",
+            "show_id": "b6bd068b-da10-4d88-8d15-f0e1c87ed34b",
+            "chapo": "Pour coexister, faut-il savoir \"être raisonnable\" ? La raison impose des limites, parfois frustrantes. Trop de raison, ou pas assez : selon Kant, c’est en la critiquant qu’on évite l’illusion, l’erreur… et les dérives qui menacent la paix entre les humains.",
+            "magnetotheque_id": "2025C45539E0066",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/le-pourquoi-du-comment-philo/pourquoi-la-raison-est-elle-un-equilibre-9184463",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/22788-29.04.2025-ITEMA_24118197-2025C45539E0066-NET_MFC_21AB7D77-A075-4652-98D5-4CF095E2284B-21.mp3",
+            "duration": 205,
+            "date": 1745917103,
+            "settings": [
+                "savoirs"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "« Rien de trop » : La sagesse de la raison",
+                    "extrait": "« rien de trop ». Voilà, en trois mots, toute une sagesse, rien de trop. Et ça suffit, ça suffit pour être heureux. La satisfaction, le fait d'être limité, mesuré, raisonnable, et parfois ce côté raisonnable. Nous exaspère, nous en demandons plus, nous voulons des vérités, des vertus, des valeurs infinies. Nous avons le sentiment que le fait d'être raisonnable ne suffit jamais, qu'au fond, on nous en demande trop, que même cette raisonnabilité est une forme de violence.",
+                    "score": 85,
+                    "start": 56.584,
+                    "end": 92.469
                 }
             ]
         },
