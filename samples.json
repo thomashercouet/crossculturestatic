@@ -1,6 +1,6 @@
 {
-    "date": "Mis à jour le 29/04/2025 à 10:11",
-    "unix": 1745914311,
+    "date": "Mis à jour le 29/04/2025 à 10:25",
+    "unix": 1745915124,
     "shows": [
         {
             "title": "De quoi les guerres civiles sont-elles le nom ?",
@@ -1407,6 +1407,73 @@
                     "score": 90,
                     "start": 675.656,
                     "end": 683.343
+                }
+            ]
+        },
+        {
+            "title": "Du protectorat à l'Indochine française, le Cambodge colonisé",
+            "id": "483524b4-5367-4aa9-993b-478d82dfb19f",
+            "show": "Le Cours de l'histoire",
+            "show_id": "0a41bdd2-4a6d-4fb2-b2d1-ca42d2dc5381",
+            "chapo": "Protectorat vietnamien au début du 19ᵉ siècle, puis quasiment autonome avant de passer sous domination française en 1863, le Cambodge acquiert définitivement son indépendance en 1953. Durant plus d’un siècle, comment la population cambodgienne vit-elle l’ingérence étrangère et la colonisation ?",
+            "magnetotheque_id": "2025C36128S0119",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/du-protectorat-a-l-indochine-francaise-le-cambodge-colonise-6246101",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/10076-29.04.2025-ITEMA_24118167-2025C36128S0119-NET_MFC_42F532E3-FD8E-474A-A359-76AF45213722-21.mp3",
+            "duration": 3557,
+            "date": 1745913525,
+            "settings": [
+                "savoirs"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "Comment la France a-t-elle colonisé le Cambodge sous couvert de protection ?",
+                    "extrait": "C'est en 1863 sous Napoléon III que le Cambodge subit le regard avide de la France, sous couvert de tutelle et de protection. Une discussion s'engage entre l'empereur des Français et le roi du Cambodge, qui aboutit à la signature d'un protectorat qui lui-même, conduite à la colonisation. Mais là, c'est sous la République.",
+                    "score": 90,
+                    "start": 5.225,
+                    "end": 27.501
+                },
+                {
+                    "titre": "La musique, un outil de domination coloniale ?",
+                    "extrait": "La colonisation sonore c'est remettre le son, comme vous avez essayé de le faire il y a 15 jours dans le cours de l'histoire, dans une histoire qui est souvent très silencieuse, et de voir comment la musique a pu aussi participer à cette entreprise coloniale.",
+                    "score": 85,
+                    "start": 117.556,
+                    "end": 132.184
+                },
+                {
+                    "titre": "Le roi du Cambodge : un despote ou un roi en difficulté ?",
+                    "extrait": "Les rois du Cambodge sont présentés comme des despotes orientaux ayant tout pouvoir. Les sources nous montrent une réalité très différente. Et petit à petit, on a des administrateurs coloniaux français qui apprennent le Khmer, qui discutent avec les dignitaires cambodgiens et des bonzes, qui commencent à mieux connaître le pays.",
+                    "score": 80,
+                    "start": 924.83,
+                    "end": 948.123
+                },
+                {
+                    "titre": "La réalité du protectorat français au Cambodge : entre promesses et désillusion",
+                    "extrait": "L'alliance va devenir nécessaire pour les deux parties, si je puis dire, à partir du moment où le roi Neurodome, vieillissant, va faire face à, disons, des tensions au sein de sa cour. Et dans son gouvernement, une partie des élites cambodgiennes vont jouer le jeu, je dirais, des institutions coloniales parce qu'elles y ont un bénéfice vis-à-vis du pouvoir vieillissant du roi.",
+                    "score": 88,
+                    "start": 764.346,
+                    "end": 793.027
+                },
+                {
+                    "titre": "La musique cambodgienne : entre appropriation et mépris colonial",
+                    "extrait": "On dit souvent que la musique est universelle, il n'y a rien de moins vrai en fait, puisque ce qu'elle a d'universel c'est que tout le monde fait de la musique mais ne la fait pas du tout de la même façon. Et c'est une des erreurs qu'on fait, ou pas d'ailleurs, peut-être que c'était complètement volontaire, ça je vous le dirai le jour de ma soutenance.",
+                    "score": 82,
+                    "start": 1191.093,
+                    "end": 1223.887
+                },
+                {
+                    "titre": "L'abolition de l'esclavage au Cambodge : une libération ou une illusion ?",
+                    "extrait": "La réforme qui a été imposée par les Français, qui a eu le plus d'impact, le plus de conséquences au Cambodge, ça a été l'abolition de l'esclavage. Il y avait des modes d'esclavage ou de dépendance extrême des populations qui existaient au Cambodge, avec beaucoup de modalités différentes que les Français n'ont pas toujours voulu voir.",
+                    "score": 87,
+                    "start": 1659.07,
+                    "end": 1687.806
+                },
+                {
+                    "titre": "Le Cambodge face à son indépendance : un chemin semé d'embûches",
+                    "extrait": "La vraie question qui se pose à l'indépendance du Cambodge, c'est d'assurer ces frontières cambodgiennes nées à la période coloniale et de les faire reconnaître à la fois par la Nouvelle-Thaïlande, par le Laos et par le Vietnam au moment même où la France quitte l'Asie du Sud-Est, prévoit de la quitter et que les différents États sont en guerre contre la France à des échelles d'intensité différentes en fonction des territoires.",
+                    "score": 90,
+                    "start": 2913.563,
+                    "end": 2943.477
                 }
             ]
         },
