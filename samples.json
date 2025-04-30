@@ -1,6 +1,6 @@
 {
-    "date": "Mis à jour le 29/04/2025 à 18:18",
-    "unix": 1745943485,
+    "date": "Mis à jour le 30/04/2025 à 08:19",
+    "unix": 1745993948,
     "shows": [
         {
             "title": "De quoi les guerres civiles sont-elles le nom ?",
@@ -2220,6 +2220,38 @@
             ]
         },
         {
+            "title": "Le visage de Garbo. Le cerveau d’Einstein. La nouvelle Citroën.",
+            "id": "bd108f25-2b08-40f8-820b-7cff0270e34e",
+            "show": "Lectures du soir",
+            "show_id": "ee7280ad-40f6-11e5-9fe0-005056a87c89",
+            "chapo": "\"Garbo appartient encore à ce moment du cinéma où la saisie du visage humain jetait les foules dans le plus grand trouble, où l’on se perdait littéralement dans une image humaine comme dans un filtre où le visage constituait une sorte d’état absolu de la chair.\"",
+            "magnetotheque_id": "2025C17591E0066",
+            "seo_url": "",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/12024-29.04.2025-ITEMA_24117663-2025C17591E0066-ITE_00148851_RSCE-21.mp3",
+            "duration": 1140,
+            "date": 1745956567,
+            "settings": [
+                "interview"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "Le visage de Garbo : une beauté éternelle ou un masque de solitude ?",
+                    "extrait": "\"Garbo donnait à voir une sorte d'idée platonicienne de la créature, et c'est ce qui explique que son visage soit presque désexué, sans être pour autant douteux. Elle est toujours elle-même, porte sans feindre sous sa couronne ou ses grands feutres bas, le même visage de neige et de solitude.\"",
+                    "score": 95,
+                    "start": 112.657,
+                    "end": 147.693
+                },
+                {
+                    "titre": "Einstein : le génie déshumanisé ?",
+                    "extrait": "\"La mythologie d'Einstein est en fait un génie si peu magique que l'on parle de sa pensée comme d'un travail fonctionnel, analogue à la confection mécanique des saucisses, à la mouture du grain ou au bocardage du minerai. Il produisait de la pensée, continuellement, comme le moulin de la farine et la mort a été pour lui avant tout l'arrêt d'une fonction localisée.\"",
+                    "score": 90,
+                    "start": 440.274,
+                    "end": 460.97
+                }
+            ]
+        },
+        {
             "title": "Année de la mer 2025 : Camille Étienne investit le musée d'Orsay ",
             "id": "766c54ea-df15-406a-bd0c-f5e8b2f08a17",
             "show": "Le Point culture",
@@ -2492,6 +2524,45 @@
             ]
         },
         {
+            "title": "Peut-on encore sauver le patrimoine de Gaza ?",
+            "id": "cb460da5-74ac-4ef0-a152-eb63dbcbaeee",
+            "show": "Questions du soir : l'idée",
+            "show_id": "18d2d677-e679-453c-aec9-76ddef22ddb4",
+            "chapo": "Quand la guerre détruit les villes, elle détruit aussi la mémoire. À Gaza, 5000 ans d’histoire risquent de disparaître sous les décombres. Comment préserver une mémoire dans un paysage de ruines ?",
+            "magnetotheque_id": "2025C53458S0119",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-l-idee/peut-on-encore-sauver-le-patrimoine-de-gaza-4213278",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/25344-29.04.2025-ITEMA_24118194-2025C53458S0119-NET_MFC_72D8FBC6-7E5E-4C1C-AE40-B38A13034A29-21.mp3",
+            "duration": 1532,
+            "date": 1745947725,
+            "settings": [
+                "savoirs"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "« Le patrimoine fait partie de l'être humain »",
+                    "extrait": "« Non, non, parce qu'en fait le patrimoine fait partie de l'être humain, c'est ce qui est la structure et c'est ce qui le permet d'être accroché, d'avoir des racines et d'avoir une histoire. Ce qui est important aussi pour les Palestiniens, c'est d'avoir une histoire et de pouvoir la montrer. Non, non, non, c'est absolument pas indécent. Vous n'opposez pas la chair à la pierre. »",
+                    "score": 95,
+                    "start": 133.157,
+                    "end": 159.2
+                },
+                {
+                    "titre": "Comment Gaza, carrefour des civilisations, a-t-elle été oubliée ?",
+                    "extrait": "« Gaza a été en fait ce lieu tampon entre deux mondes, et c'est entre autres pour cela qu'en fait il n'y a pas eu cet intérêt. Et ensuite, les vestiges ne sont pas comparables à ce qui a pu être mis au jour en Égypte. Ils sont très importants pour l'histoire de l'humanité, mais dans l'imaginaire et dans la volonté de résultat d'un archéologue du XIXe siècle... »",
+                    "score": 90,
+                    "start": 654.43,
+                    "end": 695.443
+                },
+                {
+                    "titre": "« Avant tout, il faut préserver ces jeunes »",
+                    "extrait": "« Je ne vais pas m'étendre là-dessus. Je vais laisser les spécialistes en parler. Je vais parler de choses beaucoup plus simples. C'est qu'aujourd'hui, en fait, au-delà de la mémoire et du patrimoine, on a besoin de préserver les hommes et on a besoin de préserver cette équipe. »",
+                    "score": 92,
+                    "start": 1467.65,
+                    "end": 1488.633
+                }
+            ]
+        },
+        {
             "title": "Simplification : pourquoi les agences d'Etat sont-elles dans le viseur ? ",
             "id": "056a4161-087b-41dd-8238-cfcf8687baec",
             "show": "La Question du jour",
@@ -2702,6 +2773,52 @@
                     "score": 85,
                     "start": 1615.652,
                     "end": 1621.233
+                }
+            ]
+        },
+        {
+            "title": "Que change la féminisation du pouvoir ?",
+            "id": "b949a689-c8fb-4c84-af69-5ef88bc072e1",
+            "show": "Questions du soir : le débat",
+            "show_id": "df67029c-4820-4a4b-83df-6c2c88bb5840",
+            "chapo": "En politique, la féminisation avance mais bute sur des résistances profondes. 80 ans après le premier vote des Françaises, comment construire une égalité qui ne soit pas seulement formelle ?",
+            "magnetotheque_id": "2025C36267S0119",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/questions-du-soir-le-debat/que-change-la-feminisation-du-pouvoir-2192467",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/10175-29.04.2025-ITEMA_24118164-2025C36267S0119-NET_MFC_E82851DC-9555-4CE8-873C-BC6DD361EA68-21.mp3",
+            "duration": 2323,
+            "date": 1745945925,
+            "settings": [
+                "actu"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "« Pour que les femmes comptent, il faut les compter »",
+                    "extrait": "« On l'a établi en regardant les responsabilités qui existent, à la fois celles qu'on regarde très facilement, c'est-à-dire les parlementaires, les députés, les membres du gouvernement, mais en décortiquant aussi au sein du gouvernement les différences de postes, et on pourrait aller plus loin, on pourrait regarder les budgets dont sont en charge respectivement les hommes et les femmes, mais aussi au niveau des collectivités locales. Les postes d'élus, mais aussi les postes qui sont de fait des postes très stratégiques que ceux des directions de cabinet et des directions générales des services. Et c'est donc en regardant ces différentes sphères et en regardant qui occupe ces fonctions qu'on a essayé d'additionner pour avoir un portrait assez clair de la féminisation du pouvoir en France ? »",
+                    "score": 95,
+                    "start": 274.133,
+                    "end": 319.374
+                },
+                {
+                    "titre": "La féminisation du pouvoir : un chemin encore long",
+                    "extrait": "« Ce que ça veut dire aussi, c'est qu'un certain nombre de partis payent des amendes très élevées, parce que la loi sur la parité, elle a institué une règle qui est l'obligation de présenter autant de candidats hommes que femmes. Même pas dans les lires, de présenter. Et donc même ça... pour un certain nombre de partis, ce n'est pas une motivation suffisante pour ne pas payer d'amende. Donc, on voit bien qu'il faut mettre en place d'autres dispositifs. »",
+                    "score": 90,
+                    "start": 418.131,
+                    "end": 441.347
+                },
+                {
+                    "titre": "« Le pouvoir est encore 100% masculin »",
+                    "extrait": "« Oui, toutes les grandes institutions, la Cour des comptes, le Conseil constitutionnel, toutes ces grandes institutions-là n'ont jamais été présidées par des femmes. Elles sont à 100% présidées par des hommes aujourd'hui. Donc oui, bien sûr, tout ça, ça tisse une sorte de toile aussi qui fait que ça pèse sur les politiques publiques d'une manière ou d'une autre. »",
+                    "score": 92,
+                    "start": 2243.835,
+                    "end": 2261.901
+                },
+                {
+                    "titre": "« La virilité toxique du pouvoir »",
+                    "extrait": "« On a associé au pouvoir les caractéristiques de la virilité, voire de la survirilité. La force physique, la grosse voix, l'aspect imposant... Et donc, on a considéré que sont capables ceux qui peuvent jouer de ces critères-là, exactement comme vient de le dire Mathilde Viau. »",
+                    "score": 93,
+                    "start": 822.108,
+                    "end": 842.694
                 }
             ]
         },
