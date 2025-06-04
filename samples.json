@@ -1,5 +1,1812 @@
 {
-    "date": "Mis à jour le 03/05/2025 à 13:51",
-    "unix": 1746273064,
-    "shows": []
+    "date": "Mis à jour le 04/06/2025 à 23:49",
+    "unix": 1749073756,
+    "shows": [
+        {
+            "title": "Les femmes et la lecture au XIXe siècle ",
+            "id": "f070f030-ac91-49d6-b6c9-e8c3a439214e",
+            "show": "Le Book Club",
+            "show_id": "9919a6d4-3da2-4dd9-8103-77cef065f78d",
+            "chapo": "Que lisaient les femmes du XIXe siècle, et surtout comment ? Dans dernier son essai, l’historienne Isabelle Matamoros part de récits de lectrices pour raconter ce qu'elles avaient le droit ou non de lire. Leur expérience dit à la fois les normes sociales et un vrai désir d’émancipation. ",
+            "magnetotheque_id": "2025C49162S0155",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/le-book-club/les-femmes-et-la-lecture-au-xixeme-siecle-2596268",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/23875-04.06.2025-ITEMA_24157293-2025C49162S0155-NET_MFC_23253CF1-443E-4402-9841-04608A393E48-21.mp3",
+            "duration": 3497,
+            "date": 1749042000,
+            "visual_episode": "https://www.radiofrance.fr/s3/cruiser-production-eu3/2025/06/c2dab235-a49b-48f2-a70c-a64f81e1fcc6/1400x1400_sc_gettyimages-150617992.jpg",
+            "visual_show": "https://www.radiofrance.fr/s3/cruiser-production-eu3/2024/09/f8276416-1a99-462a-b6ec-1f92e8993e9a/1400x1400_sc_fc-le-book-club-3000x3000-photo.jpg",
+            "settings": [
+                "interview"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "Comment les femmes ont défié les normes ?",
+                    "extrait": "Isabelle Matamoros montre que ces usages individuels débordaient souvent les discours dépréciatifs que l'on pouvait porter sur les femmes qui lisent et parfois même... déborder les cadres imposés. Apprentissage de la lecture, portrait d'une génération, quête d'indépendance.",
+                    "score": 8,
+                    "start": 41.171,
+                    "end": 67.235
+                },
+                {
+                    "titre": "La lecture comme acte d'émancipation",
+                    "extrait": "Les femmes, comment dire, ce qu'il faut bien comprendre c'est que les moralistes au début du 19ème siècle ont... craignent profondément que, par leur lecture, les femmes remettent en cause leur situation, et notamment leur situation conjugale. On pense que finalement, à force de lire des histoires d'amour... Elles vont rêver à trouver l'amour.",
+                    "score": 9,
+                    "start": 1758.472,
+                    "end": 1788.032
+                },
+                {
+                    "titre": "Les livres de piété : un paradoxe",
+                    "extrait": "Il y a effectivement celles que j'ai appelées les religieuses. Alors, ce sont des femmes comme... Comme par exemple Pauline Jarrico qui a fondé un ordre missionnaire. Donc là on est vraiment, c'est une femme qui est extrêmement croyante et qui écrit ne lire absolument que des livres de piété. En excluant tous les autres livres.",
+                    "score": 7,
+                    "start": 636.31,
+                    "end": 658.372
+                },
+                {
+                    "titre": "La peur des femmes qui lisent",
+                    "extrait": "Au début du XIXe siècle, les médecins font le lien entre une mauvaise manière de lire et le déclenchement de l'hystérie. Ce n'est pas nouveau, c'est un discours qu'on va déjà trouver au XVIIIe siècle, mais le XIXe siècle, qui est également le grand siècle de l'hystérie féminine, va consacrer un peu cet axiome comme quoi une femme qui lit mal est potentiellement susceptible de devenir hystérique.",
+                    "score": 10,
+                    "start": 976.445,
+                    "end": 1002.701
+                },
+                {
+                    "titre": "Une bibliothèque collective des femmes",
+                    "extrait": "On trouve des livres de piété sur lesquels on est revenu, on trouve également beaucoup de romans. On trouve des livres d'histoire, et après on trouve également beaucoup de théâtre, beaucoup de poésie, parce qu'on est en pleine époque romantique, ce sont deux genres très à la mode, un petit peu de livres de philosophie, de la presse également.",
+                    "score": 8,
+                    "start": 883.781,
+                    "end": 905.5
+                },
+                {
+                    "titre": "Une lettre émouvante d'une ouvrière",
+                    "extrait": "Je suis heureuse d'avoir lu votre livre. Je suis surtout heureuse que ce soit une femme qui ait le fond des idées qui me dominent. Non, madame, votre livre n'est pas une illusion, ni une utopie, mais bien chose réalisable et qui se réalisera. J'ai la foi et Dieu la donne pleine et entière.",
+                    "score": 9,
+                    "start": 2003.328,
+                    "end": 2022.924
+                },
+                {
+                    "titre": "La lecture comme outil de changement",
+                    "extrait": "Oui, tout à fait. Alors, merci déjà d'avoir choisi cet extrait, parce qu'effectivement, c'est une archive extrêmement émouvante. Vous l'avez trouvée comment ? Eh bien, en fait, elle est conservée dans les archives de Flora Tristan à Castres. Et par, je ne sais pas quel hasard, elle n'a jamais été publiée, alors qu'une grande partie de la correspondance de Flora Tristan a été publiée.",
+                    "score": 8,
+                    "start": 2140.817,
+                    "end": 2160.264
+                }
+            ]
+        },
+        {
+            "title": "Paul Dirac, l’entrée en antimatière",
+            "id": "3ae55aae-64e1-4076-864c-b6b884880b36",
+            "show": "La Science, CQFD",
+            "show_id": "dc59bf2c-a3f5-48b0-bd13-f7258761d52c",
+            "chapo": "Dans la grande fresque théâtrale de la recherche scientifique du XXème siècle, un jeune et discret chercheur émerge. Guidé par sa passion du beau, il posera les bases de la physique quantique moderne. Retour sur la figure de Paul Dirac, colauréat avec Erwin Schrödinger du Nobel de physique de 1933.",
+            "magnetotheque_id": "2025C48906S0155",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/la-science-cqfd/paul-dirac-l-entree-en-antimatiere-7491057",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/14312-04.06.2025-ITEMA_24157286-2025C48906S0155-NET_MFC_B6C430EF-1ECE-4E4F-857E-D2AC3CBC0ED7-21.mp3",
+            "duration": 3515,
+            "date": 1749045600,
+            "visual_episode": "https://www.radiofrance.fr/s3/cruiser-production-eu3/2025/06/70ae7477-ccc3-42b6-90e4-0dc3d539faab/1400x1400_sc_capture.jpg",
+            "visual_show": "https://www.radiofrance.fr/s3/cruiser-production/2022/08/50c31dc5-9e16-482d-95f3-f8f0b69eb3ad/1400x1400_la-science-cqfd.jpg",
+            "settings": [
+                "savoirs"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "Comment Dirac a-t-il prédit l'antimatière ?",
+                    "extrait": "En 1928, avec sa célèbre équation de Dirac, le physicien va alors unifier mécanique quantique et relativité restreinte. Il va ainsi prédire l'existence d'antiparticules, une prédiction récompensée par un prix Nobel en 1933. Souvent cité comme l'un des scientifiques les plus influents de l'histoire de l'Angleterre, ses travaux continuent d'alimenter la physique contemporaine.",
+                    "score": 9,
+                    "start": 33.097,
+                    "end": 53.725
+                },
+                {
+                    "titre": "La beauté des mathématiques : moteur de la science ?",
+                    "extrait": "Paul Dirac voit de la beauté dans les mathématiques quand d'autres en trouvent dans la peinture ou la littérature. C'est cette quête de beauté qui l'a guidé dans ses travaux, lui permettant de faire des découvertes fondamentales en physique théorique. Cette approche esthétique de la science soulève des questions sur la manière dont nous percevons et comprenons le monde.",
+                    "score": 8,
+                    "start": 9.489,
+                    "end": 40.379
+                },
+                {
+                    "titre": "Dirac, le timide qui a changé la physique !",
+                    "extrait": "Dirac, connu pour son mutisme, a été influencé par un père autoritaire. Son enfance a été marquée par une stricte éducation, mais c'est cette rigueur qui a façonné son esprit brillant. Malgré sa timidité, il a su s'imposer dans le monde scientifique et faire des découvertes qui ont révolutionné notre compréhension de la matière.",
+                    "score": 7,
+                    "start": 2314.786,
+                    "end": 2341.188
+                },
+                {
+                    "titre": "L'équation de Dirac : un chef-d'œuvre mathématique !",
+                    "extrait": "L'équation de Dirac, souvent qualifiée de sublime, est un modèle de simplicité et de beauté mathématique. Elle a permis de décrire des phénomènes quantiques tout en respectant les principes de la relativité. Cette équation a non seulement prédit l'existence de l'antimatière, mais a également ouvert la voie à de nombreuses découvertes en physique des particules.",
+                    "score": 9,
+                    "start": 2095.229,
+                    "end": 2125.134
+                },
+                {
+                    "titre": "La symétrie : clé de la physique moderne ?",
+                    "extrait": "La symétrie est un concept central en physique, et Dirac a été l'un des premiers à l'intégrer dans ses travaux. Cette notion a permis de prédire l'existence de nouvelles particules et a façonné notre compréhension des interactions fondamentales. La beauté mathématique des équations de Dirac réside dans leur capacité à capturer cette symétrie, révélant ainsi des vérités profondes sur l'univers.",
+                    "score": 8,
+                    "start": 985.654,
+                    "end": 1013.126
+                },
+                {
+                    "titre": "Dirac et l'obsession du spin : une quête scientifique !",
+                    "extrait": "Dirac était obsédé par le spin, une propriété quantique essentielle. Son équation a permis de décrire cette caractéristique de manière élégante, révélant des aspects fondamentaux de la physique des particules. Cette obsession a conduit à des avancées majeures dans notre compréhension de la matière et de ses interactions.",
+                    "score": 7,
+                    "start": 205.506,
+                    "end": 242.559
+                }
+            ]
+        },
+        {
+            "title": "Footballeurs et SDF 1/2 : la coupe du monde des sans-abri en 2006",
+            "id": "c46bb008-f378-42e5-81c0-81c34459d9d1",
+            "show": "Les Nuits de France Culture",
+            "show_id": "4ff3693f-6e66-11e5-8e9e-005056a87c89",
+            "chapo": "",
+            "magnetotheque_id": "2022C3372E0579",
+            "seo_url": "",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/24554-23.11.2023-ITEMA_23561169-2022C3372E0579-NET_MFC_974BBB64-AAC3-415C-85B3-D100C6B61F17-21.mp3",
+            "duration": 3666,
+            "date": 1748988120,
+            "visual_episode": "https://www.radiofrance.fr/s3/cruiser-production/2022/06/89b36874-855b-46d7-b39c-1746aa9212f9/1400x1400_les-nuits-de-france-culture.jpg",
+            "visual_show": "https://www.radiofrance.fr/s3/cruiser-production/2022/06/89b36874-855b-46d7-b39c-1746aa9212f9/1400x1400_les-nuits-de-france-culture.jpg",
+            "settings": [
+                "interview",
+                "temoignage"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "Football : un lien social oublié ?",
+                    "extrait": "Avant d'être une source de profit pour les ultra-riches, le football est un vecteur de lien social et un jeu universel. Loin de la lumière des projecteurs, loin des transferts records et des grandes institutions corrompues, c'est un sport simple qui a pour vocation de tisser des liens entre des individus. Jouer au football, c'est faire partie d'une équipe, d'un bloc collectif qui se doit de travailler ensemble pour réussir. C'est un sport qui peut permettre à celles et ceux qui vivent dans la marge de retrouver de la joie collective, de se fondre dans une structure où chaque individu veut théoriquement le bien de l'autre.",
+                    "score": 8,
+                    "start": 12.241,
+                    "end": 53.648
+                },
+                {
+                    "titre": "La Coupe du Monde des sans-abri : un rêve accessible ?",
+                    "extrait": "La Coupe du Monde des sans-abris, ou Homeless World Cup, existe depuis 2003. Elle a été créée sur l'initiative de Mel Young, entrepreneur social écossais, qui avant de devenir président du réseau international des joueurs de rue, était journaliste. Cette autre Coupe du Monde de football trouve son financement auprès de l'ONU, de l'UEFA, l'Union Européenne de Football, et des amendes payées par les joueurs et les clubs professionnels en infraction.",
+                    "score": 7,
+                    "start": 394.641,
+                    "end": 417.694
+                },
+                {
+                    "titre": "L'espoir au-delà de la rue",
+                    "extrait": "Oscillant entre la joie partagée du football et la difficulté d'un quotidien souvent morne, Toussaint, Karim et les autres racontent l'espoir suscité par cet événement annuel hors du commun, qui donne l'espace de quelques semaines un foyer commun à celles et ceux qui n'en ont pas. Footballer SDF, première partie, c'est tout de suite dans les Les Nuits de France Culture.",
+                    "score": 9,
+                    "start": 107.247,
+                    "end": 126.551
+                },
+                {
+                    "titre": "Le sport comme facteur d'intégration",
+                    "extrait": "Pour lui, le sport est le moyen de retrouver des valeurs qui n'existent plus dans la rue. La Coupe du Monde s'est mise en route en 2003, à l'initiative de deux personnes, une personne autrichienne, une personne écossaise, je crois. qui ont compris que le sport est un facteur d'intégration. On dit souvent que le sport est le troisième facteur de l'intégration après l'école et après le travail.",
+                    "score": 8,
+                    "start": 1660.592,
+                    "end": 1683.859
+                },
+                {
+                    "titre": "Un rêve qui peut devenir réalité",
+                    "extrait": "Moi, je le sens bien personnellement, enfin sur le terrain, bon c'est un peu enguerlandé tout à l'heure mais c'est normal parce qu'on se connaît pas tout ça, donc il y a plein de choses à remettre en point. Mais rien que le fait de représenter la France déjà pour moi c'est énorme. C'est-à-dire on va vite ? Et on n'a pas cette phase de décantation entre la réalité et le rêve.",
+                    "score": 8,
+                    "start": 868.059,
+                    "end": 900.756
+                },
+                {
+                    "titre": "La réalité après le rêve",
+                    "extrait": "Il faut surveiller le retour à la réalité, parce que je crois que la réalité va être inhibée pendant un certain temps. Parce qu'ils vont mener une vie normale, ils n'auront pas le souci de manger, ils n'auront pas le souci de se vêtir, ils partent avec des vêtements, ils n'auront pas le souci de se doucher, il y aura des douches sur place, de trouver un hébergement, etc. Donc pendant 15 jours, ils vont vivre comme un ADF, comme un avec domicile fixe. Et ensuite, il va y avoir ce retour à la réalité qui était la leur.",
+                    "score": 9,
+                    "start": 3051.867,
+                    "end": 3078.934
+                }
+            ]
+        },
+        {
+            "title": "Sortilège ! Quand Jules Michelet métamorphose la sorcière",
+            "id": "6da07832-367d-4656-9350-6fc1dc576667",
+            "show": "Le Cours de l'histoire",
+            "show_id": "0a41bdd2-4a6d-4fb2-b2d1-ca42d2dc5381",
+            "chapo": "En 1862 paraît \"La Sorcière\" de Jules Michelet. L’historien y propose une vision renouvelée de la sorcellerie, entre enquête historique et fiction, qui associe la sorcière à la nature et au désir féminin. Comment Michelet jette-t-il les bases du mythe contemporain de la sorcière ?",
+            "magnetotheque_id": "2025C36128S0155",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/le-cours-de-l-histoire/sortilege-quand-jules-michelet-metamorphose-la-sorciere-7516793",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/10076-04.06.2025-ITEMA_24157267-2025C36128S0155-NET_MFC_7FB8B8A2-E037-4B26-8D5B-67398E625F52-21.mp3",
+            "duration": 3513,
+            "date": 1749020400,
+            "visual_episode": "https://www.radiofrance.fr/s3/cruiser-production-eu3/2025/06/083d6402-f200-4bbf-9cf3-002d89bd9050/1400x1400_sc_mercredi-sorcellerie-34-evelyn-de-morgan-potion-amour-photo-artvee.jpg",
+            "visual_show": "https://www.radiofrance.fr/s3/cruiser-production/2023/11/d1d9dd6a-bb4b-4811-bfc0-e846eaeb317f/1400x1400_sc_le-cours-de-l-histoire.jpg",
+            "settings": [
+                "savoirs"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "Comment Michelet a redéfini la sorcière ?",
+                    "extrait": "C'est en 1862 que Michelet, déjà historien de renom avec sa monumentale histoire de France, fait paraître la sorcière. Des livres que j'ai publiés, celui-ci me paraît le plus inattaquable. Il ne doit rien à la chronique légère ou passionnée. Il est sorti généralement des actes judiciaires. Voilà ce qu'écrit Michelet dans une préface postérieure. Et nous sommes envoûtés. Par sa finesse, sa malice, souvent fantasque et bienfaisante, elle est sorcière et fait le sort.",
+                    "score": 8,
+                    "start": 9.867,
+                    "end": 37.907
+                },
+                {
+                    "titre": "La sorcière, symbole de désirs féminins ?",
+                    "extrait": "Oui, chez Georges Sand, la petite Fadette, c'est aussi une femme qui assume ses désirs, ce qui est très mal vu à cette période. Et en fait, la sorcière, ça devient plutôt la cristallisation des désirs masculins, à tel point qu'elle se condense à la fin du XIXe siècle en LA femme avec une majuscule. Et c'est vraiment, toute femme devient quasiment une sorcière avec l'apogée de la femme fatale, qui est vraiment un mythe omniprésent dans les arts de la fin du XIXe, autour de 1900.",
+                    "score": 9,
+                    "start": 392.09,
+                    "end": 419.102
+                },
+                {
+                    "titre": "Michelet et la sorcière : un lien historique ?",
+                    "extrait": "Mais Michelet, sa sorcière date de 1862, c'est-à-dire que nous sommes quand même bien après le romantisme. Il est héritier de toutes ces sorcières qui ont été mises en avant par le passé depuis le début du 19e siècle ? Évidemment, et pas seulement de celles qui ont été mises en avant depuis le début du XIXe siècle. La sorcière, c'est tout de même un personnage qui a un très long passé et qui n'a jamais vraiment connu d'éclipse, ne serait-ce qu'à travers les sorcières des contes.",
+                    "score": 7,
+                    "start": 175.014,
+                    "end": 207.704
+                },
+                {
+                    "titre": "La sorcière, reflet de la société ?",
+                    "extrait": "Dans cette figure de la sorcière, on a ici le reflet de ce que l'auteur ou l'autrice désire dire aussi de sa société. Oui, chez Georges Sand, la petite Fadette, c'est aussi une femme qui assume ses désirs, ce qui est très mal vu à cette période. Et en fait, la sorcière, ça devient plutôt la cristallisation des désirs masculins, à tel point qu'elle se condense à la fin du XIXe siècle en LA femme avec une majuscule.",
+                    "score": 8,
+                    "start": 382.815,
+                    "end": 419.102
+                },
+                {
+                    "titre": "Michelet, pionnier de l'éco-féminisme ?",
+                    "extrait": "Et donc, un ouvrage de Jules Michelet est attendu, surtout quand il s'appelle La sorcière, en 1862. C'est vrai que le succès permet aussi de figer un élément, avec cette date choisie pour le début de l'exposition, l'île à Jarbouet, 1860. Donc, vous, le choix, il est fait de ces années 1860. Merci, Gérard. On ouvre quand même avec Goya, et il y a aussi Delacroix qui est présent dans l'exposition, et puis voilà, je vous parlais d'Esmeralda de Notre-Dame de Paris.",
+                    "score": 8,
+                    "start": 1843.112,
+                    "end": 1868.194
+                },
+                {
+                    "titre": "La sorcière, entre pouvoir et oppression ?",
+                    "extrait": "Mais si la sorcière se dégrade, cela ne veut pas dire que l'histoire s'obscurcisse. C'est tout simplement que la fonction bénéfique qu'elle détenait à l'origine et qui était de consoler, de guérir, passe à une nouvelle figure progressiste, éminemment laïque bien entendu, dans les temps modernes, celle du médecin. Et voilà, on a Roland Barthes ici qui évoque cette sorcière.",
+                    "score": 9,
+                    "start": 3072.068,
+                    "end": 3098.556
+                },
+                {
+                    "titre": "Michelet et la sorcière : un acte de rébellion ?",
+                    "extrait": "Il écrit La sorcière parce qu'il a envie de parler des femmes, parce qu'il a déjà commencé en écrivant des... Alors, je dis traités, il n'y a pas vraiment de termes adéquats pour parler de ses petits livres, comme lui dit, ou de ses livres singuliers, comme les appelle Roland Barthes. Donc, il a commencé déjà à ruminer le sujet des femmes.",
+                    "score": 8,
+                    "start": 1485.355,
+                    "end": 1507.444
+                }
+            ]
+        },
+        {
+            "title": "Inégalités environnementales : quelle réalité en France ?  ",
+            "id": "ad568a73-c505-4edd-b06f-81ba5fa01dee",
+            "show": "La Question du jour",
+            "show_id": "1f460354-6799-455b-bdc7-ddb15c0d88fb",
+            "chapo": "Dans son dernier rapport sur l'état des inégalités en France, l'Observatoire des inégalités documente les inégalités environnementales. Quelles sont les populations les plus exposées aux pollutions de l'environnement ? Quels sont les liens entre situation économique et exposition à la pollution ? ",
+            "magnetotheque_id": "2025C26356S0155",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/la-question-du-jour/inegalites-environnementales-quelle-realite-en-france-3233358",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/16362-04.06.2025-ITEMA_24157260-2025C26356S0155-NET_MFC_5BC5C3AC-7784-47FB-9196-08E12077B6C5-21.mp3",
+            "duration": 513,
+            "date": 1749014100,
+            "visual_episode": "https://www.radiofrance.fr/s3/cruiser-production-eu3/2025/06/c4d77481-f57e-4d60-aaff-9c91ca91c783/1400x1400_sc_sc_gettyimages-1438204735.jpg",
+            "visual_show": "https://www.radiofrance.fr/s3/cruiser-production-eu3/2024/02/5823c969-f8db-425d-b36b-34d8b3796537/1400x1400_sc_sc_fc-questiondujour-3000x3000-1.jpg",
+            "settings": [
+                "interview"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "Qui subit vraiment la pollution ?",
+                    "extrait": "Les poussières, les fumées que toute une partie des actifs rencontrent, ça concerne 65% des ouvriers contre 10% des cadres, un peu moins de 10%. Et ça c'est une inégalité qui a plutôt tendance à s'aggraver puisque l'air respiré par les cadres en moyenne s'améliore. Ils sont moins nombreux à vivre, à travailler dans ce contexte qui est néfaste pour la santé, tandis que chez les ouvriers ça se maintient.",
+                    "score": 8,
+                    "start": 148.609,
+                    "end": 175.911
+                },
+                {
+                    "titre": "La précarité énergétique expliquée",
+                    "extrait": "Effectivement, la notion de précarité énergétique, elle permet de comprendre comment vont se croiser des contraintes économiques, environnementales. Là, on nous demande de consommer moins d'énergie, de la payer plus cher, et puis des contraintes économiques. Quand on mesure la précarité énergétique, on s'intéresse à la part de la population qui appartient aux 30% les plus modestes et qui, dans le même temps, doit consacrer plus de 8% de son budget énergétique.",
+                    "score": 9,
+                    "start": 388.485,
+                    "end": 415.625
+                },
+                {
+                    "titre": "Pollution et inégalités : un constat alarmant",
+                    "extrait": "On ne pourra pas se contenter de viser les seuls modes de vie néfastes des ultra-riches. Un effort collectif doit être fait. Mais il est seulement possible s'il est largement expliqué et tient compte des besoins des plus défavorisés, on est face à une question politique. En effet on l'a vu dans l'actualité avec la suppression des ZFE qui à la fois butent sur la difficulté pour toute une partie de la population à accéder à des voitures de meilleure qualité et moins polluantes.",
+                    "score": 10,
+                    "start": 452.246,
+                    "end": 483.203
+                },
+                {
+                    "titre": "Les inégalités environnementales en chiffres",
+                    "extrait": "11% de la population française est en précarité énergétique. C'est un chiffre qui a plutôt tendance à diminuer, mais le nombre de personnes qui ont des coupures ou des restrictions sur leur compteur d'électricité, lui, augmente. Et puis on peut aussi s'intéresser à qui subit le chaud.",
+                    "score": 7,
+                    "start": 424.089,
+                    "end": 440.333
+                },
+                {
+                    "titre": "La santé en danger : qui est touché ?",
+                    "extrait": "40 000 morts par an des pollutions de l'air, principalement les plus touchés, sont les plus modestes. On est devant une question que les politiques publiques n'arrivent pas à résoudre.",
+                    "score": 9,
+                    "start": 484.183,
+                    "end": 499.813
+                }
+            ]
+        },
+        {
+            "title": "\"Vivre à présent\" de Beata Umubyeyi Mairesse, retrouver le goût de la légèreté ",
+            "id": "36ef0e2d-c77e-4c61-8e56-61e32b468669",
+            "show": "L'Instant poésie",
+            "show_id": "f69ae1d2-f2b6-44a9-b803-7d809a03be95",
+            "chapo": "Gaël Faye voit dans \"Vivre à présent\" une affirmation à vivre, pour soi, pour les siens et pour l'avenir. Survivante du génocide des Tutsi au Rwanda, Beata Umubyeyi Mairesse revendique le droit à la légèreté, à l'inconséquence de l'existence, malgré la mémoire vive d'un passé douloureux.",
+            "magnetotheque_id": "2025C53416E0063",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/l-instant-poesie/vivre-a-present-de-beata-umubyeyi-mairesse-retrouver-le-gout-de-la-legerete-6708420",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/13025-31.05.2025-ITEMA_24138040-2025C53416E0063-ITE_00150312_RSCE-21.mp3",
+            "duration": 420,
+            "date": 1749065400,
+            "visual_episode": "https://www.radiofrance.fr/s3/cruiser-production-eu3/2025/05/6b35334f-124e-4a86-83b7-eaf1a6f73880/1400x1400_sc_instant-mairesse-16-9e.jpg",
+            "visual_show": "https://www.radiofrance.fr/s3/cruiser-production-eu3/2024/09/a18a392b-f7d5-41bd-972a-e64451f35213/1400x1400_sc_fc-instantpoesie-1400x1400.jpg",
+            "settings": [
+                "interview"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "Pourquoi vivre à présent ?",
+                    "extrait": "Vivre, à présent. Regarder les belles choses et les enfants. Et n'y voir rien d'autre que de belles choses. Nos enfants. Les épargner, les libérer de nous aimer. Les photos, le passé sur un fil pendule léger. Ne rien investir. Être désarimé. Apprendre à désirer. Apprendre un pas de danse. Persister. L'amour n'est pas la pitié. Accepter le sommeil, l'abandon. Conjuguer hier à demain. dans une langue ré-enchantée.",
+                    "score": 8,
+                    "start": 58.841,
+                    "end": 122.845
+                },
+                {
+                    "titre": "Les cicatrices ne sont pas un trophée",
+                    "extrait": "Les cicatrices ne sont pas un trophée. La vie s'altère si on n'y joue pas souvent. Sortir sur les boulevards, rire, boire, biaiser. Les lèvres s'usent si elles n'embrassent pas. Vivre au présent.",
+                    "score": 9,
+                    "start": 136.336,
+                    "end": 161.992
+                },
+                {
+                    "titre": "Légèreté et inconscience : un droit",
+                    "extrait": "On a le droit aussi à la légèreté, on a le droit à la... à l'inconséquence de l'existence. Ne rien investir, être désarimé, apprendre à désirer, apprendre un pas de danse.",
+                    "score": 7,
+                    "start": 312.989,
+                    "end": 336.769
+                },
+                {
+                    "titre": "Protéger nos enfants de notre histoire",
+                    "extrait": "C'est comment on fait pour protéger nos enfants de notre histoire. C'est ce que dit Beata ou Mubi-Iméret, c'est ce que dit la société rwandaise. Conjugué hier à demain, dans une langue réenchantée.",
+                    "score": 8,
+                    "start": 268.265,
+                    "end": 285.317
+                },
+                {
+                    "titre": "L'importance de vivre pour soi",
+                    "extrait": "Écrire « Vivre à présent », c'est... C'est une affirmation très courageuse. Et surtout d'ouvrir ce poème, de l'ouvrir avec les enfants, les épargner, les libérer de nous aimer, comment on aime, comment on... On peut aimer un parent qui a survécu à un génocide sans être affecté.",
+                    "score": 8,
+                    "start": 237.979,
+                    "end": 265.183
+                }
+            ]
+        },
+        {
+            "title": "Critique ciné : avec \"Mountainhead\", Jesse Armstrong expose par la farce le chaos organisé par les géants de la tech",
+            "id": "c4b702df-bee2-4f7c-b436-91eeef05aa7d",
+            "show": "Les Midis de Culture",
+            "show_id": "32a14af6-fc87-4f4f-a06e-39ccf8587119",
+            "chapo": "Nos critiques discutent de \"Mountainhead\" de Jesse Armstrong. Dans son premier long-métrage, le créateur de la série \"Succession\" continue de filmer l'indécence des milliardaires, en se centrant cette fois quatre patrons de la tech, en week-end dans un chalet luxueux pendant que le monde brûle.",
+            "magnetotheque_id": "2025C51852S2155",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/les-midis-de-culture/critique-cine-mountainhead-de-jesse-armstrong-2034869",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/12360-04.06.2025-ITEMA_24157279-2025C51852S2155-NET_MFC_13FA1990-032D-4382-A47C-F7669280E84E-21.mp3",
+            "duration": 773,
+            "date": 1749032100,
+            "visual_episode": "https://www.radiofrance.fr/s3/cruiser-production-eu3/2025/06/4b31b201-bd2d-4c9d-b29e-96d264f8975b/1400x1400_sc_capture-d-ecran-2025-06-03-173802.jpg",
+            "visual_show": "https://www.radiofrance.fr/s3/cruiser-production-eu3/2024/10/15061e2b-95cd-4726-bbe6-268579b84b50/1400x1400_sc_fc-midis-de-culture-3000x3000-photo.jpg",
+            "settings": [
+                "interview"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "Les milliardaires face à l'apocalypse ?",
+                    "extrait": "Imaginez quatre grands Manitou de la Tech réunis au sommet, littéralement au sommet, dans un chalet XXL hyper luxueux au milieu des cimes de l'Utah. Ils arrivent en hélico où on est suvé aux vitres teintées pour un week-end, entre copains qui ont fait fortune dans la Silicon Valley. Voilà le point de départ de Mountain Head, disponible sur Max. C'est le premier film en tant que réalisateur du créateur de la série Succession, devenu culte évidemment, d'autant plus qu'elle s'est achevée il y a deux ans et qu'elle manque à beaucoup de personnes et beaucoup de spectateurs.",
+                    "start": 0.271,
+                    "end": 29.65
+                },
+                {
+                    "titre": "L'IA : un danger sous-estimé ?",
+                    "extrait": "Je n'ai pas expliqué que ces quatre richissimes garçons se réunissent alors que l'invention de l'un des quatre provoque des morts et des violences en série dans le monde. Et qu'elle a mention, c'est-à-dire une IA telle qu'on commence à la subir de façon très très forte, c'est-à-dire une IA qui ne nous avertit pas de ce qui est vrai ou de ce qui est faux, une IA qui produit, qui débite de la fake news à partir de fausses informations générées elles-mêmes par les utilisateurs.",
+                    "start": 187.984,
+                    "end": 219.222
+                },
+                {
+                    "titre": "Le chaos organisé par la tech",
+                    "extrait": "Et là, le chaos se déploie. Dès que cette version qui n'est pas tout à fait finie de l'IA est testée, le monde entier prend feu. Et eux sont donc sur le temps d'un week-end poker entre mecs. C'est un men's club de quatre hommes qui se connaissent depuis une génération différente.",
+                    "start": 226.286,
+                    "end": 244.501
+                },
+                {
+                    "titre": "La farce des géants de la tech",
+                    "extrait": "Ils sont à la fois dans la joke permanente, enfin, de galéjade, de gamins, enfin, ils sont quand même, il y a la moitié du film, ils sont en pyjama, en pilou-pilou, tout en détruisant la planète entière, et avec des vieux trucs, des gags élimés qu'ils ont entre eux, des vieux coin-coin qu'ils font comme ça, parce que ça fait 30 ans, 20 ou 25 ans qu'ils se retrouvent.",
+                    "start": 385.487,
+                    "end": 403.224
+                },
+                {
+                    "titre": "Un film écrit en temps réel",
+                    "extrait": "Il faut quand même revenir sur les six derniers mois. Enfin, je veux dire, il y a un moment où on s'est enfoncé. Là, ça s'est un peu tassé, j'ai l'impression, depuis trois semaines, mais au moment où ils écrivaient, ils devaient quasiment tenir, je pense, le journal. C'est presque le journal, le jour le jour, la main courante.",
+                    "start": 667.69,
+                    "end": 680.532
+                }
+            ]
+        },
+        {
+            "title": "L'histoire de Mouhamed",
+            "id": "f11a3106-b7f6-4f59-a59d-3c4387dc13fa",
+            "show": "Les Pieds sur terre",
+            "show_id": "beb83c10-402c-11e5-8314-005056a87c89",
+            "chapo": "Mouhamed est un ancien élève du collège Rosa Parks. Habitué du bureau de la CPE l’année dernière, l’ambiance du collège Nantes Centre lui fait du bien. Mais après avoir chahuté dans les couloirs et bousculé une surveillante, il a été exclu deux jours et est  convoqué dans le bureau du principal.",
+            "magnetotheque_id": "2025C6612S0154",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/les-pieds-sur-terre/l-histoire-de-mouhamed-3962120",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/10078-03.06.2025-ITEMA_24156076-2025C6612S0154-NET_MFC_51ABC3C1-9AD7-4625-8A18-02CA0FDBA0D1-21.mp3",
+            "duration": 1735,
+            "date": 1748950200,
+            "visual_episode": "https://www.radiofrance.fr/s3/cruiser-production-eu3/2025/06/b55c1ec1-495f-4f0b-8a31-57aed68ce1ef/1400x1400_sc_dans-les-coulolirs-du-college-nantes-centre.jpg",
+            "visual_show": "https://www.radiofrance.fr/s3/cruiser-production/2022/06/a7fc766f-3e49-45a0-a41f-5512d5c0f8c1/1400x1400_les-pieds-sur-terre.jpg",
+            "settings": [
+                "temoignage"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "Pourquoi la mixité sociale est-elle si complexe ?",
+                    "extrait": "Au départ, ce sont les questions qu'on s'est posées en commençant la série. Alors, Anna Benjamin, la productrice, a passé beaucoup de temps dans ce collège à Nantes, avec les enseignants, les élèves, l'équipe de direction et les encadrants. Elle a assisté à l'ouverture du collège, au premier jour de la rentrée, elle a suivi des familles, des réunions, des conseils de classe, des rendez-vous dans le bureau du principal. Et puis, au bout de quelques mois, on s'est dit qu'on s'était peut-être posé la mauvaise question. Et surtout, beaucoup trop tôt. Il faudrait sans doute des années, une génération, pour savoir si c'était une bonne idée de mélanger ses élèves.",
+                    "score": 8,
+                    "start": 31.379,
+                    "end": 69.452
+                },
+                {
+                    "titre": "L'impact des origines sur l'éducation",
+                    "extrait": "Il y a encore quelque part, même si c'est bizarre à dire, mais quand même un respect du prof, de l'autorité. Je pense que je n'avais pas mesuré l'ampleur de ce qu'est ce projet, clairement. J'ai demandé, parce que je suis en fin de carrière et que ce n'est pas loin de chez moi, que je me suis dit que ça me donnerait peut-être un nouveau souffle, même à l'âge que j'ai, il me reste 7 ans à faire. Ce n'est pas toujours simple. Au niveau des collègues, on se découvre. On n'a pas les mêmes façons de travailler. Avant, j'étais dans un collège de centre-ville à Nantes, au collège Guistot. On nous a prévenu toujours au lendemain par SMS qu'on n'allait pas être deux établissements à fusionner, mais trois.",
+                    "score": 7,
+                    "start": 1206.487,
+                    "end": 1248.517
+                },
+                {
+                    "titre": "L'authenticité de Mohamed : un jeune en quête de sens",
+                    "extrait": "Je ne pensais pas qu'il va recommencer, mais il m'a dit que ce n'était pas de sa faute. Je ne sais pas. En tout cas, je l'ai dit, c'est la première et la dernière fois. Je pense qu'il va comprendre. C'est quelqu'un qui n'est pas calme. Même à la maison, c'est comme ça, il ne peut pas. Être deux ou cinq minutes sans rien faire, non, il ne peut pas. C'est sa façon, mais ce n'est pas tout le monde qui peut comprendre. Tu peux faire quelque chose chez toi, mais dehors, il faut être différent.",
+                    "score": 9,
+                    "start": 202.092,
+                    "end": 235.5
+                },
+                {
+                    "titre": "Les défis de l'école : entre ambition et réalité",
+                    "extrait": "Je travaille plus, j'essaie de m'améliorer, j'essaie de ne pas gâcher la classe. Parce que dans la classe, il y a beaucoup d'élèves respectueux. J'essaie d'être comme eux pour ne pas perturber le cours et la classe. Après, il faut s'habituer. Par exemple, il y a un cours, je suis partie aller voir la prof à la fin du cours. Je lui ai dit si elle pouvait m'aider à mieux travailler parce que j'avais des difficultés pour ça, parce que je ne comprenais pas.",
+                    "score": 8,
+                    "start": 448.502,
+                    "end": 476.447
+                },
+                {
+                    "titre": "L'importance de l'accompagnement scolaire",
+                    "extrait": "Il est devant moi, il est au premier rang, donc c'est bien que je... Non, non, mais moi je reconnais que je suis là vraiment démunie parce que c'est quelque chose qui est installé depuis trop longtemps. Si c'était accidentel, c'est-à-dire que là, il aurait un problème dans son parcours, mais là, ce sont des habitudes de non-travail et de non-posture d'élève qui sont en place depuis trop longtemps. Quelque part, le deal, c'est qu'il ne parte pas dans les tours, qu'il ne fasse pas n'importe quoi.",
+                    "score": 7,
+                    "start": 1102.937,
+                    "end": 1131.309
+                }
+            ]
+        },
+        {
+            "title": "Aider : par-delà les frontières du droit",
+            "id": "0da6651d-638f-4cbe-880e-37a8672f2266",
+            "show": "Avec philosophie",
+            "show_id": "744d0dc6-dacc-4d71-a22c-af97eec7a56e",
+            "chapo": "Le principe de non-ingérence est un pilier du droit international. L'aide humanitaire cherche à aider au-delà des frontières. Mario Bettati et Bernard Kouchner  théorisent le \"devoir d'ingérence\". Dans quelle mesure l'humanitaire bouscule-t-il le droit international ?",
+            "magnetotheque_id": "2025C48904S0155",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/avec-philosophie/aider-par-dela-les-frontieres-du-droit-7619619",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/10467-04.06.2025-ITEMA_24157268-2025C48904S0155-NET_MFC_01F2A575-E799-4638-8C8F-4C4EF1163FAD-21.mp3",
+            "duration": 3469,
+            "date": 1749024000,
+            "visual_episode": "https://www.radiofrance.fr/s3/cruiser-production-eu3/2025/06/e33c2c3a-fb97-4874-953d-511c3cd4a545/1400x1400_sc_gettyimages-72103431.jpg",
+            "visual_show": "https://www.radiofrance.fr/s3/cruiser-production/2022/09/7724d8b9-cd17-41f6-b802-5db0c171842b/1400x1400_avec-philosophie-2.jpg",
+            "settings": [
+                "savoirs"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "Le droit d'ingérence : un devoir ?",
+                    "extrait": "C'est d'abord un devoir. Le devoir du médecin étant, en tout cas théoriquement, de s'intéresser aux malades et de lui apporter remèdes s'il le peut. C'est comme ça que les choses ont évolué. Nous étions cachés, les pays étaient fermés. Essayons d'ouvrir la porte s'il y a du malheur, s'il y a des blessés, si c'est la guerre, si il y a un tremblement de terre, etc. Voilà, c'est très simple. Seulement... Il ne faut pas opposer, de mon point de vue, la souveraineté d'État comme quelque chose de magnifique. Ce serait pas mal de pouvoir aller dans toutes ces guerres qui nous déchirent en ce moment, aujourd'hui, de pouvoir apporter un remède si on le peut, des soins si on le peut, et la paix si c'est possible. Donc voilà, c'est un...",
+                    "score": 8,
+                    "start": 366.011,
+                    "end": 419.007
+                },
+                {
+                    "titre": "L'humanitaire face à la politique",
+                    "extrait": "C'est un combat qui avait sa noblesse, mais qui n'était pas l'essentiel de l'engagement humanitaire pour les gens qui sont tous les jours dedans. Alors, moi, j'ai démarré ma carrière humanitaire en 89 à Gaza. Donc, je suis ravie de venir en parler maintenant et je dirai un mot sur... Bernard Kouchner, puisque la dernière fois qu'on s'est vus, c'était en 1991 à Gaza, et vous étiez secrétaire à l'Action humanitaire, si je me souviens bien, accompagnée de Michel Barzac, qui, elle, était ministre de la Santé, peut-être, à l'époque. Et donc, le combat... Enfin, la pratique humanitaire à Gaza ne pouvait pas être séparée du combat politique... ou intellectuelle, avec des populations à l'époque qui avaient de l'espoir.",
+                    "score": 9,
+                    "start": 1031.619,
+                    "end": 1081.743
+                },
+                {
+                    "titre": "L'échec de l'ingérence humanitaire",
+                    "extrait": "Mais c'est un échec absolu que personne ne peut rentrer. – Plus grand aujourd'hui qu'avant. Est-ce que ce sentiment d'échec des grands consacrés... – Mais ce n'est pas un sentiment, c'est une réalité qui rentre. Il n'y a pas un humanitaire, sauf des gens très courageux d'ailleurs, qui sont des gens de Gaza et qui œuvrent pour Médecins du Monde, pour Médecins sans frontières, pour la chaîne de l'espoir, pour tout ça. Et c'est très bien. Mais c'est la preuve même que cette notion d'aller vers les victimes, ce qui a été très bien dit, ne fonctionne pas. C'était presque prévu. Mais enfin, là, c'est évidemment criant.",
+                    "score": 10,
+                    "start": 1226.637,
+                    "end": 1261.861
+                },
+                {
+                    "titre": "La souveraineté remise en question",
+                    "extrait": "Il faut faire attention, Mario Bettati ne dit pas... Non mais dis donc, arrêtez de Mario Bettati ! Je l'adore ! Nous avons vécu ensemble, ce sont les hommes qui font le droit, pas le droit qui fait les hommes. C'est pour ça qu'on parle de lui, c'est un homme, il a fait le droit, avec vous, avec d'autres hommes, il a contribué. Cette expérience médicale de 20 ans avant... Nous a poussés. Mais pour le reste, vous avez tout à fait raison. Après, il y a ce dogme. Le droit lui-même évolue, heureusement. Mais je vous signale que le droit d'ingérence, comme on dit, alors que c'était le devoir, a été accepté et... par le Conseil de Sécurité et par l'Assemblée Générale.",
+                    "score": 8,
+                    "start": 571.848,
+                    "end": 613.299
+                },
+                {
+                    "titre": "L'impact des ONG sur le terrain",
+                    "extrait": "Il y a un vrai processus dans les organisations humanitaires pour former des gens sur place. Donc il y a des représentants de MSF, de Médecins du Monde, etc., dans un tas d'endroits du monde, qui sont localement des gens proches de la population. C'est le cas à Gaza. Il y avait, en tout cas, je ne sais pas si je vous en prie, il y en a, qui sont donc des Palestiniens. Évidemment, c'est un argument utilisé par le gouvernement israélien pour dire que ce n'est pas fiable, que tous ces gens sont pro Hamas, etc. Que répondez-vous ? Alors, tout le personnel local humanitaire, je parle au niveau de la connaissance que j'en ai, là, peut-être, il y en a quelques-uns, mais sont des Gazaouis.",
+                    "score": 9,
+                    "start": 1902.648,
+                    "end": 1947.737
+                }
+            ]
+        },
+        {
+            "title": "Critique ciné : \"Cloud\" et \"Chime\" de Kiyoshi Kurosawa & \"Mountainhead\" de Jesse Armstrong",
+            "id": "496c38e2-0106-4942-9d3b-d8e7e64ce060",
+            "show": "Les Midis de Culture",
+            "show_id": "32a14af6-fc87-4f4f-a06e-39ccf8587119",
+            "chapo": "Au menu du débat critique, du cinéma, avec \"Cloud\" et \"Chime\" de Kiyoshi Kurosawa et \"Mountainhead\" de Jesse Armstrong.",
+            "magnetotheque_id": "2025C51852S0155",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/les-midis-de-culture/critique-cine-cloud-de-kiyoshi-kurosawa-mountainhead-de-jesse-armstrong-6152864",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/12360-04.06.2025-ITEMA_24157279-2025C51852S0155-NET_MFC_DF9B3C3C-F5C8-459A-A759-929ACCFE2CDD-21.mp3",
+            "duration": 1674,
+            "date": 1749031320,
+            "visual_episode": "https://www.radiofrance.fr/s3/cruiser-production-eu3/2024/10/15061e2b-95cd-4726-bbe6-268579b84b50/1400x1400_sc_fc-midis-de-culture-3000x3000-photo.jpg",
+            "visual_show": "https://www.radiofrance.fr/s3/cruiser-production-eu3/2024/10/15061e2b-95cd-4726-bbe6-268579b84b50/1400x1400_sc_fc-midis-de-culture-3000x3000-photo.jpg",
+            "settings": [
+                "interview"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "La violence derrière nos écrans ?",
+                    "extrait": "Kiyoshi Kurosawa pointe du doigt la violence tapie derrière nos écrans. Certains se souviennent du terrifiant Cairo sorti en 2001. En observant comment les désirs, les tentatives de réussite individuelle sont des coups de poignard qui sont donnés dans le tissu social, il accouche et amplifie la part monstrueuse des hommes jusqu'à laisser libre cours à leur pulsion meurtrière.",
+                    "score": 8,
+                    "start": 96.897,
+                    "end": 136.667
+                },
+                {
+                    "titre": "Kurosawa, un sociologue du cinéma ?",
+                    "extrait": "Kurosawa scanne la société japonaise dans tous ses carcans, de la manière dont elle étouffe, cette société qui ne s'est plus révoltée depuis plus de 50 ans. Il le fait avec un style qui est très peu japonais, il ne faut pas... Il y a très peu de poésie chez Kurosawa. C'est quelqu'un qui travaille, qui peut être même très, très terne.",
+                    "score": 7,
+                    "start": 493.336,
+                    "end": 512.775
+                },
+                {
+                    "titre": "L'angoisse de la société japonaise",
+                    "extrait": "Il laisse pénétrer l'angoisse, l'angoisse d'abord du spectateur, nous, Français, ici, voyons ça, l'angoisse, j'imagine, surtout, et qui doit être bien plus terrifiante, du spectateur japonais, qui voit exactement, au lieu de cette place vide, le lien des faits, c'est-à-dire une société qui n'arrive plus à communiquer son angoisse, sa colère, ses peurs, ses révoltes.",
+                    "score": 9,
+                    "start": 621.687,
+                    "end": 646.163
+                },
+                {
+                    "titre": "Mountain Head : satire ou réalité ?",
+                    "extrait": "Le film a été écrit, l'entreprise a été lancée fin décembre, le film a commencé à être écrit début janvier. Il a été tourné, la dernière demi-heure est peut-être un peu bâclée, il a été mis en ligne le 31 mai, c'est-à-dire qu'il y a un travail en direct sur ce qui est en train de nous arriver, en six mois, et un effet miroir sur la panique qu'il nous prend depuis janvier.",
+                    "score": 8,
+                    "start": 1315.246,
+                    "end": 1347.223
+                },
+                {
+                    "titre": "L'IA, un danger pour nos vies ?",
+                    "extrait": "Une IA qui produit, qui débite de la fake news à partir de fausses informations générées elles-mêmes par les utilisateurs qui peuvent en faire ce qu'ils en veulent, puisqu'on la nourrit, l'IA. Enfin, je dirais, elle n'est pas intelligente d'elle-même, elle est intelligente des informations qu'on lui donne. Si les informations sont fausses... On arrive au chaos.",
+                    "score": 9,
+                    "start": 1089.92,
+                    "end": 1115.466
+                }
+            ]
+        },
+        {
+            "title": "« Je vous construirai une ville avec des loques, moi !… »",
+            "id": "f599ca5f-4a04-422f-b6c8-9cae2e8245bd",
+            "show": "À voix nue",
+            "show_id": "b4534f1d-40f8-11e5-9fe0-005056a87c89",
+            "chapo": "À partir de 1978, le Théâtre de l’Unité s’implante sur une agglomération nouvelle, Saint-Quentin-en-Yvelines, et fédère toute une population. Puis en 1991, à Montbéliard, à la direction d’une Scène nationale rebaptisée Centre d’Art et de Plaisanterie, la compagnie invente et transmet tous azimuts.\n",
+            "magnetotheque_id": "2025C3500E0003",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/a-voix-nue/je-vous-construirai-une-ville-avec-des-loques-moi-7561793",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/10351-01.06.2025-ITEMA_24153988-2025C3500E0003-ITE_00147024_RSCE-21.mp3",
+            "duration": 1742,
+            "date": 1749058200,
+            "visual_episode": "https://www.radiofrance.fr/s3/cruiser-production-eu3/2025/05/7775205c-264d-4dd5-8ad2-6296b0232e20/1400x1400_sc_1-3-le-plus-bel-age-de-la-vie-1982-trappes-de-pot-de-locomotive-cdr-muse-e-de-la-ville-de-sqy.jpg",
+            "visual_show": "https://www.radiofrance.fr/s3/cruiser-production/2021/07/94c1e664-27da-4750-b608-5878f08fdabf/1400x1400_a_voix_nue_1400.jpg",
+            "settings": [
+                "interview",
+                "temoignage"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "Comment construire une ville sans ciment ?",
+                    "extrait": "Un édifice que vous ne détruirez pas et qu'une espèce d'évidence écumente soutiendra et gonflera et qui viendra vous brérer au nez, au nez gelé de tous vos parthénons, vos arts arabes et de vos mingues. Alors hier, on était dans la rue et aujourd'hui, nous allons dans une ville, une ville qui n'existait pas encore, Saint-Quentin-en-Yvelines. Parce qu'avant de vous emparer d'une ville avec son histoire, vous vous êtes emparé comme les ancêtres d'Asté et Gignoux, vous le théâtre de l'unité, vous vous êtes emparé d'un territoire vierge, d'une vague agglomération regroupant des villes sans grande connivence.",
+                    "start": 33.541,
+                    "end": 73.849
+                },
+                {
+                    "titre": "Le théâtre pour tous : une conquête culturelle",
+                    "extrait": "On est arrivés en 1978 dans cette ville et dans notre théâtre, on utilise des termes militaires. C'est très bizarre. Donc c'est une troupe de théâtre, c'est une conquête, c'est un combat, c'est une occupation des lieux, c'est une électrification par la culture, etc. Et on voulait aller partout, voilà. Et on a une sorte d'amour des gens qui nous portait, de dire tout le monde a droit à la culture, il faut qu'on la mène partout, partout où on peut.",
+                    "start": 91.422,
+                    "end": 125.547
+                },
+                {
+                    "titre": "L'amour des gens : moteur de la création",
+                    "extrait": "On aimait beaucoup avoir cette tendresse pour les gens. Et peu à peu, on montait en tendresse. Et on avait de plus en plus de monde. Parce qu'on était portés... Je ne sais pas ce que c'est. Je l'ai moins maintenant. L'amour des gens nous portait vraiment. Et donc, on faisait une pièce que nous, on n'aurait pas faite. On n'a pas voulu monter un brest ou je ne sais pas quoi. On a monté vraiment la Péricole, qui était vraiment sympathique, Offenbach, joyeux, etc.",
+                    "start": 189.516,
+                    "end": 217.045
+                },
+                {
+                    "titre": "Le théâtre comme antidote à la violence",
+                    "extrait": "Et donc on décide avec l'animateur jeune de la maison, qui s'appelait Jean Djemad, qui était en même temps médecin toxicomane, d'entraîner tous les jeunes dans un immense spectacle. Et donc on fait des ateliers dans toute la ville. Et on entraîne 80 jeunes, dont 50 lycéens et 30 loulous, 30 loupards. Même le plus grand dealer de la ville qui était là, d'ailleurs.",
+                    "start": 505.846,
+                    "end": 527.246
+                },
+                {
+                    "titre": "Un carnaval pour tous : la fête comme lien social",
+                    "extrait": "Et pour s'adresser à la ville toute entière, il fallait que les gens fabriquent avec nous des sortes de grands événements rassembleurs. Donc le meilleur qu'on ait eu, c'est en 99 à Montbéliard, on a fait 40 000 personnes. Mais le Carnaval des Ténèbres à 50 ans de Yvelines, ce qui était bien, c'était interdit aux enfants. Ça excitait tout le monde, ça.",
+                    "start": 1595.554,
+                    "end": 1618.145
+                },
+                {
+                    "titre": "L'art brut : une plaisanterie sérieuse",
+                    "extrait": "Et quand on a dit au maire « On va s'appeler centre d'art et de plaisanterie en honneur à Dubuffet », alors que les employés de la culture disaient « On ne peut pas. Ça ne veut rien dire, centre d'art et de plaisanterie, alors que c'est un lieu de culture ». On disait « Mais non, c'est Dubuffet, Jean Dubuffet, l'art brut. L'art n'est qu'une grande plaisanterie ».",
+                    "start": 924.63,
+                    "end": 941.556
+                }
+            ]
+        },
+        {
+            "title": "La main d’Ostrog",
+            "id": "e550a41b-3d26-4d4d-b195-0d9399583a0f",
+            "show": "Le Feuilleton",
+            "show_id": "3c1c2e55-41a0-11e5-9fe0-005056a87c89",
+            "chapo": "Emprisonné par le Concile qui se sent menacé par son réveil, Graham parvient à s’échapper et à rejoindre la foule. Réuni dans une arène, le peuple célèbre Graham comme le leader de la révolution. En coulisses, pourtant, un certain Ostrog tire les ficelles.",
+            "magnetotheque_id": "2025C3480E0033",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/le-feuilleton/la-main-d-ostrog-5475868",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/11495-02.06.2025-ITEMA_24150506-2025C3480E0033-ITE_00150736_RSCE-21.mp3",
+            "duration": 1727,
+            "date": 1749063600,
+            "visual_episode": "https://www.radiofrance.fr/s3/cruiser-production-eu3/2025/05/99b84655-612d-46ba-a4c1-a9d3446683b3/1400x1400_sc_sc-horizon-ledormeursveille.jpg",
+            "visual_show": "https://www.radiofrance.fr/s3/cruiser-production/2022/05/3075d02e-8e64-4648-a669-59df4475ce66/1400x1400_le-feuilleton.jpg",
+            "settings": [
+                "interview"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "Qui est vraiment le dormeur ?",
+                    "extrait": "Le dormeur, il est mort il y a des années. Quoi ? Vous le saviez pas ? Ben oui, mort, depuis un trop long, je ne peux pas le croire. Le dormeur, là, qui s'est réveillé, ils l'ont substitué au vrai. C'est celui-là qu'ils ont fait parader. Des fables, des mensonges. Moi, ça me paraît tout à fait plausible. Je vous raconte ce que j'ai entendu. Ce type qu'on a substitué au dormeur. Quelqu'un lui a injecté des stimulants pour le réveiller. Sur l'ordre d'Ostrok. Encore une de ses idées de génie. Mais c'était qui tout double ? Soit il le réveillait, soit il le tuait.  du pur Ostrugle. Mon réveil aurait été provoqué. Ou bien ce vieillard ramasse toutes les rumeurs qui courent, ou bien il y a fond de vérité dans ce qu'il raconte et... Quoi ? Ce n'était pas un rêve ? La fois où j'ai cru entendre... Tu sais ce qu'il risque. Et si on ne tente rien ? Tu sais ce qu'on risque. Le concile pour l'éternité. Vas-y.",
+                    "start": 1053.751,
+                    "end": 1121.268
+                },
+                {
+                    "titre": "L'espoir comme arme de révolte",
+                    "extrait": "Nous avons mieux que des armes, Excellence. Oui ? Nous avons l'espoir, soulevé par votre réveil. Attention ! Attention ! Après avoir accueilli concerts et événements sportifs jusqu'au milieu du XXIe siècle, l'O2 Arena fut abandonnée à la rouille et à la poussière. Mais ces derniers jours, quand on parla de fêter l'éveil du dormeur, c'est tout naturellement l'Arena qui fut choisi. Ces vingt mille places ne seraient pas de trop pour célébrer Graham Smith, celui qui allait mettre fin au règne du concile.",
+                    "start": 402.2,
+                    "end": 438.156
+                },
+                {
+                    "titre": "La révolte est en marche !",
+                    "extrait": "Quatre jours après le réveil du dormeur, la révolte bat son plan. La ville est à feu et à sang. Et le concile vit ses dernières ondées. Vous êtes bien renseigné. Parce que je laisse traîner mes oreilles. Oui. Je ne me contente pas des moulins à bobards qui appartiennent aux conciles. Ah, les spin-machines, qu'est-ce qu'elles disent ? Que tout ça est dû à une poignée de fauteurs de troubles qui sont à deux doigts d'être neutralisés et que tout va rentrer dans l'ordre.",
+                    "start": 1158.614,
+                    "end": 1190.095
+                },
+                {
+                    "titre": "Ostrog, le maître du jeu",
+                    "extrait": "On peut dire qu'il a réussi son coup, Ostroge. Quatre jours après le réveil du dormeur, la révolte bat son plan. La ville est à feu et à sang. Et le concile vit ses dernières ondées. Vous êtes bien renseigné. Parce que je laisse traîner mes oreilles. Oui. Je ne me contente pas des moulins à bobards qui appartiennent aux conciles. Ah, les spin-machines, qu'est-ce qu'elles disent ? Que tout ça est dû à une poignée de fauteurs de troubles qui sont à deux doigts d'être neutralisés et que tout va rentrer dans l'ordre.",
+                    "start": 1155.01,
+                    "end": 1190.095
+                },
+                {
+                    "titre": "La vérité sur le Concile",
+                    "extrait": "L'argent, bien sûr. Tous les philanthropes de la planète se sont mis à léguer des sous aux dormeurs, à condition qu'à son réveil, il utilise sa fortune au profit de tout le monde, qu'il en fasse un bien commun. Mais il tardait à se réveiller. Et bon an, mal an... Le Smith Trust a été noyauté par des administrateurs vers eux. Ils ont étendu leur toile jusqu'à prendre possession du pays tout entier. Et c'est alors que le Trust a changé de nom pour devenir le Concile.",
+                    "start": 1328.036,
+                    "end": 1366.351
+                }
+            ]
+        },
+        {
+            "title": "Paradoxalement, le déclin des coraux permet à l'Océan de capter davantage de CO2",
+            "id": "0c0099cb-cda5-402d-a104-cbe61e3e7c1f",
+            "show": "Avec sciences",
+            "show_id": "741f4a16-597e-4952-8578-348b2f8307ca",
+            "chapo": "Quand les coraux fabriquent leur squelette calcaire, ils relâchent du CO₂. Leur déclin est donc paradoxalement synonyme d'une baisse d'émission. Selon une nouvelle étude, la disparition des coraux renforcera à l’avenir la capacité de l’océan à piéger le carbone atmosphérique.",
+            "magnetotheque_id": "2025C26620S0155",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/avec-sciences/paradoxalement-le-declin-des-coraux-permet-a-l-ocean-de-capter-davantage-de-co2-6713068",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/21421-04.06.2025-ITEMA_24157301-2025C26620S0155-NET_MFC_BA1EED02-72B0-443B-B5D8-4116EB51FC3B-21.mp3",
+            "duration": 276,
+            "date": 1749012720,
+            "visual_episode": "https://www.radiofrance.fr/s3/cruiser-production-eu3/2025/06/f59961ba-c8ba-44fd-98c4-2e29028e3a95/1400x1400_sc_gettyimages-1316053032.jpg",
+            "visual_show": "https://www.radiofrance.fr/s3/cruiser-production/2023/08/805e887f-9ae0-4ccb-b616-5279ebe5fd90/1400x1400_sc_fc-avecsciences-1400x1400.jpg",
+            "settings": [
+                "savoirs"
+            ],
+            "limit": 1,
+            "extraits": [
+                {
+                    "titre": "Pourquoi les coraux sont-ils en danger ?",
+                    "extrait": "Selon la NOAA, l'agence américaine d'observation océanique et atmosphérique, plus de 80% des récifs sont maintenant exposés au blanchissement. C'est-à-dire qu'ils risquent d'expulser l'algue avec lequel ils vivent en symbiose. Sans ces algues, ils perdent leur couleur. Et si cette séparation dure trop longtemps, les coraux en meurent. En cause notamment les canicules marines, mais ce n'est pas la seule menace qui pèse sur eux. La pollution, les hydrocarbures, pesticides, herbicides ou encore cyanures perturbent aussi leur reproduction et l'acidification des océans joue également un rôle clé.",
+                    "score": 8,
+                    "start": 18.835,
+                    "end": 49.203
+                },
+                {
+                    "titre": "Le paradoxe des coraux et du CO2",
+                    "extrait": "Mais leur déclin limite en réalité la quantité de CO2 libérée naturellement dans l'océan. En fait, c'est la croissance de coraux qui produisent le CO2. Quand cette croissance diminue, on a moins de CO2 produite. Et quand on a vraiment une dissolution nette, on a l'inverse. On a vraiment un puits de CO2 dans l'océan. Et ça veut dire que l'océan peut stocker un peu plus de carbone atmosphérique.",
+                    "score": 9,
+                    "start": 61.088,
+                    "end": 83.861
+                },
+                {
+                    "titre": "L'impact surprenant du déclin corallien",
+                    "extrait": "Résultat, avec le déclin corallien, l'absorption du carbone par l'océan pourrait significativement augmenter et donc réduire la quantité de CO2 atmosphérique. La réduction future de la classification pourrait renforcer l'appui de carbone océanique jusqu'à 1,25 gigatonnes de CO2 par an d'ici 2050. Cela pourrait entraîner une augmentation de 5% de l'absorption cumulée de CO2 par l'océan au cours du 21e siècle par rapport aux estimations actuelles.",
+                    "score": 10,
+                    "start": 159.776,
+                    "end": 192.107
+                },
+                {
+                    "titre": "Les coraux, clé de la biodiversité marine",
+                    "extrait": "Évidemment, on ne peut pas se réjouir de cette capacité de l'océan à séquestrer davantage le carbone que nous émettons. Tout simplement car les rôles des récifs sont nombreux, c'est la base de tous les écosystèmes océaniques. Ils abritent un quart de la biodiversité marine, protègent les côtes et les vagues de l'érosion, réduisent les dommages en cas de tempête et fournissent évidemment de la nourriture.",
+                    "score": 8,
+                    "start": 218.336,
+                    "end": 238.55
+                },
+                {
+                    "titre": "Une estimation alarmante pour l'avenir",
+                    "extrait": "La suite de ces travaux, c'est de réduire les incertitudes. Ce n'est ici qu'une première estimation de cette rétroaction climatique. Les chiffres méritent d'être ajustés pour finalement être intégrés aux modélisations et au budget carbone, soit le quota d'émissions qui nous permettrait de contenir le réchauffement climatique.",
+                    "score": 7,
+                    "start": 245.194,
+                    "end": 262.38
+                }
+            ]
+        },
+        {
+            "title": "Schizophrénie : de nouveaux visages thérapeutiques",
+            "id": "f4fe10a2-fd9e-4fbe-ac37-7b397dfc5492",
+            "show": "La Science, CQFD",
+            "show_id": "dc59bf2c-a3f5-48b0-bd13-f7258761d52c",
+            "chapo": "Diagnostiquer, soigner, déstigmatiser, humaniser : les défis à relever sont nombreux pour une meilleure prise en charge des patients atteints de schizophrénie.",
+            "magnetotheque_id": "2025C48906S0154",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/la-science-cqfd/schizophrenie-5446230",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/14312-03.06.2025-ITEMA_24156081-2025C48906S0154-NET_MFC_8FEB4BC6-C814-4AFD-8B8D-A1A0F68D6D90-21.mp3",
+            "duration": 3520,
+            "date": 1748959200,
+            "visual_episode": "https://www.radiofrance.fr/s3/cruiser-production-eu3/2025/06/109ac59d-4cbd-498b-91f7-d9942a40134e/1400x1400_sc_gettyimages-2171745800.jpg",
+            "visual_show": "https://www.radiofrance.fr/s3/cruiser-production/2022/08/50c31dc5-9e16-482d-95f3-f8f0b69eb3ad/1400x1400_la-science-cqfd.jpg",
+            "settings": [
+                "savoirs"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "Pourquoi la schizophrénie reste-t-elle si mal comprise ?",
+                    "extrait": "La schizophrénie, littéralement esprit divisé, n'affecte qu'environ 1% de la population française. Pourtant, cette maladie mentale reste profondément stigmatisée. Comment améliorer sa prise en charge ? Cette pathologie est mal diagnostiquée et mal comprise, car ses manifestations sont très variées. On devrait presque parler de spectre de la schizophrénie. Cette pathologie d'accès à la conscience se traduit par une altération du rapport au réel. Actuellement, environ 30% des patients répondent bien aux traitements disponibles. Pour les 70% restants, il est urgent de trouver des approches plus adaptées.",
+                    "start": 8.319,
+                    "end": 45.115
+                },
+                {
+                    "titre": "La vérité sur la stigmatisation des schizophrènes",
+                    "extrait": "C'est important de le dire parce que les patients souffrant de schizophrénie sont bien plus souvent victimes de violences qu'ils ne sont l'auteur de violences. Il peut arriver que dans le contexte d'hallucinations, par exemple, envahissantes, qui poussent à faire des choses, un patient puisse avoir un comportement violent. Mais en fait, c'est très rare. Et il est beaucoup plus fréquent d'être victime quand on souffre de schizophrénie que d'être l'auteur de violences.",
+                    "start": 524.557,
+                    "end": 551.335
+                },
+                {
+                    "titre": "Schizophrénie : un spectre de symptômes",
+                    "extrait": "Oui, c'est des maladies qui sont extrêmement hétérogènes et c'est intéressant de voir que dès la description il y a plus de 100 ans et on passe avec l'archive d'il y a 60 ans, on voit déjà qu'on parlait de maladies polymorphiques, hétérogènes. Donc on a vraiment l'impression qu'on met ensemble dans un groupe des réalités totalement différentes avec des formes qui vont être extrêmement invalidantes et puis des formes pour lesquelles les symptômes vont être plus légers avec une récupération possible.",
+                    "start": 300.198,
+                    "end": 323.07
+                },
+                {
+                    "titre": "L'impact de l'urbanisation sur la schizophrénie",
+                    "extrait": "Alors, dans l'épidémiologie, 1%, c'est le chiffre qu'on peut retenir, et il est à peu près valable partout. Ça veut dire que vous retrouverez ce chiffre aussi bien en Australie qu'en Nouvelle-Guinée ou en Arkansas. Ce qui est d'ailleurs quelque chose qui interroge. Pourquoi c'est ubiquitaire ? Pourquoi, sous toutes les latitudes et toutes les longitudes, il y a à peu près 1% des êtres humains qui souffrent de schizophrénie ? C'est en soi intéressant ? Maintenant, si on regarde dans le détail précisément, c'est vrai qu'on voit des variations, mais c'est vraiment en regardant dans le détail.",
+                    "start": 796.881,
+                    "end": 830.876
+                },
+                {
+                    "titre": "La schizophrénie et le cannabis : un lien dangereux",
+                    "extrait": "Et il y a des facteurs qui vont être autour de l'adolescence et ça va être le stress psychosocial et le cannabis. Et je mettrai en numéro 1 même le cannabis qui est le facteur environnemental qui augmente le plus le risque de développer une schizophrénie. Et c'est celui qui est aussi le plus facile à éviter. C'est difficile d'éviter un problème pendant la grossesse. Par contre le cannabis on peut essayer de s'en tenir éloigné.",
+                    "start": 1036.227,
+                    "end": 1057.647
+                },
+                {
+                    "titre": "L'importance de la déstigmatisation",
+                    "extrait": "Donc l'enjeu de la stigmatisation, c'est d'abord de faire société tous ensemble. Tomber les tabous sur les maladies mentales, c'est important pour intégrer, favoriser la relation sociale avec les personnes malades. Mais c'est aussi un enjeu de soins aujourd'hui pour rapprocher ces personnes de la médecine et leur permettre d'accéder à des soins qui peuvent gérer les symptômes et leur permettre une meilleure récupération.",
+                    "start": 605.285,
+                    "end": 624.337
+                },
+                {
+                    "titre": "La schizophrénie : un défi de société",
+                    "extrait": "Il faut s'entendre sur ce qu'on veut dire derrière le mot normal, mais en tout cas avec des éléments négatifs qui sont en moins par rapport à ce système-là. Et puis la désorganisation. Et ça, c'est très frappant, à la fois dans le terme schizophrénie, l'esprit coupé ou éclaté. et en même temps dans les définitions on n'entend bien que ça, il y a quelque chose qui fait irruption dans la vie psychique de la personne et qui vient fragmenter le raisonnement, le comportement.",
+                    "start": 343.197,
+                    "end": 366.564
+                }
+            ]
+        },
+        {
+            "title": "Océans : la pêche à bout de ressources ",
+            "id": "cc9b4ed7-1a08-4c6f-9953-8e759f1704ce",
+            "show": "France Culture va plus loin (l'Invité(e) des Matins)",
+            "show_id": "7431a6a7-481b-11e5-9fe0-005056a87c89",
+            "chapo": "La semaine prochaine s’ouvrira à Nice la troisième conférence de l’ONU sur les océans, organisée par la France et le Costa Rica. L’enjeu : protéger les mers et les espèces qui y vivent. ",
+            "magnetotheque_id": "2025C16450S0155",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/france-culture-va-plus-loin-l-invite-e-des-matins/oceans-la-peche-a-bout-de-ressources-7854251",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/13983-04.06.2025-ITEMA_24157287-2025C16450S0155-NET_MFC_FBC35BF8-97EB-41AD-B5BB-A16ACD4239C3-21.mp3",
+            "duration": 2339,
+            "date": 1749015720,
+            "visual_episode": "https://www.radiofrance.fr/s3/cruiser-production-eu3/2025/06/04d0ffc8-95da-4a9c-989f-ae356ef21f40/1400x1400_sc_gettyimages-521727174.jpg",
+            "visual_show": "https://www.radiofrance.fr/s3/cruiser-production/2021/08/fd5d5cbf-dcbb-4d70-b234-6f6769e7c016/1400x1400_les-matins.jpg",
+            "settings": [
+                "actu",
+                "interview"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "Pourquoi la pêche s'effondre-t-elle ?",
+                    "extrait": "Sous l'effet cumulé des activités humaines et du changement climatique, des populations de poissons s'effondrent, tandis que d'autres explosent, fragilisant l'équilibre des écosystèmes marins. Didier Gascuel, professeur en écologie marine, souligne que la pêche est devenue un défi crucial pour la survie des mers et des espèces qui y vivent.",
+                    "score": 8,
+                    "start": 14.784,
+                    "end": 38.024
+                },
+                {
+                    "titre": "L'impact de la surpêche au Sénégal",
+                    "extrait": "Didier Gascuel raconte son expérience au Sénégal, où la pêche de gros poissons comme le mérou a presque disparu, entraînant un effondrement des ressources marines. Les pêcheurs se tournent vers les petits poissons, mais la surexploitation a conduit à une crise de la pêche, affectant des centaines de milliers de personnes et exacerbant l'immigration.",
+                    "score": 9,
+                    "start": 49.313,
+                    "end": 78.803
+                },
+                {
+                    "titre": "Les prédateurs marins en danger",
+                    "extrait": "La morue, autrefois prédateur dominant de l'Atlantique Nord, a vu ses populations diminuer drastiquement. Didier Gascuel explique que la disparition des prédateurs entraîne un déséquilibre dans les écosystèmes marins, provoquant des 'chaos de la nature' où certaines espèces prolifèrent tandis que d'autres s'effondrent.",
+                    "score": 8,
+                    "start": 14.784,
+                    "end": 32.348
+                },
+                {
+                    "titre": "La pêche durable, une nécessité",
+                    "extrait": "Didier Gascuel insiste sur l'importance de la pêche durable pour préserver les ressources marines. Il évoque la nécessité de repenser la gestion des pêches en intégrant une approche écosystémique, afin de garantir un équilibre entre la consommation humaine et la préservation des écosystèmes marins.",
+                    "score": 9,
+                    "start": 968.926,
+                    "end": 1010.264
+                },
+                {
+                    "titre": "Le saumon et la misère humaine",
+                    "extrait": "Didier Gascuel met en lumière le paradoxe de la farine de poisson, qui alimente l'aquaculture du saumon. Il souligne que cette pratique contribue à la surexploitation des ressources maritimes du Sud, exacerbant la misère humaine dans des pays comme le Sénégal, où les pêcheurs perdent leur moyen de subsistance.",
+                    "score": 10,
+                    "start": 762.322,
+                    "end": 794.075
+                },
+                {
+                    "titre": "L'absurdité de la surpêche",
+                    "extrait": "Didier Gascuel dépeint une situation absurde où la pression de pêche a doublé, mais les captures diminuent. Il explique que les bateaux de pêche, de plus en plus gros et nombreux, consomment plus de ressources tout en produisant moins, illustrant ainsi la crise de la pêche moderne.",
+                    "score": 9,
+                    "start": 1267.789,
+                    "end": 1290.299
+                }
+            ]
+        },
+        {
+            "title": " Océans : plongée dans les enjeux du numérique ",
+            "id": "1ed56701-3c89-411a-9a16-f67eda029c72",
+            "show": "Un monde connecté",
+            "show_id": "274c0b2b-c347-4748-8989-eb3f08ae5273",
+            "chapo": "Des câbles sous-marin a la future exploitation minière, comment les océans sont devenus au fil du temps, un espace crucial pour l'industrie du numérique. ",
+            "magnetotheque_id": "2025C52117S0155",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/un-monde-connecte/oceans-plongee-dans-les-enjeux-du-numerique-6268028",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/10075-04.06.2025-ITEMA_24157266-2025C52117S0155-NET_MFC_7B7FEDB8-27BF-4DD6-8FFB-D5153A0DF56E-21.mp3",
+            "duration": 184,
+            "date": 1749019920,
+            "visual_episode": "https://www.radiofrance.fr/s3/cruiser-production-eu3/2025/06/51f21865-6255-45a1-9102-a9a8be43fed0/1400x1400_sc_gettyimages-1911613853.jpg",
+            "visual_show": "https://www.radiofrance.fr/s3/cruiser-production/2023/08/9f40b650-4967-4dbd-a31e-bd01c7e068cb/1400x1400_sc_sc-fc-mondeconnecte-1400x1400.jpg",
+            "settings": [
+                "actu"
+            ],
+            "limit": 2,
+            "extraits": [
+                {
+                    "titre": "Pourquoi les océans sont-ils cruciaux pour Internet ?",
+                    "extrait": "Pourtant, elle recouvre l'eau, la majorité de nos connexions, je parle ici des câbles sous-marins, ils sont plus de 500 à traverser les fonds, et ils concentrent 95% du trafic des données intercontinentales. Nous avons toujours du mal à nous le figurer, mais Internet c'est avant tout des gros câbles qui s'étendent en cumulé sur un million et demi de kilomètres des infrastructures entretenues par les opérateurs téléphoniques et les GAFAM.",
+                    "score": 8,
+                    "start": 29.45,
+                    "end": 51.474
+                },
+                {
+                    "titre": "Les câbles sous-marins : cibles stratégiques !",
+                    "extrait": "Ces câbles, on en parlait jusqu'ici relativement peu. Ils dormaient dans le grand bleu, mais ils sont devenus des cibles stratégiques, des points de vulnérabilité. Pour attaquer une nation, comme il y a quelques mois, où deux d'entre eux ont été endommagés en mer Baltique, les regards se sont tournés vers la flotte fantôme des navires russes qui profiteraient de leur passage pour endommager les équipements.",
+                    "score": 9,
+                    "start": 62.441,
+                    "end": 81.392
+                },
+                {
+                    "titre": "L'exploitation minière des océans : un enjeu majeur !",
+                    "extrait": "Pour l'industrie numérique, les océans représentent également de nouveaux espaces d'exploitation de ces ressources minières. Eh oui, Guillaume, des batteries, des voitures électriques, même des Tesla, allez, je le dis pour vous faire plaisir. Au smartphone, le besoin en terres rares est fort et les mines du Congo ne suffisent plus. L'océan est une promesse en odule polymétallique.",
+                    "score": 8,
+                    "start": 97.811,
+                    "end": 113.688
+                },
+                {
+                    "titre": "La France contre l'exploitation minière en mer !",
+                    "extrait": "Un pays milite fièrement pour une interdiction totale, c'est la France. Et une puissance comme les Etats-Unis, qui n'est pas membre de l'AIFM, pousse pour une exploitation, voyant celle-ci comme une possibilité de s'affranchir de leurs dépendances chinoises en terres rares.",
+                    "score": 7,
+                    "start": 140.185,
+                    "end": 154.073
+                },
+                {
+                    "titre": "Hidden Gem : le navire des nouvelles conquêtes !",
+                    "extrait": "Une compagnie canadienne d'extraction minière, The Metals Company, adossée à la multinationale All Seas, dispose d'un navire géant pour racler les fonds marins. Son nom, Hidden Gem, que l'on peut traduire par « joyau caché » et il attend déjà son heure.",
+                    "score": 8,
+                    "start": 154.313,
+                    "end": 168.125
+                },
+                {
+                    "titre": "Trump et la conquête des océans !",
+                    "extrait": "Donald Trump s'est allié à ses aventuriers pour prendre les commandes de cette prochaine conquête en méprisant ouvertement la gouvernance internationale mise en place par le droit de la mer. Une attitude offensive entre le colonisateur et le pirate.",
+                    "score": 9,
+                    "start": 168.445,
+                    "end": 181.79
+                }
+            ]
+        },
+        {
+            "title": "Le dernier chant d’Audre Lorde  ",
+            "id": "6a699826-6aa9-4945-89c0-f9520382c3b5",
+            "show": "Le Book Club",
+            "show_id": "9919a6d4-3da2-4dd9-8103-77cef065f78d",
+            "chapo": "Paraissant pour la première fois en français, \"Une merveilleuse arithmétique de la distance\", l’ultime recueil de la poétesse américaine Audre Lorde, donne à entendre une parole qui brûle encore. Noire, lesbienne, guerrière, poétesse, Lorde convoque à la fois la sororité, la révolte et le désir. ",
+            "magnetotheque_id": "2025C49162S0154",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/le-book-club/le-dernier-chant-d-audre-lorde-6680660",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/23875-03.06.2025-ITEMA_24156088-2025C49162S0154-NET_MFC_35D5FC36-BFAA-4926-AA97-3034531F5865-21.mp3",
+            "duration": 3499,
+            "date": 1748955600,
+            "visual_episode": "https://www.radiofrance.fr/s3/cruiser-production-eu3/2025/06/9b8081f3-b8d3-4dff-b740-a92a016c2485/1400x1400_sc_gettyimages-542053662.jpg",
+            "visual_show": "https://www.radiofrance.fr/s3/cruiser-production-eu3/2024/09/f8276416-1a99-462a-b6ec-1f92e8993e9a/1400x1400_sc_fc-le-book-club-3000x3000-photo.jpg",
+            "settings": [
+                "interview"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "Comment Audre Lorde a changé la poésie ?",
+                    "extrait": "Bonjour le Book Club, la poésie d'Autre et l'Ordre, c'est assez émouvant parce que c'est à la fois cru et poétique. Ça nous parle aussi bien de la vie tous les jours, des émotions qu'on peut ressentir, que des choses qui sont plus en lien avec l'histoire, avec les droits. C'est vraiment son côté poétesse qui revendique, qui dénonce, qui m'a parlé particulièrement dans ce recueil. France Culture, le Le Book Club, Marie Richeux.",
+                    "start": 3.305,
+                    "end": 30.645
+                },
+                {
+                    "titre": "L'identité d'Audre Lorde en quelques mots",
+                    "extrait": "Née en 1934 dans une famille d'immigrés caribéennes, Audre Lorde grandit à Harlem, aux Etats-Unis. Elle se présentait ainsi, noire, lesbienne, mère, guerrière, poétesse. Pendant les cinq ans qui précèdent sa mort en 1992, et alors qu'elle se sait atteinte d'un cancer du sein, elle écrit, voyage, se soigne, transmet, aime.",
+                    "start": 33.742,
+                    "end": 51.635
+                },
+                {
+                    "titre": "La colère d'Audre Lorde face au racisme",
+                    "extrait": "Elle a été très très vite consciente des discriminations racistes qu'elle subissait. Et s'est étonnée assez rapidement du silence de ses parents qui réagissaient avec, disons, une dignité muette à ces discriminations et à ces violences. Et ça l'a mise assez tôt en colère, ce qui fait qu'elle a quitté assez jeune le domicile familial pour ensuite poursuivre des études à Columbia University.",
+                    "start": 197.995,
+                    "end": 242.655
+                },
+                {
+                    "titre": "L'écriture comme acte de résistance",
+                    "extrait": "Et là, elle a compris que c'était vraiment sa vocation, plus encore que bibliothécaire, qui était déjà un métier qui lui plaisait beaucoup, l'écriture et l'enseignement universitaire, notamment des études noires. Et ça, ce sera vraiment une sorte de triptyque de sa vie ensuite à Audrey Lorde.",
+                    "start": 278.57,
+                    "end": 301.668
+                },
+                {
+                    "titre": "La transmission dans l'œuvre d'Audre Lorde",
+                    "extrait": "Oui, tout à fait. Et puis, il s'inscrit dans une thématique plus générale chez Audrey Lord qui est sur la transmission. C'est un sujet qui lui importe depuis toujours, à la fois pour considérer les héritages qu'elle a reçus et parfois les détricoter.",
+                    "start": 2022.606,
+                    "end": 2037.262
+                },
+                {
+                    "titre": "L'urgence de vivre dans la poésie d'Audre Lorde",
+                    "extrait": "Il y a comme une incantation qui revient sous forme de ce refrain avec variation « Aujourd'hui n'est pas le jour où ça pourrait l'être, mais ça ne l'est pas ». Et cette incantation, cette scansion, c'est à la fois le rappel imminent de la mort et l'affirmation que la vie est à vivre.",
+                    "start": 2655.258,
+                    "end": 2674.458
+                },
+                {
+                    "titre": "L'érotisme comme acte de création",
+                    "extrait": "Mélissa Laveaux, vous vous dites dans une deuxième partie de la lettre que vous lui adressez, qui tient de préface au recueil dont on parle aujourd'hui, qu'elle vous a aussi confirmé dans un choix vers la jouissance, vers l'érotisme, un érotisme complet de l'existence.",
+                    "start": 1625.702,
+                    "end": 1639.672
+                }
+            ]
+        },
+        {
+            "title": "Critique ciné : \"Cloud\" et \"Chime\" de Kiyoshi Kurosawa, deux films fatalistes sur la société japonaise contemporaine",
+            "id": "941b67fd-c68f-45a7-82bd-a1ab4738e3b9",
+            "show": "Les Midis de Culture",
+            "show_id": "32a14af6-fc87-4f4f-a06e-39ccf8587119",
+            "chapo": "Nos critiques discutent des deux nouveaux films du maître japonais de l'épouvante, Kiyoshi Kurosawa : un long-métrage, \"Cloud\", où la violence est d'abord en ligne et un court-métrage, \"Chime\", où c'est en cuisine que tout est sanglant.",
+            "magnetotheque_id": "2025C51852S1155",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/les-midis-de-culture/critique-cine-cloud-et-chime-de-kiyoshi-kurosawa-9430261",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/12360-04.06.2025-ITEMA_24157279-2025C51852S1155-NET_MFC_7EB88697-9B35-4A42-A842-0D974171D3C9-21.mp3",
+            "duration": 825,
+            "date": 1749031321,
+            "visual_episode": "https://www.radiofrance.fr/s3/cruiser-production-eu3/2025/06/7722124c-b613-4b0b-be5f-652f3cf49b02/1400x1400_sc_hm-xr6gq.jpg",
+            "visual_show": "https://www.radiofrance.fr/s3/cruiser-production-eu3/2024/10/15061e2b-95cd-4726-bbe6-268579b84b50/1400x1400_sc_fc-midis-de-culture-3000x3000-photo.jpg",
+            "settings": [
+                "interview"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "La violence derrière nos écrans ?",
+                    "extrait": "Kurosawa pointe du doigt la violence tapie derrière nos écrans. Certains se souviennent du terrifiant Cairo sorti en 2001. Cloud est inspiré d'un fait divers, l'histoire d'un jeune homme qui choisit de gagner sa vie en vendant des objets en ligne. Il va se retrouver au cœur d'une traque, d'abord numérique et puis bien réelle et très sanglante.",
+                    "score": 8,
+                    "start": 32.025,
+                    "end": 52.197
+                },
+                {
+                    "titre": "Un cinéma qui scrute la société",
+                    "extrait": "Kurosawa scanne la société japonaise dans tous ses carcans, de la manière dont elle étouffe. Cette société ne s'est plus révoltée depuis plus de 50 ans et préfère laisser grandir la psychose que de se révolter contre ceux qui l'étouffent. Il le fait avec un style qui est très peu japonais, mais qui révèle une profonde vérité sur l'état de la société.",
+                    "score": 9,
+                    "start": 429.83,
+                    "end": 454.565
+                },
+                {
+                    "titre": "L'angoisse comme personnage principal",
+                    "extrait": "Dans Cloud, l'angoisse du personnage principal est palpable. On voit que progressivement, son quotidien est hanté par une sorte d'angoisse, par des plans vides, par des silences. Ce traitement réaliste de l'angoisse permet au spectateur de remplir ces plans de sa propre angoisse, rendant l'expérience cinématographique encore plus immersive.",
+                    "score": 8,
+                    "start": 230.081,
+                    "end": 275.315
+                },
+                {
+                    "titre": "Chime : un virus de la psychose",
+                    "extrait": "Chime aborde la question d'un virus, mais on ne sait jamais si c'est réel ou fantasmé. La schizophrénie devient contagieuse, et le film joue sur cette ambiguïté. Ce qui arrive au personnage principal touche tous les autres personnages de la société japonaise, rendant la situation d'autant plus angoissante et pertinente.",
+                    "score": 9,
+                    "start": 673.687,
+                    "end": 705.115
+                },
+                {
+                    "titre": "Kurosawa, sociologue du cinéma d'horreur",
+                    "extrait": "Kurosawa est un cinéaste de genre qui se tient dans son genre tout en étant un sociologue et analyste de la société japonaise. Il arrive à capturer les angoisses contemporaines tout en utilisant les codes du cinéma d'horreur, ce qui en fait un auteur unique et essentiel pour comprendre notre époque.",
+                    "score": 10,
+                    "start": 709.527,
+                    "end": 744.138
+                }
+            ]
+        },
+        {
+            "title": "\"Economie du bien-être\" : l'impossible calcul de la satisfaction générale",
+            "id": "b714ea9e-61e4-4812-8a31-957d5f6a938f",
+            "show": "Entendez-vous l'éco ?",
+            "show_id": "ec20bd96-cdfc-44ce-8a1b-85c33cc8b7db",
+            "chapo": "Forgée par Arthur Pigou, l’économie du bien-être analyse la façon dont les politiques publiques affectent le bien-être individuel. En saisissant le niveau de bien-être au-delà des indicateurs de croissance, elle propose des outils pour évaluer celles-ci et les orienter vers une société plus juste.",
+            "magnetotheque_id": "2025C29629S0155",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/entendez-vous-l-eco/economie-du-bien-etre-par-dela-le-pib-6683376",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/10081-04.06.2025-ITEMA_24157265-2025C29629S0155-NET_MFC_D34E443D-818F-4B74-B9AB-CD477D5BE1A7-21.mp3",
+            "duration": 3553,
+            "date": 1749038400,
+            "visual_episode": "https://www.radiofrance.fr/s3/cruiser-production-eu3/2025/06/2a9c137a-7c0c-4c14-9359-03206ebb6610/1400x1400_sc_pnud.jpg",
+            "visual_show": "https://www.radiofrance.fr/s3/cruiser-production-eu3/2024/08/a0a0638c-5824-48d4-8857-5da4e8eb9533/1400x1400_sc_fc-entendez-vous-l-eco-2024-incarne-3000x3000.jpg",
+            "settings": [
+                "savoirs"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "L'économie peut-elle mesurer le bonheur ?",
+                    "extrait": "L'économie peut-elle permettre au pouvoir public d'arbitrer, de prendre la meilleure décision possible ? Calculer les avantages et les inconvénients qui découlent d'une décision pour tous les individus concernés est-il seulement possible ? L'économie en tant que science a-t-elle vraiment les moyens, les outils à disposition qui permettraient d'objectiver, de calculer les préférences de chacun pour aboutir à un niveau de satisfaction collectif ?",
+                    "score": 8,
+                    "start": 9.883,
+                    "end": 32.1
+                },
+                {
+                    "titre": "Bien-être social vs bien-être individuel : quelle différence ?",
+                    "extrait": "Alors peut-être la première chose à dire, c'est de dire ce à quoi ça ne renvoie pas. On ne va pas parler de spa, on ne va pas parler de bien-être individuel et d'accomplissement et de yoga, même si c'est très important. On va plutôt parler, quand on parle de bien-être en économie, c'est du bien-être social qu'il s'agit et celui dont... L'État ou le gouvernement, les collectivités locales pourraient être responsables.",
+                    "score": 9,
+                    "start": 193.008,
+                    "end": 216.942
+                },
+                {
+                    "titre": "L'illusion du PIB : pourquoi ça ne suffit pas ?",
+                    "extrait": "Il y a un écart entre un revenu et la satisfaction qu'on peut en tirer, il y a un écart. Ce qui est vrai au niveau d'un individu, on court plus au niveau d'une nation. Donc plutôt complémentaire. C'est une forme de complémentarité et on va voir que cette économie du bien-être a largement participé aussi à mettre en place une nouvelle façon de réfléchir, une nouvelle façon de mesurer aussi ce qui compte.",
+                    "score": 8,
+                    "start": 952.2,
+                    "end": 978.315
+                },
+                {
+                    "titre": "Justice sociale : un enjeu économique ?",
+                    "extrait": "Pour certains, tout est une question d'équilibre, d'optimum et de lois du plus grand nombre satisfait. Pour d'autres, il est nécessaire de prendre en compte les questions de justice sociale, de bonheur, de qualité des liens sociaux aussi, et donc de créer des indicateurs nouveaux qui dépasseraient le simple PIB afin de vraiment comprendre les effets produits par ces fameuses décisions politiques.",
+                    "score": 9,
+                    "start": 79.84,
+                    "end": 100.068
+                },
+                {
+                    "titre": "L'économie du bien-être : une science engagée ?",
+                    "extrait": "Cette économie du bien-être, c'est avant tout un cadre théorique que propose la science économique pour pouvoir y réfléchir. Et donc, c'est une science au service de ces décisions et du travail du gouvernement et du travail... l'action publique. Et donc c'est vraiment, par exemple, ce qui animait Pigou au départ, de se dire, si on fait de l'économie du bien-être, c'est précisément parce qu'en tant que scientifique, on doit pouvoir apporter nos lumières.",
+                    "score": 8,
+                    "start": 532.302,
+                    "end": 570.552
+                },
+                {
+                    "titre": "Les limites du vote : une voix pour tous ?",
+                    "extrait": "On pourrait se dire, pourquoi les économistes, on va le voir, ont passé beaucoup de temps, d'énergie aussi, à essayer de mettre en place ces mécanismes, de les construire, de les justifier scientifiquement, théoriquement, alors même qu'il existe une autre façon, et c'est peut-être une question naïve, mais il existe une autre façon de comprendre quelles sont les préférences des individus, c'est tout simplement le vote.",
+                    "score": 7,
+                    "start": 592.777,
+                    "end": 615.613
+                },
+                {
+                    "titre": "L'égalité : un critère de bien-être ?",
+                    "extrait": "Il y a cette acceptation du fait qu'être économiste du bien-être, c'est assumer des opinions politiques et éthiques. Et celles-ci ne peuvent pas être exclues. C'est ce point-là qui va être discuté par la suite, pour des raisons épistémologiques de désir de devenir une science peut-être plus rigoureuse.",
+                    "score": 8,
+                    "start": 2227.44,
+                    "end": 2253.707
+                }
+            ]
+        },
+        {
+            "title": "Le nouveau pouvoir Syrien face à la menace de l’Etat islamique",
+            "id": "55c44d51-a58e-46ce-9145-1bc7983f6d1b",
+            "show": "Les Enjeux internationaux",
+            "show_id": "481f078d-4810-11e5-9fe0-005056a87c89",
+            "chapo": "Jeudi dernier, le groupe État islamique a revendiqué une attaque contre les nouvelles autorités syriennes dans le sud du pays : un attentat à la bombe visant un véhicule des forces armées.",
+            "magnetotheque_id": "2025C3305S0155",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/les-enjeux-internationaux/le-nouveau-pouvoir-syrien-face-a-la-menace-de-l-etat-islamique-8360619",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/13305-04.06.2025-ITEMA_24157263-2025C3305S0155-NET_MFC_4399F340-7506-471E-A012-4E6727FEB6D6-21.mp3",
+            "duration": 788,
+            "date": 1749012000,
+            "visual_episode": "https://www.radiofrance.fr/s3/cruiser-production-eu3/2025/06/db4ace5d-1031-4e58-bf59-d63b06b72dbc/1400x1400_sc_gettyimages-2203221553.jpg",
+            "visual_show": "https://www.radiofrance.fr/s3/cruiser-production/2023/12/79fe4d8e-1694-4c87-9154-b2eaa7e9b99c/1400x1400_sc_les-enjeux-internationaux.jpg",
+            "settings": [
+                "actu",
+                "interview"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "Pourquoi l'État islamique attaque-t-il la Syrie ?",
+                    "extrait": "Jeudi dernier, le groupe Etat islamique a revendiqué une attaque contre les nouvelles autorités syriennes dans le sud du pays. Un attentat à la bombe visant un véhicule des forces armées. Si les attaques de l'organisation djihadiste s'étaient poursuivies, notamment contre les forces kurdes depuis la chute de Bachar al-Assad, c'est la première fois directement que le régime d'Al-Shara est touché. Pourra-t-il contenir l'Etat islamique sur son territoire ?",
+                    "score": 8,
+                    "start": 5.028,
+                    "end": 29.48
+                },
+                {
+                    "titre": "Le nouveau pouvoir syrien : un état de grâce ?",
+                    "extrait": "Effectivement, ce que vous citez est la première revendication. Et par ailleurs, c'est effectivement les nouvelles autorités qui ont été touchées, mais aussi une faction rebelle qui travaille directement avec les forces américaines à la frontière irakienne. Donc deux revendications diffusées le même jour sur deux attaques qui visent ces forces-là, parce que les forces aussi rebelles qui travaillent avec les Américains sont incorporées maintenant aux nouvelles forces syriennes.",
+                    "score": 7,
+                    "start": 67.499,
+                    "end": 93.626
+                },
+                {
+                    "titre": "L'antagonisme entre l'État islamique et Al-Shara",
+                    "extrait": "Parce qu'à la base, Ahmad al-Shara a été missionné par feu à Abu Bakr al-Baghdadi, donc chef de l'État islamique, pour aller s'installer en Syrie dès 2012. Sauf que Shara s'est rebellé contre Bagdadi pour moult raisons qu'on a expliquées en large dans le... dans le podcast et c'est Shara qui a, en fin de compte, allumé la mèche de la guerre entre l'État islamique et Al-Qaïda et qui dure depuis 2013 et jusqu'à aujourd'hui.",
+                    "score": 9,
+                    "start": 139.569,
+                    "end": 170.491
+                },
+                {
+                    "titre": "Une nouvelle stratégie américaine en Syrie ?",
+                    "extrait": "Parce que le fait qu'il ait réussi, par ailleurs, à convaincre les Américains, c'est une bonne idée. Ça nous sort de ce qu'on connaît de la politique de contre-terrorisme américaine depuis 20 ans. Pourquoi ? Pour éviter les erreurs qui ont été commises depuis 20 ans. Et vu que Charles a tracé une troisième voie...",
+                    "score": 8,
+                    "start": 268.379,
+                    "end": 286.724
+                },
+                {
+                    "titre": "Le cadre pour les djihadistes étrangers en Syrie",
+                    "extrait": "Donc, dès que Chara a pris le pouvoir, il a commencé à donner des grades à certains commandants étrangers comme les Ouïghours. Des grades sans vrai poste. Aujourd'hui, ils vont leur créer des brigades. Donc, ces gens-là auront un cadre et un horizon. Évidemment, il y aura des récalcitrants.",
+                    "score": 7,
+                    "start": 319.136,
+                    "end": 333.701
+                },
+                {
+                    "titre": "La normalisation de la Syrie : un enjeu complexe",
+                    "extrait": "Donc, tous ces acteurs, comme on l'a dit avec vous à deux reprises, même après les massacres qui ont eu lieu sur la côte, nous ne l'oublions pas, tous ces acteurs considèrent que Chara est une solution et pas un problème, mais avec tous les problèmes qu'il devrait gérer.",
+                    "score": 8,
+                    "start": 476.627,
+                    "end": 491.692
+                },
+                {
+                    "titre": "Israël et la Syrie : vers une coexistence ?",
+                    "extrait": "Écoutez, en tout cas en ce qui concerne le Golan, le ministre des Affaires étrangères syrien, El-Shara lui-même, ont parlé des accords de 1974, qu'il va respecter, donc les accords de cessez-le-feu avec les anciennes autorités syriennes. Donc c'est déjà ça.",
+                    "score": 7,
+                    "start": 605.47,
+                    "end": 619.427
+                }
+            ]
+        },
+        {
+            "title": "Un politique est-il un écrivain ? ",
+            "id": "3881ff08-88f0-442a-9bca-9326c889fcc4",
+            "show": "Le Billet politique",
+            "show_id": "7656aae3-b20b-11e5-8e9e-005056a87c89",
+            "chapo": "Édouard Philippe fait paraître son nouveau livre, \"Le prix de nos mensonges\". En France, pas de grande carrière politique sans publication. Pourquoi ?",
+            "magnetotheque_id": "2025C22191S0155",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/le-billet-politique/un-politique-est-il-un-ecrivain-2205720",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/13917-04.06.2025-ITEMA_24157284-2025C22191S0155-NET_MFC_B90F9F0B-DB27-461C-BCDD-1931EA402A8C-21.mp3",
+            "duration": 293,
+            "date": 1749017700,
+            "visual_episode": "https://www.radiofrance.fr/s3/cruiser-production-eu3/2025/06/9aac26f2-1679-448d-9cdb-2cd02f188265/1400x1400_sc_000-346w73n.jpg",
+            "visual_show": "https://www.radiofrance.fr/s3/cruiser-production/2023/10/c660fc20-6a1a-4fe3-9bfc-8a35ede66205/1400x1400_sc_le-billet-politique.jpg",
+            "settings": [
+                "actu"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "Pourquoi les politiques écrivent-ils des livres ?",
+                    "extrait": "Le pays où les élus doivent devenir des auteurs, en tout cas s'ils rêvent d'un destin national. Par dizaines, tous les ans, ils publient. Ils sont plus ou moins connus, plus ou moins inspirés, secrétaires d'État, anciens présidents de la République. Ils aiment les librairies autant que les bureaux de vote. Que cherche-t-il ? La communication et le prestige, une raison supplémentaire de faire parler d'eux, de donner des interviews, d'être invités, et pas seulement pour commenter l'actualité du jour.",
+                    "score": 8,
+                    "start": 26.488,
+                    "end": 56.923
+                },
+                {
+                    "titre": "Écrivains ou politiques : qui sont-ils vraiment ?",
+                    "extrait": "Il y a 50 ans, sur France Culture, François Mitterrand balayait la question. Je ne cherche pas à savoir si je suis ou non un écrivain. Je pense que ce n'est pas une profession, qu'il y a beaucoup d'écrivains qui écrivent mal et qui disent des choses sans intérêt, et qui sont pourtant des professionnels consacrés, et qu'il y a beaucoup de gens qui ne font pas carrière d'écrivain et qui se révèlent aux yeux de l'historien littéraire comme de grands écrivains.",
+                    "score": 9,
+                    "start": 105.509,
+                    "end": 131.459
+                },
+                {
+                    "titre": "Le paradoxe des livres politiques",
+                    "extrait": "Commercialement, c'est très inégal. Politiquement aussi. Éric Zemmour peut bien vendre jusqu'à 300 000 exemplaires de certains de ses livres. Il n'a même pas réussi à devenir député. Les lecteurs ne sont pas toujours des électeurs. Vous êtes parlementaire, vous êtes ministre, vous publiez. Si vous écoulez 10 000 ou 20 000 exemplaires, c'est déjà un succès. 100 000 ou 150 000 comme Jordan Bardella ou parfois Jean-Luc Mélenchon, réjouissez-vous !",
+                    "score": 7,
+                    "start": 171.982,
+                    "end": 200.263
+                },
+                {
+                    "titre": "Bruno Le Maire : écrivain avant tout ?",
+                    "extrait": "Prenez Bruno Le Maire, l'ancien ministre de l'économie, qui s'est toujours perçu comme un écrivain, et peut-être d'abord comme un écrivain. 7 ans à Bercy et pendant cette période, combien de livres ? 6 romans et essais, parfois sans aucun rapport avec la politique, avec de la sensualité et même de la sexualité. Cela, il l'assumait comme un instrument de liberté à côté de la politique qui est si violente, si éphémère, si contrainte.",
+                    "score": 8,
+                    "start": 233.508,
+                    "end": 259.114
+                },
+                {
+                    "titre": "Le flop des livres politiques",
+                    "extrait": "Le dernier livre de Sandrine Rousseau, d'après le classement de L'Express, l'an dernier, moins de 1000 exemplaires. Et ça aurait pu être bien pire. D'après le même magazine, en 2022, le socialiste Jean-Christophe Cambadélis avait vendu deux exemplaires de son ouvrage. Deux, mais j'ai jamais compris comment c'était possible !",
+                    "score": 8,
+                    "start": 202.845,
+                    "end": 220.541
+                }
+            ]
+        },
+        {
+            "title": "L'archéologie préventive, \"c'est aussi sous l'eau\"",
+            "id": "9cdd2a34-90e1-4001-8a31-8a3bb888b42a",
+            "show": "Le Reportage de la rédaction",
+            "show_id": "d4d69370-481a-11e5-9fe0-005056a87c89",
+            "chapo": "S'il convient de protéger les écosystèmes au fond des océans, il faut également protéger les biens culturels maritimes qui y reposent. Au large de La Rochelle, des archéologues ont utilisé un robot pour vérifier s'il existait des vestiges archéologiques, avant l'installation d'un parc éolien.",
+            "magnetotheque_id": "2025C13845S0155",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/le-reportage-de-la-redaction/l-archeologie-preventive-c-est-aussi-sous-l-eau-8874020",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/12009-04.06.2025-ITEMA_24157278-2025C13845S0155-NET_MFC_8D341170-43C2-4A76-9394-1A4F056E5A73-21.mp3",
+            "duration": 271,
+            "date": 1749014700,
+            "visual_episode": "https://www.radiofrance.fr/s3/cruiser-production-eu3/2025/06/310b08d4-ca56-431e-a1f9-3d7f8f7a47c4/1400x1400_sc_pxl-20250516-065016313.jpg",
+            "visual_show": "https://www.radiofrance.fr/s3/cruiser-production/2021/09/8780acec-2f01-4811-8714-a7ab063ce734/1400x1400_le-reportage-de-la-redaction-std.jpg",
+            "settings": [
+                "actu"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "Comment un robot explore les fonds marins ?",
+                    "extrait": "Il est à peine 7 heures du matin sur le pont du navire scientifique André Malraux à 3 kilomètres au sud de l'île de Ré quand le robot Chinook est jeté à l'eau. Alors que le soleil se lève sur l'horizon, ce petit robot jaune équipé de caméras disparaît dans les profondeurs. A bord du navire de recherche du DRASM, l'archéologue et plongeuse Aurore Barraud a pour mission de détecter d'éventuels vestiges archéologiques au large de la Rochelle. Dans le cadre de l'aménagement d'un parc éolien, le DRASM nous a prescrit une trentaine de cibles.",
+                    "start": 25.729,
+                    "end": 59.563
+                },
+                {
+                    "titre": "Des trésors sous l'eau à découvrir !",
+                    "extrait": "Il y a la moitié des cibles qui sont positives, donc qui relèvent de la catégorie des biens culturels maritimes. Et donc on a trouvé un groupe d'encre intéressant. Pour explorer les fonds marins, l'archéologue s'appuie donc sur l'aide du robot Chinook et de son pilote, le spécialiste de la recherche sous-marine, Jérôme Cialelli.",
+                    "start": 79.131,
+                    "end": 106.077
+                },
+                {
+                    "titre": "L'archéologie préventive, un enjeu crucial !",
+                    "extrait": "Les découvertes faites grâce à l'archéologie préventive depuis deux décennies, elles sont considérables et elles ont participé à renouveler nos connaissances. Sous l'eau, la pratique est plus récente, mais néanmoins, les découvertes importantes se sont présentes. La France est un des rares pays à disposer d'un cadre législatif fort en matière d'archéologie préventive.",
+                    "start": 212.427,
+                    "end": 230.708
+                },
+                {
+                    "titre": "Pourquoi protéger notre patrimoine subaquatique ?",
+                    "extrait": "En 2001, 79 pays dont la France ont ratifié la convention de l'UNESCO pour protéger le patrimoine subaquatique. Pourtant, ce dernier est plus que jamais en danger entre la bétonisation des côtes, le chalutage ou encore l'incidence du changement climatique sur les littoraux.",
+                    "start": 231.188,
+                    "end": 244.65
+                }
+            ]
+        },
+        {
+            "title": "Lee Jae-myung, le nouveau président de la Corée du Sud qui a échappé à une tentative d'assassinat",
+            "id": "0b2c2aa7-1e89-4f85-81c7-5b43a5f68e7e",
+            "show": "La Revue de presse internationale",
+            "show_id": "bd43a733-4811-11e5-9fe0-005056a87c89",
+            "chapo": "Après six mois de chaos politique, la Corée du Sud a un nouveau président. Son nom : Lee Jay-Myung. Sa victoire est une véritable revanche sur la vie. \n",
+            "magnetotheque_id": "2025C22811S0155",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/la-revue-de-presse-internationale/la-revue-de-presse-internationale-emission-du-mercredi-04-juin-2025-2637106",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/10901-04.06.2025-ITEMA_24157274-2025C22811S0155-NET_MFC_0C880EA9-F53F-4E9A-A00E-1A2CFC9C5AA7-21.mp3",
+            "duration": 318,
+            "date": 1749015360,
+            "visual_episode": "https://www.radiofrance.fr/s3/cruiser-production-eu3/2025/06/8eea0f30-ac27-4b05-9796-6695b06234ed/1400x1400_sc_gettyimages-2217197913.jpg",
+            "visual_show": "https://www.radiofrance.fr/s3/cruiser-production-eu3/2024/03/30766aae-9f4b-48a6-ac17-f16e4a403ed5/1400x1400_sc_fc-revuepressintern-1400x1400.jpg",
+            "settings": [
+                "actu"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "Comment Lee Jae-myung a surmonté l'adversité ?",
+                    "extrait": "Sa victoire, d'ailleurs, est une véritable revanche sur la vie et son parcours, une succès-story captivante. Racontée par le site d'information Nikkei Asia, issu d'une famille pauvre d'agriculteurs, le petit Lee Jae-myung, n'a pas la chance d'aller à l'école et doit travailler comme ouvrier pour subvenir aux besoins de sa famille. Un jour, à l'usine, son bras se coince dans une presse et le laisse handicapé à vie. Mais ça ne le décourage pas, il entreprend de changer de vie. Il suit des cours du soir, valide les examens du lycée, entre à la fac de droit, réussit l'examen du barreau et devient avocat spécialisé dans les droits de l'homme.",
+                    "start": 52.266,
+                    "end": 91.164
+                },
+                {
+                    "titre": "Une tentative d'assassinat qui change tout !",
+                    "extrait": "Mais il aurait pu ne pas l'emporter car il a frôlé la mort début 2024 alors qu'il visite le chantier de construction d'un aéroport à Pouzanne. Un homme le poignarde au niveau du coup. Une tentative d'assassinat pour l'empêcher de gouverner le pays ? Qui a donc échoué, Li subit plusieurs opérations chirurgicales et cinq mois plus tard est élu président de la Corée du Sud.",
+                    "start": 148.107,
+                    "end": 171.167
+                },
+                {
+                    "titre": "Un président face à des défis colossaux !",
+                    "extrait": "Investi ce matin, il a promis, au cours de sa campagne, de relancer l'économie d'un pays en crise. Avec un taux de natalité parmi les plus bas au monde et où le coût de la vie ne cesse d'augmenter. Le triomphe de Li J. Myung n'efface pas les multiples scandales dans lesquels il est empêtré, poursuivi notamment dans plusieurs affaires de corruption.",
+                    "start": 171.227,
+                    "end": 190.657
+                }
+            ]
+        },
+        {
+            "title": "La plus mignonne des petites souris, vraiment ? ",
+            "id": "86db9cc8-b7df-4bf6-a2c6-0a442d80ce4f",
+            "show": "Lectures jeunesse",
+            "show_id": "87557573-3bf0-43a2-a469-756ba2d4e324",
+            "chapo": "Faut-il ou non censurer les livres pour enfants qui véhiculent des préjugés (sexistes, notamment) ? Vaste et difficile question, derrière laquelle se cache une certaine conception de la littérature. ",
+            "magnetotheque_id": "2025C52120S0155",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/lectures-jeunesse/lectures-jeunesse-chronique-du-mercredi-04-juin-2025-6931644",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/24434-04.06.2025-ITEMA_24157288-2025C52120S0155-NET_MFC_AD8CDB8C-22A6-4B11-BDBB-834FFFB05B47-21.mp3",
+            "duration": 313,
+            "date": 1749045242,
+            "visual_episode": "https://www.radiofrance.fr/s3/cruiser-production-eu3/2025/06/292c2764-f668-43cb-8141-a7a603809b0b/1400x1400_sc_plus-mignonne-ok-ok.jpg",
+            "visual_show": "https://www.radiofrance.fr/s3/cruiser-production/2023/10/a8879124-1d90-422f-80ca-d0adbc5f0b99/1400x1400_sc_lectures-jeunesse-3000x3000.jpg",
+            "settings": [
+                "interview"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "Pourquoi la science est-elle si fascinante ?",
+                    "extrait": "La science, c'est avant tout une manière de comprendre le monde qui nous entoure. Elle nous permet de poser des questions, d'explorer des mystères et de trouver des réponses. Par exemple, saviez-vous que les étoiles que nous voyons dans le ciel sont en réalité des milliards d'années-lumière loin de nous ? Cela signifie que nous regardons le passé à chaque fois que nous levons les yeux. Cette notion de temps et d'espace est à la fois déroutante et fascinante, et elle nous rappelle à quel point notre existence est petite dans l'immensité de l'univers.",
+                    "score": 8,
+                    "start": 227.961,
+                    "end": 262.08
+                },
+                {
+                    "titre": "L'idée qui change tout sur le travail !",
+                    "extrait": "Aujourd'hui, le monde du travail évolue à une vitesse incroyable. Les jeunes générations, en particulier, cherchent un sens à leur travail. Ce n'est plus seulement une question de salaire, mais aussi de valeurs et d'impact. Les entreprises doivent s'adapter à cette nouvelle réalité, car les talents d'aujourd'hui ne se contentent plus d'un simple emploi. Ils veulent contribuer à quelque chose de plus grand, et cela change la dynamique du marché du travail.",
+                    "score": 9,
+                    "start": 6.833,
+                    "end": 31.478
+                },
+                {
+                    "titre": "Comment l'art reflète notre époque ?",
+                    "extrait": "L'art contemporain est un miroir de notre société. Il aborde des thèmes comme l'identité, la crise climatique et les inégalités. Par exemple, des artistes utilisent des matériaux recyclés pour créer des œuvres qui interpellent sur notre consommation. Cette approche ne se limite pas à l'esthétique, elle pose des questions profondes sur notre mode de vie et notre avenir. L'art devient ainsi un vecteur de changement et de réflexion.",
+                    "score": 7,
+                    "start": 232.324,
+                    "end": 262.08
+                },
+                {
+                    "titre": "Ce que vous ignorez sur la santé mentale !",
+                    "extrait": "La santé mentale est un sujet de plus en plus discuté, mais il reste encore beaucoup de stigmatisation. Saviez-vous que près d'un jeune sur cinq souffre de troubles mentaux ? Il est crucial de comprendre que demander de l'aide est un signe de force, pas de faiblesse. Les ressources sont là, et il est temps de briser le silence autour de ces problématiques. En parler peut sauver des vies et aider à construire une communauté plus solidaire.",
+                    "score": 8,
+                    "start": 287.378,
+                    "end": 310.931
+                },
+                {
+                    "titre": "L'histoire vraie derrière la crise climatique !",
+                    "extrait": "La crise climatique n'est pas seulement un problème environnemental, c'est aussi une question de justice sociale. Les pays les plus pauvres, qui contribuent le moins aux émissions de CO2, sont souvent les plus touchés par ses conséquences. Cette inégalité soulève des questions éthiques et morales sur notre responsabilité collective. Comprendre cette dynamique est essentiel pour agir de manière efficace et équitable face à ce défi mondial.",
+                    "score": 9,
+                    "start": 253.051,
+                    "end": 283.528
+                }
+            ]
+        },
+        {
+            "title": "Pourquoi invoquons-nous la destinée ?",
+            "id": "1baf60f5-b77b-417f-a79d-1c703ebf7c3c",
+            "show": "Le Pourquoi du comment : philo  ",
+            "show_id": "b6bd068b-da10-4d88-8d15-f0e1c87ed34b",
+            "chapo": "Pourquoi dire \"C’est ton destin\" ? Est-ce une excuse sociale ou une vocation intérieure ? Le destin nous enferme-t-il… ou nous guide-t-il ? Et si ce qu’on appelait \"destinée\" était une fiction que l’on se donne pour donner sens à nos choix ?",
+            "magnetotheque_id": "2025C45539E0087",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/le-pourquoi-du-comment-philo/pourquoi-invoquons-nous-la-destinee-4110716",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/22788-04.06.2025-ITEMA_24157300-2025C45539E0087-NET_MFC_35CDAF9D-A3B4-4FE3-9FF2-F58B95E2DA2A-21.mp3",
+            "duration": 209,
+            "date": 1749027300,
+            "visual_episode": "https://www.radiofrance.fr/s3/cruiser-production-eu3/2025/06/49821a13-8f6e-41e0-8eab-f1b03f29706a/1400x1400_sc_04-06-2025-lpdc-philo.jpg",
+            "visual_show": "https://www.radiofrance.fr/s3/cruiser-production/2021/09/4424ec39-3641-487f-9aa6-03e74150d34d/1400x1400_le-pourquoi-du-comment-philo.jpg",
+            "settings": [
+                "savoirs"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "Le destin, prison sociale ou vocation ?",
+                    "extrait": "Pour expliquer nos actes, nous invoquons parfois un destin individuel qui nous gouvernerait de l'extérieur ou de l'intérieur. Et il faut peut-être analyser ce que signifie cette phrase et sa profonde ambivalence. Par exemple, dans un sketch qui a marqué plusieurs générations avec l'imitation d'un groupe de rap, Ceux qui étaient alors, du côté de la critique sociale et de la liberté individuelle, les inconnus, imitaient un groupe chantant la chanson suivante « C'est ton destin ». « C'est ton destin », c'était dans le rythme imité d'ailleurs de musique apparemment déterminée socialement. C'était l'idée plutôt d'un destin comme prison sociale, d'une prédestination sociale. Tu as fait ceci ou cela, tu es en prison peut-être, tu as fait une bêtise. Eh bien, c'était ton destin.",
+                    "score": 8,
+                    "start": 9.481,
+                    "end": 54.456
+                },
+                {
+                    "titre": "Liberté et destin : un compromis nécessaire ?",
+                    "extrait": "Nous invoquons aussi autre chose dans l'idée de destin, ce que nous appelons la destinée individuelle, cette chose que nous ne créons pas de manière entièrement libre, mais à laquelle nous nous référons comme à un sens et parfois comme à une vocation. « C'est ton destin », ce n'est pas forcément l'idée d'être enfermé dans une condition sociale déterminée, mais plutôt de créer nous-mêmes, par exemple dans la musique justement, de créer nous-mêmes un style qui... va résister à ce destin dicté de l'extérieur. C'est ton destin, oui, c'est peut-être ma destinée, sa destinée de chanter comme ceci ou comme cela, d'inventer un nouveau style sur le fond de ce qui n'est pas une prédétermination absolue.",
+                    "score": 9,
+                    "start": 85.96,
+                    "end": 128.233
+                },
+                {
+                    "titre": "Socrate et le démon intérieur : une voix à écouter",
+                    "extrait": "Lorsque Socrate décide de faire de la philosophie, il dit qu'il ne l'a pas choisi librement. C'est son démon, dit-il, Daimon, qui lui a imposé. de résister à la loi commune qui lui a imposé de refuser, par exemple, la thèse que l'injustice rend heureux. Oui, nous avons en nous une voie intérieure, c'est ce que nous appelons... La destinée ou la vocation, bien entendu, elle est peut-être une fiction, c'est peut-être une construction d'un soi idéal, comme le disent certains psychanalystes, de Freud à Didier Anzieux, certains psychanalystes ou Winnicott qui disent que nous nous construisons une idée de nous-mêmes pour nous guider dans la vie.",
+                    "score": 8,
+                    "start": 150.248,
+                    "end": 188.953
+                },
+                {
+                    "titre": "La destinée : fiction ou réalité ?",
+                    "extrait": "Nous ne la construisons nous-mêmes, elle n'est pas entièrement dictée de l'extérieur, la destinée, la vocation. C'est peut-être une manière de reconnaître que les actes humains ont un sens, par-delà l'opposition d'une liberté vide et arbitraire ou d'un destin fermé et noir.",
+                    "score": 7,
+                    "start": 189.746,
+                    "end": 206.729
+                }
+            ]
+        },
+        {
+            "title": "Caroline Guiela Nguyen, metteuse en scène : \"La douceur n'empêche pas la prise de conscience politique des choses\"",
+            "id": "1289273b-1e19-443c-ad7d-cf1e2389078a",
+            "show": "Les Midis de Culture",
+            "show_id": "32a14af6-fc87-4f4f-a06e-39ccf8587119",
+            "chapo": "La langue, Caroline Guiela Nguyen en a fait l'un des principaux axes de son travail ; elle le poursuit avec \"Valentina\" ou l'histoire d'une enfant roumaine et de sa mère venues en France, confrontées à la barrière de la langue et à la violence institutionnelle.",
+            "magnetotheque_id": "2025C51852S3155",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/les-midis-de-culture/caroline-guiela-nguyen-autrice-metteuse-en-scene-pour-valentina-5794263",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/12360-04.06.2025-ITEMA_24157279-2025C51852S3155-NET_MFC_AD728CFC-576C-43BB-8705-7A8AF876004E-21.mp3",
+            "duration": 1710,
+            "date": 1749034800,
+            "visual_episode": "https://www.radiofrance.fr/s3/cruiser-production-eu3/2025/06/07dec498-223e-468d-827f-2aa9d7fa21b8/1400x1400_sc_smith-carolineguielanguyen-5-1.jpg",
+            "visual_show": "https://www.radiofrance.fr/s3/cruiser-production-eu3/2024/10/15061e2b-95cd-4726-bbe6-268579b84b50/1400x1400_sc_fc-midis-de-culture-3000x3000-photo.jpg",
+            "settings": [
+                "interview"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "La langue, un pont ou un mur ?",
+                    "extrait": "Je pense qu'il y a quelque chose qui m'intéresse à l'intérieur de Valentina, qui est que l'histoire, c'est une petite fille qui accompagne sa mère, qui vient de Roumanie, et les deux sont ce qu'on appelle des allophones, c'est-à-dire des personnes qui ne parlent pas la langue du pays dans lequel ils habitent. Et on va voir, on va suivre le parcours du combattant de la maman et de cette petite-fille. La petite-fille va apprendre très vite le français. La maman, elle, va avoir plus de difficultés pour des raisons qui sont très, très concrètes. Parce qu'on accable beaucoup les personnes qui ne parlent pas la langue. Mais en fait, il faut savoir que les personnes qui passent d'espace de panique en espace de panique, en fait, c'est une réalité quasi psychique. C'est qu'en fait, on ne peut rien apprendre quand on passe d'espace de panique en espace de panique.",
+                    "start": 160.345,
+                    "end": 201.412
+                },
+                {
+                    "titre": "L'impact des mots sur les vies",
+                    "extrait": "Et c'est vrai que j'avais envie, je crois, pour revenir à la question des spectateurs, du public touché, c'est que je suis très heureuse d'imaginer que dans la salle, comme ça s'est passé hier soir à Paris, qu'il y ait des collégiens, par exemple, qui d'après moi, en fait, rendent compte des réalités de langue de cet ordre-là. Ils doivent avoir des camarades dans leur classe qui ne parlent pas complètement la langue ou qui ont appris la langue tardivement. Peut-être eux-mêmes, en fait, ont vécu ça. Et je trouve que c'est important qu'ils puissent connaître, finalement, à la fois, effectivement, la difficulté sociale dans laquelle ces deux femmes vont se retrouver, mais aussi et surtout, la force qu'elles ont et la dignité qu'elles ont et la puissance, en fait, de ces personnes-là.",
+                    "start": 216.686,
+                    "end": 259.511
+                },
+                {
+                    "titre": "La violence institutionnelle révélée",
+                    "extrait": "Et c'est indigne de nos services publics. Et c'est indigne de penser qu'on peut soigner quelqu'un comme ça et qu'on fait porter du coup sur les épaules des enfants des choses qui sont mais inimaginables. Qu'on ne ferait pas porter sur les épaules de nos propres enfants. Enfin, je veux dire... Donc, moi, j'ai toujours été, juste pour raconter un peu la genèse de ce projet, c'est que je suis partie de mon amour du métier d'interprète. Alors, pas d'interprète de théâtre, même si c'est génial, parce que finalement, c'est la même.",
+                    "start": 708.6,
+                    "end": 742.131
+                },
+                {
+                    "titre": "La douceur face à la dureté du monde",
+                    "extrait": "La douceur n'empêche pas la prise de conscience politique des choses. Mais il y a aussi effectivement quelque chose que je raconte du lien mère-fille et c'est ce que je vous disais, moi j'ai voulu finalement ce spectacle je l'ai adressé à la fois à ma mère et à la fois à ma fille et à la fois à ma mère d'ailleurs qui est décédée et en l'ayant accompagnée pendant des mois dans un parcours où vraiment il y a eu des médecins formidables et je dois dire qu'il y a eu des médecins pas formidable, pas formidable du tout.",
+                    "start": 1158.355,
+                    "end": 1193.592
+                },
+                {
+                    "titre": "Le poids des mots sur les enfants",
+                    "extrait": "Et là, dans quelle situation on met un enfant de 9 ans qui va traduire donc pour sa mère ou pour son père des consultations médicales et annoncer ce malheur ? Qu'est-ce qu'on crée ? Enfin voilà c'est pour ça que je parle. On est indignes nous-mêmes dans nos services publics quand on fait ça.",
+                    "start": 807.678,
+                    "end": 831.504
+                }
+            ]
+        },
+        {
+            "title": " Juger l’administration : le Conseil d’État",
+            "id": "8dca7493-05c7-41c5-ae7c-2d9bb4330f43",
+            "show": "LSD, la série documentaire",
+            "show_id": "fb8db8c6-20b0-4189-977e-07f112c3de79",
+            "chapo": "Juge suprême de l’ordre administratif, le Conseil d’Etat conseille le gouvernement et contrôle l’administration. Il veille à maintenir l’équilibre entre pouvoirs publics et libertés individuelles.",
+            "magnetotheque_id": "2025C26362E0070",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/lsd-la-serie-documentaire/juger-l-administration-le-conseil-d-etat-3537998",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/10177-02.06.2025-ITEMA_24154834-2025C26362E0070-ITE_00150525_RSCE-21.mp3",
+            "duration": 3500,
+            "date": 1748962800,
+            "visual_episode": "https://www.radiofrance.fr/s3/cruiser-production-eu3/2025/05/3279a19e-ea03-4c6c-9d76-c359c453c632/1400x1400_sc_maxnewsfrfour145209.jpg",
+            "visual_show": "https://www.radiofrance.fr/s3/cruiser-production/2021/10/9f5786b0-763e-4381-8da0-cb0e7c559562/1400x1400_lsd-la-serie-documentaire.jpg",
+            "settings": [
+                "temoignage"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "Pourquoi le Conseil d'État est-il si important ?",
+                    "extrait": "Difficile de comprendre au premier abord le rôle du Conseil d'État. À la fois Conseil du gouvernement, pourvoyeur de hauts fonctionnaires pour les cabinets ministériels, mais aussi juge de l'administration, il occupe une place centrale dans la vie de nos institutions. C'est pourtant son rôle juridictionnel, largement étendu depuis sa création, qui fonde sa légitimité. Le juge de l'intérêt général, c'est lui. Mais cela n'a pas toujours eu la même signification.",
+                    "score": 8,
+                    "start": 49.959,
+                    "end": 74.969
+                },
+                {
+                    "titre": "L'émotion d'une première entrée au Conseil d'État",
+                    "extrait": "C'est un moment très émouvant, surtout quand on est d'origine modeste, que tout ceci était totalement inconnu quelques années auparavant. Donc voilà, il y a un moment de grande émotion quand on franchit ce Porsche. Didier Tabuteau, je suis vice-président du Conseil d'État.",
+                    "score": 9,
+                    "start": 185.341,
+                    "end": 202.586
+                },
+                {
+                    "titre": "Le Conseil d'État, gardien des libertés",
+                    "extrait": "Aujourd'hui, les principaux enjeux sont les risques d'atteinte qui peuvent être portés aux libertés des citoyens par l'administration. Le Conseil d'État, il est aujourd'hui, en sa qualité de juge de l'administration, un des premiers garants des libertés fondamentales et il a une responsabilité considérable à cet égard parce que c'est lui qui va devoir trouver le juste équilibre entre la marge d'appréciation qui doit être laissée à l'administration et... pour pouvoir assurer la sécurité publique, pour pouvoir garantir la sécurité de l'ensemble des citoyens, et le fait de ne pas pour autant porter une atteinte disproportionnée aux droits et aux libertés de chacun.",
+                    "score": 10,
+                    "start": 901.909,
+                    "end": 955.795
+                },
+                {
+                    "titre": "L'importance de la liberté d'expression",
+                    "extrait": "Il faut être très attentif à ne pas laisser aujourd'hui se créer les outils de notre asservissement de demain. Qu'est-ce que c'est que de présenter un risque à l'ordre public lorsque ce risque est apprécié par un ministère de l'Intérieur qui... est un ministère populiste et qui a une ambition de limiter l'action très certainement de ses opposants politiques.",
+                    "score": 9,
+                    "start": 2981.503,
+                    "end": 3008.251
+                },
+                {
+                    "titre": "Le rôle du rapporteur public",
+                    "extrait": "Le rapporteur public, c'est un juge qui est membre de la juridiction administrative, qui a vocation à prendre la parole lors de l'audience pour expliquer l'affaire aux juges qui seront amenés à trancher le litige concerné, c'est-à-dire la formation de jugement, mais aussi aux parties qui sont présentes à l'audience, qui sont représentées souvent par leurs avocats, et aussi expliquer l'affaire au public.",
+                    "score": 8,
+                    "start": 1157.774,
+                    "end": 1178.43
+                },
+                {
+                    "titre": "L'état d'urgence : un outil dangereux ?",
+                    "extrait": "Ce qu'on a vu entre 2015 et 2017, c'est non seulement un état d'urgence durablement ancré au cœur du paradigme de gouvernement en France, mais c'est aussi un état d'urgence qui est massivement sorti de son lit, c'est-à-dire qui a été utilisé bien au-delà de la lutte contre le terrorisme.",
+                    "score": 10,
+                    "start": 2948.552,
+                    "end": 2964.487
+                },
+                {
+                    "titre": "Les libertés fondamentales en danger",
+                    "extrait": "Il y a toujours un juge, certes, il y aura toujours le Conseil d'État qui pourra, le cas échéant, lever ce type de mesures. Mais on voit bien qu'à partir du moment où on accepte le principe même de ce type de restrictions des libertés, à partir du moment où on les fait entrer dans notre droit... On prend un risque pour nos libertés, peut-être pas tout de suite, mais très certainement, demain, un risque de dérive et d'atteinte non plus aux libertés de certains, mais bien aux libertés de tous.",
+                    "score": 10,
+                    "start": 3008.993,
+                    "end": 3042.154
+                }
+            ]
+        },
+        {
+            "title": "Les villes peuvent-elles préserver le financement de la culture ? ",
+            "id": "c97ecf8b-9577-45f7-b623-3d68fe0cff76",
+            "show": "Le Point culture",
+            "show_id": "25d4eded-ef3f-4106-9cca-09a53f4794dc",
+            "chapo": "À Toulouse, la baisse du financement par la ville de bibliothèques, de centres culturels et de l'Institut supérieur des arts et du design interroge sur le rôle joué par les villes dans le soutien à la culture, dans un contexte global de baisse des budgets dans ce secteur.",
+            "magnetotheque_id": "2025C41196S0155",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/le-point-culture/les-villes-peuvent-elles-preserver-le-financement-de-la-culture-6644022",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/21829-04.06.2025-ITEMA_24157305-2025C41196S0155-NET_MFC_5B468C3D-4E49-4652-9453-1AC706D16E13-21.mp3",
+            "duration": 604,
+            "date": 1749034200,
+            "visual_episode": "https://www.radiofrance.fr/s3/cruiser-production-eu3/2025/06/f2ada2ce-32ec-49cd-a9e3-94dca10fcabd/1400x1400_sc_000-384h8g3.jpg",
+            "visual_show": "https://www.radiofrance.fr/s3/cruiser-production-eu3/2025/02/d4774bd4-dd85-4b5f-aaae-97ff5e8dfcc3/1400x1400_sc_fc-le-point-culture-3000x300.jpg",
+            "settings": [
+                "actu"
+            ],
+            "limit": 2,
+            "extraits": [
+                {
+                    "titre": "Pourquoi Toulouse est-elle en colère ?",
+                    "extrait": "Concernant plus spécifiquement le cas de la ville de Toulouse, il y a un certain nombre de baisses. qui ont été annoncés s'agissant d'équipements soit qui sont gérés directement par la ville, soit dont la ville est la principale financeuse. Donc, vous l'avez mentionné, le réseau des bibliothèques, bibliothèques de la ville, avec une annonce selon les représentants syndicaux de 64% de baisse du budget de fonctionnement, ce qui est considérable si ces chiffres sont confirmés. On a également l'Institut supérieur des arts et du design de Toulouse. qui regroupe alors, pour les auditeurs moins informés, des sigles qui regroupent l'ancienne école des Beaux-Arts de la ville et le centre d'études supérieures musique et danse. C'est donc une école supérieure territoriale d'enseignement artistique. Là, on a une baisse annoncée du budget européen qui est fournie par la ville de 10% pour cette institution d'enseignement artistique, et une baisse de 30%, elle serait de 30% pour le réseau des 13 centres culturels de la ville de Toulouse.",
+                    "score": 8,
+                    "start": 85.826,
+                    "end": 158.701
+                }
+            ]
+        },
+        {
+            "title": "Vivre pour sauver des vies",
+            "id": "97efd8eb-ebf5-49c5-b22e-023733d6181a",
+            "show": "Avec philosophie",
+            "show_id": "744d0dc6-dacc-4d71-a22c-af97eec7a56e",
+            "chapo": "L'humanitaire est bien plus qu'un métier : c'est un engagement total qui consiste à faire le choix d'une vie tournée vers les autres. Deux portraits, celui d'un médecin et celui d'une sage-femme, pour comprendre qui sont les travailleurs de l'humanitaire. ",
+            "magnetotheque_id": "2025C48904S0154",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/avec-philosophie/s-engager-soigner-travailler-qui-sont-les-humanitaires-7924314",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/10467-03.06.2025-ITEMA_24156063-2025C48904S0154-NET_MFC_A8B5377F-DAC6-4453-B4AE-9A45B2606F28-21.mp3",
+            "duration": 3535,
+            "date": 1748937600,
+            "visual_episode": "https://www.radiofrance.fr/s3/cruiser-production-eu3/2025/05/5be70601-5a38-4309-b849-4e07a44b53b0/1400x1400_sc_000-app1999101539981.jpg",
+            "visual_show": "https://www.radiofrance.fr/s3/cruiser-production/2022/09/7724d8b9-cd17-41f6-b802-5db0c171842b/1400x1400_avec-philosophie-2.jpg",
+            "settings": [
+                "savoirs"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "Pourquoi l'humanitaire est un engagement total ?",
+                    "extrait": "L'humanitaire est bien plus qu'un métier : c'est un engagement total qui consiste à faire le choix d'une vie tournée vers les autres. Deux portraits, celui d'un médecin et celui d'une sage-femme, pour comprendre qui sont les travailleurs de l'humanitaire.",
+                    "score": 8,
+                    "start": 8.952,
+                    "end": 31.415
+                },
+                {
+                    "titre": "Le choc des cultures en mission humanitaire",
+                    "extrait": "C'était ma première mission. J'étais dans un milieu extrêmement incompréhensible. Comme la première mission, j'avais l'impression d'être dans une sorte de capharnaüm. On voyait encore les restes des gens qui se fusillaient, la guerre se poursuivait, et puis il y avait de la pathologie. Très étrange, puisqu'il y avait toutes sortes de pathologies, y compris la variole. On était en 72. La variole était du XVIIe siècle. La vaccination a mis tout ce temps pour arriver.",
+                    "score": 9,
+                    "start": 319.065,
+                    "end": 361.132
+                },
+                {
+                    "titre": "L'impact des médicaments sur la vie des femmes",
+                    "extrait": "En fait, en termes de stratégie, on a rencontré une gynécologue tchadienne. À l'époque, il n'y en avait que trois dans tout le pays. Grasse Codindo, une femme extraordinaire, et puis en discutant avec elle, elle nous a dit qu'en fait, on a deux médicaments qui sauvent la vie des femmes. Le misoprostol, effectivement, et le sulfate de magnésium qui est pour la pré-eclampsie et l'éclampsie, qui sont les complications d'hypertension pendant la grossesse et qui est une des causes de mortalité les plus importantes.",
+                    "score": 10,
+                    "start": 2715.676,
+                    "end": 2738.249
+                },
+                {
+                    "titre": "L'échec comme moteur de l'engagement",
+                    "extrait": "Il faut investiguer ça pour en ressortir quelque chose de positif. Et c'est probablement ce qui m'a servi dans ce métier d'humanitaire, où en fait, qu'on le veuille ou non, on arrive dans des formes de situations d'échecs, des échecs politiques, des échecs naturels, mais il y a quelque chose de l'ordre de l'échec quand on arrive, et de voir, d'investiguer ça et de voir, mais qu'est-ce qu'on va pouvoir en faire, transformer ça d'une certaine manière en un positif.",
+                    "score": 8,
+                    "start": 1425.851,
+                    "end": 1451.511
+                },
+                {
+                    "titre": "L'humanitaire face à la politique",
+                    "extrait": "L'humanitaire n'est pas politique, ne peut pas être politique. C'est la position métaphysique de l'homme sur la Terre. Comment voulez-vous que ce soit politique ? C'est dévoyé. Regardez la jeune femme qui est interrogée en même temps que moi. Nelly, ce que je pense, elle est de ma famille. Pourquoi ? Tous ceux qui sont passés à MSF, à MDMA, je les appelle mes valeureux camarades. Ils ont été sur le terrain et ils ont eu la même pensée que moi. Sauver la vie.",
+                    "score": 9,
+                    "start": 3223.035,
+                    "end": 3253.901
+                }
+            ]
+        },
+        {
+            "title": "LES PIEDS SUR TERRE, émission du mercredi 04 juin 2025",
+            "id": "6a734cee-f323-42c5-b53c-4f9e5fd36e31",
+            "show": "Les Pieds sur terre",
+            "show_id": "beb83c10-402c-11e5-8314-005056a87c89",
+            "chapo": "",
+            "magnetotheque_id": "2025C6612S0155",
+            "seo_url": "",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/10078-04.06.2025-ITEMA_24157281-2025C6612S0155-NET_MFC_A2847C2C-2515-4B9B-AE51-501491EA90DC-21.mp3",
+            "duration": 1793,
+            "date": 1749036600,
+            "visual_episode": "https://www.radiofrance.fr/s3/cruiser-production/2022/06/a7fc766f-3e49-45a0-a41f-5512d5c0f8c1/1400x1400_les-pieds-sur-terre.jpg",
+            "visual_show": "https://www.radiofrance.fr/s3/cruiser-production/2022/06/a7fc766f-3e49-45a0-a41f-5512d5c0f8c1/1400x1400_les-pieds-sur-terre.jpg",
+            "settings": [
+                "temoignage"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "Pourquoi se sentir différent ?",
+                    "extrait": "Je m'appelle Julien, j'ai 25 ans, je suis étudiant en médiation des sciences, en master, et je suis actuellement en stage dans un lieu de vulgarisation et de diffusion des sciences mathématiques et informatiques. Alors, j'ai grandi dans un milieu rural, à la campagne, dans une famille de classe moyenne populaire. Alors mon diagnostic, ça a commencé, j'avais 5 ans, à l'école maternelle, je m'ennuyais à l'école, je le disais souvent à ma mère, qui a commencé à s'inquiéter, et par conséquent, elle m'a fait consulter une psychologue, qui m'a diagnostiqué précoce, sans en dire beaucoup plus, et également en avance au niveau des mathématiques. J'avais assez dire le niveau d'un enfant de 8 ans en des mathématiques.",
+                    "start": 85.666,
+                    "end": 143.855
+                },
+                {
+                    "titre": "L'isolement des précoces",
+                    "extrait": "Par conséquent, j'ai sauté une classe, puisqu'évidemment je savais déjà lire, pour arriver en CP à l'école élémentaire. Alors, au primaire, je me sentais souvent un peu à l'écart des autres élèves, j'étais un peu l'intello de la classe, j'avais des bons résultats, etc. et j'avais cette étiquette de précoce qui m'était à coller et donc je me disais c'est normal que je me fasse pas trop d'amis puisque je suis pas comme les autres puisque je suis précoce mais autrement j'avais de bons résultats et ça se passait quand même pas si mal à l'école primaire et au collège au lycée également malgré quelques petits épisodes de harcèlement.",
+                    "start": 154.611,
+                    "end": 201.605
+                },
+                {
+                    "titre": "La dépression à l'université",
+                    "extrait": "Et ça a basculé à l'université, puisque mes résultats ont brutalement chuté, parce que je n'avais pas de méthode de travail. Et donc mes résultats ont chuté, et j'ai commencé à faire une dépression. j'ai fait un peu une crise existentielle en fait, c'est-à-dire qui je suis, j'avais l'impression de m'être jusque-là un peu défini, j'avais basé ma personnalité sur mes résultats scolaires en fait, et donc j'ai commencé à m'interroger sur qu'est-ce que c'est précoce, puisque je ne m'étais pas vraiment posé la question avant.",
+                    "start": 210.733,
+                    "end": 249.359
+                },
+                {
+                    "titre": "Le poids du diagnostic HPI",
+                    "extrait": "L'étiquette de haut potentiel intellectuel, beaucoup de gens l'utilisent et l'ont utilisé à tort et à travers pour désigner beaucoup de choses. Certains parents l'utilisent pour rendre leur enfant un peu spécial. Et je pense qu'aujourd'hui, le terme de haut potentiel intellectuel mène à une impasse pour beaucoup de gens. Beaucoup de personnes se retrouvent dedans et ne savent pas quoi en faire.",
+                    "start": 777.136,
+                    "end": 805.777
+                },
+                {
+                    "titre": "La quête d'identité des HPI",
+                    "extrait": "Ce parcours, il m'a appris beaucoup de choses, et notamment au niveau de la définition de l'intelligence. Qu'est-ce que c'est l'intelligence ? Est-ce qu'il y a plusieurs intelligences ? Et la question est toujours ouverte.",
+                    "start": 839.424,
+                    "end": 854.054
+                },
+                {
+                    "titre": "Le regard d'un père sur le HPI",
+                    "extrait": "En tant que journaliste, je travaille actuellement dans le domaine de l'horlogerie, qui est un domaine assez spécifique, mais c'est le seul sujet que je maîtrise à peu près sur lequel j'écris. Donc la question du haut potentiel ne s'est jamais véritablement posée pour moi durant l'enfance, tout simplement parce que l'essentiel de ma scolarité s'est déroulé dans les années 80 et début des années 90, et dans un établissement scolaire extrêmement traditionnel.",
+                    "start": 894.141,
+                    "end": 911.411
+                },
+                {
+                    "titre": "Le test de haut potentiel : un bilan froid",
+                    "extrait": "Lorsque le bilan de haut potentiel de notre fils nous avait été remis, il avait 11 ou 12 ans, ça a été très difficile dans un premier temps pour nous parce que c'était un bilan très factuel, presque numérique, sans aucune spécification, sans accompagnement. Grosso modo, on vous rend votre fils avec un score, mais sans mode d'emploi.",
+                    "start": 1056.448,
+                    "end": 1074.574
+                }
+            ]
+        },
+        {
+            "title": "Chine, la longue marche des renouvelables",
+            "id": "13684f3f-dad2-4e8d-8e6a-c9e7a5f7ae4a",
+            "show": "Cultures Monde",
+            "show_id": "2358bc00-3f62-11e5-8314-005056a87c89",
+            "chapo": "Alors que la demande en électricité augmente en Chine, les émissions de CO2 du pays sont en baisse, notamment grâce à un développement massif du solaire et de l'éolien et une électrification des usages. Mais dans le même temps, le pays reste un grand producteur et consommateur de charbon. ",
+            "magnetotheque_id": "2025C16756S0155",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/cultures-monde/chine-la-longue-marche-des-renouvelables-3855267",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/11701-04.06.2025-ITEMA_24157283-2025C16756S0155-NET_MFC_56D0B3E0-3F7A-4EA9-99D8-CC664BC1A7A6-21.mp3",
+            "duration": 3534,
+            "date": 1749027600,
+            "visual_episode": "https://www.radiofrance.fr/s3/cruiser-production-eu3/2025/06/01d79e50-e26d-4c43-be40-58df4ea1a293/1400x1400_sc_chine-energy.jpg",
+            "visual_show": "https://www.radiofrance.fr/s3/cruiser-production/2022/10/3b24506f-b3d7-4501-8d47-eda1cdf55d20/1400x1400_cultures-monde-jg.jpg",
+            "settings": [
+                "savoirs"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "Chine : Le géant des renouvelables ?",
+                    "extrait": "En examinant les progrès que nous avons réalisés au cours des 10 et 5 dernières années, nous pouvons voir que le développement de notre industrie des énergies renouvelables au Xinjiang est un portrait du développement global de notre pays au cours des 5 dernières années. La ferme éolienne de Daishan a une capacité installée totale de 234 mégawatts. Comparée à une centrale électrique au charbon de la même taille, nous réduisons les émissions de carbone de 170 000 tonnes et celles de gaz dangereux et de poussières de 470 000 tonnes. Est-ce que d'autres pays dans le monde peuvent concurrencer la Chine ? Non. On a beaucoup de travailleurs talentueux et nos ressources en silicium sont abondantes. L'industrie photovoltaïque chinoise est la meilleure au monde.",
+                    "score": 8,
+                    "start": 74.555,
+                    "end": 118.389
+                },
+                {
+                    "titre": "La culture du charbon en Chine",
+                    "extrait": "Il y a une vraie culture du charbon. En fait, le charbon, dans des régions situées au nord-ouest de Pékin, dans ces régions qu'on appelle la Chine du charbon, ça a été, pour beaucoup de self-made men, un miracle dans les années 80, puis surtout 90 et 2000. Donc il y a eu des fortunes colossales qui se sont constituées très rapidement par des entrepreneurs qui rachetaient des mines de charbon à des... à des mines de Saint-Charbon qui appartenaient auparavant à des gouvernements locaux ou autres, avec souvent des transactions pas très transparentes. Ils se sont construits des fortunes absolument colossales. Ils ont participé, ils étaient particulièrement et sont encore particulièrement impopulaires, on les appelait les « mei laoban », les patrons du charbon, puisqu'ils donnaient des conditions de travail absolument abominables à leurs employés, dans les mines qui étaient des mouroirs absolus.",
+                    "score": 9,
+                    "start": 645.154,
+                    "end": 713.429
+                },
+                {
+                    "titre": "Les chiffres qui choquent : Énergies renouvelables en Chine",
+                    "extrait": "Un chiffre qui m'a particulièrement impressionné et que je voudrais partager avec vous, c'est que les investissements en énergie renouvelable en 2023... représentent l'économie de l'Arabie Saoudite, les investissements en Chine. Donc c'est absolument colossal. On a tout un écosystème qui s'est développé, toute une industrie. La Chine, sur certains segments de la production des trois nouvelles industries, donc les batteries, les panneaux solaires photovoltaïques et les véhicules électriques, sur certains segments de ces secteurs, ils sont responsables de plus de 90% de la production mondiale.",
+                    "score": 8,
+                    "start": 766.555,
+                    "end": 810.314
+                },
+                {
+                    "titre": "La transition énergétique : un défi colossal",
+                    "extrait": "Il faut absolument baisser l'intensité énergétique. Dans l'industrie, puisque les renouvelables ne fonctionnent pas pour les industries les plus lourdes, c'est absolument essentiel l'efficacité énergétique. Mais également dans le bâtiment, on se focalise très souvent quand on parle d'énergie propre, d'énergie décarbonée, sur tout ce qui est l'offre, les renouvelables, mais la demande a une part au moins aussi importante à jouer ? Et donc la Chine, elle va a priori parvenir à cet objectif, mais elle va y parvenir parce qu'elle a fait un twist il y a à peu près un an.",
+                    "score": 7,
+                    "start": 1941.431,
+                    "end": 1981.558
+                },
+                {
+                    "titre": "Mobilisation citoyenne en Chine : un nouveau visage",
+                    "extrait": "La société civile en Chine existe toujours, mais elle s'engage de nouvelles façons. Il y a de nouvelles formes d'engagement, par exemple en développant des formes de sciences citoyennes. Les ONG se sont beaucoup professionnalisées ces dernières années. Donc, les ONG qui, depuis 2016, sont plus contraintes par le gouvernement avec l'instauration de nouvelles lois, du coup, se professionnalisent dans des secteurs clés et vont plutôt... Enfin, elles adaptent leur campagne au discours officiel, donc elles continuent d'opérer... Mais dans des campagnes qui se lient aux priorités de l'État.",
+                    "score": 8,
+                    "start": 2624.354,
+                    "end": 2682.239
+                }
+            ]
+        },
+        {
+            "title": "Juger la loi : le Conseil constitutionnel",
+            "id": "8fcc923d-b5da-42a4-b6f1-4ced6e5f51ac",
+            "show": "LSD, la série documentaire",
+            "show_id": "fb8db8c6-20b0-4189-977e-07f112c3de79",
+            "chapo": "Imaginée par Charles de Gaulle pour encadrer le travail du Parlement, l’institution s’est muée en une véritable juridiction garante des droits et libertés inscrits dans la Constitution.",
+            "magnetotheque_id": "2025C26362E0071",
+            "seo_url": "https://www.radiofrance.fr/franceculture/podcasts/lsd-la-serie-documentaire/juger-la-loi-le-conseil-constitutionnel-2313630",
+            "mp3": "https://media.radiofrance-podcast.net/podcast09/10177-02.06.2025-ITEMA_24154834-2025C26362E0071-ITE_00150560_RSCE-21.mp3",
+            "duration": 3496,
+            "date": 1749049200,
+            "visual_episode": "https://www.radiofrance.fr/s3/cruiser-production-eu3/2025/05/5f635cd9-dc9d-4762-b0c7-bf7ce7f4d646/1400x1400_sc_sc_gettyimages-538202760.jpg",
+            "visual_show": "https://www.radiofrance.fr/s3/cruiser-production/2021/10/9f5786b0-763e-4381-8da0-cb0e7c559562/1400x1400_lsd-la-serie-documentaire.jpg",
+            "settings": [
+                "temoignage"
+            ],
+            "limit": 0,
+            "extraits": [
+                {
+                    "titre": "Pourquoi le Conseil constitutionnel est-il si unique ?",
+                    "extrait": "Le Conseil constitutionnel est aujourd'hui souvent saisi des grands textes législatifs et concentre de vives critiques sur la partialité de ses membres. Ça, ça s'appelle le collet de durée. Nous découvrons le Conseil en nous rendant dans la salle d'audience aménagée sous les arcades du Palais Royal, dans une ancienne boutique de chapeaux. En cette matinée ensoleillée, les enfants jouent à cache-cache au milieu des colonnes de Buren. Le droit est fait pour organiser les relations entre les hommes. Donc c'est une bonne chose qu'on soit entouré des bruits des enfants qui viennent s'amuser ici et que nous soyons au cœur de la cité.",
+                    "score": 8,
+                    "start": 97.72,
+                    "end": 138.05
+                },
+                {
+                    "titre": "Le tournant des droits fondamentaux en 1971",
+                    "extrait": "Il y a eu un véritable tournant en 1971 avec la décision dite... C'est l'irruption des droits fondamentaux qui a fait du Conseil constitutionnel un gardien des droits fondamentaux. Ça, c'est la décision Liberté d'association de 1971. À l'époque, c'était Gaston Palewski qui était le président du Conseil constitutionnel et qui a voulu, pour des raisons qui ne sont pas tout à fait claires, même si elles se clarifient progressivement, qui a voulu élever le Conseil constitutionnel au rang de gardien des droits fondamentaux.",
+                    "score": 9,
+                    "start": 317.361,
+                    "end": 354.764
+                },
+                {
+                    "titre": "Comment le Conseil protège-t-il nos libertés ?",
+                    "extrait": "Le Conseil constitutionnel a une place toute particulière dans la défense de l'état de droit et je voudrais essayer d'expliquer très simplement que l'état de droit n'est pas un concept théorique, ça n'est pas un débat de spécialistes ou de juristes, c'est vraiment un combat pour la démocratie. et pour un État démocratique fondé sur des institutions républicaines. Et puis à cette définition est venue s'ajouter ce dont nous débattions tout à l'heure après la Seconde Guerre mondiale. C'est une conception un tout petit peu plus large de l'État de droit qui intègre l'adhésion aux droits et aux libertés fondamentales.",
+                    "score": 10,
+                    "start": 2839.335,
+                    "end": 2878.919
+                },
+                {
+                    "titre": "Le Conseil constitutionnel : un gardien politique ?",
+                    "extrait": "Il n'y a aucun doute que les droits fondamentaux sont politiques et que le Conseil constitutionnel a un rôle politique aussi en les faisant appliquer. Nous allons vers la salle de délibéré. Jean-Louis Debray, d'ailleurs, a aussi raconté dans son livre « Ce que je ne pouvais pas dire », comment lors de ses rendez-vous avec le patron du MEDEF à l'époque, le patron du MEDEF lui a dit qu'ils étaient très contents de sa jurisprudence, notamment sur la censure de l'impôt confiscatoire.",
+                    "score": 8,
+                    "start": 2636.492,
+                    "end": 2670.676
+                },
+                {
+                    "titre": "La liberté d'expression face à la sécurité",
+                    "extrait": "Il y a plusieurs étapes à poursuivre. Et notamment, il y a des étapes qui visent à voir si le législateur peut prouver... Et ça, c'est clé que la mesure qui est adoptée et qui viole une liberté fondamentale, ici la liberté de communication, va au moins atteindre son but. En gros, on prend une mesure dans un but de politique publique. Si on le fait et qu'il y a une violation des droits fondamentaux, il faut au moins... que cette violation, elle porte dans la réalité. Elle ait un effet sur le réel. Ce serait lourde de danger.",
+                    "score": 9,
+                    "start": 1815.249,
+                    "end": 1848.834
+                }
+            ]
+        }
+    ]
 }
